@@ -1,6 +1,6 @@
 KEVIN'S GOLF BETTING FRAMEWORK
 The Complete Thinking Guide for Fairway Intel Analysis
-Version 2.0 | Last Updated: April 2026
+Version 3.0 | Last Updated: April 2026 — Post Golfer Assessment
 Maintained in GitHub — Read This File Completely Before Every Analysis
 
 CRITICAL READING INSTRUCTIONS
@@ -8,10 +8,12 @@ This document is the single source of truth for how Kevin thinks about golf bett
 Every analysis, every tier assignment, every briefing paragraph, every bet card must
 be filtered through this document completely before publication.
 Read it in full. Every time. No shortcuts.
-When in doubt ask: "What would Kevin think here?" and "Does this conclusion survive
-full framework scrutiny or am I cutting corners?"
-Kevin's edge: Independent thinking + consistent framework application + going deeper
-than consensus bettors. Articles and data are inputs. This framework makes decisions.
+Nothing is binary. Everything is on a spectrum. Always apply nuance.
+When in doubt ask: "What would Kevin think here?" and "Does this conclusion
+survive full framework scrutiny or am I cutting corners?"
+Kevin's edge: Independent thinking + consistent framework application + going
+deeper than consensus bettors. Articles and data are inputs. This framework
+makes decisions.
 
 SECTION 1: WHO KEVIN IS AS A BETTOR
 Markets Kevin plays:
@@ -19,7 +21,7 @@ Markets Kevin plays:
 Outright winner (primary focus)
 Top 5 / Top 10 / Top 20 position markets
 First Round Leader (FRL)
-Career earnings pool (weekly — pick most likely winner regardless of odds)
+Career earnings pool (weekly)
 
 Markets Kevin does NOT play:
 
@@ -28,649 +30,806 @@ DFS contests (for now)
 Prop bets
 
 Kevin's edge philosophy:
-Deep framework application + original analysis that goes beyond what consensus
-bettors are doing. Read all major writers but use them as inputs not answers.
-Never be a consensus follower. Arrive at conclusions independently then check
-against articles to see if they confirm or challenge.
+Deep framework application + original analysis beyond consensus bettors.
+Read all major writers but use them as inputs not answers.
+Never be a consensus follower. Arrive at conclusions independently.
 
 SECTION 2: THE CORE BETTING FRAMEWORK
-2.1 Ball-Striking Form Window — MOST IMPORTANT SIGNAL
-Measured event-by-event. NEVER use rolling averages — they mask the truth
-and blend hot and cold stretches into a meaningless middle number.
+2.1 Ball-Striking Form Window
+Measured event-by-event. NEVER use rolling averages.
 Events Gaining Above Career MeanConviction Level1-2 eventsIntriguing3-5 eventsComfortable6+ eventsSUPER CONFIDENT
 Threshold: Ideally ≥+0.2 SG/round on APP, at or above career mean.
-Spike threshold for outright consideration:
+Spike threshold for outright:
 
-2+ SG total per round in a tournament, driven by APP + OTT (NOT putting)
-Must happen multiple times recently — not just once
+2+ SG total per round in a tournament, driven by APP + OTT not putting
+Must happen multiple times recently
 8-12+ SG for the week ball-striking
-2.5+ SG/round ceiling demonstrated in actual results
-This is the difference between "trending" and "win-level form"
+2.5+ SG/round ceiling demonstrated in results
 
 2.2 The Winning Stats Hierarchy
-At approach-dominant courses: APP > OTT > ARG > PUTT
-At most courses: ball-striking (APP + OTT combined) is king
+Approach-dominant courses: APP > OTT > ARG > PUTT
+Most courses: ball-striking (APP + OTT combined) is king
 Putting is upside — never a requirement for winning
 2.3 Win Equity
 
-PGA Tour wins weighted most heavily
+PGA Tour wins weighted most
 2-3 KFT wins in a season counts
 Prolific college winning counts
-Within last 4-5 years preferred — recent wins count more
-No win equity = positions/pool plays only, NOT primary outrights
+Within last 4-5 years preferred
+No win equity = positions/pool only, not primary outrights
 
-2.4 Odds Value Framework
+2.4 Odds Value
 
 Compare to season-long typical price at similar field strengths
-A player at 30/1 MUST legitimately be a threat to win
-Improving or trending doesn't justify short prices if ceiling doesn't match
+30/1 requires legitimate threat to win
 Don't bet compressed odds after hot run without winning
-Example: was 75/1, now 33/1 after good run without winning = bad value, pass
-Improving ≠ win-level form at this price (Fowler archetype)
+Improving ≠ win-level form at this price
 
-2.5 Card Construction and Bankroll
+2.5 Card Construction
 
-Weekly stake is FIXED — never changes based on field strength,
-withdrawals, or external factors
-Only changes based on conviction in specific picks that week
-2-5 outrights per week depending on prices
-If taking 10/1 and 15/1, probably only 1 more longer bet
-Shorter-priced anchors get larger stakes; longer prices get smaller stakes
-Positions: First = aggressive (T5/T10 — meaningful return)
-Second = safety net (T10/T20 — cover losses)
+Fixed weekly stake
+2-5 outrights depending on prices
+Shorter anchors get larger stakes
+Positions: aggressive (T5/T10) then safety (T10/T20)
 Avoid stacking too many positions — juice erodes EV
-For big longshots: T20/T40 can cover outright stake if they contend
 
 
 SECTION 3: PUTTING PHILOSOPHY — COMPLETE
-The Core Principle
-Putting is the MOST VOLATILE stat in golf week to week. It spikes and
-collapses more dramatically and unpredictably than any other category.
-A player who putts -0.3 one week can putt +2.0 the next with no structural
-change in their game whatsoever.
-This means: you cannot reliably predict who will putt well in a given week.
-Building an outright case primarily around putting is building on sand.
-How Winners Actually Win
-Players who consistently win are the ones whose ball-striking (APP + OTT)
-creates so many birdie opportunities that even average putting produces
-winning scores. Elite putting is a bonus that can push a ball-striker from
-T5 to a win — it is NOT the engine. The engine is always ball-striking.
-The One Exception — Elite Career Putters
-Players like McCarthy and Burns who have demonstrated genuinely elite putting
-over hundreds of rounds across multiple years have established a reliable floor.
-Their putting doesn't spike randomly — it is structurally excellent.
-When their ball-striking rises to meet their putting, the combination is lethal
-because you're adding a real sustained edge on top of a real sustained edge.
-This is fundamentally different from a player who happened to putt well last week.
-The McCarthy/Burns Trigger:
-Elite career putter + ball-striking spiking above career mean = highest conviction
-tier. The reliable putting floor means even a modest approach gain creates a
-significant total SG jump. Back these players when the irons come alive.
+Core Principle
+Putting is the most volatile stat week to week. Cannot reliably predict
+who will putt well in a given week. Building outright case on putting
+is building on sand.
+Nothing is binary here — good putters are likely better than bad putters
+at most venues but the gradient matters enormously. Course-specific history
+overrides generic career putting metrics especially at unique venues.
+How Winners Win
+Ball-striking creates opportunities. Putting converts them.
+Elite putting is a bonus that pushes a ball-striker from T5 to a win.
+It is not the engine. Ball-striking is always the engine.
+The Elite Career Putter Trigger (McCarthy/Burns Tier)
+Demonstrated genuinely elite putting over hundreds of rounds.
+When their ball-striking spikes, the reliable putting floor creates
+massive total SG jump. Back these players when irons come alive.
+This is fundamentally different from a random one-week putting spike.
 The Market Trap
-The market often overweights recent putting because it shows up prominently in
-total SG and catches attention. A player who putted +3.0 last week looks great.
-But if his APP is 0.1 and he needed that putting spike just to make the cut,
-the next week he's likely reverting and you've backed the wrong component entirely.
-Always ask: what is driving the total SG number? If it's predominantly putting
-with weak ball-striking underneath, fade or positions only.
-Practical Application Matrix
-ProfileRecommendationElite APP + average puttingStrong outright candidateAverage APP + hot putter this weekFade or positions onlyElite APP + elite career putting now spiking ball-strikingHighest conviction tierPoor APP + hot putterNever outright — FRL lottery onlyElite APP + negative career putting (Si Woo type)Strong outright — putting is pure upside
-Si Woo Kim Specific Note
-Career putting -0.191 at approach-dominant courses is IRRELEVANT to the
-outright case. His putting is spike upside, not a liability concern. His
-rounds are won with ball-striking. If he puts, it's bonus. Don't penalize him.
-Equipment Changes
-One good week with a new putter = intriguing, NOT transformative.
-Need multi-event confirmation before shifting outright conviction.
-Don't overvalue articles mentioning equipment or technique changes.
+Market overweights recent putting because it inflates total SG visibly.
+Always identify what is DRIVING the total SG number.
+Putting spike with weak APP underneath = fade or positions only.
+Practical Matrix
+ProfileRecommendationElite APP + average puttingStrong outrightAverage APP + hot putter this weekFade or positions onlyElite APP + elite career putter now spiking ironsHighest convictionPoor APP + hot putterNever outright — FRL lottery onlyElite APP + negative career putting (Si Woo type)Strong outright — putting is pure upside
+The Recency Window Principle (Universal — Every Week Every Course)
+Career averages can actively mislead. Always ask:
+
+What do last 12-24 months show vs full career?
+Is there a clear inflection point where player became different version?
+Does career average reflect who they are NOW or an outdated version?
+
+Scottie Scheffler example: was a poor putter for years, has been genuinely
+good for 18+ months. Career average is now noise. Last 18 months is the
+relevant window. Apply this thinking to every skill category every week.
+For putting specifically at Augusta: career SG:PUTT less predictive than
+course-specific putting history. Some elite Tour putters struggle at Augusta.
+Some average Tour putters figure out Augusta over time. Course history is
+the most predictive input for Augusta putting assessment.
 
 SECTION 4: DISTANCE AND ACCURACY FRAMEWORK
-The Core Principle
-Distance is a BASELINE MULTIPLIER, not a binary on/off switch.
-Never fully discount distance even at courses where it matters less.
-Even at long courses with unreachable par-5s, a bomber still hits 7-iron
-where a shorter hitter hits 5-iron into the same green. That edge never
-fully disappears — it only gets compressed.
-The Full Conversion Chain
+Core Principle
+Distance is a baseline multiplier, never a binary on/off.
+Never fully discount distance even where it matters less.
+Everything is on a spectrum.
+The Conversion Chain
 Distance → Shorter approach yardage → Better approach outcome
-This chain only holds if each link is strong. If a player is long but
-inaccurate, they may be in rough or trees and the shorter yardage is
-irrelevant. If they're long and accurate but poor iron players, the
-shorter iron doesn't produce better outcomes.
-Why Some Bombers Don't Benefit
-Even with a 8-iron in hand, a poor iron player may be worse than a normal
-player with a 6-iron. Raw distance in isolation is almost useless as a stat.
-The actual edge is distance that CONVERTS into shorter, higher-quality
-approach shots — which only materializes if the player can execute.
+Only holds if each link is strong. Bad or mid players who hit it far
+are still off the table — the distance edge only applies on top of
+an already strong overall profile.
+Even with an 8-iron in hand a poor iron player may be worse than a
+normal player with a 6-iron. Raw distance in isolation is almost useless.
 Distance Tiers
-TierDriving Distance vs Tour AverageElite Bomber+15 yards or moreAbove Average+5 to +15 yardsAverage-5 to +5 yardsShortBelow -5 yards
+Tiervs Tour AverageElite Bomber+15 yards or moreAbove Average+5 to +15 yardsAverage-5 to +5 yardsShortBelow -5 yards
 Course Distance Multiplier — Assign Weekly
-Course TypeDistance AdvantageOpen, reachable par-5s, wide fairwaysFULLLong but accurate (TPC SA type)PARTIAL — par-5s unreachable but shorter irons on par-4s still matterHarbour Town/Pebble/Colonial typeCOMPRESSED — accuracy premium, distance can be liability
-The Accuracy-Dependent Bomber
-Formerly called "false bomber" — retired that label as too permanent.
-A player like Penge (elite distance, poor APP, poor accuracy) CAN be a
-live play if:
-
-Course has no real penalty for missing fairways
-He's spiking irons lately
-Odds are long enough to compensate
-
-Never permanently write off a bomber. Evaluate weekly by course fit.
+Course TypeAdvantageOpen, reachable par-5s, wide fairwaysFULLLong but accurate (TPC SA type)PARTIALHarbour Town/Pebble/Colonial typeCOMPRESSED
+Accuracy-Dependent Bomber
+Formerly false bomber — retired that label as too permanent.
+Can be live at forgiving courses with spiking irons.
+Reassess every week based on course fit. Never permanent.
 The Bryson at Winged Foot Principle
-When a course is so hard that even accurate players miss fairways at a
-high rate, the accuracy premium collapses. If everyone is in the rough,
-you'd rather be in the rough 40 yards closer to the green. The bomber's
-rough penalty gets shared across the field while their distance advantage
-remains unique.
-Apply at: US Open setups, extremely thick rough venues, courses where
-even elite ball-strikers post high miss rates.
-Rough Penalty — Two Separate Components
-Always assess both independently:
-1. How punishing is the rough itself:
+When everyone misses fairways, being further in the rough is better.
+Bomber's rough penalty gets shared. Distance advantage remains unique.
+Rough Penalty — Two Components Always Assess Independently
 
-Thick kikuyu (Riviera) / US Open rough = high penalty even with short iron
-Soft Bermuda rough (Florida events) = low penalty, can still attack
-
-2. Does angle into green matter:
-
-Angle-neutral greens = missing fairway barely affects shot quality
-Augusta/Colonial/Harbour Town = missing wrong side changes entire hole,
-blocks pins, removes usable green
+How punishing is the rough itself
+Does the angle into green matter significantly
 
 Kevin's Accuracy Tolerance
-
-Some inaccuracy is fine, especially with good irons
-Balance: how far above average vs. how much more inaccurate
-Good irons EXTEND tolerance for inaccuracy significantly
-Course-specific: open/forgiving = more tolerance, penal/narrow = less
+Some inaccuracy is fine especially with good irons.
+Balance: how far above average vs how much more inaccurate.
 Modern PGA Tour default: distance advantages outweigh rough penalties
-MORE OFTEN THAN NOT — lean this way unless course is specifically penal
-
+more often than not. Lead with this unless course is specifically penal.
 
 SECTION 5: COURSE HISTORY WEIGHTING
-The Core Rule
-One tournament at a non-uniquely-complex course does NOT constitute
-meaningful course history. TPC San Antonio is NOT Harbour Town level.
-Two+ strong results at same venue = meaningful, especially if:
+Core Rule
+One tournament at a non-complex course ≠ meaningful course history.
+Two+ strong results at same venue = meaningful especially when:
 
-Results came when player was playing at similar level to current self
+Player was similar version of themselves at the time
 Course is positionally unique or technically demanding
-Results are consistent across multiple visits not just one outlier
+Results are consistent across multiple visits
 
-The Critical Question for Every Course History Result
+The Critical Question
 "Was he a similar version of himself when he played well here?"
-A 2019 elite performance at a course for a player who has since declined
-matters less because he was a different better player then.
-A player who has been consistently strong here across 4+ visits at similar
-skill levels — that is genuine course affinity worth weighting.
-Course Specialist Designation — Rare, Apply Carefully
-True specialists can pop WITHOUT current form at specific venues:
+Always weight course history by how comparable that version was to current self.
+Course Specialist Designation — Rare
 
-Nick Taylor: WM Phoenix Open + Canadian Open ONLY
+Nick Taylor: WM Phoenix Open + Canadian Open (potentially others — monitor)
 Patrick Cantlay: Nicklaus-design courses
-Webb Simpson: Harbour Town Golf Links / RBC Heritage
+Webb Simpson: Harbour Town / RBC Heritage — positional golf course type
 Jordan Spieth: Colonial / Texas venues
 
-These designations mean: give extra consideration even when form isn't there.
-Still need some baseline competence — not a blank check.
-TPC San Antonio is NOT a course specialist venue.
 
 SECTION 6: PLAYER DESIGNATION SYSTEM
 How Designations Work
-Designations are ATTENTION FLAGS, not decision overrides.
-The framework ALWAYS makes the final call.
-Personal takes calibrate analytical scrutiny level, not conclusions.
-If framework fully supports a play at the right price, TAKE IT even with
-EXTRA CONFIRM -. If framework says no, the designation doesn't change that.
-The Designation Scale
+ATTENTION FLAGS only — not decision overrides.
+Framework always makes the final call.
+Designations adjust scrutiny level and analytical effort, not conclusions.
+If framework fully supports a play at right price, take it even with
+EXTRA CONFIRM -. If framework says no, designation doesn't change that.
+The lean means bending thresholds slightly — needing slightly fewer
+consecutive gaining weeks for EXTRA CONFIRM + players, or needing
+slightly more confirmation for EXTRA CONFIRM - players. Never binary.
+Designation Definitions
 EXTRA CONFIRM +
-Kevin generally believes in this player or sees upside beyond what data
-currently shows. If framework assessment is borderline positive, spend
-extra time confirming before backing. If framework fully supports, take them.
-If framework says no, still no. Example: Zalatoris — believe in the talent,
-but don't take him when value isn't there or form is clearly bad.
-The lean means: need slightly fewer consecutive gaining weeks to pull trigger,
-or bend the threshold slightly in their favor when close.
+Kevin generally believes in this player's upside beyond current data.
+Borderline positive = spend extra time confirming before backing.
+Threshold slightly lower to pull trigger. Framework still decides.
 FRAMEWORK
-No personal lean. Pure data assessment. Follow framework exactly.
+Pure data assessment. No personal lean. Follow framework exactly.
 EXTRA CONFIRM -
-Kevin generally skeptical of this player. If framework is borderline positive,
-stress-test harder before backing. Need stronger than usual confirmation.
-If framework fully supports at right price, still take them — the flag doesn't
-mean automatic fade, it means be more rigorous before getting there.
+Kevin generally skeptical. Borderline positive = stress test harder.
+Need stronger than usual confirmation. Framework still decides at right price.
 FALLEN STAR
-Was genuinely elite or near-elite at peak. Clear identifiable reason for
-decline that is potentially reversible (injury, swing change, personal issues).
-Odds have reached 100/1+ reflecting current form not ceiling.
-Any sign of returning form = IMMEDIATELY INTRIGUING, not just monitoring.
-At 100/1+ the player doesn't need to be their 2022 self — just needs to
-show any signs of returning to competence.
-Counter-example: Max Homa — form deteriorated without clear recoverable
-cause, no recent flashes of old level, decline looks structural not situational.
-At 100/1 Homa is still a pass. At 100/1 Zalatoris is immediately intriguing.
-The test: is the decline explained by something recoverable, and are there
-any flashes suggesting the underlying skill is still there?
+Was genuinely elite. Clear identifiable recoverable reason for decline.
+Odds at 100/1+ reflecting current form not ceiling.
+Any sign of returning form = immediately intriguing.
+Zalatoris = fallen star. Max Homa = structural decline, not fallen star.
+Test: is decline recoverable AND are there flashes of underlying skill?
+At 100/1+ player doesn't need to be their peak self — just needs any
+signs of returning to competence. Star upside and win equity justify
+interest at the right price even without current form.
 
-SECTION 7: SPECIAL PLAYER DESIGNATIONS
-★★ Primary Course-Type Auto-Triggers
-Collin Morikawa — EXTRA CONFIRM +
-First name on card at approach-dominant, accuracy-premium courses when healthy.
-Career APP 0.954 (highest on Tour), elite accuracy (+0.094), multiple majors.
-The textbook efficient shorter hitter — distance irrelevant because irons so elite.
-WD Valero 2026 (back injury). When healthy at right course: automatic primary
-outright consideration before doing anything else.
-★ My Guy Designations
-Will Zalatoris — EXTRA CONFIRM + / FALLEN STAR
-Strong career APP 0.504. Right course type: modest winning score + irons dominant
+SECTION 7: COMPLETE PLAYER DATABASE
+As of April 2026 — Update Continuously
+FORMAT:
+Player | Designation | Distance | Kevin's Notes | Price Flags | Course Triggers
 
-putting not required = ideal fit when healthy.
-Not ready Valero 2026 (injury return, MC Houston).
+Scottie Scheffler | FRAMEWORK | Elite
+Will return to elite form. Best player in world when on.
+No price flags — always short enough to require framework support.
+Rory McIlroy | FRAMEWORK | Elite
+Elite OTT, strong APP. Framework assessment fully.
+Xander Schauffele | FRAMEWORK | Above Avg
+Will return to elite form. Eye him at valuable odds when available.
+Jon Rahm | FRAMEWORK | Elite
+Still elite in tournaments he plays. LIV — limited PGA starts.
+Monitor if he gets beneficial odds at events he enters.
+Collin Morikawa | EXTRA CONFIRM + | Average
+First name on card at approach-dominant accuracy courses when healthy.
+Has random bad stretches — acknowledge this risk.
+Lower value at courses with high ARG emphasis.
+APP 0.954, elite accuracy. Efficient shorter hitter archetype.
+Auto-trigger at approach-dominant accuracy courses.
+Tommy Fleetwood | FRAMEWORK | Average
+Concerns about ability to win. No PGA full-field win.
+One-bad-round syndrome per Pat Mayo.
+Positions only unless framework strongly supports outright.
+Ludvig Aberg | FRAMEWORK | Elite
+Framework assessment. Blew 3-shot Players lead 2026.
+Elite overall profile — watch closing ability development.
+Russell Henley | EXTRA CONFIRM + | Short
+Good player — market consistently overvalues him at short prices.
+At the RIGHT longer price he becomes genuinely interesting.
+The concern is purely valuation not ability.
+Fade sub-20/1. Intriguing at 30/1+ when course fits.
+Hideki Matsuyama | FRAMEWORK | Average
+Doesn't need form going into tournaments to turn it around.
+Can win with irons and around-green play specifically.
+Best ARG on Tour. Masters winner. Don't require sustained form window.
+Apply slightly different form threshold — his game travels differently.
+Robert MacIntyre | FRAMEWORK | Above Avg
+Plays well in tough conditions and hard courses.
+Not afraid of big events — performs under pressure.
+Elite putter. APP structural concern at approach-dominant courses.
+Upgrade consideration at tough demanding setups.
+Min Woo Lee | FRAMEWORK | Elite
+Framework assessment. Elite overall profile.
+Sepp Straka | EXTRA CONFIRM + | Average
+High win equity in any field where irons are emphasized.
+Oddsmakers now treating him more as contender — value compressed.
+PRICE TRIGGERS: Must consider at 45/1. Must consider at 30/1 in weak fields.
+When odds are longer than those thresholds, actively back him.
+Wind player. Honda 2022 winner. T2 Pebble, T8 Players.
+Matt McCarty | FRAMEWORK | Average
+Won Cognizant 2026. Framework assessment.
+Maverick McNealy | FRAMEWORK | Above Avg
+T3 Valero 2025. Balanced all-around profile. No PGA win equity.
+Si Woo Kim | FRAMEWORK | Above Avg
+Currently playing above normal level but been very consistent.
+Needs spike putting from earlier in career to win.
+Kevin hasn't loved recent odds — they have adjusted to his form.
+Flag when value returns (odds drift back out vs current form).
+Career spike putter. Technical swing fix confirmed 2026.
+Jordan Spieth | EXTRA CONFIRM + | Above Avg
+Like his form at Texas venues. Pool value at right events.
+Never bet sub-20/1 given OTT weakness and volatility.
+Pool trigger: Texas/Colonial venues when trending.
+Volatile driver but veteran closer.
+Patrick Cantlay | FRAMEWORK | Average
+Seems to have lost top level game — monitor for return.
+Peak is high when on. Nicklaus design specialist.
+Need current form evidence before backing at any price.
+Rickie Fowler | EXTRA CONFIRM - | Above Avg
+Very much overrated. Do not trust at recent odds.
+Career APP 0.242 ceiling concern.
+Only at 40/1+ when APP genuinely spiking above 0.300.
+Even then needs extra confirmation given general skepticism.
+Tony Finau | FALLEN STAR | Elite
+Waiting to see if he finds his old form.
+OTT negative at long accurate courses.
+At 100/1+ with any form return: immediately intriguing.
+Was genuinely elite — decline has identifiable causes.
+Brian Harman | EXTRA CONFIRM - | Short
+Don't love his lack of distance.
+Defending Valero via extreme wind spike anomaly — APP 0.138 career.
+Needs specific wind/conditions setup to be relevant.
+Extra skepticism required before backing.
+Cameron Young | EXTRA CONFIRM + | Elite
+Really love his game. Trending towards elite player. KEY UPDATE: Has greatly improved his putting in last year with his caddy — factor this into his overall profile assessment.
+Elite OTT, strong APP. Back him when framework supports.
+Lower threshold to pull trigger — believe in upside trajectory.
+Will Zalatoris | FALLEN STAR / EXTRA CONFIRM + | Above Avg
+My guy — independent belief in talent.
+Putting remains a concern but upside ceiling is real.
+Right course type: modest winning score + irons dominant.
 At 100/1+ with any signs of life: immediately intriguing.
-At 70/1 in bad form: not tasty — price doesn't compensate for current state.
-Flag every week: is he healthy? Is he showing form? Is price 100/1+?
-
-★ Course Specialists
-Nick Taylor: WM Phoenix Open + Canadian Open ONLY
-Patrick Cantlay: Nicklaus-design courses
-Webb Simpson: RBC Heritage / Harbour Town ONLY
-Jordan Spieth: Colonial / Texas venues — pool value when trending,
-never bet sub-20/1 given OTT weakness and volatility
-⚠ Notable Player Notes
-Denny McCarthy — EXTRA CONFIRM +
-Framework trigger player: elite career putter (0.414) + APP spiking above
-career mean = back him. Runner-up Valero 2024. 3rd most SG at this course
-since 2016. When irons are alive, combination with putting floor is lethal.
-Sam Burns
-Same McCarthy tier for putting. When ball-striking spikes, the combination
-with elite putting floor creates massive total SG jump. Apply same trigger logic.
-J.J. Spaun — EXTRA CONFIRM -
-Elite career APP (0.645). Won Valero 2022 + US Open 2025. Real win equity.
-BUT: form failure weeks completely disqualify career profile.
-When multiple MCs in last 5 starts: hard pass regardless of history.
-When form is genuinely good: absolutely back at right course.
-Rickie Fowler — EXTRA CONFIRM -
-Career APP 0.242 is the ceiling concern. Periodic 7-week form windows happen.
-Improving ≠ win-level form at short prices.
-Only consider at 40/1+ when APP genuinely spiking above 0.300.
-Bryson DeChambeau — EXTRA CONFIRM +
-Elite distance. LIV — limited PGA starts but when eligible, trigger at:
-courses that reward pure distance, OR courses so universally penal that
-everyone misses fairways (Winged Foot principle). Ignore at tight accurate courses.
-Rico Hoey — STRONG FRL DESIGNATION
-Recurring FRL target EVERY WEEK at approach-heavy venues.
-Elite OTT (0.643) + APP (0.438) + birdie-maker + strong R1 scoring avg.
-Career history = weak-field birdie fests and early rounds, not 72-hole grinders.
-NEVER an outright play at this level. FRL only.
-Keith Mitchell — EXTRA CONFIRM -
-Past his window at compressed odds. OTT is genuinely good.
-Only at 50/1+ when showing real form.
-Marco Penge — EXTRA CONFIRM -
-Accuracy-dependent bomber. Can be live at forgiving courses with spiking irons.
-Reassess every single week based on course fit. Never a permanent fade.
-Corey Conners
-2x Valero winner. Template for the ball-striker archetype this course rewards.
-When form is there at ball-striker venues: always worth considering.
+At 70/1 in bad form: not tasty — price doesn't compensate.
+Not ready Valero 2026 (injury return, MC Houston).
+Ryo Hisatsune | FRAMEWORK | Average
+Negative 200+ bucket — weakness at longest approach distance.
+8 straight cuts. T5 Valero 2025.
+Denny McCarthy | EXTRA CONFIRM + | Short
+Framework trigger: elite career putter (0.414) + APP spiking = back him.
+Runner-up Valero 2024. 3rd most SG at this course since 2016.
+Trigger when APP spiking above career mean.
+Kristoffer Reitan | FRAMEWORK | Elite
+APP negative — distance doesn't convert. Not a fit at approach courses.
+Nick Taylor | FRAMEWORK | Average
+Course specialist at Scottsdale and Canada — potentially others.
+Monitor for emerging specialist patterns at other venues.
+2026 form poor. OTT negative. Specialist trigger only.
+Alex Noren | FRAMEWORK | Short
+Just can't win stateside — question his upside in PGA Tour events.
+Elite putter. OTT liability at long courses.
+European Tour success doesn't translate consistently.
+Thorbjorn Olesen | FRAMEWORK | Average
+DP World Tour win equity. Framework assessment.
+Austin Smotherman | FRAMEWORK | Average
+Conners/Spaun archetype. KFT 2x winner 2025.
+Houston WD = baby birth not form. Valspar MC same reason.
+Rico Hoey | EXTRA CONFIRM + | Elite
+Recurring FRL target weekly at approach-heavy venues.
+Spike putter with great ball striking in 2025.
+Hoping to see return in 2026 but struggling early.
+Odds haven't gotten better which is a concern for value.
+EXTRA CONFIRM + because believe in the upside returning.
+FRL only — never outright at this level.
+Jordan Smith | FRAMEWORK | Above Avg
+Debut concern at new venues. Framework assessment.
+Keith Mitchell | FRAMEWORK | Elite
+Past his window at compressed odds.
+OTT genuinely good. Only at 50/1+.
+Removed EXTRA CONFIRM - — framework handles this with price trigger.
+Sudarshan Yellamaraju | FRAMEWORK | Average
+Insufficient Tour rounds for full DG rating. Hot 2026 form.
+Marco Penge | FRAMEWORK | Elite
+Accuracy-dependent bomber — reassess weekly by course fit.
+Up and coming — monitor development trajectory.
+Live at forgiving courses with spiking irons.
+Webb Simpson | FRAMEWORK | Short
+Harbour Town positional golf course type specialist.
+Specialist trigger RBC Heritage only.
+Past window everywhere else.
+Max McGreevy | FRAMEWORK | Above Avg
+Framework assessment.
+Bronson Burgoon | FRAMEWORK | Elite
+Elite OTT. FRL consideration only at huge prices.
+Johnny Keefer | FRAMEWORK | Elite
+Framework assessment. Home course TPC SA advantage noted.
+William Mouw | FRAMEWORK | Above Avg
+Total driving elite. Lottery only at right price.
+Austin Eckroat | FRAMEWORK | Average
+Framework assessment.
+Davis Thompson | FRAMEWORK | Above Avg
+Framework assessment.
+Tom Kim | FRAMEWORK | Average
+Needs to find accuracy off tee again before considering.
+Multiple PGA wins — win equity exists when accurate.
+Billy Horschel | FRAMEWORK | Average
+3 historic Valero top-5s. Post-surgery concern 2026.
+Bud Cauley | FRAMEWORK | Average
+Framework assessment.
+Joel Dahmen | FRAMEWORK | Average
+Accurate driver. Framework assessment.
+Andrew Novak | FRAMEWORK | Average
+Extreme putter volatility. Negative 200+ bucket.
+FRL consideration at long prices only.
+JT Poston | FRAMEWORK | Short
+Short courses favor him specifically. Can really putt.
+Accurate driver. APP modest.
+Flag at short accurate courses with putting premium.
+Alex Smalley | FRAMEWORK | Above Avg
+Framework assessment.
+Christiaan Bezuidenhout | FRAMEWORK | Short
+OTT liability at long courses. Framework assessment.
+Beau Hossler | FRAMEWORK | Average
+Elite putter — poor ball-striking. Profile mismatch at approach courses.
+Eric Cole | FRAMEWORK | Average
+OTT negative. Framework assessment.
+Chad Ramey | FRAMEWORK | Average
+Losing approach at approach-dominant courses.
+Matt Wallace | FRAMEWORK | Average
+Framework assessment. Elite T2G week Valero 2021 noted.
+Mackenzie Hughes | FRAMEWORK | Average
+Great putter. Gaining distance off tee — positive trajectory.
+Knows how to scramble and game a course — course management strength.
+Monitor as distance improvement continues.
+Mac Meissner | FRAMEWORK | Above Avg
+Very solid ball striker to watch. Flag when framework supports.
+Lee Hodges | FRAMEWORK | Average
+T6 Valero 2023 elite ball-striking. Rib injury 2026.
+Haotong Li | FRAMEWORK | Above Avg
+Framework assessment.
+Sami Valimaki | FRAMEWORK | Average
+Wind experience. OTT liability. Framework assessment.
+Andrew Putnam | FRAMEWORK | Short
+ARG elite. OTT terrible. Framework assessment.
+Seamus Power | FRAMEWORK | Short
+Tour average across all categories.
+Doug Ghim | FRAMEWORK | Average
+Framework assessment.
+Jhonattan Vegas | FRAMEWORK | Above Avg
+FRL consideration — hits far and putts well sometimes.
+Flag for FRL at right venues and conditions.
+Chris Kirk | FRAMEWORK | Average
+Strong historic Valero record. Form declining.
+Bryson DeChambeau | EXTRA CONFIRM + | Elite
+Elite distance — back at bombers courses and universally penal setups.
+KEY NOTE: Underrated elite putter — factor this in always.
+Has to consider if he can overpower every course he plays.
+LIV — limited PGA starts. Winged Foot principle applies.
+Trigger: course rewards distance OR is universally penal.
+Augusta specifically: elite putter + distance on par-5s = genuine threat.
+Sam Burns | FRAMEWORK | Above Avg
+Want to believe he gets back to better self.
+Elite putter — McCarthy tier trigger when ball-striking spikes.
+Monitor for form return.
+Wyndham Clark | FRAMEWORK | Elite
+Believe he will turn it around soon.
+KEY NOTE: Likes to play high cuts — track shot shape requirements weekly.
+US Open winner 2023. Framework assessment with shot shape consideration.
+Viktor Hovland | FALLEN STAR | Above Avg
+Believe he will turn it around but volatile and unpredictable.
+AUTO CONSIDER AT 40/1 OR LONGER — price trigger built in.
+Was genuinely elite. Decline has identifiable causes.
+APP strong, OTT modest.
+Justin Thomas | FALLEN STAR | Above Avg
+Believe he will turn it around but volatile and unpredictable.
+AUTO CONSIDER AT 40/1 OR LONGER — same trigger as Hovland.
+2x major winner. Win equity remains high if healthy.
+OTT modest but short game elite.
+Shane Lowry | FRAMEWORK | Average
+Value in approach-heavy courses, wind, and weaker fields specifically.
+Open champion — wind player. Flag at windy approach courses.
+Keegan Bradley | FRAMEWORK | Above Avg
+Framework assessment.
+Corey Conners | FRAMEWORK | Average
+Struggles with putting but great consistent ball striker.
+2x Valero winner — template for ball-striker archetype.
+Course fit trigger at ball-striker venues.
+Patrick Reed | FRAMEWORK | Average
+Gamer who knows how to compete especially at Augusta.
+Likely underrated with move to LIV — not sure on current win equity.
+Augusta-specific: gamer mentality and course knowledge matter here.
+Monitor LIV performance for current form assessment.
+Lucas Glover | FRAMEWORK | Short
+Framework assessment.
+Adam Scott | FRAMEWORK | Above Avg
+Veteran — still relevant at right courses.
+Sungjae Im | FRAMEWORK | Average
+Framework assessment.
+Harris English | FRAMEWORK | Above Avg
+Elite putter. Framework assessment.
+Taylor Moore | FRAMEWORK | Above Avg
+Framework assessment.
+Adrien Dumont De Chassart | FRAMEWORK | Elite
+Young bomber — watch development trajectory.
+Taylor Pendrith | FRAMEWORK | Elite
+Elite OTT. APP modest. Distance converts when accurate.
+Nick Dunlap | FRAMEWORK | Average
+Young talent. OTT negative concern. Developing.
+Michael Thorbjornsen | EXTRA CONFIRM + | Elite
+Up and comer — Kevin is keeping eye on development.
+Only at bombers courses 50/1+.
+Changed from EXTRA CONFIRM - to EXTRA CONFIRM + based on trajectory.
+Distance useless at penal accurate courses.
+Worst Sunday scoring average on Tour — flag this always.
+Gordon Sargent | FRAMEWORK | Elite
+APP negative — distance doesn't convert yet. Developing.
+Luke Clanton | FRAMEWORK | Above Avg
+Developing Tour player. Framework assessment.
+Davis Riley | FRAMEWORK | Average
+Framework assessment.
+Tom Hoge | FRAMEWORK | Average
+OTT terrible. Short hitter. Framework assessment.
+Neal Shipley | FRAMEWORK | Average
+Framework assessment.
+Kevin Roy | FRAMEWORK | Average
+Framework assessment.
+Akshay Bhatia | FRAMEWORK | Above Avg
+Elite accuracy and good approach play. Up and coming.
+Monitor for value — lacks distance which limits ceiling at some venues.
+Won Valero 2024. Young talent with real win equity developing.
+Jake Knapp | FRAMEWORK | Elite
+Elite putter. OTT strong. Framework assessment.
+Stephan Jaeger | FRAMEWORK | Above Avg
+APP weak at approach-dominant courses.
+Max Greyserman | FRAMEWORK | Elite
+Big hitter. ACC negative. Framework assessment.
+Ben Griffin | FRAMEWORK | Average
+Solid all-around profile. Framework assessment.
+Taylor Montgomery | FRAMEWORK | Average
+OTT negative. Below average driver.
+Nicolai Hojgaard | FRAMEWORK | Elite
+Great ball striker who has improved on PGA Tour after DP World Tour success.
+European Tour wins. Development trajectory positive.
+Rasmus Hojgaard | FRAMEWORK | Average
+Great ball striker who has improved on PGA Tour after DP World Tour success.
+DP World Tour wins. Monitor continued development.
+Santiago De La Torre | FRAMEWORK | Average
+Framework assessment.
+Austin Cook | FRAMEWORK | Average
+Framework assessment.
+Patrick Fishburn | FRAMEWORK | Average
+Framework assessment.
+Chris Gotterup | FRAMEWORK | Elite
+Monitor for value. Has won twice this year — real win equity now established.
+Big hitter developing Tour player. Win equity changes the calculus.
+Jason Day | FRAMEWORK | Above Avg
+ARG elite. Veteran. Framework assessment.
+Sahith Theegala | FRAMEWORK | Above Avg
+Crafty creative player — monitor for return to form.
+Multiple runner-up finishes — close but no win yet.
+When form returns, creative course management is a genuine edge.
+Kurt Kitayama | FRAMEWORK | Elite
+APP strong. OTT elite. Putting negative.
+Harris Nesmith | FRAMEWORK | Elite
+Young bomber on KFT/PGA bubble. Watch development.
+Garrick Higgo | FRAMEWORK | Above Avg
+DP World Tour win. Inconsistent. Framework assessment.
+Andrew Landry | FRAMEWORK | Average
+Won Valero 2018 — form long gone.
+Brice Garnett | FRAMEWORK | Average
+Framework assessment.
+David Skinns | FRAMEWORK | Average
+Framework assessment.
+Hayden Buckley | FRAMEWORK | Above Avg
+Framework assessment.
+Martin Trainer | FRAMEWORK | Average
+Framework assessment.
+Harry Hall | FRAMEWORK | Average
+Elite putter. APP weak. Framework assessment.
+Carl Yuan | FRAMEWORK | Average
+Framework assessment.
+Ryan Gerard | FRAMEWORK | Above Avg
+APP strong. Watch development trajectory.
+Sam Stevens | FRAMEWORK | Elite
+Young bomber developing. Framework assessment.
+Patrick Flavin | FRAMEWORK | Average
+Framework assessment.
 
 SECTION 8: ARTICLE AND EXPERT READING
 Source Hierarchy
 
-Haslbauer (lineups.com) — HIGHEST WEIGHT. Smartest analyst.
-Posts up to 3 articles/week: preview, longshots, final card.
-Up to more for majors. Read ALL of them every single week.
-Steve Bamford (golfbettingsystem.co.uk) — 8-event SG field rankings
-by category. Essential for identifying form windows.
-Ben Coley (sportinglife.com) — Strong instincts, good longshots
-Steve Rawlings (Betfair) — Course read, wind analysis, architecture
-Dave Tindall (Betfair) — Solid weekly preview
-Tom Jacobs (Today's Golfer/Oddschecker) — Good supplementary takes
-Sharpside/Matt Gannon — Expected approach yardages, key stat buckets
-Jason Sobel, Golf Digest panel, Pat Mayo — Supplementary
+Haslbauer (lineups.com) — HIGHEST WEIGHT. Up to 3+ articles/week,
+more for majors. Preview, longshots, final card. Read ALL every week.
+Steve Bamford (golfbettingsystem.co.uk) — 8-event SG rankings by category
+PLUS weather forecast, wind by round, course conditions, other context.
+Extract ALL of this not just the SG rankings.
+Ben Coley (sportinglife.com) — strong instincts, good longshots
+Steve Rawlings (Betfair) — course read, wind analysis, architecture
+Dave Tindall (Betfair) — solid weekly preview
+Tom Jacobs (Today's Golfer/Oddschecker) — good supplementary
+Sharpside/Matt Gannon — expected approach yardages, key stat buckets
+Jason Sobel, Golf Digest panel, Pat Mayo — supplementary
 
 How to Use Articles
-Articles are INPUTS. Framework makes decisions.
-Haslbauer picks CONFIRM players already liked — they don't create conviction.
-Prior year picks carry forward IF course unchanged AND player playing similarly.
-Stat templates from articles: use as confirmation if causally logical, not gospel.
-If specific yardage bucket flagged by multiple sources: cross-reference DataGolf.
-Flag blocked articles clearly — never silently skip them.
+Articles are inputs. Framework makes decisions.
+Haslbauer picks confirm players already liked — don't create conviction.
+Prior year picks carry forward if course unchanged and player playing similarly.
+Flag blocked articles clearly — never silently skip.
 
 SECTION 9: WAVE AND TEE TIME ANALYSIS
 FRL
-Wave splits matter MEANINGFULLY for FRL specifically.
-Know exactly which targeted players are in which wave.
-Wind and weather differences between waves can create significant FRL edge.
-R1 scoring average by player is a key FRL metric — pull from historical data.
-Key FRL factors beyond being a good player:
+Wave matters meaningfully for FRL. Know each targeted player's wave.
+Wind and weather differences between waves = significant FRL edge.
+R1 scoring average historically is a key FRL input.
+FRL key factors:
 
 Strong R1 scoring average historically
-Birdie-making ability (need to post low numbers not just avoid bogeys)
-Elite OTT + APP combination setting up birdie chances
-Course suits game specifically in R1 conditions
+Birdie-making ability
+Elite OTT + APP combination
+Course suits game in R1 conditions
 Wave assignment for weather/wind context
 
+Recurring FRL Targets
+Rico Hoey: weekly FRL consideration at approach-heavy venues when odds work.
+Jhonattan Vegas: FRL consideration when hitting well and putting is on.
 72-Hole Outright
-Wave only matters if conditions are DRAMATICALLY split — 1-3x per year.
-This is a rare exception. Default: wave doesn't affect outright assessment.
+Wave only matters if conditions dramatically split — 1-3x per year.
 
 SECTION 10: POOL STRATEGY — COMPLETE
-Career Earnings Pool — Core Rules
-Odds are COMPLETELY IRRELEVANT for pool picks.
-Pick the player most likely to win that specific event. Full stop.
-This logic track is COMPLETELY SEPARATE from the betting card.
-Non-Signature Events (Regular $8-10M PGA Tour events)
-Pool value comes from the middle tier:
+Career Earnings Pool Core Rules
+Odds completely irrelevant. Pick most likely winner.
+COMPLETELY SEPARATE logic track from betting card.
+Non-Signature Events (Regular $8-10M events)
+Pool value from middle tier:
 
-Players too good to ignore but not elite enough to dominate Signatures
-Show up and compete hard at regular events specifically
-Available in pools because casual players overlook them
-The Spieth/Kirk/Henley/Fleetwood tier
+Too good to ignore but not elite enough to dominate Signatures
+Spieth/Kirk/Henley/Fleetwood tier
+Available in pools, genuinely capable of winning these fields
 
-Spieth template for this category:
+Signature Events ($20M+ Designated Events)
+Pool strategy flips — deploy elite players.
+Scheffler, McIlroy, Morikawa, Schauffele tier.
+Still consider course fit even among elite.
+Masters Pool Note
+Masters has smaller purse than Signature events — valued slightly less
+in season-long pool than a Travelers or Memorial win.
+STRATEGIC ADVANTAGE: LIV players eligible for only 4 PGA Tour events/year.
+Masters is one of those 4. If no strong conviction elsewhere in field,
+strongly prefer LIV player deployment here — may be only shot all season.
+Same logic for pure LIV players (Bryson, Brooks, DJ) vs DP World Tour
+players who play fuller PGA Tour schedules.
+The Twice-Usage Rule
+Each player can only be used TWICE per season. Track always.
+Never waste elite players at regular events.
+Save for Signatures and Majors where they have highest win probability.
+Pool section must always show usage count: 0, 1, or 2 uses.
+Pool Section on App
+Always completely separate from betting card. Include:
 
-Genuine course fit and history
-Form trending in right direction
-Veteran who knows how to win at specific venue types
-Not marquee enough for everyone to pick them
-Unlikely to dominate Signature events so these regular events matter to them
-
-Signature Events (Elevated $20M+ Designated Events)
-Players, Genesis, Memorial, Travelers, Arnold Palmer, etc.
-Pool strategy FLIPS completely for these events.
-The elite actually show up. Field is world-class. Taking mid-tier players
-in Signatures wastes picks on players who realistically cannot beat
-Scheffler/McIlroy/Schauffele in that field.
-For Signatures: deploy Scheffler, McIlroy, Morikawa, Schauffele — the players
-who can actually win against world-class competition.
-Still consider course fit even at this tier — Morikawa at approach course
-vs. Morikawa at long ball-striker course matters even among the elite.
-The Twice-Usage Rule — CRITICAL
-Each player can only be used TWICE across the full season.
-Strategic implications:
-
-Never waste an elite player at a regular event where mid-tier can win
-Save Scheffler/McIlroy for Signatures where they have highest win probability
-Mid-tier players deployed at regular events where they have genuine win probability
-Track usage throughout season — flag when a player approaches their second use
-
-Every week the pool section must note: how many times has each considered
-player been used already? Is this their last available use? Does that change
-the recommendation?
-Pool Section on the App
-Always completely separate from the betting card.
-Include:
-
-Most likely winner (primary pool pick)
-Available plays — good players not likely heavily owned
-Trap plays — players being over-selected who don't have best actual win probability
-Usage tracker — who has 0, 1, or 2 uses already this season
-Event tier flag — Signature or Regular, changes entire approach
+Most likely winner (primary pick)
+Available plays (not heavily owned, genuine win probability)
+Trap plays (over-selected, don't have best actual win probability)
+Usage tracker (0, 1, 2 uses per player)
+Event tier flag (Signature, Major, or Regular)
 
 
-SECTION 11: COURSE PROFILE FRAMEWORK
-What to Establish Before Any Player Analysis
+SECTION 11: AUGUSTA NATIONAL — MASTERS FRAMEWORK
+What Makes Augusta Unique
+Distance — Spectrum Not Binary
+Par-5 bomber advantage is real and meaningful on 13 and 15 specifically.
+BUT: bad or mid-level players who happen to bomb it are still off the table.
+Distance edge applies only on top of an already strong full game profile.
+Bryson specifically: underrated elite putter + distance = genuine threat.
+Putting and ARG — Course Specific
+NOT simply rewarding best career Tour putters.
+Rewards players who understand Augusta specifically:
 
-Par and yardage — total length, par-5 lengths (reachable?)
-Rough severity — how punishing is missing fairway?
-Green approach angles — does angle from fairway vs rough matter significantly?
-GIR rate — low GIR = scrambling matters more
-Historical winning stat — what SG category do winners lead?
-Wind architecture — does wind create bomber advantage or negate it?
-Course complexity — Harbour Town level or generic championship track?
-Debutant history — have first-timers won recently?
-Winning score range — what does it take given conditions?
-Distance multiplier assignment — FULL, PARTIAL, or COMPRESSED
+The undulation, angles, grain, and slope reading
+Knowing where to land approaches to set up manageable putts
+Some bad short game guys understand Augusta better than novice players
+Some good Tour putters struggle here — their skills don't transfer
+Career SG:PUTT and SG:ARG less predictive than course-specific history.
+Weight Augusta putting history significantly over career Tour averages.
+Good putters are still likely better than bad putters here — spectrum applies.
+But the gradient is different than most Tour venues.
 
-TPC San Antonio Reference Profile
-Par 72, 7,438 yards, Greg Norman design
-GIR rate 58% — one of lowest on Tour, scrambling matters
-Par-5s 591+ yards — unreachable even downwind, no bomber advantage on par-5s
-BUT: long par-4s mean bombers still have shorter irons than field
-Distance multiplier: PARTIAL
-Winning stat: SG:APP (7 of 8 winners top-5 for tournament week)
-Putting: NOT required — winners have been average putters
-Debutant concern: no winner since 2013
-Wind: builds through week, Sunday 15-18mph typical
-Key yardage buckets: 225+ and 100-150 per Sharpside
-Rough: tree-lined corridors, brush OB, angle matters somewhat
-NOT a course specialist venue
+The Thinker's Course Principle
+Course management ability is a genuine differentiating skill at Augusta
+that doesn't show up cleanly in any SG metric. Shows up in:
+
+Knowing where to miss and where NOT to miss on every hole
+Bogey avoidance on specific holes
+Not making the big number when things go slightly wrong
+Birdie conversion rate on par-5s
+Back nine Sunday scoring relative to field
+
+Experience accumulates over years. First timers can be elite ball-strikers
+with great metrics and still make costly strategic mistakes.
+Weight Augusta course history more than almost any other venue.
+Shot Shape
+Drawing the ball historically advantageous at Augusta.
+High cuts (Clark's preference) can work at certain holes but draw bias is real.
+Track shot shape preferences weekly and flag Augusta fit.
+Closing Ability Under Pressure
+Back nine Sunday Augusta = ultimate pressure test.
+Weight prior major contention experience and Sunday back-nine scoring.
+Patrick Reed specifically: gamer who competes at Augusta despite LIV move.
+Experience Weight
+More important here than almost anywhere else on Tour.
+First timers get meaningful skepticism even with elite metrics.
+Multiple starts with managed rounds = genuine edge over talented newcomers.
+Augusta Pool Strategy
+Smaller purse than Signatures — deploy LIV players here strategically.
+Save usage of PGA Tour regulars for higher-value Signature events when possible.
 
 SECTION 12: DATA SOURCES
 DataGolf API (Key: 49d1a50b217d2fed5de92b5ec3de)
-Pull ALL of the following — never skip any:
-General Use:
-
-Player List and IDs
-Tour Schedules
-Field Updates (tee times, pairings, withdrawals, wave assignments)
-
-Model Predictions:
-
-DataGolf Rankings
-Pre-Tournament Predictions (win/top5/top10/top20)
-Pre-Tournament Predictions Archive
-Player Skill Decompositions (year-by-year — use to assess if player is
-currently similar to their best historical self. Don't let 2019 peak
-inflate 2026 assessment. Recent years weight more.)
-Player Skill Ratings (RECENT window — last 30+ rounds. NEVER career average.)
-Detailed Approach Skill (yardage buckets: 100-150, 200+, etc.)
-Fantasy Projection Defaults
-
-Live Model (during rounds):
-
-Live Model Predictions
-Live Tournament Stats (NOT the deprecated Live Strokes-Gained)
-Live Hole Scoring Distributions
-
-Historical Raw Data:
-
-Historical Raw Data Event IDs
-Round Scoring, Stats and Strokes Gained (event-by-event history for
-course fits AND R1 scoring averages for FRL analysis)
-
-Historical Event Stats:
-
-Historical Event Data Event IDs
-Event Finishes, Earnings and Points (contextualize course history quality)
-
-Historical Betting Odds:
-
-Historical Outrights (odds movement context)
-
-Player Profiles (web):
-
-Career skill summary by year
-Event and course history
-Rolling stats charts
-Reconstructed via API: Skill Decompositions + Round Scoring + Event Finishes
-
-SG Stats Interpretation Rules
-
-ALWAYS use recent window — career averages overweight past and mislead
-Year-by-year decomposition is better than single career number
-In-season form overrides career rating when they diverge significantly
-For course history: was player a similar archetype when they played well?
-Example: Smotherman career APP 0.409 but #1 field in-season → use in-season
-
+Pull ALL — never skip any:
+General: Player List, Tour Schedules, Field Updates
+Model: DG Rankings, Pre-Tournament Predictions, Predictions Archive,
+Player Skill Decompositions (year-by-year — recent years weight more),
+Player Skill Ratings (RECENT window only — never career average),
+Detailed Approach Skill (yardage buckets), Fantasy Projection Defaults
+Live: Live Model Predictions, Live Tournament Stats, Live Hole Scoring
+Historical Raw: Event IDs, Round Scoring Stats and SG (course history + FRL)
+Historical Event: Event IDs, Event Finishes Earnings and Points
+Historical Odds: Outrights (odds movement context)
+SG Interpretation Rules
+Always recent window. Year-by-year decomposition better than single career number.
+In-season form overrides career rating when they diverge.
+For course history: was player similar version of themselves then?
+The recency window principle applies to every category every week.
 Odds API (Key: 921375ff641c2d12156fd9e72e4ad7c3)
-
-DraftKings + Bet365 ONLY
-All markets: outright, top 5, top 10, top 20, FRL
-500 credits/month limit — pull once per scheduled run
-Skip odds pull during tournament rounds when lines mostly locked
-2-hour page auto-refresh on live site
-
+DraftKings + Bet365 only. All markets.
+500 credits/month — pull once per scheduled run.
+Odds typically release Monday 5-8am Central — Sunday run is for articles/course setup.
+Monday 6am run catches early lines. Monday 10am has cleaner complete odds.
 
 SECTION 13: ANALYSIS OUTPUT STANDARDS
 The Weekly Briefing Paragraph
-Written in KEVIN'S VOICE — first person, as if he did all the research.
-Goal: Kevin reads it and feels fully prepared and confident for the week.
-Format: 2-ish paragraphs (not strict).
-Covers:
+Written in Kevin's voice — first person, as if he did all research.
+2-ish paragraphs. Covers: course read, winning stat, wind/weather context,
+2-3 key player narratives (NO PICKS), unusual field notes.
+Goal: Kevin reads it and feels fully prepared and confident.
+Two Separate Rankings Every Week
 
-Course read and what matters this week
-Key stat that drives winners here
-Wind and weather context
-2-3 key player narratives (context only — NO PICKS)
-Any unusual field notes or withdrawal impacts
+Overall: best chance to win regardless of price
+Value: mispriced relative to win probability
+These are different and must be shown separately always.
 
-NO PICKS in the briefing. That comes in the analysis sections.
-Two Separate Player Rankings Every Week
-1. Overall Ranking
-Who has the best chance to win regardless of price.
-Spieth might be top-20 overall here. Framework assessment of win probability
-without any price consideration.
-2. Value Ranking
-Who is mispriced relative to their win probability.
-Spieth at 22/1 might be a hard fade on value even if top-20 overall.
-Henley at 16/1 might be top-15 overall but hard fade on value.
-These are DIFFERENT rankings and must be shown separately.
 Tier Assignments
-S Tier: Primary targets — elite form window + course fit + win equity
-A Tier: Strong plays — good fit, some concern (price, no win equity, one risk)
-B Tier: Positions/FRL — good data but not outright conviction
-C Tier: Pass or monitor — something missing or wrong profile
-Fade Tier: Active fades — specific reason to avoid at stated odds
-Player Notes Coverage
-EVERY player in the field gets a note. No blank entries.
-Even longshots who have no upside get flagged if they have:
-
-A couple hot rounds recently
-Done well on similar course types
-Distance advantage that could matter at this course
-Any specific skill spike worth noting
-
-For players with truly nothing: brief note is fine. But nothing is left blank.
-The Bet Card
-
-Outrights in conviction order with stake sizing
-Positions markets (aggressive → safety → coverage)
+S Tier: Primary targets
+A Tier: Strong plays
+B Tier: Positions/FRL
+C Tier: Pass or monitor
+Fade Tier: Active fades with specific reasons
+Player Notes
+Every player in field gets a note. No blank entries ever.
+Even longshots get flagged for anything notable.
+Bet Card
+Outrights (conviction order + stake sizing)
+Positions (aggressive → safety → coverage)
 FRL targets by wave
 Hard fades with specific reasons
-Pool section COMPLETELY SEPARATE from betting
+Pool section COMPLETELY SEPARATE
+Flags and Clarifications Tab
+Dedicated tab on site for:
+
+Missing/blocked articles (flagged clearly, never silently skipped)
+Odds gaps (players with no odds found)
+Data anomalies (unusual shifts, missing profiles)
+Analysis uncertainties (close calls flagged for Kevin's review)
+Manual intervention log (what was changed and when)
+Article processing log (what was successfully read)
+Calibration suggestions (patterns worth discussing)
+Season usage tracker (pool usage per player)
 
 
 SECTION 14: AUTOMATION AND SCHEDULE
-Update Schedule (ET)
-DayTimesSunday11:00 PMMonday6:00 AM, 10:00 AM, 7:00 PMTuesday9:30 AM, 6:00 PMWednesday9:00 AM, 11:00 AM, 4:00 PM
-Update Philosophy — Incremental Not Full Rewrites
-Each run checks what is new since last run:
-
-New articles posted → fold into analysis, update relevant player notes
-Odds moved significantly → flag and reassess value tier
-Withdrawal → update field, reassess affected position markets
-Weather firmed up → update wind context in briefing
-New DataGolf data → update form windows if changed
-
-The weekly_state.json persists everything between runs.
-Analysis builds additively through the week — nothing is lost between runs.
+Schedule (ET)
+Sunday 11pm: Initial run — articles and course setup. No odds yet.
+Monday 6am: First odds pull (5-8am Central release window)
+Monday 10am: Fuller odds picture established
+Monday 7pm: Fold in afternoon articles
+Tuesday 9:30am: Mid-week article sweep
+Tuesday 6pm: Updated analysis
+Wednesday 9am: Penultimate run
+Wednesday 11am: Near-final
+Wednesday 4pm: Final pre-tournament card
+Update Philosophy
+Incremental not full rewrites. Each run adds to weekly_state.json.
+New articles → fold in. Odds move → flag and reassess.
+Withdrawal → update field. Weather firms up → update briefing.
 Claude API Budget
-$5/month maximum.
-One full analysis call Sunday night for initial analysis.
-Incremental update calls throughout week (smaller = cheaper).
+$5/month maximum. One full call Sunday night.
+Incremental smaller calls throughout week.
 Model: claude-sonnet-4-6
-Articles to Scrape Every Run
 
-Haslbauer (lineups.com) — all articles that week, up to 3+ for majors
-Ben Coley (sportinglife.com)
-Steve Bamford (golfbettingsystem.co.uk)
-Steve Rawlings (Betfair)
-Dave Tindall (Betfair)
-Tom Jacobs (Oddschecker/Today's Golfer)
-Sharpside/Matt Gannon
-Jason Sobel, Golf Digest panel, Pat Mayo
-Flag blocked articles clearly — never silently skip
+SECTION 15: MASTERS WEEK SPECIFICS
+Articles drop earlier than normal weeks — likely Sunday/Monday.
+More articles in general — every major outlet publishes.
+Haslbauer likely 4-5 articles for Masters.
+DataGolf publishes dedicated Masters blog posts and tools.
+Multiple pool formats — different strategy for each format type.
+Apply framework but with Augusta-specific adjustments from Section 11.
+Twice-usage rule especially important — Masters is major, deploy wisely.
 
-
-SECTION 15: CALIBRATION LOG
+SECTION 16: CALIBRATION LOG
 April 2026 — Initial Calibration (Valero Texas Open)
 [CALIBRATED] McCarthy tee time: Late wave (9:54am) not early morning.
-Incorrectly placed in early FRL wave on bet card. Fix going forward.
 [CALIBRATED] Accuracy-dependent bomber replaces false bomber permanently.
-Penge archetype reassessed weekly based on course fit. Never a permanent label.
 [CALIBRATED] Smotherman Houston WD = baby birth not form issue.
-Valspar MC same reason. Both confirmed in interviews. Framework: always
-investigate withdrawal/MC reasons before downgrading form assessment.
-[CALIBRATED] Distance advantage: even at unreachable-par-5 courses,
-distance still helps on par-4 approach yardages. Never fully discount.
-[CALIBRATED] Spieth pool logic: career earnings pool = odds irrelevant.
-Excellent pool pick at right Texas venue when trending. Took Valero 2026.
-[CALIBRATED] Pool strategy is completely separate from betting value.
-Dedicated pool section with own logic track on app always.
-[CALIBRATED] Morikawa: primary pick at Valero before WD (back).
-When healthy at approach-dominant accuracy course: first name on card.
-[CALIBRATED] Haslbauer posts up to 3 articles/week and more for majors.
-Read ALL of them every week without exception.
-[CALIBRATED] Course history: weight it by how similar the player was
-to their current self when they played well there.
-[CALIBRATED] SG:APP stats must ALWAYS be recent window, never career average.
-[CALIBRATED] Rough penalty AND angle-into-green are two separate
-considerations. Always assess both independently every week.
-[CALIBRATED] Modern PGA Tour default: distance advantages outweigh rough
-penalties more often than not. Lead with this unless course is specifically penal.
-[CALIBRATED] Form failure overrides career profile completely. Spaun:
-elite career APP but 4 MCs in 6 events = hard pass regardless of history.
+Always investigate withdrawal/MC reasons before downgrading.
+[CALIBRATED] Distance always matters — even partial advantage at unreachable par-5 courses.
+[CALIBRATED] Spieth pool logic: odds irrelevant in career earnings pool.
+[CALIBRATED] Pool strategy completely separate from betting card always.
+[CALIBRATED] Morikawa primary pick at approach-dominant accuracy courses when healthy.
+[CALIBRATED] Haslbauer posts up to 3+ articles per week and more for majors.
+[CALIBRATED] Course history weighted by how similar player was to current self.
+[CALIBRATED] SG stats always recent window — never career average.
+[CALIBRATED] Rough penalty and angle-into-green are two separate considerations.
+[CALIBRATED] Modern PGA Tour default: distance outweighs rough penalties more often than not.
+[CALIBRATED] Form failure overrides career profile completely (Spaun example).
 [CALIBRATED] Designation system: attention flags not decision overrides.
-Framework always makes final call. Designations adjust scrutiny level only.
-EXTRA CONFIRM +, FRAMEWORK, EXTRA CONFIRM -, FALLEN STAR.
-[CALIBRATED] Fallen Star principle: was genuinely elite, clear identifiable
-recoverable reason for decline, odds at 100/1+. Any form return = immediately
-intriguing. Zalatoris = fallen star. Max Homa = structural decline, not fallen star.
-Test: is decline recoverable AND are there flashes of underlying skill remaining?
-[CALIBRATED] At 70/1 in bad form Zalatoris is not tasty. At 100/1+ with
-any sign of life he is immediately intriguing. Price threshold is part of
-the fallen star trigger. Star upside and win equity justify the interest
-at the right price even without current form.
-[CALIBRATED] Signature events vs regular events for pool:
-Signature = deploy elite players (Scheffler/McIlroy tier).
-Regular = deploy mid-tier at right course fits.
-Twice-usage rule: each player available twice per season, track carefully.
-Never waste elite players at regular events when mid-tier can do the job.
-[CALIBRATED] Putting philosophy fully expanded: volatile upside not engine.
-Ball-striking creates opportunities. Putting converts them.
-Elite career putters (McCarthy/Burns) trigger special consideration when
-ball-striking spikes because the floor is reliable, not random.
-Market trap: recent putting spike in total SG often masks weak APP underneath.
-Always identify what is DRIVING the total SG number before reacting to it.
+[CALIBRATED] Fallen Star principle: Zalatoris template. Max Homa counter-example.
+[CALIBRATED] Signature events vs regular events for pool strategy.
+[CALIBRATED] Twice-usage rule: track carefully all season.
+[CALIBRATED] Putting philosophy: volatile upside not engine. Ball-striking creates opportunities.
+[CALIBRATED] Elite career putter trigger: McCarthy/Burns tier when irons spike.
+[CALIBRATED] Market trap: identify what is DRIVING total SG number.
+[CALIBRATED] Recency window principle: career averages can actively mislead.
+Scottie Scheffler putting example — 18 months recent is the signal.
+Apply to every skill category every week.
+[CALIBRATED] Nothing is binary — everything on a spectrum. Always apply nuance.
+[CALIBRATED] Bamford article: extract weather + wind + course conditions + context
+in addition to 8-event SG rankings.
+[CALIBRATED] Sunday run purpose: articles and course setup only. No odds yet.
+Odds release Monday 5-8am Central. Monday runs catch live lines.
+[CALIBRATED] Augusta National: full game required even with distance advantage.
+Putting/ARG rewards course-specific understanding not generic Tour metrics.
+Thinker's course — course management and knowing where to miss is differentiating.
+Experience carries more weight here than almost anywhere else.
+LIV players strategically valuable in Masters pool (only 4 events/year eligible).
+Masters purse smaller than Signatures — factor into pool usage decisions.
+[CALIBRATED] Shot shape: track weekly. Draw bias at Augusta. Note player preferences.
+Wyndham Clark likes high cuts — flag course fit accordingly.
+[CALIBRATED] Bryson DeChambeau: underrated elite putter — factor always.
+Especially relevant at Augusta (elite putter + distance on par-5s).
+[CALIBRATED] Zalatoris putting: genuinely improved last year with caddy influence.
+Treat as closer to neutral/modest positive rather than liability.
+Changes course fit profile — opens up more venue types.
+[CALIBRATED] Hovland and Justin Thomas: FALLEN STAR both.
+Auto consider at 40/1 or longer with any signs of form return.
+[CALIBRATED] Thorbjornsen: flipped to EXTRA CONFIRM + — up and comer Kevin watches.
+[CALIBRATED] Rico Hoey: EXTRA CONFIRM + — spike putter, great ball striking 2025,
+hoping for 2026 return, odds concern noted.
+[CALIBRATED] Henley: EXTRA CONFIRM + — good player, market overvalues at short prices.
+At right longer price (30/1+) becomes genuinely interesting.
+[CALIBRATED] Straka price triggers: must consider at 45/1, must consider at 30/1 in weak fields.
+[CALIBRATED] Matsuyama: doesn't need sustained form window — can turn around with irons/ARG.
+Apply slightly different form threshold for him specifically.
+[CALIBRATED] Gotterup: won twice in 2026 — real win equity now established.
+[CALIBRATED] Patrick Reed: Augusta gamer — course knowledge and competitive mentality real edge.
+[CALIBRATED] Nick Taylor: potentially other specialist courses beyond Scottsdale/Canada — monitor.
+[CALIBRATED] Mackenzie Hughes: gaining distance, great course manager — positive trajectory.
+[CALIBRATED] Theegala: crafty creative player — course management is genuine edge when on form.
 
-SECTION 16: GITHUB AND TECHNICAL
+SECTION 17: GITHUB AND TECHNICAL
 Repo: kevinchurch101-jpg/Golf-analysis-
 Live site: https://kevinchurch101-jpg.github.io/Golf-analysis-/
-GitHub Token: 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
-DataGolf API Key: 49d1a50b217d2fed5de92b5ec3de
-Odds API Key: 921375ff641c2d12156fd9e72e4ad7c3
-Anthropic API Key: To be added after console.anthropic.com setup
+GitHub Token: stored as GH_TOKEN_PUSH in GitHub Secrets
+DataGolf API Key: stored as DATAGOLF_KEY in GitHub Secrets
+Odds API Key: stored as ODDS_API_KEY in GitHub Secrets
+Anthropic API Key: stored as ANTHROPIC_API_KEY in GitHub Secrets
 Gmail: kevinchurch101@gmail.com
+NOTE: GitHub reserves GITHUB_ prefix for secrets.
+All references in code must use GH_TOKEN_PUSH not GITHUB_TOKEN_PUSH.
 How to use this file in new conversations:
-Start every new conversation with:
-"Please read my framework file at github.com/kevinchurch101-jpg/Golf-analysis-
-before we begin." Claude fetches it, reads it completely, and is instantly
-calibrated to think like Kevin. 30 seconds and fully aligned.
+Start with: "Please read my framework file at
+github.com/kevinchurch101-jpg/Golf-analysis- before we begin."
+Claude fetches, reads completely, instantly calibrated to think like Kevin.
 
-SECTION 17: GOLFER ASSESSMENT DATABASE
-Pending — Google Sheet being filled in by Kevin.
-Top 115 DG-ranked players with Kevin's personal takes.
-Format when complete:
-Player | DG Rank | OWGR | Kevin's Take | Designation | Distance Tier | Notes | Flags
-Designation options:
-
-EXTRA CONFIRM + (Kevin believes in upside beyond current data)
-FRAMEWORK (pure data assessment, no personal lean)
-EXTRA CONFIRM - (Kevin generally skeptical, need stronger confirmation)
-FALLEN STAR (was elite, recoverable decline, 100/1+ trigger)
-
-Pre-filled designations from calibration conversations:
-
-Morikawa: EXTRA CONFIRM + — auto-trigger approach courses
-Zalatoris: EXTRA CONFIRM + / FALLEN STAR
-McCarthy: EXTRA CONFIRM + — trigger when APP spiking
-Burns: EXTRA CONFIRM + — same McCarthy tier logic
-Spieth: EXTRA CONFIRM + — pool value Texas/Colonial, never bet sub-20/1
-Spaun: EXTRA CONFIRM - — back when form good, hard pass when MCs piling up
-Fowler: EXTRA CONFIRM - — only at 40/1+ when APP above 0.300
-Mitchell: EXTRA CONFIRM - — past his window at compressed odds
-Thorbjornsen: EXTRA CONFIRM - — bombers courses only
-DeChambeau: EXTRA CONFIRM + — distance courses and universally penal setups
-Rico Hoey: STRONG FRL — never outright, FRL only at approach venues
-Nick Taylor: STRONG OVERRIDE — specialist at Scottsdale/Canada only
-Webb Simpson: STRONG OVERRIDE — specialist at Harbour Town only
-Cantlay: COURSE SPECIALIST — Nicklaus designs
+End of Kevin's Framework Document — Version 3.0
+Updated with complete golfer assessment database from April 2026.
+Update this file every time a new rule is calibrated, a player designation
+changes, or a new principle is confirmed. This is the brain. Keep it sharp.
