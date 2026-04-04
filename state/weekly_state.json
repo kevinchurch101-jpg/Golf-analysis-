@@ -1,1 +1,106 @@
-# placeholder
+{
+  "_version": "3.0",
+  "_schema": "Fairway Intel weekly state — updated incrementally each run",
+  "event": {
+    "name": null,
+    "tour": "PGA",
+    "course": null,
+    "location": null,
+    "dates": null,
+    "purse": null,
+    "event_tier": null,
+    "field_size": null,
+    "par": null,
+    "yardage": null,
+    "distance_multiplier": null,
+    "course_notes": null,
+    "winning_score_estimate": null,
+    "shot_shape_bias": null,
+    "rough_penalty": null,
+    "angle_penalty": null,
+    "dominant_stat": null
+  },
+  "weather": {
+    "last_updated": null,
+    "r1": {"wind_mph": null, "wind_dir": null, "rain": null, "temp": null, "notes": null},
+    "r2": {"wind_mph": null, "wind_dir": null, "rain": null, "temp": null, "notes": null},
+    "r3": {"wind_mph": null, "wind_dir": null, "rain": null, "temp": null, "notes": null},
+    "r4": {"wind_mph": null, "wind_dir": null, "rain": null, "temp": null, "notes": null},
+    "wave_split_matters": false,
+    "bamford_forecast": null
+  },
+  "field": [],
+  "odds": {
+    "last_updated": null,
+    "by_player": {},
+    "market": "outrights",
+    "books": ["draftkings", "bet365"],
+    "credits_used_this_month": 0
+  },
+  "dg_predictions": {
+    "last_updated": null,
+    "by_player": {}
+  },
+  "skill_ratings": {
+    "last_updated": null,
+    "by_player": {}
+  },
+  "approach_skill": {
+    "last_updated": null,
+    "by_player": {}
+  },
+  "course_history": {
+    "last_updated": null,
+    "by_player": {}
+  },
+  "frl_stats": {
+    "last_updated": null,
+    "by_player": {}
+  },
+  "articles": {
+    "processed": [],
+    "blocked": [],
+    "key_narratives": [],
+    "last_sweep": null
+  },
+  "analysis": {
+    "briefing_paragraph": null,
+    "overall_ranking": [],
+    "value_ranking": [],
+    "tiers": {
+      "S": [],
+      "A": [],
+      "B": [],
+      "C": [],
+      "FADE": []
+    },
+    "player_notes": {},
+    "last_updated": null
+  },
+  "bet_card": {
+    "outrights": [],
+    "positions": [],
+    "frl": [],
+    "hard_fades": [],
+    "last_updated": null
+  },
+  "pool": {
+    "event_tier": null,
+    "primary_pick": null,
+    "available_plays": [],
+    "trap_plays": [],
+    "usage_tracker": {},
+    "last_updated": null
+  },
+  "flags": {
+    "blocked_articles": [],
+    "odds_gaps": [],
+    "data_anomalies": [],
+    "analysis_uncertainties": [],
+    "manual_interventions": [],
+    "article_log": [],
+    "calibration_suggestions": [],
+    "withdrawals": []
+  },
+  "run_log": []
+}
