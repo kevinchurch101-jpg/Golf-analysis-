@@ -24,12 +24,19 @@ _RETRY_DELAY = 2  # seconds
 
 def _get(url: str, params: Dict, label: str) -> Optional[Dict]:
     """GET with retry logic and consistent error handling."""
-    params = {**params, "key": DATAGOLF_KEY}
+    # Don't double-add key if already in params
+    if "key" not in params:
+        params = {**params, "key": DATAGOLF_KEY}
     for attempt in range(1, _MAX_RETRIES + 1):
         try:
             r = requests.get(url, params=params, timeout=20)
             if r.status_code == 200:
                 return r.json()
+            elif r.status_code == 404:
+                # 404 often means no active event or endpoint requires different params
+                # Log as warning not error — not a system failure
+                log.warning(f"[DG] {label} returned 404 — may be no active event or wrong params")
+                return None
             elif r.status_code == 429:
                 wait = _RETRY_DELAY * attempt * 2
                 log.warning(f"[DG] Rate limited on {label}. Waiting {wait}s…")
@@ -69,10 +76,12 @@ def get_field_updates(tour: str = "pga", file_format: str = "json") -> List[Dict
     """
     Current field with tee times, groups, and wave assignments.
     Wave assignment is critical for FRL analysis.
+    DataGolf field-updates endpoint requires tour param.
+    Returns empty list gracefully if no active event.
     """
     data = _get(
         DG_ENDPOINTS["field_updates"],
-        {"tour": tour, "file_format": file_format},
+        {"tour": tour, "file_format": file_format, "key": DATAGOLF_KEY},
         "field_updates",
     )
     if not data:
