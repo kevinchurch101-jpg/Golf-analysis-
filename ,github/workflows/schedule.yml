@@ -109,4 +109,5 @@ jobs:
           name: fairway-intel-failure-log
           path: "*.log"
           retention-days: 7
+          
 
