@@ -4,21 +4,21 @@ Reads all configured sources. Blocked articles flagged clearly, never silently s
 Articles are inputs — framework makes decisions.
 Haslbauer is highest weight. Bamford extracts weather + wind + course conditions too.
 """
-
+ 
 import logging
 import re
 import time
 from dataclasses import dataclass, field
 from datetime import datetime
 from typing import Dict, List, Optional, Tuple
-
+ 
 import requests
 from bs4 import BeautifulSoup
-
+ 
 from config import ARTICLE_SOURCES
-
+ 
 log = logging.getLogger(__name__)
-
+ 
 HEADERS = {
     "User-Agent": (
         "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
@@ -28,8 +28,8 @@ HEADERS = {
 }
 FETCH_TIMEOUT = 15
 FETCH_DELAY   = 1.5   # seconds between requests — be polite
-
-
+ 
+ 
 @dataclass
 class ArticleResult:
     source_name: str
@@ -42,19 +42,19 @@ class ArticleResult:
     blocked: bool = False
     block_reason: str = ""
     weight: int = 5
-
-
+ 
+ 
 @dataclass
 class ArticleBundle:
     """All articles fetched for a weekly run."""
     articles: List[ArticleResult] = field(default_factory=list)
     blocked: List[ArticleResult] = field(default_factory=list)
     fetch_time: str = ""
-
+ 
     @property
     def successful(self) -> List[ArticleResult]:
         return [a for a in self.articles if a.success]
-
+ 
     def to_flag_log(self) -> List[Dict]:
         return [
             {
@@ -65,12 +65,12 @@ class ArticleBundle:
             }
             for a in self.blocked
         ]
-
-
+ 
+ 
 # ──────────────────────────────────────────────────────────────
 # FETCHING
 # ──────────────────────────────────────────────────────────────
-
+ 
 def fetch_all_articles() -> ArticleBundle:
     """
     Fetch articles from all configured sources.
@@ -79,7 +79,7 @@ def fetch_all_articles() -> ArticleBundle:
     """
     bundle = ArticleBundle(fetch_time=datetime.now().isoformat())
     sources_sorted = sorted(ARTICLE_SOURCES, key=lambda s: -s["weight"])
-
+ 
     for source in sources_sorted:
         for url in source.get("urls", []):
             result = fetch_article(source["name"], source["outlet"], url, source["weight"])
@@ -87,14 +87,14 @@ def fetch_all_articles() -> ArticleBundle:
             if result.blocked:
                 bundle.blocked.append(result)
             time.sleep(FETCH_DELAY)
-
+ 
     log.info(
         f"[Articles] Fetched {len(bundle.successful)} successfully, "
         f"{len(bundle.blocked)} blocked."
     )
     return bundle
-
-
+ 
+ 
 def fetch_article(
     source_name: str,
     outlet: str,
@@ -105,7 +105,7 @@ def fetch_article(
     fetch_time = datetime.now().isoformat()
     try:
         r = requests.get(url, headers=HEADERS, timeout=FETCH_TIMEOUT)
-
+ 
         if r.status_code == 200:
             text = extract_text(r.text, url)
             title = extract_title(r.text)
@@ -122,7 +122,7 @@ def fetch_article(
                 title=title, raw_text=text, fetch_time=fetch_time,
                 success=True, weight=weight,
             )
-
+ 
         elif r.status_code in (401, 403):
             log.warning(f"[Articles] BLOCKED (HTTP {r.status_code}) — {source_name}: {url}")
             return ArticleResult(
@@ -147,7 +147,7 @@ def fetch_article(
                 success=False, blocked=True,
                 block_reason=f"http_{r.status_code}", weight=weight,
             )
-
+ 
     except requests.Timeout:
         log.warning(f"[Articles] TIMEOUT — {source_name}: {url}")
         return ArticleResult(
@@ -164,24 +164,24 @@ def fetch_article(
             success=False, blocked=True,
             block_reason=f"request_error: {str(e)[:80]}", weight=weight,
         )
-
-
+ 
+ 
 # ──────────────────────────────────────────────────────────────
 # TEXT EXTRACTION
 # ──────────────────────────────────────────────────────────────
-
+ 
 def extract_text(html: str, url: str = "") -> str:
     """
     Extract clean readable text from HTML.
     Strips nav, ads, scripts, footers. Returns article body text.
     """
     soup = BeautifulSoup(html, "html.parser")
-
+ 
     # Remove noise elements
     for tag in soup(["script", "style", "nav", "footer", "header",
                      "aside", "advertisement", "noscript", "iframe"]):
         tag.decompose()
-
+ 
     # Try article-specific selectors first
     selectors = [
         "article", "main", ".article-body", ".post-content",
@@ -192,14 +192,14 @@ def extract_text(html: str, url: str = "") -> str:
         elem = soup.select_one(sel)
         if elem and len(elem.get_text(strip=True)) > 200:
             return clean_text(elem.get_text(separator=" ", strip=True))
-
+ 
     # Fallback: full body text
     body = soup.body
     if body:
         return clean_text(body.get_text(separator=" ", strip=True))
     return clean_text(soup.get_text(separator=" ", strip=True))
-
-
+ 
+ 
 def extract_title(html: str) -> str:
     """Extract page title."""
     soup = BeautifulSoup(html, "html.parser")
@@ -210,15 +210,15 @@ def extract_title(html: str) -> str:
         return soup.title.string.strip() if soup.title.string else ""
     h1 = soup.find("h1")
     return h1.get_text(strip=True) if h1 else ""
-
-
+ 
+ 
 def clean_text(text: str) -> str:
     """Remove excess whitespace and noise from extracted text."""
     text = re.sub(r"\s+", " ", text)
     text = re.sub(r"(\n\s*){3,}", "\n\n", text)
     return text.strip()
-
-
+ 
+ 
 def is_paywall(html: str, url: str = "") -> bool:
     """
     Heuristic paywall detection.
@@ -236,12 +236,12 @@ def is_paywall(html: str, url: str = "") -> bool:
     ]
     html_lower = html.lower()
     return any(signal in html_lower for signal in paywall_signals)
-
-
+ 
+ 
 # ──────────────────────────────────────────────────────────────
 # CONTENT PARSING — extract structured picks/analysis
 # ──────────────────────────────────────────────────────────────
-
+ 
 def extract_player_mentions(text: str, known_players: List[str]) -> Dict[str, List[str]]:
     """
     Find all player name mentions in article text.
@@ -249,7 +249,7 @@ def extract_player_mentions(text: str, known_players: List[str]) -> Dict[str, Li
     """
     mentions: Dict[str, List[str]] = {}
     sentences = re.split(r"(?<=[.!?])\s+", text)
-
+ 
     for player in known_players:
         player_lower = player.lower()
         last_name = player.split()[-1].lower()
@@ -260,10 +260,10 @@ def extract_player_mentions(text: str, known_players: List[str]) -> Dict[str, Li
                 player_sentences.append(sentence.strip())
         if player_sentences:
             mentions[player] = player_sentences
-
+ 
     return mentions
-
-
+ 
+ 
 def extract_haslbauer_picks(text: str) -> Dict[str, List[str]]:
     """
     Attempt to extract Haslbauer's picks, longshots, and fade calls.
@@ -277,16 +277,16 @@ def extract_haslbauer_picks(text: str) -> Dict[str, List[str]]:
         "top10_picks": [],
         "raw_paragraphs": [],
     }
-
+ 
     paragraphs = [p.strip() for p in text.split("\n") if len(p.strip()) > 40]
     result["raw_paragraphs"] = paragraphs[:50]   # First 50 substantive paragraphs
-
+ 
     # Keyword scanning for categories
     fade_keywords  = ["fade", "avoid", "against", "pass on"]
     long_keywords  = ["longshot", "long shot", "value", "100/1", "150/1", "80/1", "60/1", "50/1"]
     frl_keywords   = ["first round leader", "frl", "r1 leader", "round one"]
     top10_keywords = ["top 10", "top-10", "top ten", "each way"]
-
+ 
     for para in paragraphs:
         p_lower = para.lower()
         if any(k in p_lower for k in fade_keywords):
@@ -297,10 +297,10 @@ def extract_haslbauer_picks(text: str) -> Dict[str, List[str]]:
             result["top10_picks"].append(para)
         elif any(k in p_lower for k in long_keywords):
             result["longshots"].append(para)
-
+ 
     return result
-
-
+ 
+ 
 def extract_bamford_data(text: str) -> Dict:
     """
     Extract the following from Bamford's article (in addition to SG rankings):
@@ -317,14 +317,14 @@ def extract_bamford_data(text: str) -> Dict:
         "other_notes": [],
         "raw_text": text[:3000],
     }
-
+ 
     lines = [l.strip() for l in text.split("\n") if l.strip()]
-
+ 
     wind_keywords     = ["wind", "mph", "knots", "breeze", "blustery", "calm"]
     weather_keywords  = ["rain", "forecast", "temperature", "conditions", "sunny", "cloudy", "dry"]
     course_keywords   = ["firm", "soft", "fast", "slow", "course", "green", "fairway", "rough"]
     sg_keywords       = ["sg:", "strokes gained", "approach", "off the tee", "putting", "around"]
-
+ 
     for line in lines:
         l_lower = line.lower()
         if any(k in l_lower for k in sg_keywords):
@@ -344,10 +344,10 @@ def extract_bamford_data(text: str) -> Dict:
             result["course_conditions"].append(line)
         else:
             result["other_notes"].append(line)
-
+ 
     return result
-
-
+ 
+ 
 def summarize_article_bundle(bundle: ArticleBundle) -> Dict:
     """
     Build a summary dict from all fetched articles suitable for
@@ -359,7 +359,7 @@ def summarize_article_bundle(bundle: ArticleBundle) -> Dict:
         "blocked_sources": [f"{a.source_name}: {a.block_reason}" for a in bundle.blocked],
         "articles": [],
     }
-
+ 
     for article in bundle.successful:
         summary["articles"].append({
             "source": article.source_name,
@@ -368,14 +368,14 @@ def summarize_article_bundle(bundle: ArticleBundle) -> Dict:
             "title": article.title,
             "text": article.raw_text[:4000],   # Cap per article for token budget
         })
-
+ 
     return summary
-
-
+ 
+ 
 # ──────────────────────────────────────────────────────────────
 # PRIOR YEAR ARTICLE SEARCH — course breakdown foundation
 # ──────────────────────────────────────────────────────────────
-
+ 
 # URL patterns for searching prior year articles by event name
 PRIOR_YEAR_SEARCH_TEMPLATES = {
     "Haslbauer": [
@@ -392,7 +392,7 @@ PRIOR_YEAR_SEARCH_TEMPLATES = {
         "https://www.sportinglife.com/golf/tips",
     ],
 }
-
+ 
 # Sections of prior year articles worth keeping vs discarding
 COURSE_STRUCTURE_KEYWORDS = [
     # Keep — these are durable year over year
@@ -403,7 +403,7 @@ COURSE_STRUCTURE_KEYWORDS = [
     "setup", "conditions", "bermuda", "poa", "bent", "grain",
     "dog leg", "elevation", "undulation", "firm", "soft",
 ]
-
+ 
 PLAYER_FORM_KEYWORDS = [
     # Discard — these are player-specific, year-old data
     "in form", "recent form", "last week", "last month", "this season",
@@ -411,8 +411,8 @@ PLAYER_FORM_KEYWORDS = [
     "i like", "i'd back", "my pick", "recommend", "best bet",
     "each way", "e/w", "win bet", "accumulator",
 ]
-
-
+ 
+ 
 def fetch_prior_year_article(source_name: str, outlet: str, url: str, weight: int = 5) -> ArticleResult:
     """
     Fetch a prior year article. Same as fetch_article but tagged as prior_year
@@ -421,8 +421,8 @@ def fetch_prior_year_article(source_name: str, outlet: str, url: str, weight: in
     result = fetch_article(source_name, outlet, url, weight)
     # Tag it — handled downstream in extract_course_structure_from_prior_year
     return result
-
-
+ 
+ 
 def search_for_prior_year_articles(event_name: str) -> 'ArticleBundle':
     """
     Attempt to find prior year articles for the same event.
@@ -431,14 +431,14 @@ def search_for_prior_year_articles(event_name: str) -> 'ArticleBundle':
       2. Fetch each source's archive/search page
       3. Extract links that look like they match the event from last year
       4. Fetch those specific articles
-
+ 
     These are used for course structure only — player notes are discarded.
     """
     import time
     event_slug = _make_slug(event_name)
     bundle = ArticleBundle(fetch_time=f"prior_year_search:{event_name}")
     sources_sorted = sorted(ARTICLE_SOURCES, key=lambda s: -s["weight"])
-
+ 
     for source in sources_sorted:
         for base_url in source.get("urls", []):
             # Try appending event slug to base URL
@@ -456,15 +456,15 @@ def search_for_prior_year_articles(event_name: str) -> 'ArticleBundle':
                 elif result.blocked:
                     bundle.blocked.append(result)
                 time.sleep(FETCH_DELAY)
-
+ 
     return bundle
-
-
+ 
+ 
 def extract_course_structure_from_prior_year(articles: 'ArticleBundle') -> Dict:
     """
     Extract only the durable course structure content from prior year articles.
     Explicitly discards any player-specific form or pick content.
-
+ 
     Returns a dict with:
       - course_narrative:    paragraphs about the course itself (durable)
       - key_stats:           stats/game type the authors historically flag
@@ -486,23 +486,23 @@ def extract_course_structure_from_prior_year(articles: 'ArticleBundle') -> Dict:
             "Do not use for current player assessment."
         ),
     }
-
+ 
     for article in articles.successful:
         paragraphs = [p.strip() for p in article.raw_text.split("\n") if len(p.strip()) > 60]
         kept = 0
         discarded = 0
-
+ 
         for para in paragraphs:
             para_lower = para.lower()
-
+ 
             # Hard discard: player form / picks content
             if any(k in para_lower for k in PLAYER_FORM_KEYWORDS):
                 discarded += 1
                 continue
-
+ 
             # Check for course structure content
             course_hits = sum(1 for k in COURSE_STRUCTURE_KEYWORDS if k in para_lower)
-
+ 
             if course_hits >= 2:
                 # Categorise
                 if any(k in para_lower for k in ["winning score", "under par", "scoring average", "-"]):
@@ -524,23 +524,23 @@ def extract_course_structure_from_prior_year(articles: 'ArticleBundle') -> Dict:
                 kept += 1
             else:
                 discarded += 1
-
+ 
         result["discarded_player_notes"] += discarded
         result["source_log"].append({
             "source": article.source_name,
             "paragraphs_kept": kept,
             "paragraphs_discarded": discarded,
         })
-
+ 
     # Cap to most useful entries
     result["course_narrative"]    = result["course_narrative"][:10]
     result["key_stats"]           = result["key_stats"][:8]
     result["winning_score_refs"]  = result["winning_score_refs"][:5]
     result["weather_patterns"]    = result["weather_patterns"][:5]
-
+ 
     return result
-
-
+ 
+ 
 def build_prior_year_course_summary(extracted: Dict) -> str:
     """
     Build a clean text summary of prior year course structure content
@@ -553,23 +553,23 @@ def build_prior_year_course_summary(extracted: Dict) -> str:
         extracted["staleness_warning"],
         "═══════════════════════════════════════════════════════════════",
     ]
-
+ 
     if extracted["course_narrative"]:
         lines.append("\nCOURSE STRUCTURE & SETUP:")
         lines.extend(f"  • {n}" for n in extracted["course_narrative"])
-
+ 
     if extracted["key_stats"]:
         lines.append("\nKEY STATS & GAME TYPE (authors consistently flag these):")
         lines.extend(f"  • {s}" for s in extracted["key_stats"])
-
+ 
     if extracted["winning_score_refs"]:
         lines.append("\nHISTORICAL WINNING SCORE REFERENCES:")
         lines.extend(f"  • {w}" for w in extracted["winning_score_refs"])
-
+ 
     if extracted["weather_patterns"]:
         lines.append("\nTYPICAL WEATHER / WIND PATTERNS:")
         lines.extend(f"  • {w}" for w in extracted["weather_patterns"])
-
+ 
     src_summary = ", ".join(
         f"{s['source']} ({s['paragraphs_kept']} kept)"
         for s in extracted["source_log"] if s["paragraphs_kept"] > 0
@@ -579,10 +579,10 @@ def build_prior_year_course_summary(extracted: Dict) -> str:
     lines.append(
         f"Player-specific paragraphs discarded: {extracted['discarded_player_notes']}"
     )
-
+ 
     return "\n".join(lines)
-
-
+ 
+ 
 def _make_slug(event_name: str) -> str:
     """Convert event name to URL slug. e.g. 'Valero Texas Open' → 'valero-texas-open'"""
     import re
