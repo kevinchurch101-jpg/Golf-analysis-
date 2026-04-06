@@ -2,57 +2,29 @@
   "_version": "3.0",
   "_schema": "Fairway Intel weekly state — updated incrementally each run",
   "event": {
-    "name": null,
+    "name": "Masters Tournament",
     "tour": "PGA",
-    "course": null,
-    "location": null,
-    "dates": null,
+    "course": "Augusta National Golf Club",
+    "location": "Augusta, GA",
+    "dates": "April 10-13, 2026",
     "purse": null,
-    "event_tier": "REGULAR",
+    "event_tier": "MAJOR",
     "field_size": null,
-    "par": null,
-    "yardage": null,
+    "par": 72,
+    "yardage": 7545,
     "distance_multiplier": "PARTIAL",
-    "course_notes": null,
+    "course_notes": "Thinker's course. Course management is a genuine differentiating skill. Distance on 13 and 15 specifically — bomber advantage real. Putting rewards course-specific understanding not generic Tour metrics. Experience weight is higher here than almost anywhere else. ARG and angles around greens matter enormously. Know where to miss and where NOT to miss on every hole. First timers get meaningful newcomer discount even with elite metrics.",
     "winning_score_estimate": null,
     "shot_shape_bias": null,
-    "rough_penalty": "MODERATE",
-    "angle_penalty": null,
-    "dominant_stat": null,
-    "course_type": "TIGHT",
+    "rough_penalty": "LOW",
+    "angle_penalty": "HIGH",
+    "dominant_stat": "BALANCED",
+    "course_type": "NEUTRAL",
     "course_avg_acc": 62.5
   },
   "weather": {
-    "last_updated": null,
-    "r1": {
-      "wind_mph": null,
-      "wind_dir": null,
-      "rain": null,
-      "temp": null,
-      "notes": null
-    },
-    "r2": {
-      "wind_mph": null,
-      "wind_dir": null,
-      "rain": null,
-      "temp": null,
-      "notes": null
-    },
-    "r3": {
-      "wind_mph": null,
-      "wind_dir": null,
-      "rain": null,
-      "temp": null,
-      "notes": null
-    },
-    "r4": {
-      "wind_mph": null,
-      "wind_dir": null,
-      "rain": null,
-      "temp": null,
-      "notes": null
-    },
-    "wave_split_matters": false,
+    "error": "geocoding_failed",
+    "location": "Augusta, GA",
     "bamford_forecast": null
   },
   "field": [
@@ -64,7 +36,7 @@
       "owgr_rank": 17,
       "player_name": "Aberg, Ludvig",
       "player_num": 52955,
-      "pre_tourn_pageviews": 832,
+      "pre_tourn_pageviews": 901,
       "teetimes": [],
       "tour_rank": "9"
     },
@@ -76,7 +48,7 @@
       "owgr_rank": 38,
       "player_name": "Berger, Daniel",
       "player_num": 40026,
-      "pre_tourn_pageviews": 172,
+      "pre_tourn_pageviews": 193,
       "teetimes": [],
       "tour_rank": "23"
     },
@@ -88,7 +60,7 @@
       "owgr_rank": 21,
       "player_name": "Bhatia, Akshay",
       "player_num": 56630,
-      "pre_tourn_pageviews": 429,
+      "pre_tourn_pageviews": 488,
       "teetimes": [],
       "tour_rank": "4"
     },
@@ -100,7 +72,7 @@
       "owgr_rank": 26,
       "player_name": "Bradley, Keegan",
       "player_num": 33141,
-      "pre_tourn_pageviews": 129,
+      "pre_tourn_pageviews": 145,
       "teetimes": [],
       "tour_rank": "135"
     },
@@ -112,7 +84,7 @@
       "owgr_rank": 47,
       "player_name": "Brennan, Michael",
       "player_num": 61522,
-      "pre_tourn_pageviews": 93,
+      "pre_tourn_pageviews": 99,
       "teetimes": [],
       "tour_rank": "129"
     },
@@ -124,7 +96,7 @@
       "owgr_rank": 18,
       "player_name": "Bridgeman, Jacob",
       "player_num": 60004,
-      "pre_tourn_pageviews": 478,
+      "pre_tourn_pageviews": 528,
       "teetimes": [],
       "tour_rank": "1"
     },
@@ -136,7 +108,7 @@
       "owgr_rank": 33,
       "player_name": "Burns, Sam",
       "player_num": 47504,
-      "pre_tourn_pageviews": 222,
+      "pre_tourn_pageviews": 249,
       "teetimes": [],
       "tour_rank": "35"
     },
@@ -148,7 +120,7 @@
       "owgr_rank": null,
       "player_name": "Cabrera, Angel",
       "player_num": 20848,
-      "pre_tourn_pageviews": 62,
+      "pre_tourn_pageviews": 69,
       "teetimes": [],
       "tour_rank": null
     },
@@ -160,7 +132,7 @@
       "owgr_rank": 112,
       "player_name": "Campbell, Brian",
       "player_num": 46443,
-      "pre_tourn_pageviews": 57,
+      "pre_tourn_pageviews": 61,
       "teetimes": [],
       "tour_rank": "178"
     },
@@ -172,7 +144,7 @@
       "owgr_rank": 35,
       "player_name": "Cantlay, Patrick",
       "player_num": 35450,
-      "pre_tourn_pageviews": 272,
+      "pre_tourn_pageviews": 308,
       "teetimes": [],
       "tour_rank": "52"
     },
@@ -184,7 +156,7 @@
       "owgr_rank": 78,
       "player_name": "Clark, Wyndham",
       "player_num": 51766,
-      "pre_tourn_pageviews": 146,
+      "pre_tourn_pageviews": 157,
       "teetimes": [],
       "tour_rank": "102"
     },
@@ -196,7 +168,7 @@
       "owgr_rank": 44,
       "player_name": "Conners, Corey",
       "player_num": 39997,
-      "pre_tourn_pageviews": 368,
+      "pre_tourn_pageviews": 417,
       "teetimes": [],
       "tour_rank": "66"
     },
@@ -208,7 +180,7 @@
       "owgr_rank": null,
       "player_name": "Couples, Fred",
       "player_num": 1226,
-      "pre_tourn_pageviews": 62,
+      "pre_tourn_pageviews": 64,
       "teetimes": [],
       "tour_rank": null
     },
@@ -220,7 +192,7 @@
       "owgr_rank": 41,
       "player_name": "Day, Jason",
       "player_num": 28089,
-      "pre_tourn_pageviews": 273,
+      "pre_tourn_pageviews": 312,
       "teetimes": [],
       "tour_rank": "45"
     },
@@ -232,7 +204,7 @@
       "owgr_rank": 24,
       "player_name": "DeChambeau, Bryson",
       "player_num": 47959,
-      "pre_tourn_pageviews": 701,
+      "pre_tourn_pageviews": 762,
       "teetimes": [],
       "tour_rank": null
     },
@@ -244,7 +216,7 @@
       "owgr_rank": 40,
       "player_name": "Echavarria, Nico",
       "player_num": 51349,
-      "pre_tourn_pageviews": 110,
+      "pre_tourn_pageviews": 121,
       "teetimes": [],
       "tour_rank": "17"
     },
@@ -256,7 +228,7 @@
       "owgr_rank": 20,
       "player_name": "English, Harris",
       "player_num": 34099,
-      "pre_tourn_pageviews": 303,
+      "pre_tourn_pageviews": 333,
       "teetimes": [],
       "tour_rank": "56"
     },
@@ -268,7 +240,7 @@
       "owgr_rank": null,
       "player_name": "Fang, Ethan",
       "player_num": 68932,
-      "pre_tourn_pageviews": 62,
+      "pre_tourn_pageviews": 71,
       "teetimes": [],
       "tour_rank": null
     },
@@ -280,7 +252,7 @@
       "owgr_rank": 6,
       "player_name": "Fitzpatrick, Matt",
       "player_num": 40098,
-      "pre_tourn_pageviews": 639,
+      "pre_tourn_pageviews": 709,
       "teetimes": [],
       "tour_rank": "3"
     },
@@ -292,7 +264,7 @@
       "owgr_rank": 4,
       "player_name": "Fleetwood, Tommy",
       "player_num": 30911,
-      "pre_tourn_pageviews": 650,
+      "pre_tourn_pageviews": 698,
       "teetimes": [],
       "tour_rank": "11"
     },
@@ -304,7 +276,7 @@
       "owgr_rank": 51,
       "player_name": "Fox, Ryan",
       "player_num": 29936,
-      "pre_tourn_pageviews": 182,
+      "pre_tourn_pageviews": 201,
       "teetimes": [],
       "tour_rank": "50"
     },
@@ -316,7 +288,7 @@
       "owgr_rank": 345,
       "player_name": "Garcia, Sergio",
       "player_num": 21209,
-      "pre_tourn_pageviews": 137,
+      "pre_tourn_pageviews": 155,
       "teetimes": [],
       "tour_rank": null
     },
@@ -328,7 +300,7 @@
       "owgr_rank": 29,
       "player_name": "Gerard, Ryan",
       "player_num": 59018,
-      "pre_tourn_pageviews": 157,
+      "pre_tourn_pageviews": 172,
       "teetimes": [],
       "tour_rank": "18"
     },
@@ -340,7 +312,7 @@
       "owgr_rank": 11,
       "player_name": "Gotterup, Chris",
       "player_num": 59095,
-      "pre_tourn_pageviews": 367,
+      "pre_tourn_pageviews": 414,
       "teetimes": [],
       "tour_rank": "5"
     },
@@ -352,7 +324,7 @@
       "owgr_rank": 59,
       "player_name": "Greyserman, Max",
       "player_num": 51977,
-      "pre_tourn_pageviews": 126,
+      "pre_tourn_pageviews": 142,
       "teetimes": [],
       "tour_rank": "103"
     },
@@ -364,7 +336,7 @@
       "owgr_rank": 16,
       "player_name": "Griffin, Ben",
       "player_num": 54591,
-      "pre_tourn_pageviews": 159,
+      "pre_tourn_pageviews": 174,
       "teetimes": [],
       "tour_rank": "82"
     },
@@ -376,7 +348,7 @@
       "owgr_rank": 62,
       "player_name": "Hall, Harry",
       "player_num": 57975,
-      "pre_tourn_pageviews": 185,
+      "pre_tourn_pageviews": 206,
       "teetimes": [],
       "tour_rank": "43"
     },
@@ -388,7 +360,7 @@
       "owgr_rank": 50,
       "player_name": "Harman, Brian",
       "player_num": 27644,
-      "pre_tourn_pageviews": 180,
+      "pre_tourn_pageviews": 194,
       "teetimes": [],
       "tour_rank": "60"
     },
@@ -400,7 +372,7 @@
       "owgr_rank": 31,
       "player_name": "Hatton, Tyrrell",
       "player_num": 34363,
-      "pre_tourn_pageviews": 327,
+      "pre_tourn_pageviews": 361,
       "teetimes": [],
       "tour_rank": null
     },
@@ -412,7 +384,7 @@
       "owgr_rank": 12,
       "player_name": "Henley, Russell",
       "player_num": 34098,
-      "pre_tourn_pageviews": 386,
+      "pre_tourn_pageviews": 430,
       "teetimes": [],
       "tour_rank": "29"
     },
@@ -424,7 +396,7 @@
       "owgr_rank": null,
       "player_name": "Herrington, Jackson",
       "player_num": 70148,
-      "pre_tourn_pageviews": 43,
+      "pre_tourn_pageviews": 53,
       "teetimes": [],
       "tour_rank": null
     },
@@ -436,7 +408,7 @@
       "owgr_rank": 36,
       "player_name": "Hojgaard, Nicolai",
       "player_num": 52453,
-      "pre_tourn_pageviews": 302,
+      "pre_tourn_pageviews": 348,
       "teetimes": [],
       "tour_rank": "20"
     },
@@ -448,7 +420,7 @@
       "owgr_rank": 57,
       "player_name": "Hojgaard, Rasmus",
       "player_num": 52686,
-      "pre_tourn_pageviews": 171,
+      "pre_tourn_pageviews": 183,
       "teetimes": [],
       "tour_rank": "83"
     },
@@ -460,7 +432,7 @@
       "owgr_rank": null,
       "player_name": "Holtz, Brandon",
       "player_num": 70147,
-      "pre_tourn_pageviews": 33,
+      "pre_tourn_pageviews": 35,
       "teetimes": [],
       "tour_rank": null
     },
@@ -472,7 +444,7 @@
       "owgr_rank": 163,
       "player_name": "Homa, Max",
       "player_num": 39977,
-      "pre_tourn_pageviews": 203,
+      "pre_tourn_pageviews": 221,
       "teetimes": [],
       "tour_rank": "98"
     },
@@ -484,7 +456,7 @@
       "owgr_rank": 22,
       "player_name": "Hovland, Viktor",
       "player_num": 46717,
-      "pre_tourn_pageviews": 357,
+      "pre_tourn_pageviews": 399,
       "teetimes": [],
       "tour_rank": "53"
     },
@@ -496,7 +468,7 @@
       "owgr_rank": null,
       "player_name": "Howell, Mason",
       "player_num": 68607,
-      "pre_tourn_pageviews": 41,
+      "pre_tourn_pageviews": 47,
       "teetimes": [],
       "tour_rank": null
     },
@@ -508,7 +480,7 @@
       "owgr_rank": 71,
       "player_name": "Im, Sungjae",
       "player_num": 39971,
-      "pre_tourn_pageviews": 270,
+      "pre_tourn_pageviews": 290,
       "teetimes": [],
       "tour_rank": "105"
     },
@@ -520,7 +492,7 @@
       "owgr_rank": 70,
       "player_name": "Jarvis, Casey",
       "player_num": 57688,
-      "pre_tourn_pageviews": 147,
+      "pre_tourn_pageviews": 167,
       "teetimes": [],
       "tour_rank": null
     },
@@ -532,7 +504,7 @@
       "owgr_rank": null,
       "player_name": "Johnson, Dustin",
       "player_num": 30925,
-      "pre_tourn_pageviews": 153,
+      "pre_tourn_pageviews": 167,
       "teetimes": [],
       "tour_rank": null
     },
@@ -544,7 +516,7 @@
       "owgr_rank": 321,
       "player_name": "Johnson, Zach",
       "player_num": 24024,
-      "pre_tourn_pageviews": 106,
+      "pre_tourn_pageviews": 121,
       "teetimes": [],
       "tour_rank": "180"
     },
@@ -556,7 +528,7 @@
       "owgr_rank": 372,
       "player_name": "Kataoka, Naoyuki",
       "player_num": 46879,
-      "pre_tourn_pageviews": 55,
+      "pre_tourn_pageviews": 58,
       "teetimes": [],
       "tour_rank": null
     },
@@ -568,7 +540,7 @@
       "owgr_rank": 64,
       "player_name": "Keefer, Johnny",
       "player_num": 63454,
-      "pre_tourn_pageviews": 95,
+      "pre_tourn_pageviews": 104,
       "teetimes": [],
       "tour_rank": "67"
     },
@@ -580,7 +552,7 @@
       "owgr_rank": 43,
       "player_name": "Kim, Michael",
       "player_num": 39975,
-      "pre_tourn_pageviews": 267,
+      "pre_tourn_pageviews": 287,
       "teetimes": [],
       "tour_rank": "46"
     },
@@ -592,7 +564,7 @@
       "owgr_rank": 28,
       "player_name": "Kim, Si Woo",
       "player_num": 37455,
-      "pre_tourn_pageviews": 420,
+      "pre_tourn_pageviews": 462,
       "teetimes": [],
       "tour_rank": "15"
     },
@@ -604,7 +576,7 @@
       "owgr_rank": 34,
       "player_name": "Kitayama, Kurt",
       "player_num": 48117,
-      "pre_tourn_pageviews": 203,
+      "pre_tourn_pageviews": 229,
       "teetimes": [],
       "tour_rank": "28"
     },
@@ -616,7 +588,7 @@
       "owgr_rank": 42,
       "player_name": "Knapp, Jake",
       "player_num": 47420,
-      "pre_tourn_pageviews": 356,
+      "pre_tourn_pageviews": 400,
       "teetimes": [],
       "tour_rank": "12"
     },
@@ -628,7 +600,7 @@
       "owgr_rank": 169,
       "player_name": "Koepka, Brooks",
       "player_num": 36689,
-      "pre_tourn_pageviews": 323,
+      "pre_tourn_pageviews": 364,
       "teetimes": [],
       "tour_rank": "70"
     },
@@ -640,7 +612,7 @@
       "owgr_rank": null,
       "player_name": "Laopakdee, Fifa",
       "player_num": 70146,
-      "pre_tourn_pageviews": 32,
+      "pre_tourn_pageviews": 35,
       "teetimes": [],
       "tour_rank": null
     },
@@ -652,7 +624,7 @@
       "owgr_rank": 25,
       "player_name": "Lee, Min Woo",
       "player_num": 37378,
-      "pre_tourn_pageviews": 523,
+      "pre_tourn_pageviews": 572,
       "teetimes": [],
       "tour_rank": "8"
     },
@@ -664,7 +636,7 @@
       "owgr_rank": 84,
       "player_name": "Li, Haotong",
       "player_num": 35296,
-      "pre_tourn_pageviews": 126,
+      "pre_tourn_pageviews": 136,
       "teetimes": [],
       "tour_rank": "85"
     },
@@ -676,7 +648,7 @@
       "owgr_rank": 32,
       "player_name": "Lowry, Shane",
       "player_num": 33204,
-      "pre_tourn_pageviews": 248,
+      "pre_tourn_pageviews": 274,
       "teetimes": [],
       "tour_rank": "34"
     },
@@ -688,7 +660,7 @@
       "owgr_rank": 8,
       "player_name": "MacIntyre, Robert",
       "player_num": 52215,
-      "pre_tourn_pageviews": 627,
+      "pre_tourn_pageviews": 673,
       "teetimes": [],
       "tour_rank": "10"
     },
@@ -700,7 +672,7 @@
       "owgr_rank": 14,
       "player_name": "Matsuyama, Hideki",
       "player_num": 32839,
-      "pre_tourn_pageviews": 531,
+      "pre_tourn_pageviews": 573,
       "teetimes": [],
       "tour_rank": "16"
     },
@@ -712,7 +684,7 @@
       "owgr_rank": 49,
       "player_name": "McCarty, Matt",
       "player_num": 59141,
-      "pre_tourn_pageviews": 120,
+      "pre_tourn_pageviews": 130,
       "teetimes": [],
       "tour_rank": "48"
     },
@@ -724,7 +696,7 @@
       "owgr_rank": 2,
       "player_name": "McIlroy, Rory",
       "player_num": 28237,
-      "pre_tourn_pageviews": 492,
+      "pre_tourn_pageviews": 552,
       "teetimes": [],
       "tour_rank": "31"
     },
@@ -736,7 +708,7 @@
       "owgr_rank": 105,
       "player_name": "McKibbin, Tom",
       "player_num": 50823,
-      "pre_tourn_pageviews": 138,
+      "pre_tourn_pageviews": 152,
       "teetimes": [],
       "tour_rank": null
     },
@@ -748,7 +720,7 @@
       "owgr_rank": 27,
       "player_name": "McNealy, Maverick",
       "player_num": 46442,
-      "pre_tourn_pageviews": 292,
+      "pre_tourn_pageviews": 325,
       "teetimes": [],
       "tour_rank": "42"
     },
@@ -760,7 +732,7 @@
       "owgr_rank": 7,
       "player_name": "Morikawa, Collin",
       "player_num": 50525,
-      "pre_tourn_pageviews": 374,
+      "pre_tourn_pageviews": 409,
       "teetimes": [],
       "tour_rank": "6"
     },
@@ -772,7 +744,7 @@
       "owgr_rank": 69,
       "player_name": "Neergaard-Petersen, Rasmus",
       "player_num": 52689,
-      "pre_tourn_pageviews": 124,
+      "pre_tourn_pageviews": 132,
       "teetimes": [],
       "tour_rank": "152"
     },
@@ -784,7 +756,7 @@
       "owgr_rank": 19,
       "player_name": "Noren, Alex",
       "player_num": 27349,
-      "pre_tourn_pageviews": 198,
+      "pre_tourn_pageviews": 221,
       "teetimes": [],
       "tour_rank": "64"
     },
@@ -796,7 +768,7 @@
       "owgr_rank": 48,
       "player_name": "Novak, Andrew",
       "player_num": 51997,
-      "pre_tourn_pageviews": 136,
+      "pre_tourn_pageviews": 149,
       "teetimes": [],
       "tour_rank": "71"
     },
@@ -808,7 +780,7 @@
       "owgr_rank": null,
       "player_name": "Olazabal, Jose Maria",
       "player_num": 6373,
-      "pre_tourn_pageviews": 53,
+      "pre_tourn_pageviews": 55,
       "teetimes": [],
       "tour_rank": null
     },
@@ -820,7 +792,7 @@
       "owgr_rank": 161,
       "player_name": "Ortiz, Carlos",
       "player_num": 33667,
-      "pre_tourn_pageviews": 184,
+      "pre_tourn_pageviews": 206,
       "teetimes": [],
       "tour_rank": null
     },
@@ -832,7 +804,7 @@
       "owgr_rank": 37,
       "player_name": "Penge, Marco",
       "player_num": 51003,
-      "pre_tourn_pageviews": 188,
+      "pre_tourn_pageviews": 215,
       "teetimes": [],
       "tour_rank": "62"
     },
@@ -844,7 +816,7 @@
       "owgr_rank": 77,
       "player_name": "Potgieter, Aldrich",
       "player_num": 63343,
-      "pre_tourn_pageviews": 116,
+      "pre_tourn_pageviews": 131,
       "teetimes": [],
       "tour_rank": "44"
     },
@@ -856,7 +828,7 @@
       "owgr_rank": null,
       "player_name": "Pulcini, Mateo",
       "player_num": 70145,
-      "pre_tourn_pageviews": 29,
+      "pre_tourn_pageviews": 32,
       "teetimes": [],
       "tour_rank": null
     },
@@ -868,7 +840,7 @@
       "owgr_rank": 30,
       "player_name": "Rahm, Jon",
       "player_num": 46970,
-      "pre_tourn_pageviews": 928,
+      "pre_tourn_pageviews": 1028,
       "teetimes": [],
       "tour_rank": null
     },
@@ -880,7 +852,7 @@
       "owgr_rank": 39,
       "player_name": "Rai, Aaron",
       "player_num": 46414,
-      "pre_tourn_pageviews": 102,
+      "pre_tourn_pageviews": 126,
       "teetimes": [],
       "tour_rank": "124"
     },
@@ -892,7 +864,7 @@
       "owgr_rank": 23,
       "player_name": "Reed, Patrick",
       "player_num": 34360,
-      "pre_tourn_pageviews": 628,
+      "pre_tourn_pageviews": 689,
       "teetimes": [],
       "tour_rank": null
     },
@@ -904,7 +876,7 @@
       "owgr_rank": 46,
       "player_name": "Reitan, Kristoffer",
       "player_num": 49855,
-      "pre_tourn_pageviews": 121,
+      "pre_tourn_pageviews": 139,
       "teetimes": [],
       "tour_rank": "91"
     },
@@ -916,7 +888,7 @@
       "owgr_rank": 120,
       "player_name": "Riley, Davis",
       "player_num": 47995,
-      "pre_tourn_pageviews": 101,
+      "pre_tourn_pageviews": 109,
       "teetimes": [],
       "tour_rank": "114"
     },
@@ -928,7 +900,7 @@
       "owgr_rank": 9,
       "player_name": "Rose, Justin",
       "player_num": 22405,
-      "pre_tourn_pageviews": 397,
+      "pre_tourn_pageviews": 439,
       "teetimes": [],
       "tour_rank": "22"
     },
@@ -940,7 +912,7 @@
       "owgr_rank": 10,
       "player_name": "Schauffele, Xander",
       "player_num": 48081,
-      "pre_tourn_pageviews": 849,
+      "pre_tourn_pageviews": 946,
       "teetimes": [],
       "tour_rank": "13"
     },
@@ -952,7 +924,7 @@
       "owgr_rank": 1,
       "player_name": "Scheffler, Scottie",
       "player_num": 46046,
-      "pre_tourn_pageviews": 572,
+      "pre_tourn_pageviews": 638,
       "teetimes": [],
       "tour_rank": "7"
     },
@@ -964,7 +936,7 @@
       "owgr_rank": null,
       "player_name": "Schwartzel, Charl",
       "player_num": 26331,
-      "pre_tourn_pageviews": 86,
+      "pre_tourn_pageviews": 93,
       "teetimes": [],
       "tour_rank": null
     },
@@ -976,7 +948,7 @@
       "owgr_rank": 53,
       "player_name": "Scott, Adam",
       "player_num": 24502,
-      "pre_tourn_pageviews": 443,
+      "pre_tourn_pageviews": 514,
       "teetimes": [],
       "tour_rank": "25"
     },
@@ -988,7 +960,7 @@
       "owgr_rank": null,
       "player_name": "Singh, Vijay",
       "player_num": 6567,
-      "pre_tourn_pageviews": 56,
+      "pre_tourn_pageviews": 65,
       "teetimes": [],
       "tour_rank": "176"
     },
@@ -1000,7 +972,7 @@
       "owgr_rank": 222,
       "player_name": "Smith, Cameron",
       "player_num": 35891,
-      "pre_tourn_pageviews": 323,
+      "pre_tourn_pageviews": 352,
       "teetimes": [],
       "tour_rank": null
     },
@@ -1012,7 +984,7 @@
       "owgr_rank": 5,
       "player_name": "Spaun, J.J.",
       "player_num": 39324,
-      "pre_tourn_pageviews": 590,
+      "pre_tourn_pageviews": 635,
       "teetimes": [],
       "tour_rank": "24"
     },
@@ -1024,7 +996,7 @@
       "owgr_rank": 61,
       "player_name": "Spieth, Jordan",
       "player_num": 34046,
-      "pre_tourn_pageviews": 480,
+      "pre_tourn_pageviews": 535,
       "teetimes": [],
       "tour_rank": "36"
     },
@@ -1036,7 +1008,7 @@
       "owgr_rank": 45,
       "player_name": "Stevens, Sam",
       "player_num": 55893,
-      "pre_tourn_pageviews": 204,
+      "pre_tourn_pageviews": 227,
       "teetimes": [],
       "tour_rank": "40"
     },
@@ -1048,7 +1020,7 @@
       "owgr_rank": 13,
       "player_name": "Straka, Sepp",
       "player_num": 49960,
-      "pre_tourn_pageviews": 286,
+      "pre_tourn_pageviews": 314,
       "teetimes": [],
       "tour_rank": "14"
     },
@@ -1060,7 +1032,7 @@
       "owgr_rank": 67,
       "player_name": "Taylor, Nick",
       "player_num": 25493,
-      "pre_tourn_pageviews": 200,
+      "pre_tourn_pageviews": 210,
       "teetimes": [],
       "tour_rank": "57"
     },
@@ -1072,7 +1044,7 @@
       "owgr_rank": 15,
       "player_name": "Thomas, Justin",
       "player_num": 33448,
-      "pre_tourn_pageviews": 256,
+      "pre_tourn_pageviews": 289,
       "teetimes": [],
       "tour_rank": "65"
     },
@@ -1084,7 +1056,7 @@
       "owgr_rank": 56,
       "player_name": "Valimaki, Sami",
       "player_num": 52666,
-      "pre_tourn_pageviews": 107,
+      "pre_tourn_pageviews": 121,
       "teetimes": [],
       "tour_rank": "110"
     },
@@ -1096,7 +1068,7 @@
       "owgr_rank": null,
       "player_name": "Watson, Bubba",
       "player_num": 25804,
-      "pre_tourn_pageviews": 129,
+      "pre_tourn_pageviews": 141,
       "teetimes": [],
       "tour_rank": null
     },
@@ -1108,7 +1080,7 @@
       "owgr_rank": null,
       "player_name": "Weir, Mike",
       "player_num": 10423,
-      "pre_tourn_pageviews": 43,
+      "pre_tourn_pageviews": 49,
       "teetimes": [],
       "tour_rank": null
     },
@@ -1120,7 +1092,7 @@
       "owgr_rank": 400,
       "player_name": "Willett, Danny",
       "player_num": 32139,
-      "pre_tourn_pageviews": 87,
+      "pre_tourn_pageviews": 96,
       "teetimes": [],
       "tour_rank": "175"
     },
@@ -1132,7 +1104,7 @@
       "owgr_rank": 52,
       "player_name": "Woodland, Gary",
       "player_num": 31323,
-      "pre_tourn_pageviews": 159,
+      "pre_tourn_pageviews": 175,
       "teetimes": [],
       "tour_rank": "26"
     },
@@ -1144,7 +1116,7 @@
       "owgr_rank": 3,
       "player_name": "Young, Cameron",
       "player_num": 57366,
-      "pre_tourn_pageviews": 690,
+      "pre_tourn_pageviews": 760,
       "teetimes": [],
       "tour_rank": "2"
     }
@@ -2071,7 +2043,7 @@
     "credits_used_this_month": 0
   },
   "dg_predictions": {
-    "last_updated": "2026-04-06T10:06:05.621582-04:00",
+    "last_updated": "2026-04-06T10:25:39.780578-04:00",
     "by_player": {
       "Ludvig Aberg": {
         "win": 0.0467166666666667,
@@ -3132,7 +3104,7 @@
     }
   },
   "skill_ratings": {
-    "last_updated": "2026-04-06T10:06:05.621519-04:00",
+    "last_updated": "2026-04-06T10:25:39.780478-04:00",
     "by_player": {
       "Scottie Scheffler": {
         "sg_putt": 0.568,
@@ -9213,7 +9185,7 @@
     }
   },
   "approach_skill": {
-    "last_updated": "2026-04-06T10:06:05.621551-04:00",
+    "last_updated": "2026-04-06T10:25:39.780535-04:00",
     "by_player": {}
   },
   "course_history": {
@@ -9235,6 +9207,16 @@
         "source": "Ben Coley",
         "title": "European Tour & PGA Tour betting previews, tips, news, reports and scores - Sporting Life",
         "time": "2026-04-06T10:06:20.571326-04:00"
+      },
+      {
+        "source": "Steve Bamford",
+        "title": "Golf Betting Tips This Week: The Masters Tips 2026",
+        "time": "2026-04-06T10:25:55.123176-04:00"
+      },
+      {
+        "source": "Ben Coley",
+        "title": "European Tour & PGA Tour betting previews, tips, news, reports and scores - Sporting Life",
+        "time": "2026-04-06T10:25:55.123214-04:00"
       }
     ],
     "blocked": [
@@ -9273,6 +9255,42 @@
         "url": "https://sharpside.ai/golf",
         "reason": "not_found_404",
         "time": "2026-04-06T10:06:20.571634-04:00"
+      },
+      {
+        "source": "Haslbauer",
+        "url": "https://www.lineups.com/golf/picks",
+        "reason": "http_403",
+        "time": "2026-04-06T10:25:55.123225-04:00"
+      },
+      {
+        "source": "Haslbauer",
+        "url": "https://www.lineups.com/golf/matchups",
+        "reason": "http_403",
+        "time": "2026-04-06T10:25:55.123296-04:00"
+      },
+      {
+        "source": "Steve Rawlings",
+        "url": "https://betting.betfair.com/golf",
+        "reason": "http_403",
+        "time": "2026-04-06T10:25:55.123343-04:00"
+      },
+      {
+        "source": "Dave Tindall",
+        "url": "https://betting.betfair.com/golf",
+        "reason": "http_403",
+        "time": "2026-04-06T10:25:55.123387-04:00"
+      },
+      {
+        "source": "Tom Jacobs",
+        "url": "https://www.oddschecker.com/golf",
+        "reason": "http_403",
+        "time": "2026-04-06T10:25:55.123432-04:00"
+      },
+      {
+        "source": "Sharpside / Matt Gannon",
+        "url": "https://sharpside.ai/golf",
+        "reason": "not_found_404",
+        "time": "2026-04-06T10:25:55.123475-04:00"
       }
     ],
     "key_narratives": [
@@ -9291,10 +9309,31 @@
         "text": "Fast Results Scores Racecards NEW Free Bets Log In Join | Sports Home Golf Darts Snooker Cricket Tennis Boxing Other Sports NFL Sporting Life Horse Racing Football Tips Greyhounds Sports Free Bets new Fast Results Scores Racecards NEW Free Bets Log In Join | Sports Home Golf Darts Snooker Cricket Tennis Boxing Other Sports NFL Golf Latest Golf 4h ago The Masters: Player-by-player guide Ben Coley provides a player-by-player guide to the entire field for the Masters Tournament at Augusta National, from Ludvig Aberg to Cameron Young. Golf 4d ago The Masters: Stats and in-play guide The Masters begins on Thursday, but opportunities to profit from the first men's major of the year are far from over once those first shots are struck. Golf 4d ago Augusta National course guide Prepare for the start of the Masters with our hole-by-hole guide to Augusta National, including scoring averages, hole rankings, and more. Golf 1w ago Ben Coley's golf tipping record Golf 4d ago Home comforts to count for Keefer Golf 1w ago Not all over in Houston Golf 2w ago Lift-off for young stars in Houston Golf 2w ago Swift double for Fitzpatrick family Golf 1w ago Can anyone catch Chacarra? Golf 2w ago If the hat Fitz...... Golf 3w ago Compensation for classy Cantlay Golf 3w ago Angel looks heaven sent Golf 3w ago The Players: Round four preview Show More MOST READ Join for Free Get exclusive Willie Mullins insight, plus access to premium articles, expert tips and Timeform data, plus more... Join for Free Log in Discover Sporting Life Plus benefits Next Off Fixtures & Results Fetching latest games...."
       }
     ],
-    "last_sweep": "2026-04-06T10:06:20.571688-04:00"
+    "last_sweep": "2026-04-06T10:25:55.123517-04:00",
+    "prior_year_course_structure": {
+      "course_narrative": [],
+      "key_stats": [],
+      "winning_score_refs": [],
+      "weather_patterns": [],
+      "discarded_player_notes": 2,
+      "source_log": [
+        {
+          "source": "Steve Bamford",
+          "paragraphs_kept": 0,
+          "paragraphs_discarded": 1
+        },
+        {
+          "source": "Ben Coley",
+          "paragraphs_kept": 0,
+          "paragraphs_discarded": 1
+        }
+      ],
+      "staleness_warning": "⚠️  PRIOR YEAR CONTENT: Course structure only. All player-specific notes are from last year and have been discarded. Do not use for current player assessment."
+    },
+    "prior_year_summary_text": "═══════════════════════════════════════════════════════════════\nPRIOR YEAR COURSE BREAKDOWN (structural only — player notes discarded)\n⚠️  PRIOR YEAR CONTENT: Course structure only. All player-specific notes are from last year and have been discarded. Do not use for current player assessment.\n═══════════════════════════════════════════════════════════════\nPlayer-specific paragraphs discarded: 2"
   },
   "analysis": {
-    "briefing_paragraph": null,
+    "briefing_paragraph": "Augusta National is the most course-specific event on the calendar, and the framework applies here differently than almost anywhere else. The dominant stat designation is BALANCED, but that's a slight oversimplification of what actually wins here — what Augusta rewards is ball-striking quality that holds up under pressure, specifically the ability to control trajectory and shape on approach shots into elevated, contoured greens. SG:APP is the engine, but the *type* of APP matters. You need precise distance control, the ability to hold specific quadrants of these greens, and the discipline to take the course's preferred angles even when ego pushes the other way. SG:OTT matters most on the par-5s — 13 and 15 specifically, where the bomber advantage is real and documented — and the Angle Penalty being flagged HIGH tells me that tee shot placement is genuinely differentiating this week. You can't spray it and survive here the way you might at a low-rough, wide-open course. The Distance Multiplier being PARTIAL rather than FULL is important — you don't need to be the longest hitter in the field, but you need enough length to get into position on those par-5s and take aggressive angles on the par-4s. A medium-length accurate driver with elite iron play is arguably the ideal profile, not a pure bomber who can't shape the ball. The experience weight note in the course setup is one I take seriously more here than anywhere. First-timers get a meaningful discount even if their metrics are elite. Augusta National is a course where knowledge compounds — knowing that you can't short-side yourself on 9, knowing how to play the second shot on 11, knowing the wind patterns through the trees on 12, knowing when to attack the back pin on 16 and when to take the middle of the green. This is a course where Rory McIlroy spent over a decade with elite ball-striking metrics before finally breaking through, and that experience story matters. The putting piece is volatile here in a specific way — Augusta's greens don't reward generic Tour putting stats. You need to read these specific slopes, these specific speeds, and there's a course-knowledge component to putting performance here that doesn't exist on most Tour venues. I'm not fading anyone's putting at Augusta based on generic SG:PUTT numbers alone, and I'm not promoting anyone purely because they're a good putter elsewhere. The framework applies here, but with those Augusta-specific filters layered on top. ---",
     "overall_ranking": [],
     "value_ranking": [
       {
@@ -9389,14 +9428,356 @@
       }
     ],
     "tiers": {
-      "S": [],
+      "S": [
+        {
+          "player": "These are the players whose game architecture fits Augusta at the highest level and who have the experience to execute under pressure on this course. Without current SG data I can't confirm recent form, but these are the profiles I'm starting from.",
+          "reason": ""
+        },
+        {
+          "player": "Players whose game profiles historically belong in this conversation:**",
+          "reason": ""
+        },
+        {
+          "player": "Scottie Scheffler",
+          "reason": ""
+        },
+        {
+          "player": "Rory McIlroy",
+          "reason": ""
+        },
+        {
+          "player": "Jon Rahm",
+          "reason": ""
+        },
+        {
+          "player": "Ludvig Åberg",
+          "reason": ""
+        },
+        {
+          "player": "A-TIER",
+          "reason": ""
+        },
+        {
+          "player": "Collin Morikawa",
+          "reason": ""
+        },
+        {
+          "player": "Xander Schauffele",
+          "reason": ""
+        },
+        {
+          "player": "Tommy Fleetwood",
+          "reason": ""
+        },
+        {
+          "player": "Brooks Koepka",
+          "reason": ""
+        },
+        {
+          "player": "Viktor Hovland",
+          "reason": ""
+        },
+        {
+          "player": "Patrick Cantlay",
+          "reason": ""
+        },
+        {
+          "player": "B-TIER",
+          "reason": ""
+        },
+        {
+          "player": "Bryson DeChambeau",
+          "reason": ""
+        },
+        {
+          "player": "Justin Thomas",
+          "reason": ""
+        },
+        {
+          "player": "Tony Finau",
+          "reason": ""
+        },
+        {
+          "player": "Will Zalatoris",
+          "reason": ""
+        },
+        {
+          "player": "Shane Lowry",
+          "reason": ""
+        },
+        {
+          "player": "Matt Fitzpatrick",
+          "reason": ""
+        },
+        {
+          "player": "Hideki Matsuyama",
+          "reason": ""
+        },
+        {
+          "player": "Cameron Smith",
+          "reason": ""
+        },
+        {
+          "player": "Max Homa",
+          "reason": ""
+        },
+        {
+          "player": "Russell Henley",
+          "reason": ""
+        },
+        {
+          "player": "C-TIER",
+          "reason": ""
+        },
+        {
+          "player": "First-time Augusta participants regardless of world ranking",
+          "reason": ""
+        },
+        {
+          "player": "Shorter hitters who can't access the par-5s in regulation",
+          "reason": ""
+        },
+        {
+          "player": "Players whose recent form is unknown and whose Augusta track record is limited",
+          "reason": ""
+        },
+        {
+          "player": "Players whose primary strength is putting rather than ball-striking (volatile advantage at Augusta)",
+          "reason": ""
+        }
+      ],
       "A": [],
       "B": [],
       "C": [],
-      "FADE": []
+      "FADE": [
+        {
+          "player": "Any player coming in on a form slump with no Augusta-specific upside",
+          "reason": ""
+        },
+        {
+          "player": "Bombers-only profiles who can't shape shots or manage angles",
+          "reason": ""
+        },
+        {
+          "player": "Elite putters with mediocre ball-striking (market trap alert",
+          "reason": ""
+        },
+        {
+          "player": "### MARKET TRAP FLAGS",
+          "reason": ""
+        },
+        {
+          "player": "Trap #1: The Elite Putter Without Ball-Striking**",
+          "reason": ""
+        },
+        {
+          "player": "Trap #2: The Bomber-Only Profile**",
+          "reason": ""
+        },
+        {
+          "player": "Distance matters at 13 and 15, but the Angle Penalty HIGH designation means wild off the tee is genuinely punishing at Augusta. Pure distance without accuracy and shot-shaping doesn't win here. Any player whose primary profile is length without precision is worth fading at inflated odds.",
+          "reason": ""
+        },
+        {
+          "player": "Trap #3: The Sentimental Narrative Player**",
+          "reason": ""
+        },
+        {
+          "player": "Augusta generates more sentimental narratives than any other major. Players returning from injury, players chasing career slams, players with \"redemption\" stories. The market prices these narratives in. I don't. I'm looking at ball-striking quality and course fit. If the narrative player has the game, great. If it's narrative without the ball-striking foundation, it's a market trap.",
+          "reason": ""
+        },
+        {
+          "player": "Trap #4: High-Profile First-Timers**",
+          "reason": ""
+        },
+        {
+          "player": "Any young star making their Augusta debut who is being priced as a genuine short-price contender based purely on world ranking and recent form data. The newcomer discount is real. I'll apply it.",
+          "reason": ""
+        },
+        {
+          "player": "### FALLEN STARS",
+          "reason": ""
+        },
+        {
+          "player": "Without current SG data I can't confirm this, but these are the profiles I'll be checking when data arrives:",
+          "reason": ""
+        },
+        {
+          "player": "**Justin Thomas**",
+          "reason": ""
+        },
+        {
+          "player": "**Jon Rahm**",
+          "reason": ""
+        },
+        {
+          "player": "**Hideki Matsuyama**",
+          "reason": ""
+        },
+        {
+          "player": "## SECTION 3",
+          "reason": ""
+        },
+        {
+          "player": "### Augusta National First Round Tendencies (Framework Knowledge)",
+          "reason": ""
+        },
+        {
+          "player": "First round at Augusta has some structural tendencies worth noting before wave assignments are confirmed:",
+          "reason": ""
+        },
+        {
+          "player": "Players who tend to score well in R1 at Augusta:**",
+          "reason": ""
+        },
+        {
+          "player": "**Experienced Augusta veterans in the early/calm wave**",
+          "reason": ""
+        },
+        {
+          "player": "**Elite APP players who are aggressive but controlled**",
+          "reason": ""
+        },
+        {
+          "player": "**Players who don't need a warmup period at this course**",
+          "reason": ""
+        },
+        {
+          "player": "FRL Profile Checklist (apply when stats arrive):**",
+          "reason": ""
+        },
+        {
+          "player": "Multiple Augusta starts",
+          "reason": ""
+        },
+        {
+          "player": "Not notorious for slow tournament starts",
+          "reason": ""
+        },
+        {
+          "player": "Wave assignment in favorable morning conditions if weather is a factor",
+          "reason": ""
+        },
+        {
+          "player": "Emotionally stable entering the week (no major press distractions)",
+          "reason": ""
+        },
+        {
+          "player": "Early FRL Names I'll Be Watching (pending stats and wave draw):**",
+          "reason": ""
+        },
+        {
+          "player": "Scottie Scheffler",
+          "reason": ""
+        },
+        {
+          "player": "Rory McIlroy",
+          "reason": ""
+        },
+        {
+          "player": "Collin Morikawa",
+          "reason": ""
+        },
+        {
+          "player": "Tommy Fleetwood",
+          "reason": ""
+        },
+        {
+          "player": "Full FRL card requires wave assignments and actual form data. Will revisit Thursday morning.*",
+          "reason": ""
+        },
+        {
+          "player": "## SECTION 4",
+          "reason": ""
+        },
+        {
+          "player": "### ⚠️ COMPLETELY SEPARATE FROM BETTING CARD. ODDS IRRELEVANT.",
+          "reason": ""
+        },
+        {
+          "player": "Event Tier: MAJOR**",
+          "reason": ""
+        },
+        {
+          "player": "Pool strategy at a major is different from regular events. The field is smaller and the relevant pool population is higher",
+          "reason": ""
+        },
+        {
+          "player": "Scottie Scheffler**",
+          "reason": ""
+        },
+        {
+          "player": "The reasoning is straightforward. He's the world number one, he's a defending champion at this venue, his game profile fits Augusta as well as anyone's, and he's the kind of player whose floor at Augusta is higher than almost anyone else. In a pool context where I'm trying to identify the most likely winner without worrying about price, Scheffler is the answer based on everything I know about his game and this course. He controls the ball, manages the course intelligently, his APP is elite, and he's not someone who gets rattled at Augusta.",
+          "reason": ""
+        },
+        {
+          "player": "The case against him in a pool is purely strategic",
+          "reason": ""
+        },
+        {
+          "player": "AVAILABLE PLAYS (Pool",
+          "reason": ""
+        },
+        {
+          "player": "Scottie Scheffler",
+          "reason": ""
+        },
+        {
+          "player": "Rory McIlroy",
+          "reason": ""
+        },
+        {
+          "player": "Jon Rahm",
+          "reason": ""
+        },
+        {
+          "player": "Ludvig Åberg",
+          "reason": ""
+        },
+        {
+          "player": "Collin Morikawa",
+          "reason": ""
+        },
+        {
+          "player": "Xander Schauffele",
+          "reason": ""
+        },
+        {
+          "player": "Tommy Fleetwood",
+          "reason": ""
+        },
+        {
+          "player": "Viktor Hovland",
+          "reason": ""
+        },
+        {
+          "player": "Brooks Koepka",
+          "reason": ""
+        },
+        {
+          "player": "Justin Thomas",
+          "reason": ""
+        },
+        {
+          "player": "TRAP PLAYS TO AVOID IN POOLS:**",
+          "reason": ""
+        },
+        {
+          "player": "**The sentimental narrative player**",
+          "reason": ""
+        },
+        {
+          "player": "**First-time Augusta participants in large pools**",
+          "reason": ""
+        },
+        {
+          "player": "**Elite putting / weak ball-striking profiles**",
+          "reason": ""
+        }
+      ]
     },
     "player_notes": {},
-    "last_updated": "2026-04-06T10:07:45.839377-04:00"
+    "last_updated": "2026-04-06T10:28:06.815020-04:00"
   },
   "bet_card": {
     "outrights": [],
@@ -9406,19 +9787,25 @@
     "last_updated": null
   },
   "pool": {
-    "event_name": null,
-    "event_tier": "REGULAR",
-    "tier_note": "Regular event ($8-10M) — middle-tier pool strategy. Save elite uses for Signatures.",
+    "event_name": "Masters Tournament",
+    "event_tier": "MAJOR",
+    "tier_note": "Major event. Masters purse smaller than Signatures — factor into usage decisions. LIV players: Masters is one of only 4 PGA-eligible events — consider strategic deployment.",
     "primary_pick": null,
     "available_plays": [],
     "trap_plays": [],
     "usage_tracker": {},
     "exhausted_players": [],
     "season_usage_table": [],
-    "strategy_note": "Regular event pool value from middle tier: Spieth/Kirk/Henley/Fleetwood tier — too good to ignore but not elite enough to dominate Signatures."
+    "strategy_note": "Deploy LIV players strategically — may be only shot all season. Masters-specific: course fit and experience matter as much as general skill ranking."
   },
   "flags": {
     "blocked_articles": [
+      "BLOCKED: Haslbauer (lineups.com) — http_403 — https://www.lineups.com/golf/picks",
+      "BLOCKED: Haslbauer (lineups.com) — http_403 — https://www.lineups.com/golf/matchups",
+      "BLOCKED: Steve Rawlings (betfair.com) — http_403 — https://betting.betfair.com/golf",
+      "BLOCKED: Dave Tindall (betfair.com) — http_403 — https://betting.betfair.com/golf",
+      "BLOCKED: Tom Jacobs (oddschecker.com) — http_403 — https://www.oddschecker.com/golf",
+      "BLOCKED: Sharpside / Matt Gannon (sharpside.ai) — not_found_404 — https://sharpside.ai/golf",
       "BLOCKED: Haslbauer (lineups.com) — http_403 — https://www.lineups.com/golf/picks",
       "BLOCKED: Haslbauer (lineups.com) — http_403 — https://www.lineups.com/golf/matchups",
       "BLOCKED: Steve Rawlings (betfair.com) — http_403 — https://betting.betfair.com/golf",
@@ -9430,11 +9817,142 @@
       " — no odds found at 2026-04-06T09:58:24.323830-04:00"
     ],
     "data_anomalies": [],
-    "analysis_uncertainties": [],
+    "analysis_uncertainties": [
+      "[Claude] ## ⚠️ CRITICAL DATA FLAGS — READ BEFORE ANYTHING ELSE",
+      "[Claude] Before I get into the analysis, I need to be completely transparent about the state of this data package, because it materially affects what I can and cannot deliver tonight.",
+      "[Claude] **Field data: COMPLETELY MISSING.** Every single player in the top 50 came back as \"Unknown\" with N/A across all stat columns — Distance, SG:APP, SG:OTT, T2G, SG:PUTT, DG Win%, Designation. All 50 rows. This is a full data feed failure, not a partial gap. I have zero SG data, zero distance data, zero recent form metrics to work with.",
+      "[Claude] **Article content: LARGELY BLOCKED.** Six of the twelve articles attempted returned 403 or 404 errors — that's Haslbauer (×4), Steve Rawlings (×2), Dave Tindall (×2), Tom Jacobs (×2), and Matt Gannon/Sharpside (×2). The two articles that did process — Steve Bamford and Ben Coley — returned navigation/paywall pages with essentially no usable analytical content. Bamford's extract is a free bets advertisement. Coley's extract is a site navigation menu. Neither delivered player analysis.",
+      "[Claude] **What this means:** I'm operating tonight on course architecture knowledge, Augusta National structural principles, and my training on the Masters as a betting event. No SG data. No recent form. No expert article inputs. I'll deliver the best possible Sunday Night briefing under these constraints, but I'll be explicit throughout about where I'm working from framework knowledge vs. hard data. Odds arrive Monday — I need clean data before the final card Wednesday.",
+      "[Claude] ## SECTION 1 — BRIEFING PARAGRAPH",
+      "[Claude] Augusta National is the most course-specific event on the calendar, and the framework applies here differently than almost anywhere else. The dominant stat designation is BALANCED, but that's a slight oversimplification of what actually wins here — what Augusta rewards is ball-striking quality that holds up under pressure, specifically the ability to control trajectory and shape on approach shots into elevated, contoured greens. SG:APP is the engine, but the *type* of APP matters. You need precise distance control, the ability to hold specific quadrants of these greens, and the discipline to take the course's preferred angles even when ego pushes the other way. SG:OTT matters most on the par-5s — 13 and 15 specifically, where the bomber advantage is real and documented — and the Angle Penalty being flagged HIGH tells me that tee shot placement is genuinely differentiating this week. You can't spray it and survive here the way you might at a low-rough, wide-open course. The Distance Multiplier being PARTIAL rather than FULL is important — you don't need to be the longest hitter in the field, but you need enough length to get into position on those par-5s and take aggressive angles on the par-4s. A medium-length accurate driver with elite iron play is arguably the ideal profile, not a pure bomber who can't shape the ball.",
+      "[Claude] The experience weight note in the course setup is one I take seriously more here than anywhere. First-timers get a meaningful discount even if their metrics are elite. Augusta National is a course where knowledge compounds — knowing that you can't short-side yourself on 9, knowing how to play the second shot on 11, knowing the wind patterns through the trees on 12, knowing when to attack the back pin on 16 and when to take the middle of the green. This is a course where Rory McIlroy spent over a decade with elite ball-striking metrics before finally breaking through, and that experience story matters. The putting piece is volatile here in a specific way — Augusta's greens don't reward generic Tour putting stats. You need to read these specific slopes, these specific speeds, and there's a course-knowledge component to putting performance here that doesn't exist on most Tour venues. I'm not fading anyone's putting at Augusta based on generic SG:PUTT numbers alone, and I'm not promoting anyone purely because they're a good putter elsewhere. The framework applies here, but with those Augusta-specific filters layered on top.",
+      "[Claude] ## SECTION 2 — INITIAL PLAYER RANKINGS",
+      "[Claude] ### ⚠️ DATA CONSTRAINT NOTICE",
+      "[Claude] No SG data is available this run. Rankings below are built entirely on Augusta National course fit profile, historical performance patterns at this venue, and experience/game-type alignment. This is a framework-and-knowledge ranking, not a data-driven ranking. Treat accordingly. When stats arrive Monday, every tier assignment below should be stress-tested against actual recent form numbers.",
+      "[Claude] ### IDEAL AUGUSTA NATIONAL PLAYER PROFILE (Framework Baseline)",
+      "[Claude] Before tiers, here's what I'm selecting for — the profile that fits Augusta:",
+      "[Claude] - **Distance:** Enough. Not necessarily the longest, but 295+ carry average preferred for par-5 access",
+      "[Claude] - **SG:APP:** Elite. This is the non-negotiable. Augusta's greens are too demanding and too penalizing for mediocre iron players to compete",
+      "[Claude] - **SG:OTT:** Solid to elite. Angle Penalty HIGH means wayward off the tee creates impossible recovery situations",
+      "[Claude] - **Trajectory/Shape control:** Critical. These greens require precise flight and specific angles of approach",
+      "[Claude] - **Experience:** Major differentiator at Augusta specifically. Multi-year participants get a bump. First-timers get a discount regardless of metrics",
+      "[Claude] - **Putting:** Volatile. Augusta-specific putting skill > generic Tour SG:PUTT. Don't over-weight",
+      "[Claude] ### TIER ASSIGNMENTS (Course Fit + Known Game Profile | No Current Form Data)",
+      "[Claude] **S-TIER — Elite Course Fit, High Floor, Legitimate Win Candidate**",
+      "[Claude] *Note: S-Tier at Augusta requires the combination of elite ball-striking profile AND meaningful Augusta experience. You don't get in this tier on metrics alone.*",
+      "[Claude] These are the players whose game architecture fits Augusta at the highest level and who have the experience to execute under pressure on this course. Without current SG data I can't confirm recent form, but these are the profiles I'm starting from.",
+      "[Claude] **Players whose game profiles historically belong in this conversation:**",
+      "[Claude] - Scottie Scheffler — World No. 1, elite APP, elite course management, multiple Augusta appearances, defending champion profile. The most complete player in the world right now by almost every measure. S-Tier until the data tells me otherwise.",
+      "[Claude] - Rory McIlroy — If current form holds, the most complete ball-striker in the field. The experience question is answered after his 2025 breakthrough. S-Tier profile, but needs current form confirmation.",
+      "[Claude] - Jon Rahm — Elite iron player, length, Augusta experience. Game fits perfectly. Current form and motivation are the question marks.",
+      "[Claude] - Ludvig Åberg — Exceptional ball-striking for his age and experience. The newcomer discount applies less than it would for most because his game is so mature, but first major wins at Augusta are rare. Probably A-Tier because of the experience ceiling but worth watching.",
+      "[Claude] **A-TIER — Strong Course Fit, One Meaningful Question Mark**",
+      "[Claude] - Collin Morikawa — Elite iron play, but Augusta puts a premium on length at the par-5s where he's not as dominant. Ball-striking profile fits. Experience accumulated. A-Tier.",
+      "[Claude] - Xander Schauffele — Major champion, elite all-around game, good Augusta track record. A-Tier.",
+      "[Claude] - Tommy Fleetwood — Iron play is exceptional, has shown he can compete at Augusta. Needs putting to cooperate. A-Tier.",
+      "[Claude] - Brooks Koepka — Augusta suits his major-mode game. Distance, composure, experience. Form is the question.",
+      "[Claude] - Viktor Hovland — Ball-striking ability fits. Putting at Augusta has been the historical concern. A-Tier with a putting caveat.",
+      "[Claude] - Patrick Cantlay — Methodical, excellent course management, good Augusta profile. A-Tier.",
+      "[Claude] **B-TIER — Playable Course Fit, Legitimate But Not Ideal Profile**",
+      "[Claude] - Bryson DeChambeau — The ultimate bomber but Augusta is more nuanced than pure power. Ball-striking quality and short game need to show up. B-Tier until I see current form data.",
+      "[Claude] - Justin Thomas — Former winner, Augusta experience, but recent form has been inconsistent. B-Tier, upside if form has returned.",
+      "[Claude] - Tony Finau — Bomber, can get hot, but course management questions at Augusta have always limited his ceiling. B-Tier.",
+      "[Claude] - Will Zalatoris — Elite APP, struggled to convert at Augusta before, but the game fits. B-Tier.",
+      "[Claude] - Shane Lowry — Hits it well enough, great scrambler, but Augusta may be slightly above his ceiling. B-Tier.",
+      "[Claude] - Matt Fitzpatrick — Excellent iron player, distance is the concern. B-Tier.",
+      "[Claude] - Hideki Matsuyama — Former champion, Augusta course knowledge is real. Form and health are unknown. B-Tier starting point.",
+      "[Claude] - Cameron Smith — Elite putter, good ball-striker, Augusta experience. LIV status may affect some market dynamics. B-Tier.",
+      "[Claude] - Max Homa — Good APP, Augusta experience building. B-Tier.",
+      "[Claude] - Russell Henley — Underrated ball-striker. B-Tier.",
+      "[Claude] **C-TIER — Significant Course Fit Concerns or Major Experience Deficit**",
+      "[Claude] - First-time Augusta participants regardless of world ranking — the newcomer discount is real here and I'm applying it",
+      "[Claude] - Shorter hitters who can't access the par-5s in regulation",
+      "[Claude] - Players whose recent form is unknown and whose Augusta track record is limited",
+      "[Claude] - Players whose primary strength is putting rather than ball-striking (volatile advantage at Augusta)",
+      "[Claude] **FADE — Active Concerns**",
+      "[Claude] - Any player coming in on a form slump with no Augusta-specific upside",
+      "[Claude] - Bombers-only profiles who can't shape shots or manage angles",
+      "[Claude] - Elite putters with mediocre ball-striking (market trap alert — see below)",
+      "[Claude] ### MARKET TRAP FLAGS",
+      "[Claude] **Trap #1: The Elite Putter Without Ball-Striking**",
+      "[Claude] Augusta does reward good putting, but the putting edge here is course-specific, not generic. A player who ranks high on SG:PUTT for the season but hasn't spent years learning Augusta's breaks and speeds is NOT getting a legitimate putting edge at this venue. Any player being priced based heavily on a recent putting spike who doesn't have the APP foundation to back it up is a fade. When odds arrive Monday, I'll be checking whether any mid-tier players are being overpriced on the back of a putting hot streak.",
+      "[Claude] **Trap #2: The Bomber-Only Profile**",
+      "[Claude] Distance matters at 13 and 15, but the Angle Penalty HIGH designation means wild off the tee is genuinely punishing at Augusta. Pure distance without accuracy and shot-shaping doesn't win here. Any player whose primary profile is length without precision is worth fading at inflated odds.",
+      "[Claude] **Trap #3: The Sentimental Narrative Player**",
+      "[Claude] Augusta generates more sentimental narratives than any other major. Players returning from injury, players chasing career slams, players with \"redemption\" stories. The market prices these narratives in. I don't. I'm looking at ball-striking quality and course fit. If the narrative player has the game, great. If it's narrative without the ball-striking foundation, it's a market trap.",
+      "[Claude] **Trap #4: High-Profile First-Timers**",
+      "[Claude] Any young star making their Augusta debut who is being priced as a genuine short-price contender based purely on world ranking and recent form data. The newcomer discount is real. I'll apply it.",
+      "[Claude] ### FALLEN STARS — Form Return Watch",
+      "[Claude] Without current SG data I can't confirm this, but these are the profiles I'll be checking when data arrives:",
+      "[Claude] - **Justin Thomas** — If APP numbers have returned to 2022-era levels, he's a serious contender at Augusta. Course knowledge is deep. Was deeply underrated during his slump period.",
+      "[Claude] - **Jon Rahm** — LIV transition and form questions. If the ball-striking has returned to elite levels, Augusta is one of the courses most likely to suit a Rahm resurgence. Watching closely.",
+      "[Claude] - **Hideki Matsuyama** — Former champion, but form and health have been inconsistent. If healthy and ball-striking is back, the Augusta knowledge is a real edge.",
+      "[Claude] ## SECTION 3 — EARLY FRL TARGETS",
+      "[Claude] ### Augusta National First Round Tendencies (Framework Knowledge)",
+      "[Claude] First round at Augusta has some structural tendencies worth noting before wave assignments are confirmed:",
+      "[Claude] **Players who tend to score well in R1 at Augusta:**",
+      "[Claude] 1. **Experienced Augusta veterans in the early/calm wave** — Augusta's weather patterns mean the morning wave often gets softer conditions before afternoon winds pick up. Experienced players who know how to take advantage of scoring opportunities early, especially on the par-5s, have a structural edge.",
+      "[Claude] 2. **Elite APP players who are aggressive but controlled** — The first round at Augusta often rewards players who are willing to attack pins that are in accessible positions. By R3/R4, the course gets defended more aggressively by both setup and player psychology.",
+      "[Claude] 3. **Players who don't need a warmup period at this course** — Some players at Augusta are known to start slowly and build into the week as they relearn the course. For FRL purposes, you want players who hit the ground running on Day 1.",
+      "[Claude] **FRL Profile Checklist (apply when stats arrive):**",
+      "[Claude] - Strong recent SG:APP in the last 4-6 weeks (not career)",
+      "[Claude] - Multiple Augusta starts — knows the course cold",
+      "[Claude] - Not notorious for slow tournament starts",
+      "[Claude] - Wave assignment in favorable morning conditions if weather is a factor",
+      "[Claude] - Emotionally stable entering the week (no major press distractions)",
+      "[Claude] **Early FRL Names I'll Be Watching (pending stats and wave draw):**",
+      "[Claude] - Scottie Scheffler — When he's rolling, he starts tournaments fast",
+      "[Claude] - Rory McIlroy — Can come out aggressive, knows this course deeply now",
+      "[Claude] - Collin Morikawa — Consistent R1 performer, doesn't blow up",
+      "[Claude] - Tommy Fleetwood — Has shown ability to go low in round one at majors",
+      "[Claude] *Full FRL card requires wave assignments and actual form data. Will revisit Thursday morning.*",
+      "[Claude] ## SECTION 4 — POOL STRATEGY",
+      "[Claude] ### ⚠️ COMPLETELY SEPARATE FROM BETTING CARD. ODDS IRRELEVANT.",
+      "[Claude] **Event Tier: MAJOR**",
+      "[Claude] Pool strategy at a major is different from regular events. The field is smaller and the relevant pool population is higher — everyone knows the top names. Separation comes from identifying the correct favorite *within* the top tier and making smart mid-tier differentiation plays.",
+      "[Claude] **PRIMARY POOL PICK (Most Likely Winner — Framework Assessment)**",
+      "[Claude] **Scottie Scheffler**",
+      "[Claude] The reasoning is straightforward. He's the world number one, he's a defending champion at this venue, his game profile fits Augusta as well as anyone's, and he's the kind of player whose floor at Augusta is higher than almost anyone else. In a pool context where I'm trying to identify the most likely winner without worrying about price, Scheffler is the answer based on everything I know about his game and this course. He controls the ball, manages the course intelligently, his APP is elite, and he's not someone who gets rattled at Augusta.",
+      "[Claude] The case against him in a pool is purely strategic — he'll be heavily pooled. If you're in a pool where differentiation matters significantly (large field, single elimination), you need to think about whether using him in the early rounds costs you flexibility. But if the question is \"who is most likely to win the Masters,\" Scheffler is the answer until the data tells me otherwise.",
+      "[Claude] **AVAILABLE PLAYS (Pool — Tiered by Likelihood)**",
+      "[Claude] **Tier 1 — Legitimate Win Probability, Use Early or As Primary:**",
+      "[Claude] 1. Scottie Scheffler — Most complete player, defending champion profile, elite Augusta fit",
+      "[Claude] 2. Rory McIlroy — If recent form is confirmed elite, he's now an experienced Augusta winner and the second most likely name in the pool",
+      "[Claude] 3. Jon Rahm — If LIV form questions are answered and ball-striking is back, Augusta is perfectly suited to his game",
+      "[Claude] **Tier 2 — Real Win Probability, Good Pool Differentiation:**",
+      "[Claude] 4. Ludvig Åberg — Ball-striking is elite enough that the experience discount may not fully apply. Genuine threat.",
+      "[Claude] 5. Collin Morikawa — Consistent, ball-striking profile fits, experience at Augusta now meaningful",
+      "[Claude] 6. Xander Schauffele — Major champion, complete game, Augusta works for him",
+      "[Claude] 7. Tommy Fleetwood — Underused in pools relative to his Augusta ceiling",
+      "[Claude] **Tier 3 — Lower Probability But Pool Value if Differentiation Needed:**",
+      "[Claude] 8. Viktor Hovland — Ball-striking fits, putting is the swing factor",
+      "[Claude] 9. Brooks Koepka — Major mode is real, Augusta experience is deep",
+      "[Claude] 10. Justin Thomas — If form has returned, deep Augusta knowledge is a genuine edge",
+      "[Claude] **TRAP PLAYS TO AVOID IN POOLS:**",
+      "[Claude] - **The sentimental narrative player** — Whoever has the best story going into this Masters. Augusta generates massive narrative betting and narrative pooling. The market and the public both overweight it. Don't pool a player on narrative alone.",
+      "[Claude] - **First-time Augusta participants in large pools** — The newcomer discount is real. Even elite world rankings don't overcome it fully.",
+      "[Claude] - **Elite putting / weak ball-striking profiles** — In a pool where you need to be right"
+    ],
     "manual_interventions": [],
     "article_log": [
       "✓ Steve Bamford — Golf Betting Tips This Week: The Masters Tips 2026",
-      "✓ Ben Coley — European Tour & PGA Tour betting previews, tips, news, repor"
+      "✓ Ben Coley — European Tour & PGA Tour betting previews, tips, news, repor",
+      "✓ Steve Bamford — Golf Betting Tips This Week: The Masters Tips 2026",
+      "✓ Ben Coley — European Tour & PGA Tour betting previews, tips, news, repor",
+      "PRIOR YEAR BLOCKED: Haslbauer — http_403",
+      "PRIOR YEAR BLOCKED: Haslbauer — http_403",
+      "PRIOR YEAR BLOCKED: Haslbauer — http_403",
+      "PRIOR YEAR BLOCKED: Haslbauer — http_403",
+      "PRIOR YEAR BLOCKED: Steve Bamford — not_found_404",
+      "PRIOR YEAR BLOCKED: Ben Coley — not_found_404",
+      "PRIOR YEAR BLOCKED: Steve Rawlings — http_403",
+      "PRIOR YEAR BLOCKED: Steve Rawlings — http_403",
+      "PRIOR YEAR BLOCKED: Dave Tindall — http_403",
+      "PRIOR YEAR BLOCKED: Dave Tindall — http_403",
+      "PRIOR YEAR BLOCKED: Tom Jacobs — http_403",
+      "PRIOR YEAR BLOCKED: Tom Jacobs — http_403",
+      "PRIOR YEAR BLOCKED: Sharpside / Matt Gannon — not_found_404",
+      "PRIOR YEAR BLOCKED: Sharpside / Matt Gannon — not_found_404"
     ],
     "calibration_suggestions": [],
     "withdrawals": []
@@ -9449,6 +9967,13 @@
     },
     {
       "time": "2026-04-06T10:07:45.839937-04:00",
+      "run_type": "sunday_night",
+      "status": "complete",
+      "field_size": 91,
+      "odds_players": 91
+    },
+    {
+      "time": "2026-04-06T10:28:06.815385-04:00",
       "run_type": "sunday_night",
       "status": "complete",
       "field_size": 91,
