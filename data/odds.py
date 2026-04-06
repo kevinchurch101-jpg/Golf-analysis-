@@ -60,18 +60,61 @@ def get_events(sport: str = ODDS_SPORT) -> List[Dict]:
     return data or []
 
 
+def get_active_golf_sport_key() -> Optional[str]:
+    """
+    Query the /sports endpoint to find the currently active golf event key.
+    The Odds API uses event-specific keys like 'golf_masters_tournament_winner'.
+    Returns the sport key string or None.
+    """
+    sports = get_sports()
+    golf_sports = [
+        s for s in sports
+        if "golf" in s.get("key", "").lower() and s.get("active", False)
+    ]
+    if not golf_sports:
+        # Try has_outrights as fallback
+        golf_sports = [s for s in sports if "golf" in s.get("key", "").lower()]
+
+    if golf_sports:
+        # Prefer the most specific active one
+        for key_fragment in ["masters", "pga_championship", "us_open", "the_open", "pga_tour"]:
+            for s in golf_sports:
+                if key_fragment in s.get("key", "").lower():
+                    log.info(f"[Odds] Active golf sport key: {s['key']}")
+                    return s["key"]
+        # Fallback to first golf sport found
+        log.info(f"[Odds] Using golf sport key: {golf_sports[0]['key']}")
+        return golf_sports[0]["key"]
+
+    log.warning("[Odds] No active golf sport found.")
+    return None
+
+
 def get_active_tournament_id() -> Optional[str]:
     """
     Find the currently active or next PGA event ID.
+    Dynamically finds the correct sport key first.
     Returns the event_id string needed for odds queries.
     """
-    events = get_events()
-    if not events:
-        log.warning("[Odds] No events found.")
+    sport_key = get_active_golf_sport_key()
+    if not sport_key:
+        log.warning("[Odds] No active golf sport key found.")
         return None
-    # Sort by commence_time, pick soonest future or currently active
+
+    events = get_events(sport=sport_key)
+    if not events:
+        log.warning(f"[Odds] No events found for {sport_key}.")
+        return None
+
     events_sorted = sorted(events, key=lambda e: e.get("commence_time", ""))
-    return events_sorted[0].get("id") if events_sorted else None
+    event_id = events_sorted[0].get("id")
+    log.info(f"[Odds] Active tournament: {events_sorted[0].get('description', event_id)}")
+    return event_id
+
+
+def get_active_sport_key() -> Optional[str]:
+    """Public wrapper for get_active_golf_sport_key."""
+    return get_active_golf_sport_key()
 
 
 # ──────────────────────────────────────────────────────────────
@@ -90,6 +133,7 @@ def get_outright_odds(
     if books is None:
         books = ODDS_PRIMARY_BOOKS
 
+    sport_key = get_active_golf_sport_key() or ODDS_SPORT
     if event_id is None:
         event_id = get_active_tournament_id()
     if event_id is None:
@@ -97,7 +141,7 @@ def get_outright_odds(
         return []
 
     data = _get(
-        f"sports/{ODDS_SPORT}/events/{event_id}/odds",
+        f"sports/{sport_key}/events/{event_id}/odds",
         {
             "regions": "us,us2,uk",
             "markets": "outrights",
