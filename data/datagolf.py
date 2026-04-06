@@ -1,482 +1,363 @@
 """
-Fairway Intel — DataGolf API Client
-Pulls all endpoints needed for analysis. Never skips any.
-Recent window always preferred over career averages.
+Fairway Intel — Odds API Client
+DraftKings + Bet365 primary books. Pull once per scheduled run.
+500 credits/month hard limit — track usage carefully.
 """
 
 import logging
-import time
-from typing import Any, Dict, List, Optional
+from typing import Any, Dict, List, Optional, Tuple
 
 import requests
 
 from config import (
-    DATAGOLF_KEY, DG_BASE, DG_ENDPOINTS, DG_PRED_MARKETS,
-    DG_SKILL_COLS, APPROACH_BUCKETS,
+    ODDS_API_KEY, ODDS_BASE, ODDS_SPORT, ODDS_BOOKS,
+    ODDS_PRIMARY_BOOKS, ODDS_MARKETS,
 )
 
 log = logging.getLogger(__name__)
 
-# Retry settings
-_MAX_RETRIES = 3
-_RETRY_DELAY = 2  # seconds
+CREDIT_COST_PER_CALL = 10   # approximate credits per markets call
 
 
-def _get(url: str, params: Dict, label: str) -> Optional[Dict]:
-    """GET with retry logic and consistent error handling."""
-    params = {**params, "key": DATAGOLF_KEY}
-    for attempt in range(1, _MAX_RETRIES + 1):
-        try:
-            r = requests.get(url, params=params, timeout=20)
-            if r.status_code == 200:
-                return r.json()
-            elif r.status_code == 429:
-                wait = _RETRY_DELAY * attempt * 2
-                log.warning(f"[DG] Rate limited on {label}. Waiting {wait}s…")
-                time.sleep(wait)
-            else:
-                log.error(f"[DG] {label} returned HTTP {r.status_code}: {r.text[:200]}")
-                return None
-        except requests.RequestException as e:
-            log.error(f"[DG] {label} attempt {attempt} failed: {e}")
-            if attempt < _MAX_RETRIES:
-                time.sleep(_RETRY_DELAY * attempt)
-    log.error(f"[DG] {label} failed after {_MAX_RETRIES} attempts.")
+def _get(endpoint: str, params: Dict) -> Optional[Any]:
+    """Raw GET call to Odds API."""
+    params = {**params, "apiKey": ODDS_API_KEY}
+    url = f"{ODDS_BASE}/{endpoint}"
+    try:
+        r = requests.get(url, params=params, timeout=20)
+        if r.status_code == 200:
+            remaining = r.headers.get("x-requests-remaining")
+            used = r.headers.get("x-requests-used")
+            if remaining:
+                log.info(f"[Odds] Credits remaining: {remaining} | used: {used}")
+            return r.json()
+        elif r.status_code == 401:
+            log.error("[Odds] API key invalid or expired.")
+        elif r.status_code == 422:
+            log.error(f"[Odds] Unprocessable entity: {r.text[:300]}")
+        elif r.status_code == 429:
+            log.warning("[Odds] Monthly credit limit reached.")
+        else:
+            log.error(f"[Odds] HTTP {r.status_code}: {r.text[:300]}")
+    except requests.RequestException as e:
+        log.error(f"[Odds] Request failed: {e}")
     return None
 
 
 # ──────────────────────────────────────────────────────────────
-# FIELD & SCHEDULE
+# SPORTS / EVENTS
 # ──────────────────────────────────────────────────────────────
 
-def get_player_list() -> List[Dict]:
-    """Master player list with dg_id mappings."""
-    data = _get(DG_ENDPOINTS["player_list"], {}, "player_list")
-    if not data:
-        return []
-    return data if isinstance(data, list) else data.get("players", [])
+def get_sports() -> List[Dict]:
+    """List available sports — diagnostic use."""
+    data = _get("sports", {})
+    return data or []
 
 
-def get_tour_schedule(tour: str = "pga") -> List[Dict]:
-    """Full tour schedule for the season."""
-    data = _get(DG_ENDPOINTS["tour_schedule"], {"tour": tour}, "tour_schedule")
-    if not data:
-        return []
-    return data if isinstance(data, list) else data.get("schedule", [])
+def get_events(sport: str = ODDS_SPORT) -> List[Dict]:
+    """Get upcoming events for sport — finds the active tournament."""
+    data = _get(f"sports/{sport}/events", {"dateFormat": "iso"})
+    return data or []
 
 
-def get_field_updates(tour: str = "pga", file_format: str = "json") -> List[Dict]:
+def get_active_tournament_id() -> Optional[str]:
     """
-    Current field with tee times, groups, and wave assignments.
-    Wave assignment is critical for FRL analysis.
+    Find the currently active or next PGA event ID.
+    Returns the event_id string needed for odds queries.
     """
-    data = _get(
-        DG_ENDPOINTS["field_updates"],
-        {"tour": tour, "file_format": file_format},
-        "field_updates",
-    )
-    if not data:
-        return []
-    # Normalize — can come back as list or dict with 'field' key
-    if isinstance(data, list):
-        return data
-    return data.get("field", data.get("players", []))
+    events = get_events()
+    if not events:
+        log.warning("[Odds] No events found.")
+        return None
+    # Sort by commence_time, pick soonest future or currently active
+    events_sorted = sorted(events, key=lambda e: e.get("commence_time", ""))
+    return events_sorted[0].get("id") if events_sorted else None
 
 
 # ──────────────────────────────────────────────────────────────
-# SKILL RATINGS (RECENT WINDOW — NEVER CAREER AVERAGE)
+# ODDS PULL
 # ──────────────────────────────────────────────────────────────
 
-def get_skill_ratings(
-    display: str = "value",
-    tour: str = "pga",
-) -> Dict[str, Dict]:
-    """
-    Recent-window skill ratings for the full field.
-    display='value' returns actual SG numbers not ranks.
-    ALWAYS use recent window per framework — career averages actively mislead.
-    Returns dict keyed by player_name → skill dict.
-    """
-    data = _get(
-        DG_ENDPOINTS["skill_ratings"],
-        {"display": display, "tour": tour},
-        "skill_ratings",
-    )
-    if not data:
-        return {}
-
-    players = data if isinstance(data, list) else data.get("players", [])
-    result = {}
-    for p in players:
-        name = _normalize_name(p)
-        if not name:
-            continue
-        result[name] = {
-            col: p.get(col) for col in DG_SKILL_COLS
-        }
-        result[name]["dg_id"] = p.get("dg_id")
-        result[name]["player_name"] = name
-    return result
-
-
-def get_skill_decompositions(
-    tour: str = "pga",
-    year_start: Optional[int] = None,
-    year_end: Optional[int] = None,
-) -> Dict[str, List[Dict]]:
-    """
-    Year-by-year skill decompositions — recent years weight more.
-    Critical for identifying inflection points in player development.
-    Returns dict keyed by player_name → list of yearly stat dicts.
-    """
-    params: Dict[str, Any] = {"tour": tour}
-    if year_start:
-        params["year_start"] = year_start
-    if year_end:
-        params["year_end"] = year_end
-
-    data = _get(DG_ENDPOINTS["skill_decompositions"], params, "skill_decompositions")
-    if not data:
-        return {}
-
-    players = data if isinstance(data, list) else data.get("players", [])
-    result: Dict[str, List[Dict]] = {}
-    for p in players:
-        name = _normalize_name(p)
-        if not name:
-            continue
-        # Each entry is one season's stats
-        entry = {k: v for k, v in p.items() if k not in ("player_name", "player_name_encoded", "dg_id")}
-        entry["dg_id"] = p.get("dg_id")
-        result.setdefault(name, []).append(entry)
-
-    # Sort each player's history oldest→newest
-    for name in result:
-        result[name].sort(key=lambda x: x.get("year", 0))
-
-    return result
-
-
-def get_approach_skill(
-    tour: str = "pga",
-) -> Dict[str, Dict]:
-    """
-    Approach SG broken out by yardage bucket.
-    Identifies distance-dependent strengths and weaknesses.
-    Critical for matching players to course yardage profiles.
-    Returns dict keyed by player_name → bucket dict.
-    """
-    data = _get(DG_ENDPOINTS["approach_skill"], {"tour": tour}, "approach_skill")
-    if not data:
-        return {}
-
-    players = data if isinstance(data, list) else data.get("players", [])
-    result = {}
-    for p in players:
-        name = _normalize_name(p)
-        if not name:
-            continue
-        buckets = {}
-        for bucket in APPROACH_BUCKETS:
-            buckets[bucket] = p.get(f"sg_app_{bucket}")
-        result[name] = {
-            "buckets": buckets,
-            "dg_id": p.get("dg_id"),
-        }
-    return result
-
-
-# ──────────────────────────────────────────────────────────────
-# PRE-TOURNAMENT PREDICTIONS
-# ──────────────────────────────────────────────────────────────
-
-def get_pre_tournament_predictions(
-    tour: str = "pga",
-    add_position_data: str = "no",
-) -> Dict[str, Dict]:
-    """
-    DG model win/top5/top10/top20 probabilities.
-    Returns dict keyed by player_name → {win, top_5, top_10, top_20, make_cut, dg_id}.
-    """
-    data = _get(
-        DG_ENDPOINTS["pre_tournament_preds"],
-        {"tour": tour, "add_position_data": add_position_data},
-        "pre_tournament_predictions",
-    )
-    if not data:
-        return {}
-
-    players = data if isinstance(data, list) else data.get("baseline_history_fit", data.get("players", []))
-    result = {}
-    for p in players:
-        name = _normalize_name(p)
-        if not name:
-            continue
-        result[name] = {
-            "win":     p.get("win"),
-            "top_5":   p.get("top_5"),
-            "top_10":  p.get("top_10"),
-            "top_20":  p.get("top_20"),
-            "make_cut": p.get("make_cut"),
-            "dg_id":   p.get("dg_id"),
-        }
-    return result
-
-
-def get_dg_rankings(
-    tour: str = "pga",
-    file_format: str = "json",
-) -> List[Dict]:
-    """DataGolf official rankings list."""
-    data = _get(
-        DG_ENDPOINTS["dg_rankings"],
-        {"tour": tour, "file_format": file_format},
-        "dg_rankings",
-    )
-    if not data:
-        return []
-    return data if isinstance(data, list) else data.get("rankings", [])
-
-
-def get_fantasy_defaults(
-    tour: str = "pga",
-    site: str = "draftkings",
-    slate: str = "main",
-) -> List[Dict]:
-    """Fantasy projection defaults — useful for salary/ownership context."""
-    data = _get(
-        DG_ENDPOINTS["fantasy_defaults"],
-        {"tour": tour, "site": site, "slate": slate},
-        "fantasy_defaults",
-    )
-    if not data:
-        return []
-    return data if isinstance(data, list) else data.get("projections", [])
-
-
-# ──────────────────────────────────────────────────────────────
-# LIVE DATA
-# ──────────────────────────────────────────────────────────────
-
-def get_live_predictions(tour: str = "pga") -> Dict[str, Dict]:
-    """Live win probabilities during tournament (Thursday–Sunday)."""
-    data = _get(DG_ENDPOINTS["live_preds"], {"tour": tour}, "live_predictions")
-    if not data:
-        return {}
-    players = data if isinstance(data, list) else data.get("data", data.get("players", []))
-    result = {}
-    for p in players:
-        name = _normalize_name(p)
-        if name:
-            result[name] = p
-    return result
-
-
-def get_live_stats(tour: str = "pga") -> Dict[str, Dict]:
-    """Live in-round SG stats."""
-    data = _get(DG_ENDPOINTS["live_stats"], {"tour": tour}, "live_stats")
-    if not data:
-        return {}
-    players = data if isinstance(data, list) else data.get("data", data.get("players", []))
-    result = {}
-    for p in players:
-        name = _normalize_name(p)
-        if name:
-            result[name] = p
-    return result
-
-
-def get_live_hole_scoring(tour: str = "pga") -> Dict:
-    """Live hole-by-hole scoring averages — useful for course management analysis."""
-    data = _get(DG_ENDPOINTS["live_hole_scoring"], {"tour": tour}, "live_hole_scoring")
-    return data or {}
-
-
-# ──────────────────────────────────────────────────────────────
-# HISTORICAL DATA
-# ──────────────────────────────────────────────────────────────
-
-def get_historical_event_ids(tour: str = "pga", season: Optional[int] = None) -> List[Dict]:
-    """List of historical event IDs — needed to query course history."""
-    params: Dict[str, Any] = {"tour": tour}
-    if season:
-        params["season"] = season
-    data = _get(DG_ENDPOINTS["historical_event_ids"], params, "historical_event_ids")
-    if not data:
-        return []
-    return data if isinstance(data, list) else data.get("events", [])
-
-
-def get_historical_round_sg(
-    event_id: str,
-    tour: str = "pga",
-    round_num: Optional[int] = None,
-) -> List[Dict]:
-    """
-    Per-round SG data for a historical event.
-    Used for: course history, FRL R1 scoring, player form tracking.
-    """
-    params: Dict[str, Any] = {"tour": tour, "event_id": event_id}
-    if round_num:
-        params["round_num"] = round_num
-    data = _get(DG_ENDPOINTS["historical_sg"], params, f"historical_sg_{event_id}")
-    if not data:
-        return []
-    return data if isinstance(data, list) else data.get("rounds", data.get("data", []))
-
-
-def get_historical_event_finishes(
-    tour: str = "pga",
+def get_outright_odds(
     event_id: Optional[str] = None,
+    books: Optional[List[str]] = None,
 ) -> List[Dict]:
     """
-    Historical event finishes — used for course history weighting.
-    Was the player a similar version of themselves when they did well here?
+    Pull outright (winner) odds for the active PGA event.
+    Uses primary books: DraftKings + Bet365.
+    Returns raw API response list.
     """
-    params: Dict[str, Any] = {"tour": tour}
-    if event_id:
-        params["event_id"] = event_id
-    data = _get(DG_ENDPOINTS["historical_event_finishes"], params, "historical_event_finishes")
-    if not data:
+    if books is None:
+        books = ODDS_PRIMARY_BOOKS
+
+    if event_id is None:
+        event_id = get_active_tournament_id()
+    if event_id is None:
+        log.warning("[Odds] No active tournament found.")
         return []
-    return data if isinstance(data, list) else data.get("finishes", data.get("data", []))
 
-
-def get_historical_odds(
-    tour: str = "pga",
-    event_id: Optional[str] = None,
-) -> List[Dict]:
-    """
-    Historical outright odds — useful for identifying market trend vs reality.
-    Odds movement context.
-    """
-    params: Dict[str, Any] = {"tour": tour}
-    if event_id:
-        params["event_id"] = event_id
-    data = _get(DG_ENDPOINTS["historical_odds"], params, "historical_odds")
-    if not data:
-        return []
-    return data if isinstance(data, list) else data.get("odds", data.get("data", []))
-
-
-# ──────────────────────────────────────────────────────────────
-# COMPOSITE PULL — full weekly data in one call
-# ──────────────────────────────────────────────────────────────
-
-def pull_all_weekly_data(tour: str = "pga") -> Dict[str, Any]:
-    """
-    Pull every endpoint needed for a full weekly analysis.
-    Returns consolidated dict suitable for merging into weekly_state.json.
-    Never skips any endpoint per framework rules.
-    """
-    log.info("[DG] Pulling full weekly DataGolf dataset…")
-
-    result: Dict[str, Any] = {}
-
-    result["field"]         = get_field_updates(tour=tour)
-    log.info(f"[DG] Field: {len(result['field'])} players")
-
-    result["skill_ratings"] = get_skill_ratings(tour=tour)
-    log.info(f"[DG] Skill ratings: {len(result['skill_ratings'])} players")
-
-    result["approach_skill"] = get_approach_skill(tour=tour)
-    log.info(f"[DG] Approach skill: {len(result['approach_skill'])} players")
-
-    result["predictions"]   = get_pre_tournament_predictions(tour=tour)
-    log.info(f"[DG] Predictions: {len(result['predictions'])} players")
-
-    result["rankings"]      = get_dg_rankings(tour=tour)
-    log.info(f"[DG] Rankings: {len(result['rankings'])} entries")
-
-    result["fantasy"]       = get_fantasy_defaults(tour=tour)
-    log.info(f"[DG] Fantasy defaults: {len(result['fantasy'])} entries")
-
-    # Year-by-year decompositions — last 4 years most relevant
-    result["decompositions"] = get_skill_decompositions(
-        tour=tour, year_start=2021, year_end=2026
+    data = _get(
+        f"sports/{ODDS_SPORT}/events/{event_id}/odds",
+        {
+            "regions": "us,us2,uk",
+            "markets": "outrights",
+            "oddsFormat": "american",
+            "bookmakers": ",".join(books),
+        },
     )
-    log.info(f"[DG] Decompositions: {len(result['decompositions'])} players")
+    return data if isinstance(data, list) else (data.get("bookmakers", []) if data else [])
 
-    # FRL: pull R1 historical scoring averages for current course
-    # Caller should pass event_id for the specific course; skip if not available
-    result["frl_r1_history"] = {}   # Populated by main.py once event_id is known
 
-    log.info("[DG] Full weekly pull complete.")
-    return result
+def get_all_book_odds(event_id: Optional[str] = None) -> Dict[str, List[Dict]]:
+    """
+    Pull odds from ALL configured books for cross-book comparison.
+    More credits but useful for finding best available price.
+    """
+    if event_id is None:
+        event_id = get_active_tournament_id()
+    if event_id is None:
+        return {}
+
+    data = _get(
+        f"sports/{ODDS_SPORT}/events/{event_id}/odds",
+        {
+            "regions": "us,us2,uk",
+            "markets": "outrights",
+            "oddsFormat": "american",
+            "bookmakers": ",".join(ODDS_BOOKS),
+        },
+    )
+    if not data:
+        return {}
+
+    books_data = data if isinstance(data, list) else data.get("bookmakers", [])
+    return {b["key"]: b.get("markets", []) for b in books_data if "key" in b}
 
 
 # ──────────────────────────────────────────────────────────────
-# HELPERS
+# PARSING & NORMALIZATION
 # ──────────────────────────────────────────────────────────────
 
-def _normalize_name(p: Dict) -> Optional[str]:
-    """Extract and normalize player name from DG API response."""
-    name = p.get("player_name") or p.get("name") or p.get("player")
-    if not name:
-        return None
-    # DG sometimes sends "Last, First" — normalize to "First Last"
-    if "," in name:
-        parts = [x.strip() for x in name.split(",", 1)]
-        name = f"{parts[1]} {parts[0]}"
-    return name.strip().title()
-
-
-def get_course_event_ids(course_keyword: str, tour: str = "pga") -> List[str]:
+def parse_outright_odds(raw_books_data: List[Dict]) -> Dict[str, Dict]:
     """
-    Find historical event IDs for a given course by keyword.
-    Used to pull course-specific history before analysis.
-    """
-    events = get_historical_event_ids(tour=tour)
-    matches = []
-    for e in events:
-        event_name = e.get("event_name", "").lower()
-        if course_keyword.lower() in event_name:
-            matches.append(e.get("event_id"))
-    return [m for m in matches if m]
+    Parse raw Odds API bookmaker response into clean per-player structure.
 
-
-def compute_recent_sg_trend(decompositions: List[Dict], stat: str, recent_years: int = 2) -> Optional[float]:
+    Returns:
+        {
+          "Scottie Scheffler": {
+            "draftkings": 350,       # American odds
+            "bet365": 325,
+            "best_price": 350,
+            "best_book": "draftkings",
+            "implied_prob": 0.222,   # from best price
+            "decimal": 4.5,
+            "fractional": "7/2",
+          },
+          ...
+        }
     """
-    Compute average SG for a stat over the most recent N years.
-    Implements the recency window principle — recent years override career.
-    """
-    if not decompositions:
-        return None
-    recent = decompositions[-recent_years:]
-    vals = [d.get(stat) for d in recent if d.get(stat) is not None]
-    if not vals:
-        return None
-    return round(sum(vals) / len(vals), 3)
+    result: Dict[str, Dict] = {}
 
-
-def get_player_r1_history(event_ids: List[str], tour: str = "pga") -> Dict[str, Dict]:
-    """
-    Pull R1 scoring history across multiple historical event IDs for FRL analysis.
-    Returns per-player R1 scoring averages and birdie rates at the venue.
-    """
-    player_r1: Dict[str, List[float]] = {}
-    player_birdies: Dict[str, List[float]] = {}
-
-    for event_id in event_ids[:5]:   # Cap at 5 years of history
-        rounds = get_historical_round_sg(event_id=event_id, tour=tour, round_num=1)
-        for r in rounds:
-            name = _normalize_name(r)
-            if not name:
+    for book in raw_books_data:
+        book_key = book.get("key", "unknown")
+        for market in book.get("markets", []):
+            if market.get("key") != "outrights":
                 continue
-            score = r.get("score") or r.get("total_score")
-            birdies = r.get("birdies")
-            if score is not None:
-                player_r1.setdefault(name, []).append(float(score))
-            if birdies is not None:
-                player_birdies.setdefault(name, []).append(float(birdies))
+            for outcome in market.get("outcomes", []):
+                player_name = _normalize_odds_name(outcome.get("name", ""))
+                if not player_name:
+                    continue
+                american = outcome.get("price")
+                if american is None:
+                    continue
 
-    result = {}
-    for name in player_r1:
-        scores  = player_r1[name]
-        birdies = player_birdies.get(name, [])
-        result[name] = {
-            "r1_scoring_avg_hist": round(sum(scores) / len(scores), 2),
-            "r1_rounds_sampled":   len(scores),
-            "birdie_rate":         round(sum(birdies) / len(birdies), 2) if birdies else None,
-        }
+                if player_name not in result:
+                    result[player_name] = {
+                        "books": {},
+                        "best_price": None,
+                        "best_book": None,
+                        "implied_prob": None,
+                        "decimal": None,
+                        "fractional": None,
+                    }
+
+                result[player_name]["books"][book_key] = american
+
+                # Track best (highest) American odds available
+                if (
+                    result[player_name]["best_price"] is None
+                    or american > result[player_name]["best_price"]
+                ):
+                    result[player_name]["best_price"] = american
+                    result[player_name]["best_book"] = book_key
+                    result[player_name]["implied_prob"] = american_to_implied(american)
+                    result[player_name]["decimal"] = american_to_decimal(american)
+                    result[player_name]["fractional"] = american_to_fractional(american)
+
     return result
+
+
+def get_full_odds_snapshot(event_id: Optional[str] = None) -> Dict[str, Dict]:
+    """
+    One-call convenience: pull and parse odds into clean per-player dict.
+    This is what the rest of the system calls.
+    """
+    raw = get_outright_odds(event_id=event_id)
+    if not raw:
+        log.warning("[Odds] No raw odds data returned.")
+        return {}
+    parsed = parse_outright_odds(raw)
+    log.info(f"[Odds] Parsed odds for {len(parsed)} players.")
+    return parsed
+
+
+# ──────────────────────────────────────────────────────────────
+# VALUE CALCULATIONS
+# ──────────────────────────────────────────────────────────────
+
+def calculate_edge(implied_prob: float, dg_win_prob: float) -> float:
+    """
+    Simple edge calculation: DG model probability vs market implied probability.
+    Positive = market undervaluing player (value bet).
+    Negative = market overvaluing player (fade candidate).
+    """
+    if implied_prob <= 0:
+        return 0.0
+    return round(dg_win_prob - implied_prob, 4)
+
+
+def kelly_fraction(edge: float, odds_decimal: float, full_kelly: float = 1.0) -> float:
+    """
+    Kelly criterion for stake sizing guidance.
+    full_kelly=1.0 is theoretical max — use fractional Kelly in practice.
+    Returns fraction of bankroll to stake.
+    """
+    if odds_decimal <= 1 or edge <= 0:
+        return 0.0
+    b = odds_decimal - 1   # net odds
+    p = edge + (1 / odds_decimal)  # estimated win prob
+    q = 1 - p
+    kelly = (b * p - q) / b
+    return max(0.0, round(kelly * full_kelly, 4))
+
+
+def find_value_plays(
+    odds_snapshot: Dict[str, Dict],
+    dg_predictions: Dict[str, Dict],
+    min_odds: int = 30,
+) -> List[Dict]:
+    """
+    Cross-reference market odds with DG model to surface value.
+    Returns list of value plays sorted by edge descending.
+    min_odds: minimum American odds to consider (30 = 30/1).
+    """
+    value_plays = []
+
+    for player, odds_data in odds_snapshot.items():
+        best_price = odds_data.get("best_price")
+        if best_price is None or best_price < min_odds * 100 - 100:
+            # Convert American: 3000 = 30/1. Skip anything shorter than min_odds.
+            continue
+
+        dg_data = dg_predictions.get(player, {})
+        dg_win = dg_data.get("win")
+        if dg_win is None:
+            continue
+
+        implied = odds_data.get("implied_prob", 0)
+        edge = calculate_edge(implied, dg_win)
+        decimal = odds_data.get("decimal", 1.0)
+
+        value_plays.append({
+            "player": player,
+            "best_price_american": best_price,
+            "best_book": odds_data.get("best_book"),
+            "implied_prob": round(implied, 4),
+            "dg_win_prob": round(dg_win, 4),
+            "edge": edge,
+            "decimal": decimal,
+            "kelly": kelly_fraction(edge, decimal, full_kelly=0.25),
+        })
+
+    value_plays.sort(key=lambda x: x["edge"], reverse=True)
+    return value_plays
+
+
+# ──────────────────────────────────────────────────────────────
+# ODDS MATH HELPERS
+# ──────────────────────────────────────────────────────────────
+
+def american_to_implied(american: int) -> float:
+    """Convert American odds to implied probability."""
+    if american > 0:
+        return round(100 / (american + 100), 4)
+    else:
+        return round(abs(american) / (abs(american) + 100), 4)
+
+
+def american_to_decimal(american: int) -> float:
+    """Convert American odds to decimal odds."""
+    if american > 0:
+        return round((american / 100) + 1, 3)
+    else:
+        return round((100 / abs(american)) + 1, 3)
+
+
+def american_to_fractional(american: int) -> str:
+    """Convert American odds to simple fractional string like '9/1'."""
+    if american > 0:
+        numerator = american
+        denominator = 100
+    else:
+        numerator = 100
+        denominator = abs(american)
+    # Simplify fraction
+    from math import gcd
+    g = gcd(numerator, denominator)
+    return f"{numerator // g}/{denominator // g}"
+
+
+def decimal_to_american(decimal: float) -> int:
+    """Convert decimal odds back to American."""
+    if decimal >= 2.0:
+        return int((decimal - 1) * 100)
+    else:
+        return int(-100 / (decimal - 1))
+
+
+def format_price(american: int) -> str:
+    """Format American odds for display: +350, -110, etc."""
+    if american > 0:
+        return f"+{american}"
+    return str(american)
+
+
+# ──────────────────────────────────────────────────────────────
+# NAME NORMALIZATION
+# ──────────────────────────────────────────────────────────────
+
+def _normalize_odds_name(name: str) -> str:
+    """
+    Normalize player name from Odds API to match DataGolf format.
+    Handles common discrepancies between book name spellings.
+    """
+    if not name:
+        return ""
+
+    # Common book→DG name mappings
+    OVERRIDES = {
+        "Rory Mcilroy": "Rory McIlroy",
+        "Si Woo Kim": "Si Woo Kim",
+        "Byeong Hun An": "Byeong-Hun An",
+        "K.h. Lee": "K.H. Lee",
+        "Sungjae Im": "Sungjae Im",
+        "Min Woo Lee": "Min Woo Lee",
+        "Sepp Straka": "Sepp Straka",
+        "Christiaan Bezuidenhout": "Christiaan Bezuidenhout",
+        "Adrien Dumont De Chassart": "Adrien Dumont de Chassart",
+        "Nicolai Hojgaard": "Nicolai Højgaard",
+        "Rasmus Hojgaard": "Rasmus Højgaard",
+    }
+
+    name_clean = name.strip().title()
+    return OVERRIDES.get(name_clean, name_clean)
