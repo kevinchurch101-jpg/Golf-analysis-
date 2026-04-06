@@ -2,7 +2,7 @@
 Fairway Intel — Core Framework Engine
 Implements Sections 2-6 of Kevin's Framework.
 Nothing is binary. Everything is on a spectrum. Always apply nuance.
-
+ 
 BALL-STRIKING MODEL (updated per conversation April 2026):
 - OTT and APP are equal partners at base level
 - Combined (OTT + APP) drives the form window conviction
@@ -13,10 +13,10 @@ BALL-STRIKING MODEL (updated per conversation April 2026):
 - Outlier flag when combined threshold met but one component badly lagging
 - Market trap checks both OTT and APP — not just APP
 """
-
+ 
 import logging
 from typing import Dict, List, Optional
-
+ 
 from config import (
     SG_BALL_STRIKING_THRESHOLD, SG_SPIKE_OUTRIGHT, SG_CEILING_DEMO,
     SG_LOPSIDED_FLAG_THRESHOLD, DISTANCE_TIERS,
@@ -24,14 +24,14 @@ from config import (
     HOVLAND_JT_TRIGGER, KEITH_MITCHELL_TRIGGER, FALLEN_STAR_TRIGGER,
     THORBJORNSEN_TRIGGER, FOWLER_MIN_ODDS, TIERS, DESIGNATIONS,
 )
-
+ 
 log = logging.getLogger(__name__)
-
-
+ 
+ 
 # ──────────────────────────────────────────────────────────────
 # SECTION 2 — BALL-STRIKING FORM WINDOW
 # ──────────────────────────────────────────────────────────────
-
+ 
 def assess_form_window(
     recent_sg_app: List[float],
     career_sg_app: float,
@@ -43,12 +43,12 @@ def assess_form_window(
     Assess ball-striking form window using COMBINED OTT + APP.
     OTT and APP are equal partners. Combined drives conviction level.
     Course type flows in to make the outlier flag and course note meaningful.
-
+ 
     Conviction (events where combined >= career combined mean):
         1-2:  INTRIGUING
         3-5:  COMFORTABLE
         6+:   SUPER CONFIDENT
-
+ 
     Outlier flag: combined OK but one component >SG_LOPSIDED_FLAG_THRESHOLD below career.
     """
     if not recent_sg_app and not recent_sg_ott:
@@ -63,18 +63,18 @@ def assess_form_window(
             "form_note": "Insufficient recent event data.",
             "course_type": course_type,
         }
-
+ 
     career_combined = career_sg_app + career_sg_ott
     n       = min(len(recent_sg_app), len(recent_sg_ott)) if recent_sg_ott else len(recent_sg_app)
     app_list = recent_sg_app[:n]
     ott_list = recent_sg_ott[:n] if recent_sg_ott else [0.0] * n
-
+ 
     events_gaining_combined = sum(
         1 for a, o in zip(app_list, ott_list) if (a + o) >= career_combined
     )
     events_gaining_app = sum(1 for sg in app_list if sg >= career_sg_app)
     events_gaining_ott = sum(1 for sg in ott_list if sg >= career_sg_ott)
-
+ 
     if events_gaining_combined >= 6:
         conviction = "SUPER CONFIDENT"
     elif events_gaining_combined >= 3:
@@ -83,16 +83,16 @@ def assess_form_window(
         conviction = "INTRIGUING"
     else:
         conviction = "NOT IN FORM"
-
+ 
     r = min(4, n)
     recent_app_avg      = sum(app_list[:r]) / r if r else 0.0
     recent_ott_avg      = sum(ott_list[:r]) / r if r else 0.0
     recent_combined_avg = recent_app_avg + recent_ott_avg
-
+ 
     max_recent = max((a + o) for a, o in zip(app_list[:6], ott_list[:6])) if n >= 1 else 0.0
     has_spike   = any((a + o) >= SG_SPIKE_OUTRIGHT   for a, o in zip(app_list[:6],  ott_list[:6]))
     has_ceiling = any((a + o) >= SG_CEILING_DEMO * 2 for a, o in zip(app_list[:12], ott_list[:12]))
-
+ 
     # ── Two-part outlier / lopsidedness check ──
     #
     # Part A — One component badly BELOW career mean while combined is healthy.
@@ -104,16 +104,16 @@ def assess_form_window(
     #   profile raises questions about sustainability and course applicability.
     #   e.g. dominant driver with fine-but-not-great irons meeting the threshold
     #   entirely on OTT — at an approach-dominant course this matters a lot.
-
+ 
     lopsided_flag  = False
     dominant_stat  = None      # "OTT" or "APP" if 80%+ of combined gain
     lopsided_notes = []
-
+ 
     if conviction in ("COMFORTABLE", "SUPER CONFIDENT") and recent_combined_avg > career_combined:
         app_delta = recent_app_avg - career_sg_app
         ott_delta = recent_ott_avg - career_sg_ott
         combined_gain = recent_combined_avg - career_combined   # total gain above career
-
+ 
         # ── Part A: one component badly below career ──
         if ott_delta < -SG_LOPSIDED_FLAG_THRESHOLD and app_delta > 0:
             lopsided_flag = True
@@ -131,12 +131,12 @@ def assess_form_window(
                    if course_type in ("FORCED_LAYUP", "TIGHT")
                    else "OPEN course: distance present but APP is the separator — scrutinise.")
             )
-
+ 
         # ── Part B: one stat carrying 80%+ of the combined gain ──
         if combined_gain > 0.05:   # Only meaningful if there's real gain to apportion
             ott_share = ott_delta / combined_gain if combined_gain else 0
             app_share = app_delta / combined_gain if combined_gain else 0
-
+ 
             if ott_share >= 0.80 and ott_delta > 0:
                 dominant_stat = "OTT"
                 lopsided_flag = True
@@ -161,12 +161,12 @@ def assess_form_window(
                        if course_type == "OPEN"
                        else "TIGHT/FORCED_LAYUP: APP-dominant form fits well here.")
                 )
-
+ 
     lopsided_note = " | ".join(lopsided_notes)
-
+ 
     course_note = _course_type_form_note(course_type, recent_app_avg, recent_ott_avg,
                                           career_sg_app, career_sg_ott)
-
+ 
     return {
         "conviction_level": conviction,
         "events_gaining_combined": events_gaining_combined,
@@ -192,8 +192,8 @@ def assess_form_window(
         "course_type": course_type,
         "course_note": course_note,
     }
-
-
+ 
+ 
 def _course_type_form_note(course_type, recent_app, recent_ott, career_app, career_ott):
     app_up = recent_app >= career_app
     ott_up = recent_ott >= career_ott
@@ -215,13 +215,13 @@ def _course_type_form_note(course_type, recent_app, recent_ott, career_app, care
         if app_up:              return "APP gaining, OTT neutral — net ball-striking positive."
         if ott_up:              return "OTT gaining, APP neutral — mixed ball-striking picture."
         return                         "Ball-striking below career mean — not in form."
-
-
+ 
+ 
 def assess_win_equity(pga_wins, kft_wins_recent, college_winning, last_win_years_ago, designation):
     has_win_equity = False
     equity_level   = "NONE"
     notes          = []
-
+ 
     if pga_wins >= 2:
         has_win_equity, equity_level = True, "HIGH"
         notes.append(f"{pga_wins} PGA Tour wins")
@@ -237,11 +237,11 @@ def assess_win_equity(pga_wins, kft_wins_recent, college_winning, last_win_years
     elif college_winning:
         has_win_equity, equity_level = True, "DEVELOPING"
         notes.append("Prolific college winner")
-
+ 
     if designation == "FALLEN_STAR":
         has_win_equity = True
         notes.append("Fallen star — historical win equity retained")
-
+ 
     return {
         "has_win_equity": has_win_equity,
         "equity_level": equity_level,
@@ -251,18 +251,18 @@ def assess_win_equity(pga_wins, kft_wins_recent, college_winning, last_win_years
         ),
         "notes": " | ".join(notes),
     }
-
-
+ 
+ 
 # ──────────────────────────────────────────────────────────────
 # SECTION 3 — PUTTING PHILOSOPHY
 # ──────────────────────────────────────────────────────────────
-
+ 
 def assess_putting_profile(career_sg_putt, recent_sg_putt, course_sg_putt_history,
                             is_unique_venue=False, venue_name=""):
     effective = recent_sg_putt if recent_sg_putt is not None else career_sg_putt
     if is_unique_venue and course_sg_putt_history is not None:
         effective = course_sg_putt_history
-
+ 
     if career_sg_putt >= 0.25 and (recent_sg_putt is None or recent_sg_putt >= 0.15):
         profile, trigger = "elite_career_putter", "McCarthy/Burns tier — back when ball-striking spikes"
     elif effective >= 0.10:
@@ -273,9 +273,9 @@ def assess_putting_profile(career_sg_putt, recent_sg_putt, course_sg_putt_histor
         profile, trigger = "modest_liability", "Minor concern — not disqualifying at most venues"
     else:
         profile, trigger = "liability", "Real concern — pure upside if ever putts well (Si Woo type)"
-
+ 
     spike_this_week = (recent_sg_putt is not None and recent_sg_putt > 0.30 and career_sg_putt < 0.10)
-
+ 
     return {
         "profile": profile,
         "career_sg_putt": round(career_sg_putt, 3),
@@ -289,8 +289,8 @@ def assess_putting_profile(career_sg_putt, recent_sg_putt, course_sg_putt_histor
             if spike_this_week else ""
         ),
     }
-
-
+ 
+ 
 def check_market_trap(sg_total, sg_putt, sg_app, sg_ott=0.0):
     """
     Detect market trap: putting inflating totals while BOTH ball-striking components weak.
@@ -299,17 +299,17 @@ def check_market_trap(sg_total, sg_putt, sg_app, sg_ott=0.0):
     """
     bs_combined = sg_app + sg_ott
     putt_share  = sg_putt / sg_total if sg_total > 0 else 0
-
+ 
     is_trap     = putt_share > 0.50 and sg_app < 0.10 and sg_ott < 0.20
     partial_trap = (not is_trap and putt_share > 0.40 and (sg_app < 0.0 or sg_ott < -0.10))
-
+ 
     if is_trap:
         warning = "MARKET TRAP: Putting driving totals. Both APP and OTT weak. Fade outright — positions only."
     elif partial_trap:
         warning = f"PARTIAL TRAP: Putting elevated vs ball-striking. {'APP weak' if sg_app < 0.0 else 'OTT lagging'} — scrutinise."
     else:
         warning = ""
-
+ 
     return {
         "is_market_trap": is_trap,
         "is_partial_trap": partial_trap,
@@ -321,49 +321,49 @@ def check_market_trap(sg_total, sg_putt, sg_app, sg_ott=0.0):
         "sg_ott": round(sg_ott, 3),
         "warning": warning,
     }
-
-
+ 
+ 
 # ──────────────────────────────────────────────────────────────
 # SECTION 4 — DISTANCE, ACCURACY, AND COURSE FIT
 # ──────────────────────────────────────────────────────────────
-
+ 
 def get_distance_tier(driving_distance_vs_avg):
     if driving_distance_vs_avg >= DISTANCE_TIERS["elite_bomber"]:  return "ELITE_BOMBER"
     if driving_distance_vs_avg >= DISTANCE_TIERS["above_average"]: return "ABOVE_AVERAGE"
     if driving_distance_vs_avg >= DISTANCE_TIERS["average"]:       return "AVERAGE"
     return "SHORT"
-
-
+ 
+ 
 def assess_driving_profile(distance_tier, driving_acc, sg_ott, course_type,
                             rough_penalty, course_avg_acc=None):
     """
     Prerequisite chain logic per course type.
-
+ 
     TIGHT:     Fairway-finding is Step 1 prerequisite.
                Hit fairways → distance bonus applies → APP separates.
                Miss fairways → distance advantage neutralised regardless of raw distance.
                Exception: universally penal rough (Winged Foot) → shared penalty,
                distance advantage remains unique.
-
+ 
     OPEN:      Distance is Step 1 prerequisite.
                Far enough → APP separates. Accuracy less penalised.
                Bomber with modest OTT stat but elite distance still meets prerequisite.
                Shorter hitter with great APP still fighting an uphill battle.
-
+ 
     FORCED_LAYUP: OTT irrelevant. APP dominant. Everyone in same spot.
-
+ 
     NEUTRAL:   Both contribute proportionally.
     """
     dist_scores  = {"ELITE_BOMBER": 1.0, "ABOVE_AVERAGE": 0.65, "AVERAGE": 0.35, "SHORT": 0.0}
     raw_dist     = dist_scores.get(distance_tier, 0.35)
     acc_deficit  = (course_avg_acc - driving_acc) if course_avg_acc else 0
     is_accurate  = driving_acc >= 60 or (course_avg_acc and driving_acc >= course_avg_acc - 5)
-
+ 
     flags              = []
     prerequisite_met   = False
     prerequisite_note  = ""
     driving_value      = 0.0
-
+ 
     if course_type == "TIGHT":
         prerequisite_met = is_accurate
         if prerequisite_met:
@@ -382,7 +382,7 @@ def assess_driving_profile(distance_tier, driving_acc, sg_ott, course_type,
             driving_value    = raw_dist * 0.75
             prerequisite_note += " Winged Foot principle: penal rough shared, distance advantage unique."
             flags.append("Winged Foot principle applies — penal rough shared, distance advantage unique.")
-
+ 
     elif course_type == "OPEN":
         dist_ok          = distance_tier in ("ELITE_BOMBER", "ABOVE_AVERAGE")
         prerequisite_met = dist_ok
@@ -410,12 +410,12 @@ def assess_driving_profile(distance_tier, driving_acc, sg_ott, course_type,
                 f"OPEN COURSE: {distance_tier} distance — may lack distance prerequisite "
                 "to fully exploit open setup."
             )
-
+ 
     elif course_type == "FORCED_LAYUP":
         prerequisite_met  = True
         driving_value     = 0.05
         prerequisite_note = "Forced layup — driving distance irrelevant. APP dominates."
-
+ 
     else:  # NEUTRAL
         prerequisite_met  = True
         driving_value     = raw_dist * 0.6
@@ -423,7 +423,7 @@ def assess_driving_profile(distance_tier, driving_acc, sg_ott, course_type,
         if not is_accurate and rough_penalty == "HIGH":
             driving_value *= 0.7
             flags.append("Accuracy concern at HIGH rough penalty course.")
-
+ 
     return {
         "distance_tier": distance_tier,
         "driving_acc": round(driving_acc, 1),
@@ -441,12 +441,12 @@ def assess_driving_profile(distance_tier, driving_acc, sg_ott, course_type,
             f"Prereq: {'✓' if prerequisite_met else '✗'} | Value: {driving_value:.2f}"
         ),
     }
-
-
+ 
+ 
 # ──────────────────────────────────────────────────────────────
 # SECTION 5 — COURSE HISTORY
 # ──────────────────────────────────────────────────────────────
-
+ 
 def assess_course_history(results, current_skill_profile, is_complex_course=False):
     """
     "Similar version" proxy: combined ball-striking (OTT + APP) within 0.4 SG/round.
@@ -456,12 +456,12 @@ def assess_course_history(results, current_skill_profile, is_complex_course=Fals
     if not results:
         return {"has_course_history": False, "meaningful": False, "specialist": False,
                 "top10_count": 0, "wins": 0, "summary": "No course history."}
-
+ 
     top10s  = [r for r in results if r.get("finish", 99) <= 10]
     wins    = [r for r in results if r.get("finish", 99) == 1]
     strong  = [r for r in results if r.get("finish", 99) <= 20]
     specialist = len(strong) >= 2 and is_complex_course
-
+ 
     current_combined = (current_skill_profile.get("sg_app", 0) or 0) + \
                        (current_skill_profile.get("sg_ott", 0) or 0)
     comparable = [
@@ -469,7 +469,7 @@ def assess_course_history(results, current_skill_profile, is_complex_course=Fals
         if abs(((r.get("sg_app", 0) or 0) + (r.get("sg_ott", 0) or 0)) - current_combined) <= 0.4
     ]
     meaningful = len(comparable) >= 2 or (len(strong) >= 2 and is_complex_course)
-
+ 
     return {
         "has_course_history": True,
         "meaningful": meaningful,
@@ -486,16 +486,16 @@ def assess_course_history(results, current_skill_profile, is_complex_course=Fals
             + (f" | {len(comparable)} from comparable form era" if comparable else "")
         ),
     }
-
-
+ 
+ 
 # ──────────────────────────────────────────────────────────────
 # SECTION 6 — DESIGNATION SYSTEM
 # ──────────────────────────────────────────────────────────────
-
+ 
 def apply_designation_modifier(base_conviction, designation, borderline=False):
     adjusted = base_conviction
     notes    = []
-
+ 
     if designation == "EXTRA_CONFIRM_PLUS":
         if borderline and base_conviction in ("NOT IN FORM", "INTRIGUING"):
             adjusted = "INTRIGUING"
@@ -511,7 +511,7 @@ def apply_designation_modifier(base_conviction, designation, borderline=False):
     elif designation == "FALLEN_STAR":
         notes.append("FALLEN STAR: any form return at 100/1+ = immediately intriguing")
         notes.append("Price trigger: 100/1+ required. Don't back at 70/1 in bad form.")
-
+ 
     return {
         "original_conviction": base_conviction,
         "adjusted_conviction": adjusted,
@@ -519,52 +519,52 @@ def apply_designation_modifier(base_conviction, designation, borderline=False):
         "borderline": borderline,
         "modifier_notes": notes,
     }
-
-
+ 
+ 
 def check_price_triggers(player_name, designation, american_odds, is_weak_field=False):
     if american_odds is None:
         return {"triggered": False, "reason": "No odds available", "flags": [], "fractional": None, "american": None, "primary_flag": ""}
     if american_odds <= 0:
         return {"triggered": False, "reason": "Negative American odds", "flags": [], "fractional": None, "american": american_odds, "primary_flag": ""}
-
+ 
     fractional = american_odds / 100
     flags      = []
     triggered  = False
-
+ 
     if "Sepp Straka" in player_name:
         if fractional >= STRAKA_TRIGGER_NORMAL:
             flags.append(f"STRAKA TRIGGER: {fractional:.0f}/1 ≥ {STRAKA_TRIGGER_NORMAL}/1 — must consider"); triggered = True
         elif is_weak_field and fractional >= STRAKA_TRIGGER_WEAK:
             flags.append(f"STRAKA WEAK FIELD: {fractional:.0f}/1 ≥ {STRAKA_TRIGGER_WEAK}/1 — must consider"); triggered = True
-
+ 
     if ("Viktor Hovland" in player_name or "Justin Thomas" in player_name) and designation == "FALLEN_STAR":
         if fractional >= HOVLAND_JT_TRIGGER:
             flags.append(f"FALLEN STAR AUTO-CONSIDER at {fractional:.0f}/1 ≥ {HOVLAND_JT_TRIGGER}/1"); triggered = True
-
+ 
     if "Tony Finau" in player_name and designation == "FALLEN_STAR":
         if fractional >= FALLEN_STAR_TRIGGER:
             flags.append(f"FALLEN STAR TRIGGER at {fractional:.0f}/1 ≥ {FALLEN_STAR_TRIGGER}/1"); triggered = True
-
+ 
     if "Russell Henley" in player_name and fractional >= HENLEY_VALUE_TRIGGER:
         flags.append(f"HENLEY VALUE TRIGGER at {fractional:.0f}/1 — intriguing at right price"); triggered = True
-
+ 
     if "Keith Mitchell" in player_name and fractional >= KEITH_MITCHELL_TRIGGER:
         flags.append(f"MITCHELL PRICE TRIGGER at {fractional:.0f}/1 ≥ {KEITH_MITCHELL_TRIGGER}/1"); triggered = True
-
+ 
     if "Michael Thorbjornsen" in player_name and fractional >= THORBJORNSEN_TRIGGER:
         flags.append(f"THORBJORNSEN BOMBER TRIGGER at {fractional:.0f}/1 — bomber course only"); triggered = True
-
+ 
     if "Rickie Fowler" in player_name and fractional < FOWLER_MIN_ODDS:
         flags.append(f"FOWLER FADE: {fractional:.0f}/1 below {FOWLER_MIN_ODDS}/1 — do not back")
-
+ 
     return {"triggered": triggered, "fractional": fractional, "american": american_odds,
             "flags": flags, "primary_flag": flags[0] if flags else ""}
-
-
+ 
+ 
 # ──────────────────────────────────────────────────────────────
 # INTEGRATED PLAYER ASSESSMENT
 # ──────────────────────────────────────────────────────────────
-
+ 
 def build_player_framework_score(player_data, course_data):
     """
     Primary integration point. Combines all framework sections.
@@ -574,7 +574,7 @@ def build_player_framework_score(player_data, course_data):
     name        = player_data.get("name", "Unknown")
     designation = player_data.get("designation", "FRAMEWORK")
     course_type = course_data.get("course_type", "NEUTRAL")
-
+ 
     # 1. Form window — combined OTT + APP
     form = assess_form_window(
         recent_sg_app=player_data.get("sg_app_recent", []),
@@ -583,7 +583,7 @@ def build_player_framework_score(player_data, course_data):
         career_sg_ott=player_data.get("sg_ott_career", 0),
         course_type=course_type,
     )
-
+ 
     # 2. Putting
     putting = assess_putting_profile(
         career_sg_putt=player_data.get("sg_putt_career", 0),
@@ -592,20 +592,20 @@ def build_player_framework_score(player_data, course_data):
         is_unique_venue=course_data.get("is_unique_venue", False),
         venue_name=course_data.get("name", ""),
     )
-
+ 
     # 3. Market trap — both OTT and APP
     r = min(4, len(player_data.get("sg_app_recent", [])))
     recent_app_avg = sum(player_data.get("sg_app_recent", [0])[:r]) / max(1, r)
     r2 = min(4, len(player_data.get("sg_ott_recent", [])))
     recent_ott_avg = sum(player_data.get("sg_ott_recent", [0])[:r2]) / max(1, r2)
-
+ 
     trap = check_market_trap(
         sg_total=player_data.get("sg_total_recent", 0) or 0,
         sg_putt=player_data.get("sg_putt_recent", 0) or 0,
         sg_app=recent_app_avg,
         sg_ott=recent_ott_avg,
     )
-
+ 
     # 4. Driving profile — prerequisite chain
     driving = assess_driving_profile(
         distance_tier=player_data.get("distance_tier", "AVERAGE"),
@@ -615,14 +615,14 @@ def build_player_framework_score(player_data, course_data):
         rough_penalty=course_data.get("rough_penalty", "MODERATE"),
         course_avg_acc=course_data.get("course_avg_acc"),
     )
-
+ 
     # 5. Course history — comparable version uses combined
     course_hist = assess_course_history(
         results=player_data.get("course_history", []),
         current_skill_profile={"sg_app": recent_app_avg, "sg_ott": recent_ott_avg},
         is_complex_course=course_data.get("is_complex_course", False),
     )
-
+ 
     # 6. Win equity
     win_eq = assess_win_equity(
         pga_wins=player_data.get("pga_wins", 0),
@@ -631,29 +631,29 @@ def build_player_framework_score(player_data, course_data):
         last_win_years_ago=player_data.get("last_win_years_ago"),
         designation=designation,
     )
-
+ 
     # 7. Designation modifier
     borderline = form["conviction_level"] in ("INTRIGUING", "NOT IN FORM")
     desig_mod  = apply_designation_modifier(form["conviction_level"], designation, borderline)
-
+ 
     # 8. Price triggers
     price_flags = check_price_triggers(
         player_name=name, designation=designation,
         american_odds=player_data.get("best_odds_american"),
         is_weak_field=course_data.get("is_weak_field", False),
     )
-
+ 
     conviction = desig_mod["adjusted_conviction"]
     has_value  = price_flags.get("triggered") or (
         player_data.get("dg_win_prob", 0) > (player_data.get("implied_prob", 0) or 0) * 1.15
     )
-
+ 
     all_flags = []
     if form.get("lopsided_flag"):        all_flags.append(form["lopsided_note"])
     all_flags.extend(driving.get("flags", []))
     if trap.get("is_partial_trap"):      all_flags.append(trap["warning"])
     all_flags.extend(price_flags.get("flags", []))
-
+ 
     # Tier recommendation
     if trap.get("is_market_trap"):
         tier, reason = "B", "Market trap: putting driving totals — positions only"
@@ -667,12 +667,12 @@ def build_player_framework_score(player_data, course_data):
         tier, reason = "B", "Fallen star at trigger price — lottery outright / positions"
     else:
         tier, reason = "C", "Pass or monitor"
-
+ 
     # Downgrade if driving prerequisite not met
     if not driving["prerequisite_met"] and tier in ("S", "A"):
         tier    = "B"
         reason += f" | DOWNGRADED: driving prerequisite not met ({course_type} course)"
-
+ 
     return {
         "name": name, "designation": designation,
         "form": form, "putting": putting, "market_trap": trap,
