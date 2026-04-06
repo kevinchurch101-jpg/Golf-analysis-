@@ -3,14 +3,14 @@ Fairway Intel — Course Analysis Module
 Assigns distance multiplier, dominant stat, rough/angle penalties.
 Augusta National gets full Section 11 treatment.
 """
- 
+
 import logging
 from dataclasses import dataclass, field
 from typing import Dict, List, Optional
- 
+
 log = logging.getLogger(__name__)
- 
- 
+
+
 @dataclass
 class CourseProfile:
     name: str
@@ -34,14 +34,18 @@ class CourseProfile:
     typical_cut_score: Optional[int] = None
     course_type: str = "NEUTRAL"        # "TIGHT", "OPEN", "FORCED_LAYUP", "NEUTRAL"
     course_avg_acc: Optional[float] = None  # historical driving accuracy % at this venue
- 
- 
+    preferred_flight: Optional[str] = None  # "right_to_left", "left_to_right", or None (neutral)
+    # right_to_left = draw for righties, fade for lefties (e.g. Augusta)
+    # left_to_right = fade for righties, draw for lefties
+    # None = no meaningful bias
+
+
 # ──────────────────────────────────────────────────────────────
 # KNOWN COURSE PROFILES
 # ──────────────────────────────────────────────────────────────
- 
+
 KNOWN_COURSES: Dict[str, CourseProfile] = {
- 
+
     "tpc_san_antonio": CourseProfile(
         name="TPC San Antonio (AT&T Oaks)",
         location="San Antonio, TX",
@@ -61,7 +65,7 @@ KNOWN_COURSES: Dict[str, CourseProfile] = {
         ),
         specialist_flags=["conners", "bhatia", "mccarthy", "horschel_history"],
     ),
- 
+
     "augusta_national": CourseProfile(
         name="Augusta National Golf Club",
         location="Augusta, GA",
@@ -72,7 +76,10 @@ KNOWN_COURSES: Dict[str, CourseProfile] = {
         angle_penalty="HIGH",
         is_unique_venue=True,
         is_complex_course=True,
-        draw_bias=True,
+        draw_bias=True,           # kept for backwards compat
+        preferred_flight="right_to_left",  # Augusta rewards right-to-left ball flight
+        # Right-handers: draw is advantageous
+        # Left-handers: fade is advantageous (e.g. Phil Mickelson)
         wind_relevance="MODERATE",
         course_type="NEUTRAL",
         course_avg_acc=None,
@@ -87,7 +94,7 @@ KNOWN_COURSES: Dict[str, CourseProfile] = {
         ),
         historical_winning_score=-14,
     ),
- 
+
     "harbour_town": CourseProfile(
         name="Harbour Town Golf Links",
         location="Hilton Head, SC",
@@ -108,7 +115,7 @@ KNOWN_COURSES: Dict[str, CourseProfile] = {
         ),
         specialist_flags=["webb_simpson"],
     ),
- 
+
     "tpc_scottsdale": CourseProfile(
         name="TPC Scottsdale (Stadium Course)",
         location="Scottsdale, AZ",
@@ -126,7 +133,7 @@ KNOWN_COURSES: Dict[str, CourseProfile] = {
         ),
         specialist_flags=["nick_taylor"],
     ),
- 
+
     "colonial_country_club": CourseProfile(
         name="Colonial Country Club (Hogan's Alley)",
         location="Fort Worth, TX",
@@ -146,7 +153,7 @@ KNOWN_COURSES: Dict[str, CourseProfile] = {
         ),
         specialist_flags=["spieth"],
     ),
- 
+
     "pebble_beach": CourseProfile(
         name="Pebble Beach Golf Links",
         location="Pebble Beach, CA",
@@ -164,7 +171,7 @@ KNOWN_COURSES: Dict[str, CourseProfile] = {
             "Weather and wind can be decisive."
         ),
     ),
- 
+
     "muirfield_village": CourseProfile(
         name="Muirfield Village Golf Club",
         location="Dublin, OH",
@@ -180,7 +187,7 @@ KNOWN_COURSES: Dict[str, CourseProfile] = {
         ),
         specialist_flags=["cantlay"],
     ),
- 
+
     "generic_long_accurate": CourseProfile(
         name="Generic Long Accurate Course",
         location="Unknown",
@@ -191,7 +198,7 @@ KNOWN_COURSES: Dict[str, CourseProfile] = {
         angle_penalty="MODERATE",
         course_notes="Standard PGA Tour long accurate course profile.",
     ),
- 
+
     "generic_bomber": CourseProfile(
         name="Generic Bomber Course",
         location="Unknown",
@@ -204,8 +211,8 @@ KNOWN_COURSES: Dict[str, CourseProfile] = {
         course_notes="Distance advantage is FULL multiplier. Wide, reachable par-5s.",
     ),
 }
- 
- 
+
+
 def get_course_profile(course_identifier: str) -> Optional[CourseProfile]:
     """Look up a course profile by identifier (case-insensitive)."""
     key = course_identifier.lower().replace(" ", "_").replace("-", "_")
@@ -216,8 +223,8 @@ def get_course_profile(course_identifier: str) -> Optional[CourseProfile]:
         if key in k or any(word in k for word in key.split("_") if len(word) > 3):
             return v
     return None
- 
- 
+
+
 def build_course_profile_from_description(
     name: str,
     par: int,
@@ -230,7 +237,7 @@ def build_course_profile_from_description(
     Uses keyword analysis of the course description.
     """
     desc_lower = description.lower()
- 
+
     # Distance multiplier heuristics
     if any(k in desc_lower for k in ["wide fairways", "reachable par-5", "bomber", "power"]):
         dist_mult = "FULL"
@@ -244,7 +251,7 @@ def build_course_profile_from_description(
         dist_mult = "PARTIAL"
     else:
         dist_mult = "COMPRESSED"
- 
+
     # Dominant stat
     if any(k in desc_lower for k in ["approach", "iron", "accuracy-premium"]):
         dominant = "APP"
@@ -256,7 +263,7 @@ def build_course_profile_from_description(
         dominant = "PUTT"
     else:
         dominant = "BALANCED"
- 
+
     # Rough penalty
     if any(k in desc_lower for k in ["penal rough", "deep rough", "thick rough", "penalizing"]):
         rough = "HIGH"
@@ -264,13 +271,13 @@ def build_course_profile_from_description(
         rough = "LOW"
     else:
         rough = "MODERATE"
- 
+
     # Unique venue / complexity
     unique = any(k in desc_lower for k in ["augusta", "pebble", "harbour town", "unique"])
     complex_course = any(k in desc_lower for k in [
         "management", "strategic", "complex", "think", "positional", "unique"
     ])
- 
+
     return CourseProfile(
         name=name,
         location="Unknown",
@@ -286,8 +293,8 @@ def build_course_profile_from_description(
         wind_relevance="HIGH" if weather_data and weather_data.get("r1", {}).get("wind_mph", 0) >= 15 else "MODERATE",
         course_notes=description[:500],
     )
- 
- 
+
+
 def assess_course_player_fit(
     player_profile,      # PlayerProfile from players.py
     course: CourseProfile,
@@ -298,7 +305,7 @@ def assess_course_player_fit(
     """
     fit_factors = []
     fit_score = 50   # Start neutral
- 
+
     # Distance multiplier fit
     if course.distance_multiplier == "FULL" and player_profile.distance_tier == "ELITE_BOMBER":
         fit_score += 15
@@ -312,32 +319,54 @@ def assess_course_player_fit(
     elif course.distance_multiplier == "COMPRESSED" and player_profile.distance_tier == "SHORT":
         fit_score += 5
         fit_factors.append("Short hitter not disadvantaged at COMPRESSED course")
- 
+
     # Dominant stat fit
     if course.dominant_stat == "APP" and "accuracy" in player_profile.kevin_notes.lower():
         fit_score += 10
         fit_factors.append("APP-dominant course fits accuracy profile")
- 
+
     # Accuracy premium
     if course.accuracy_premium and player_profile.distance_tier == "SHORT":
         fit_score += 5
         fit_factors.append("Short accurate hitter fits accuracy-premium venue")
- 
+
     # Specialist check
     player_lower = player_profile.name.lower().split()[-1]
     if player_lower in [s.lower() for s in course.specialist_flags]:
         fit_score += 20
         fit_factors.append(f"COURSE SPECIALIST: {player_profile.name} at {course.name}")
- 
-    # Shot shape at Augusta
-    if course.draw_bias and player_profile.shot_shape_preference == "high_cut":
-        fit_score -= 10
-        fit_factors.append(f"SHOT SHAPE CONCERN: {player_profile.name} prefers high cut at draw-bias course")
- 
+
+    # Shot shape / ball flight fit
+    if course.preferred_flight:
+        player_flight = getattr(player_profile, 'dominant_flight', None)
+        shot_pref     = getattr(player_profile, 'shot_shape_preference', None)
+
+        # Derive player's ball flight direction from shot shape preference if no dominant_flight set
+        # high_cut for a righty = left_to_right; draw for a righty = right_to_left
+        # (Wyndham Clark high_cut = left_to_right as a right-hander)
+        if player_flight is None and shot_pref == "high_cut":
+            player_flight = "left_to_right"   # righty high cut goes left-to-right
+        elif player_flight is None and shot_pref == "draw":
+            player_flight = "right_to_left"   # righty draw goes right-to-left
+
+        if player_flight and player_flight != course.preferred_flight:
+            fit_score -= 10
+            fit_factors.append(
+                f"BALL FLIGHT CONCERN: {player_profile.name} ({player_flight}) "
+                f"works against {course.name} preference ({course.preferred_flight}). "
+                f"e.g. righty high-cut at Augusta (right-to-left course) is a mismatch."
+            )
+        elif player_flight and player_flight == course.preferred_flight:
+            fit_score += 6
+            fit_factors.append(
+                f"Ball flight fits: {player_profile.name} ({player_flight}) "
+                f"aligns with {course.name} preference."
+            )
+
     # Unique venue newcomer discount
     if course.is_unique_venue and not course.specialist_flags:
         fit_factors.append("Unique venue — weight course-specific history carefully")
- 
+
     return {
         "player": player_profile.name,
         "course": course.name,
@@ -350,12 +379,12 @@ def assess_course_player_fit(
             player_lower in s.lower() for s in course.specialist_flags
         ),
     }
- 
- 
+
+
 # ──────────────────────────────────────────────────────────────
 # AUGUSTA NATIONAL — SECTION 11 FULL ASSESSMENT
 # ──────────────────────────────────────────────────────────────
- 
+
 def assess_augusta_fit(
     player_profile,
     skill_data: Dict,
@@ -370,24 +399,24 @@ def assess_augusta_fit(
     notes = []
     flags = []
     score = 50
- 
+
     # Distance — spectrum not binary — par-5 bonus on 13 and 15
     if player_profile.distance_tier in ("ELITE_BOMBER", "ABOVE_AVERAGE"):
         score += 10
         notes.append(f"Distance advantage real on 13 and 15 ({player_profile.distance_tier})")
     # Even shorter hitters can compete — just no par-5 bonus
- 
+
     # Conversion chain check — must have overall strong profile
     sg_app = skill_data.get("sg_app", 0) or 0
     if sg_app < -0.10:
         score -= 15
         flags.append("APP negative — full-game requirement not met even with distance")
- 
+
     # Putting — course-specific history overrides career
     course_sg_putt = course_history.get("sg_putt", None)
     career_sg_putt = skill_data.get("sg_putt", 0) or 0
     effective_putt = course_sg_putt if course_sg_putt is not None else career_sg_putt
- 
+
     if effective_putt >= 0.20:
         score += 12
         notes.append("Strong putting profile at Augusta")
@@ -396,20 +425,38 @@ def assess_augusta_fit(
     elif effective_putt < -0.30:
         score -= 8
         flags.append("Putting liability at Augusta — watch course-specific history")
- 
+
     # Bryson special case — underrated elite putter
     if "Bryson" in name or "DeChambeau" in name:
         score += 8
         notes.append("KEY: Underrated elite putter — factor always at Augusta")
- 
-    # Shot shape — draw bias is real
-    if player_profile.shot_shape_preference == "high_cut":
+
+    # Ball flight — Augusta rewards right-to-left flight
+    # Righty draw = right-to-left = good fit
+    # Lefty fade = right-to-left = good fit (e.g. Phil)
+    # Righty high cut = left-to-right = works against Augusta angles
+    # Lefty draw = left-to-right = works against Augusta angles
+    player_flight = getattr(player_profile, 'dominant_flight', None)
+    shot_pref     = getattr(player_profile, 'shot_shape_preference', None)
+
+    if player_flight is None and shot_pref == "high_cut":
+        player_flight = "left_to_right"
+    elif player_flight is None and shot_pref == "draw":
+        player_flight = "right_to_left"
+
+    if player_flight == "left_to_right":
         score -= 8
-        flags.append(f"SHOT SHAPE FLAG: {name} prefers high cut — Augusta draw bias is real concern")
-    elif player_profile.shot_shape_preference == "draw":
+        flags.append(
+            f"BALL FLIGHT FLAG: {name} plays left-to-right — Augusta rewards right-to-left. "
+            "For righties: high cut is a concern. For lefties: natural draw is a concern."
+        )
+    elif player_flight == "right_to_left":
         score += 6
-        notes.append("Natural draw suits Augusta bias")
- 
+        notes.append(
+            f"Ball flight fits Augusta: {name} plays right-to-left. "
+            "Righty draw or lefty fade both work well here."
+        )
+
     # Experience weight — higher here than almost anywhere
     if num_masters_starts >= 5:
         score += 12
@@ -422,27 +469,27 @@ def assess_augusta_fit(
     else:
         score -= 10
         flags.append("First-time Masters participant — meaningful newcomer discount applies")
- 
+
     # Gamer mentality / course management — subjective but real
     if "gamer" in player_profile.augusta_notes.lower() or "course knowledge" in player_profile.augusta_notes.lower():
         score += 6
         notes.append("Noted Augusta course management strength")
- 
+
     # Course history — weight more than anywhere else
     if course_history.get("top_5_count", 0) >= 2:
         score += 10
         notes.append(f"Strong Augusta course history: {course_history.get('top_5_count', 0)} top-5s")
     elif course_history.get("top_10_count", 0) >= 1:
         score += 5
- 
+
     # LIV player note — only 4 PGA events/year
     if player_profile.is_liv:
         notes.append("LIV player — one of only 4 PGA Tour-eligible events. Strategic importance elevated.")
- 
+
     # Player-specific notes
     if player_profile.augusta_notes:
         notes.append(f"Kevin's Augusta note: {player_profile.augusta_notes}")
- 
+
     return {
         "player": name,
         "augusta_fit_score": min(100, max(0, score)),
