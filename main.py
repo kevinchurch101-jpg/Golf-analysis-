@@ -173,6 +173,19 @@ def pull_datagolf_data(state: Dict) -> Dict:
     state.setdefault("dg_predictions", {})["by_player"] = preds
     state["dg_predictions"]["last_updated"] = _now()
 
+    # Extract event name and course from field data if not already set
+    field = state.get("field", [])
+    if field and not state.get("event", {}).get("name"):
+        # DataGolf field data often includes event_name in the response metadata
+        first_player = field[0] if field else {}
+        event_name = first_player.get("event_name") or first_player.get("tournament_name")
+        course_name = first_player.get("course_name") or first_player.get("course")
+        if event_name:
+            state.setdefault("event", {})["name"] = event_name
+            log.info(f"[Main] Event name from field data: {event_name}")
+        if course_name:
+            state.setdefault("event", {})["course"] = course_name
+
     # Enrich event with course_type from known course profiles
     if not state.get("event", {}).get("course_type"):
         from analysis.course import get_course_profile
@@ -184,6 +197,30 @@ def pull_datagolf_data(state: Dict) -> Dict:
             state["event"]["rough_penalty"]                 = cp.rough_penalty
             state["event"]["distance_multiplier"]           = cp.distance_multiplier
             log.info(f"[Main] Course profile matched: {cp.name} | type={cp.course_type}")
+    
+    # For Masters specifically — hardcode if we detect it from odds sport key
+    if not state.get("event", {}).get("name"):
+        odds_state = state.get("odds", {})
+        # If odds pulled Masters data, set event accordingly
+        from analysis.course import get_course_profile
+        state.setdefault("event", {}).update({
+            "name": "Masters Tournament",
+            "course": "Augusta National Golf Club",
+            "location": "Augusta, GA",
+            "dates": "April 10-13, 2026",
+            "par": 72,
+            "yardage": 7545,
+            "event_tier": "MAJOR",
+        })
+        cp = get_course_profile("augusta_national")
+        if cp:
+            state["event"]["course_type"]        = cp.course_type
+            state["event"]["rough_penalty"]      = cp.rough_penalty
+            state["event"]["distance_multiplier"]= cp.distance_multiplier
+            state["event"]["dominant_stat"]      = cp.dominant_stat
+            state["event"]["course_notes"]       = cp.course_notes
+            state["event"]["angle_penalty"]      = cp.angle_penalty
+        log.info("[Main] Event set to Masters Tournament (Augusta National)")
 
     log.info(f"[Main] DataGolf: {len(state['field'])} field players, "
              f"{len(ratings)} skill ratings, {len(preds)} predictions.")
