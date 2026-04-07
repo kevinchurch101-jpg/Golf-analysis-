@@ -36,8 +36,27 @@
       "owgr_rank": 17,
       "player_name": "Aberg, Ludvig",
       "player_num": 52955,
-      "pre_tourn_pageviews": 3526,
-      "teetimes": [],
+      "pre_tourn_pageviews": 4850,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-09 13:08",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-10 09:43",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "9"
     },
     {
@@ -48,8 +67,27 @@
       "owgr_rank": 38,
       "player_name": "Berger, Daniel",
       "player_num": 40026,
-      "pre_tourn_pageviews": 1452,
-      "teetimes": [],
+      "pre_tourn_pageviews": 2099,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-09 12:03",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-10 08:38",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "23"
     },
     {
@@ -60,8 +98,27 @@
       "owgr_rank": 21,
       "player_name": "Bhatia, Akshay",
       "player_num": 56630,
-      "pre_tourn_pageviews": 2685,
-      "teetimes": [],
+      "pre_tourn_pageviews": 3713,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-09 09:55",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-10 13:08",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "4"
     },
     {
@@ -72,8 +129,27 @@
       "owgr_rank": 26,
       "player_name": "Bradley, Keegan",
       "player_num": 33141,
-      "pre_tourn_pageviews": 826,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1159,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-09 09:31",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-10 12:44",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "135"
     },
     {
@@ -84,8 +160,27 @@
       "owgr_rank": 47,
       "player_name": "Brennan, Michael",
       "player_num": 61522,
-      "pre_tourn_pageviews": 585,
-      "teetimes": [],
+      "pre_tourn_pageviews": 831,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-09 12:44",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-10 09:19",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "129"
     },
     {
@@ -96,8 +191,27 @@
       "owgr_rank": 18,
       "player_name": "Bridgeman, Jacob",
       "player_num": 60004,
-      "pre_tourn_pageviews": 2934,
-      "teetimes": [],
+      "pre_tourn_pageviews": 4136,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-09 12:27",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-10 09:02",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "1"
     },
     {
@@ -108,8 +222,27 @@
       "owgr_rank": 33,
       "player_name": "Burns, Sam",
       "player_num": 47504,
-      "pre_tourn_pageviews": 1301,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1814,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-09 09:19",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-10 12:32",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "35"
     },
     {
@@ -120,8 +253,27 @@
       "owgr_rank": null,
       "player_name": "Cabrera, Angel",
       "player_num": 20848,
-      "pre_tourn_pageviews": 310,
-      "teetimes": [],
+      "pre_tourn_pageviews": 458,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-09 08:14",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-10 11:27",
+          "wave": "late"
+        }
+      ],
       "tour_rank": null
     },
     {
@@ -132,8 +284,27 @@
       "owgr_rank": 112,
       "player_name": "Campbell, Brian",
       "player_num": 46443,
-      "pre_tourn_pageviews": 326,
-      "teetimes": [],
+      "pre_tourn_pageviews": 462,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-09 11:15",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-10 07:50",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "178"
     },
     {
@@ -144,8 +315,27 @@
       "owgr_rank": 35,
       "player_name": "Cantlay, Patrick",
       "player_num": 35450,
-      "pre_tourn_pageviews": 1613,
-      "teetimes": [],
+      "pre_tourn_pageviews": 2249,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-09 10:43",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-10 13:56",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "52"
     },
     {
@@ -156,8 +346,27 @@
       "owgr_rank": 78,
       "player_name": "Clark, Wyndham",
       "player_num": 51766,
-      "pre_tourn_pageviews": 856,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1220,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-09 11:27",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-10 08:02",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "102"
     },
     {
@@ -168,8 +377,27 @@
       "owgr_rank": 44,
       "player_name": "Conners, Corey",
       "player_num": 39997,
-      "pre_tourn_pageviews": 2393,
-      "teetimes": [],
+      "pre_tourn_pageviews": 3376,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-09 12:44",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-10 09:19",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "66"
     },
     {
@@ -180,8 +408,27 @@
       "owgr_rank": null,
       "player_name": "Couples, Fred",
       "player_num": 1226,
-      "pre_tourn_pageviews": 321,
-      "teetimes": [],
+      "pre_tourn_pageviews": 462,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-09 12:15",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-10 08:50",
+          "wave": "early"
+        }
+      ],
       "tour_rank": null
     },
     {
@@ -192,8 +439,27 @@
       "owgr_rank": 41,
       "player_name": "Day, Jason",
       "player_num": 28089,
-      "pre_tourn_pageviews": 1675,
-      "teetimes": [],
+      "pre_tourn_pageviews": 2379,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-09 09:43",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-10 12:56",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "45"
     },
     {
@@ -204,8 +470,27 @@
       "owgr_rank": 24,
       "player_name": "DeChambeau, Bryson",
       "player_num": 47959,
-      "pre_tourn_pageviews": 3694,
-      "teetimes": [],
+      "pre_tourn_pageviews": 5000,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-09 10:07",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-10 13:20",
+          "wave": "late"
+        }
+      ],
       "tour_rank": null
     },
     {
@@ -216,8 +501,27 @@
       "owgr_rank": 40,
       "player_name": "Echavarria, Nico",
       "player_num": 51349,
-      "pre_tourn_pageviews": 747,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1084,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-09 09:02",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-10 12:15",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "17"
     },
     {
@@ -228,8 +532,27 @@
       "owgr_rank": 20,
       "player_name": "English, Harris",
       "player_num": 34099,
-      "pre_tourn_pageviews": 1888,
-      "teetimes": [],
+      "pre_tourn_pageviews": 2609,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-09 13:56",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-10 10:31",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "56"
     },
     {
@@ -240,8 +563,27 @@
       "owgr_rank": null,
       "player_name": "Fang, Ethan",
       "player_num": 68932,
-      "pre_tourn_pageviews": 280,
-      "teetimes": [],
+      "pre_tourn_pageviews": 371,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-09 11:51",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-10 08:26",
+          "wave": "early"
+        }
+      ],
       "tour_rank": null
     },
     {
@@ -252,8 +594,27 @@
       "owgr_rank": 6,
       "player_name": "Fitzpatrick, Matt",
       "player_num": 40098,
-      "pre_tourn_pageviews": 3511,
-      "teetimes": [],
+      "pre_tourn_pageviews": 4815,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-09 10:07",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-10 13:20",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "3"
     },
     {
@@ -264,8 +625,27 @@
       "owgr_rank": 4,
       "player_name": "Fleetwood, Tommy",
       "player_num": 30911,
-      "pre_tourn_pageviews": 3008,
-      "teetimes": [],
+      "pre_tourn_pageviews": 4089,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-09 09:55",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-10 13:08",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "11"
     },
     {
@@ -276,8 +656,27 @@
       "owgr_rank": 51,
       "player_name": "Fox, Ryan",
       "player_num": 29936,
-      "pre_tourn_pageviews": 1256,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1800,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-09 08:26",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-10 11:39",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "50"
     },
     {
@@ -288,8 +687,27 @@
       "owgr_rank": 345,
       "player_name": "Garcia, Sergio",
       "player_num": 21209,
-      "pre_tourn_pageviews": 818,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1194,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-09 12:27",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-10 09:02",
+          "wave": "early"
+        }
+      ],
       "tour_rank": null
     },
     {
@@ -300,8 +718,27 @@
       "owgr_rank": 29,
       "player_name": "Gerard, Ryan",
       "player_num": 59018,
-      "pre_tourn_pageviews": 1225,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1785,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-09 09:31",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-10 12:44",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "18"
     },
     {
@@ -312,8 +749,27 @@
       "owgr_rank": 11,
       "player_name": "Gotterup, Chris",
       "player_num": 59095,
-      "pre_tourn_pageviews": 2377,
-      "teetimes": [],
+      "pre_tourn_pageviews": 3209,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-09 13:08",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-10 09:43",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "5"
     },
     {
@@ -324,8 +780,27 @@
       "owgr_rank": 59,
       "player_name": "Greyserman, Max",
       "player_num": 51977,
-      "pre_tourn_pageviews": 961,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1369,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-09 08:26",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-10 11:39",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "103"
     },
     {
@@ -336,8 +811,27 @@
       "owgr_rank": 16,
       "player_name": "Griffin, Ben",
       "player_num": 54591,
-      "pre_tourn_pageviews": 1069,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1527,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-09 13:32",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-10 10:07",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "82"
     },
     {
@@ -348,8 +842,27 @@
       "owgr_rank": 62,
       "player_name": "Hall, Harry",
       "player_num": 57975,
-      "pre_tourn_pageviews": 1435,
-      "teetimes": [],
+      "pre_tourn_pageviews": 2085,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-09 12:44",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-10 09:19",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "43"
     },
     {
@@ -360,8 +873,27 @@
       "owgr_rank": 50,
       "player_name": "Harman, Brian",
       "player_num": 27644,
-      "pre_tourn_pageviews": 1133,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1618,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-09 12:03",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-10 08:38",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "60"
     },
     {
@@ -372,8 +904,27 @@
       "owgr_rank": 31,
       "player_name": "Hatton, Tyrrell",
       "player_num": 34363,
-      "pre_tourn_pageviews": 1834,
-      "teetimes": [],
+      "pre_tourn_pageviews": 2546,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-09 12:56",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-10 09:31",
+          "wave": "early"
+        }
+      ],
       "tour_rank": null
     },
     {
@@ -384,8 +935,27 @@
       "owgr_rank": 12,
       "player_name": "Henley, Russell",
       "player_num": 34098,
-      "pre_tourn_pageviews": 2110,
-      "teetimes": [],
+      "pre_tourn_pageviews": 2970,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-09 10:19",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-10 13:32",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "29"
     },
     {
@@ -396,8 +966,27 @@
       "owgr_rank": null,
       "player_name": "Herrington, Jackson",
       "player_num": 70148,
-      "pre_tourn_pageviews": 215,
-      "teetimes": [],
+      "pre_tourn_pageviews": 301,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-09 08:14",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-10 11:27",
+          "wave": "late"
+        }
+      ],
       "tour_rank": null
     },
     {
@@ -408,8 +997,27 @@
       "owgr_rank": 36,
       "player_name": "Hojgaard, Nicolai",
       "player_num": 52453,
-      "pre_tourn_pageviews": 2439,
-      "teetimes": [],
+      "pre_tourn_pageviews": 3397,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-09 11:39",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-10 08:14",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "20"
     },
     {
@@ -420,8 +1028,27 @@
       "owgr_rank": 57,
       "player_name": "Hojgaard, Rasmus",
       "player_num": 52686,
-      "pre_tourn_pageviews": 1398,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1962,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-09 08:38",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-10 11:51",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "83"
     },
     {
@@ -432,8 +1059,27 @@
       "owgr_rank": null,
       "player_name": "Holtz, Brandon",
       "player_num": 70147,
-      "pre_tourn_pageviews": 149,
-      "teetimes": [],
+      "pre_tourn_pageviews": 195,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-09 09:02",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-10 12:15",
+          "wave": "late"
+        }
+      ],
       "tour_rank": null
     },
     {
@@ -444,8 +1090,27 @@
       "owgr_rank": 163,
       "player_name": "Homa, Max",
       "player_num": 39977,
-      "pre_tourn_pageviews": 1326,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1913,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-09 07:50",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-10 11:03",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "98"
     },
     {
@@ -456,8 +1121,27 @@
       "owgr_rank": 22,
       "player_name": "Hovland, Viktor",
       "player_num": 46717,
-      "pre_tourn_pageviews": 2019,
-      "teetimes": [],
+      "pre_tourn_pageviews": 2760,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-09 10:43",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-10 13:56",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "53"
     },
     {
@@ -468,8 +1152,27 @@
       "owgr_rank": null,
       "player_name": "Howell, Mason",
       "player_num": 68607,
-      "pre_tourn_pageviews": 310,
-      "teetimes": [],
+      "pre_tourn_pageviews": 434,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-09 10:31",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-10 13:44",
+          "wave": "late"
+        }
+      ],
       "tour_rank": null
     },
     {
@@ -480,8 +1183,27 @@
       "owgr_rank": 71,
       "player_name": "Im, Sungjae",
       "player_num": 39971,
-      "pre_tourn_pageviews": 1710,
-      "teetimes": [],
+      "pre_tourn_pageviews": 2478,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-09 11:03",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-10 07:40",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "105"
     },
     {
@@ -492,8 +1214,27 @@
       "owgr_rank": 70,
       "player_name": "Jarvis, Casey",
       "player_num": 57688,
-      "pre_tourn_pageviews": 1123,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1522,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-09 08:50",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-10 12:03",
+          "wave": "late"
+        }
+      ],
       "tour_rank": null
     },
     {
@@ -504,8 +1245,27 @@
       "owgr_rank": null,
       "player_name": "Johnson, Dustin",
       "player_num": 30925,
-      "pre_tourn_pageviews": 926,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1334,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-09 09:43",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-10 12:56",
+          "wave": "late"
+        }
+      ],
       "tour_rank": null
     },
     {
@@ -516,8 +1276,27 @@
       "owgr_rank": 321,
       "player_name": "Johnson, Zach",
       "player_num": 24024,
-      "pre_tourn_pageviews": 682,
-      "teetimes": [],
+      "pre_tourn_pageviews": 997,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-09 11:39",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-10 08:14",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "180"
     },
     {
@@ -528,8 +1307,27 @@
       "owgr_rank": 372,
       "player_name": "Kataoka, Naoyuki",
       "player_num": 46879,
-      "pre_tourn_pageviews": 276,
-      "teetimes": [],
+      "pre_tourn_pageviews": 394,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-09 07:50",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-10 11:03",
+          "wave": "late"
+        }
+      ],
       "tour_rank": null
     },
     {
@@ -540,8 +1338,27 @@
       "owgr_rank": 64,
       "player_name": "Keefer, Johnny",
       "player_num": 63454,
-      "pre_tourn_pageviews": 598,
-      "teetimes": [],
+      "pre_tourn_pageviews": 806,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-09 07:40",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-10 10:51",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "67"
     },
     {
@@ -552,8 +1369,27 @@
       "owgr_rank": 43,
       "player_name": "Kim, Michael",
       "player_num": 39975,
-      "pre_tourn_pageviews": 1437,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1947,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-09 11:39",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-10 08:14",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "46"
     },
     {
@@ -564,8 +1400,27 @@
       "owgr_rank": 28,
       "player_name": "Kim, Si Woo",
       "player_num": 37455,
-      "pre_tourn_pageviews": 2504,
-      "teetimes": [],
+      "pre_tourn_pageviews": 3375,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-09 13:56",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-10 10:31",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "15"
     },
     {
@@ -576,8 +1431,27 @@
       "owgr_rank": 34,
       "player_name": "Kitayama, Kurt",
       "player_num": 48117,
-      "pre_tourn_pageviews": 1348,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1926,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-09 08:50",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-10 12:03",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "28"
     },
     {
@@ -588,8 +1462,27 @@
       "owgr_rank": 42,
       "player_name": "Knapp, Jake",
       "player_num": 47420,
-      "pre_tourn_pageviews": 2823,
-      "teetimes": [],
+      "pre_tourn_pageviews": 3963,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-09 09:19",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-10 12:32",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "12"
     },
     {
@@ -600,8 +1493,27 @@
       "owgr_rank": 169,
       "player_name": "Koepka, Brooks",
       "player_num": 36689,
-      "pre_tourn_pageviews": 1672,
-      "teetimes": [],
+      "pre_tourn_pageviews": 2337,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-09 13:20",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-10 09:55",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "70"
     },
     {
@@ -612,8 +1524,27 @@
       "owgr_rank": null,
       "player_name": "Laopakdee, Fifa",
       "player_num": 70146,
-      "pre_tourn_pageviews": 185,
-      "teetimes": [],
+      "pre_tourn_pageviews": 265,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-09 12:15",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-10 08:50",
+          "wave": "early"
+        }
+      ],
       "tour_rank": null
     },
     {
@@ -624,8 +1555,27 @@
       "owgr_rank": 25,
       "player_name": "Lee, Min Woo",
       "player_num": 37378,
-      "pre_tourn_pageviews": 3228,
-      "teetimes": [],
+      "pre_tourn_pageviews": 4503,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-09 12:15",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-10 08:50",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "8"
     },
     {
@@ -636,8 +1586,27 @@
       "owgr_rank": 84,
       "player_name": "Li, Haotong",
       "player_num": 35296,
-      "pre_tourn_pageviews": 717,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1023,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-09 07:40",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-10 10:51",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "85"
     },
     {
@@ -648,8 +1617,27 @@
       "owgr_rank": 32,
       "player_name": "Lowry, Shane",
       "player_num": 33204,
-      "pre_tourn_pageviews": 1325,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1827,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-09 09:43",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-10 12:56",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "34"
     },
     {
@@ -660,8 +1648,27 @@
       "owgr_rank": 8,
       "player_name": "MacIntyre, Robert",
       "player_num": 52215,
-      "pre_tourn_pageviews": 2859,
-      "teetimes": [],
+      "pre_tourn_pageviews": 3890,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-09 13:44",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-10 10:19",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "10"
     },
     {
@@ -672,8 +1679,27 @@
       "owgr_rank": 14,
       "player_name": "Matsuyama, Hideki",
       "player_num": 32839,
-      "pre_tourn_pageviews": 2892,
-      "teetimes": [],
+      "pre_tourn_pageviews": 3960,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-09 10:19",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-10 13:32",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "16"
     },
     {
@@ -684,8 +1710,27 @@
       "owgr_rank": 49,
       "player_name": "McCarty, Matt",
       "player_num": 59141,
-      "pre_tourn_pageviews": 1039,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1476,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-09 08:38",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-10 11:51",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "48"
     },
     {
@@ -696,8 +1741,27 @@
       "owgr_rank": 2,
       "player_name": "McIlroy, Rory",
       "player_num": 28237,
-      "pre_tourn_pageviews": 2518,
-      "teetimes": [],
+      "pre_tourn_pageviews": 3521,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-09 10:31",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-10 13:44",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "31"
     },
     {
@@ -708,8 +1772,27 @@
       "owgr_rank": 105,
       "player_name": "McKibbin, Tom",
       "player_num": 50823,
-      "pre_tourn_pageviews": 775,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1102,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-09 11:15",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-10 07:50",
+          "wave": "early"
+        }
+      ],
       "tour_rank": null
     },
     {
@@ -720,8 +1803,27 @@
       "owgr_rank": 27,
       "player_name": "McNealy, Maverick",
       "player_num": 46442,
-      "pre_tourn_pageviews": 2101,
-      "teetimes": [],
+      "pre_tourn_pageviews": 2910,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-09 12:56",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-10 09:31",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "42"
     },
     {
@@ -732,8 +1834,27 @@
       "owgr_rank": 7,
       "player_name": "Morikawa, Collin",
       "player_num": 50525,
-      "pre_tourn_pageviews": 1900,
-      "teetimes": [],
+      "pre_tourn_pageviews": 2498,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-09 10:19",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-10 13:32",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "6"
     },
     {
@@ -744,8 +1865,27 @@
       "owgr_rank": 69,
       "player_name": "Neergaard-Petersen, Rasmus",
       "player_num": 52689,
-      "pre_tourn_pageviews": 626,
-      "teetimes": [],
+      "pre_tourn_pageviews": 883,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-09 08:02",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-10 11:15",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "152"
     },
     {
@@ -756,8 +1896,27 @@
       "owgr_rank": 19,
       "player_name": "Noren, Alex",
       "player_num": 27349,
-      "pre_tourn_pageviews": 1240,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1776,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-09 10:43",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-10 13:56",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "64"
     },
     {
@@ -768,8 +1927,27 @@
       "owgr_rank": 48,
       "player_name": "Novak, Andrew",
       "player_num": 51997,
-      "pre_tourn_pageviews": 757,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1074,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-09 11:15",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-10 07:50",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "71"
     },
     {
@@ -780,8 +1958,27 @@
       "owgr_rank": null,
       "player_name": "Olazabal, Jose Maria",
       "player_num": 6373,
-      "pre_tourn_pageviews": 228,
-      "teetimes": [],
+      "pre_tourn_pageviews": 310,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-09 08:02",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-10 11:15",
+          "wave": "late"
+        }
+      ],
       "tour_rank": null
     },
     {
@@ -792,8 +1989,27 @@
       "owgr_rank": 161,
       "player_name": "Ortiz, Carlos",
       "player_num": 33667,
-      "pre_tourn_pageviews": 1056,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1521,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-09 07:50",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-10 11:03",
+          "wave": "late"
+        }
+      ],
       "tour_rank": null
     },
     {
@@ -804,8 +2020,27 @@
       "owgr_rank": 37,
       "player_name": "Penge, Marco",
       "player_num": 51003,
-      "pre_tourn_pageviews": 1217,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1774,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-09 13:56",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-10 10:31",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "62"
     },
     {
@@ -816,8 +2051,27 @@
       "owgr_rank": 77,
       "player_name": "Potgieter, Aldrich",
       "player_num": 63343,
-      "pre_tourn_pageviews": 753,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1116,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-09 08:02",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-10 11:15",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "44"
     },
     {
@@ -828,8 +2082,27 @@
       "owgr_rank": null,
       "player_name": "Pulcini, Mateo",
       "player_num": 70145,
-      "pre_tourn_pageviews": 132,
-      "teetimes": [],
+      "pre_tourn_pageviews": 177,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-09 11:27",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-10 08:02",
+          "wave": "early"
+        }
+      ],
       "tour_rank": null
     },
     {
@@ -840,8 +2113,27 @@
       "owgr_rank": 30,
       "player_name": "Rahm, Jon",
       "player_num": 46970,
-      "pre_tourn_pageviews": 4777,
-      "teetimes": [],
+      "pre_tourn_pageviews": 6484,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-09 13:08",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-10 09:43",
+          "wave": "early"
+        }
+      ],
       "tour_rank": null
     },
     {
@@ -852,8 +2144,27 @@
       "owgr_rank": 39,
       "player_name": "Rai, Aaron",
       "player_num": 46414,
-      "pre_tourn_pageviews": 912,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1363,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-09 12:27",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-10 09:02",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "124"
     },
     {
@@ -864,8 +2175,27 @@
       "owgr_rank": 23,
       "player_name": "Reed, Patrick",
       "player_num": 34360,
-      "pre_tourn_pageviews": 3630,
-      "teetimes": [],
+      "pre_tourn_pageviews": 5049,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-09 09:55",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-10 13:08",
+          "wave": "late"
+        }
+      ],
       "tour_rank": null
     },
     {
@@ -876,8 +2206,27 @@
       "owgr_rank": 46,
       "player_name": "Reitan, Kristoffer",
       "player_num": 49855,
-      "pre_tourn_pageviews": 723,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1035,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-09 08:50",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-10 12:03",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "91"
     },
     {
@@ -888,8 +2237,27 @@
       "owgr_rank": 120,
       "player_name": "Riley, Davis",
       "player_num": 47995,
-      "pre_tourn_pageviews": 579,
-      "teetimes": [],
+      "pre_tourn_pageviews": 868,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-09 11:51",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-10 08:26",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "114"
     },
     {
@@ -900,8 +2268,27 @@
       "owgr_rank": 9,
       "player_name": "Rose, Justin",
       "player_num": 22405,
-      "pre_tourn_pageviews": 2353,
-      "teetimes": [],
+      "pre_tourn_pageviews": 3391,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-09 13:20",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-10 09:55",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "22"
     },
     {
@@ -912,8 +2299,27 @@
       "owgr_rank": 10,
       "player_name": "Schauffele, Xander",
       "player_num": 48081,
-      "pre_tourn_pageviews": 4270,
-      "teetimes": [],
+      "pre_tourn_pageviews": 5779,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-09 10:07",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-10 13:20",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "13"
     },
     {
@@ -924,8 +2330,27 @@
       "owgr_rank": 1,
       "player_name": "Scheffler, Scottie",
       "player_num": 46046,
-      "pre_tourn_pageviews": 3077,
-      "teetimes": [],
+      "pre_tourn_pageviews": 4331,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-09 13:44",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-10 10:19",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "7"
     },
     {
@@ -936,8 +2361,27 @@
       "owgr_rank": null,
       "player_name": "Schwartzel, Charl",
       "player_num": 26331,
-      "pre_tourn_pageviews": 586,
-      "teetimes": [],
+      "pre_tourn_pageviews": 807,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-09 08:26",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-10 11:39",
+          "wave": "late"
+        }
+      ],
       "tour_rank": null
     },
     {
@@ -948,8 +2392,27 @@
       "owgr_rank": 53,
       "player_name": "Scott, Adam",
       "player_num": 24502,
-      "pre_tourn_pageviews": 2447,
-      "teetimes": [],
+      "pre_tourn_pageviews": 3401,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-09 12:03",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-10 08:38",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "25"
     },
     {
@@ -960,8 +2423,27 @@
       "owgr_rank": null,
       "player_name": "Singh, Vijay",
       "player_num": 6567,
-      "pre_tourn_pageviews": 329,
-      "teetimes": [],
+      "pre_tourn_pageviews": 436,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-09 08:38",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-10 11:51",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "176"
     },
     {
@@ -972,8 +2454,27 @@
       "owgr_rank": 222,
       "player_name": "Smith, Cameron",
       "player_num": 35891,
-      "pre_tourn_pageviews": 2088,
-      "teetimes": [],
+      "pre_tourn_pageviews": 2968,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-09 09:19",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-10 12:32",
+          "wave": "late"
+        }
+      ],
       "tour_rank": null
     },
     {
@@ -984,8 +2485,27 @@
       "owgr_rank": 5,
       "player_name": "Spaun, J.J.",
       "player_num": 39324,
-      "pre_tourn_pageviews": 2220,
-      "teetimes": [],
+      "pre_tourn_pageviews": 2892,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-09 12:56",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-10 09:31",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "24"
     },
     {
@@ -996,8 +2516,27 @@
       "owgr_rank": 61,
       "player_name": "Spieth, Jordan",
       "player_num": 34046,
-      "pre_tourn_pageviews": 2664,
-      "teetimes": [],
+      "pre_tourn_pageviews": 3722,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-09 13:20",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-10 09:55",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "36"
     },
     {
@@ -1008,8 +2547,27 @@
       "owgr_rank": 45,
       "player_name": "Stevens, Sam",
       "player_num": 55893,
-      "pre_tourn_pageviews": 1366,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1961,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-09 11:03",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-10 07:40",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "40"
     },
     {
@@ -1020,8 +2578,27 @@
       "owgr_rank": 13,
       "player_name": "Straka, Sepp",
       "player_num": 49960,
-      "pre_tourn_pageviews": 1553,
-      "teetimes": [],
+      "pre_tourn_pageviews": 2184,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-09 13:32",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-10 10:07",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "14"
     },
     {
@@ -1032,8 +2609,27 @@
       "owgr_rank": 67,
       "player_name": "Taylor, Nick",
       "player_num": 25493,
-      "pre_tourn_pageviews": 1235,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1735,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-09 09:31",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-10 12:44",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "57"
     },
     {
@@ -1044,8 +2640,27 @@
       "owgr_rank": 15,
       "player_name": "Thomas, Justin",
       "player_num": 33448,
-      "pre_tourn_pageviews": 1606,
-      "teetimes": [],
+      "pre_tourn_pageviews": 2336,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-09 13:32",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-10 10:07",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "65"
     },
     {
@@ -1056,8 +2671,27 @@
       "owgr_rank": 56,
       "player_name": "Valimaki, Sami",
       "player_num": 52666,
-      "pre_tourn_pageviews": 561,
-      "teetimes": [],
+      "pre_tourn_pageviews": 788,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-09 08:14",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-10 11:27",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "110"
     },
     {
@@ -1068,8 +2702,27 @@
       "owgr_rank": null,
       "player_name": "Watson, Bubba",
       "player_num": 25804,
-      "pre_tourn_pageviews": 719,
-      "teetimes": [],
+      "pre_tourn_pageviews": 999,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-09 09:02",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-10 12:15",
+          "wave": "late"
+        }
+      ],
       "tour_rank": null
     },
     {
@@ -1080,8 +2733,27 @@
       "owgr_rank": null,
       "player_name": "Weir, Mike",
       "player_num": 10423,
-      "pre_tourn_pageviews": 246,
-      "teetimes": [],
+      "pre_tourn_pageviews": 338,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-09 11:27",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-10 08:02",
+          "wave": "early"
+        }
+      ],
       "tour_rank": null
     },
     {
@@ -1092,8 +2764,27 @@
       "owgr_rank": 400,
       "player_name": "Willett, Danny",
       "player_num": 32139,
-      "pre_tourn_pageviews": 530,
-      "teetimes": [],
+      "pre_tourn_pageviews": 782,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-09 11:51",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-10 08:26",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "175"
     },
     {
@@ -1104,8 +2795,27 @@
       "owgr_rank": 52,
       "player_name": "Woodland, Gary",
       "player_num": 31323,
-      "pre_tourn_pageviews": 1132,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1667,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-09 13:44",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-10 10:19",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "26"
     },
     {
@@ -1116,23 +2826,42 @@
       "owgr_rank": 3,
       "player_name": "Young, Cameron",
       "player_num": 57366,
-      "pre_tourn_pageviews": 3487,
-      "teetimes": [],
+      "pre_tourn_pageviews": 4779,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-09 10:31",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Augusta National Golf Club",
+          "course_num": 14,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-10 13:44",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "2"
     }
   ],
   "odds": {
-    "last_updated": "2026-04-07T01:30:27.063854-04:00",
+    "last_updated": "2026-04-07T12:39:50.622152-04:00",
     "by_player": {
       "Scottie Scheffler": {
         "books": {
-          "draftkings": 490
+          "draftkings": 495
         },
-        "best_price": 490,
+        "best_price": 495,
         "best_book": "draftkings",
-        "implied_prob": 0.1695,
-        "decimal": 5.9,
-        "fractional": "49/10"
+        "implied_prob": 0.1681,
+        "decimal": 5.95,
+        "fractional": "99/20"
       },
       "Jon Rahm": {
         "books": {
@@ -1146,13 +2875,13 @@
       },
       "Bryson Dechambeau": {
         "books": {
-          "draftkings": 1075
+          "draftkings": 1050
         },
-        "best_price": 1075,
+        "best_price": 1050,
         "best_book": "draftkings",
-        "implied_prob": 0.0851,
-        "decimal": 11.75,
-        "fractional": "43/4"
+        "implied_prob": 0.087,
+        "decimal": 11.5,
+        "fractional": "21/2"
       },
       "Rory McIlroy": {
         "books": {
@@ -1166,13 +2895,13 @@
       },
       "Ludvig Aberg": {
         "books": {
-          "draftkings": 1700
+          "draftkings": 1650
         },
-        "best_price": 1700,
+        "best_price": 1650,
         "best_book": "draftkings",
-        "implied_prob": 0.0556,
-        "decimal": 18.0,
-        "fractional": "17/1"
+        "implied_prob": 0.0571,
+        "decimal": 17.5,
+        "fractional": "33/2"
       },
       "Xander Schauffele": {
         "books": {
@@ -1216,13 +2945,13 @@
       },
       "Hideki Matsuyama": {
         "books": {
-          "draftkings": 2700
+          "draftkings": 2800
         },
-        "best_price": 2700,
+        "best_price": 2800,
         "best_book": "draftkings",
-        "implied_prob": 0.0357,
-        "decimal": 28.0,
-        "fractional": "27/1"
+        "implied_prob": 0.0345,
+        "decimal": 29.0,
+        "fractional": "28/1"
       },
       "Collin Morikawa": {
         "books": {
@@ -1234,7 +2963,7 @@
         "decimal": 32.0,
         "fractional": "31/1"
       },
-      "Robert Macintyre": {
+      "Min Woo Lee": {
         "books": {
           "draftkings": 3400
         },
@@ -1244,7 +2973,7 @@
         "decimal": 35.0,
         "fractional": "34/1"
       },
-      "Min Woo Lee": {
+      "Justin Rose": {
         "books": {
           "draftkings": 3500
         },
@@ -1254,7 +2983,7 @@
         "decimal": 36.0,
         "fractional": "35/1"
       },
-      "Justin Rose": {
+      "Robert Macintyre": {
         "books": {
           "draftkings": 3500
         },
@@ -1326,13 +3055,13 @@
       },
       "Si Woo Kim": {
         "books": {
-          "draftkings": 4900
+          "draftkings": 5000
         },
-        "best_price": 4900,
+        "best_price": 5000,
         "best_book": "draftkings",
-        "implied_prob": 0.02,
-        "decimal": 50.0,
-        "fractional": "49/1"
+        "implied_prob": 0.0196,
+        "decimal": 51.0,
+        "fractional": "50/1"
       },
       "Justin Thomas": {
         "books": {
@@ -1346,46 +3075,56 @@
       },
       "Akshay Bhatia": {
         "books": {
-          "draftkings": 5700
+          "draftkings": 5600
         },
-        "best_price": 5700,
+        "best_price": 5600,
         "best_book": "draftkings",
-        "implied_prob": 0.0172,
-        "decimal": 58.0,
-        "fractional": "57/1"
+        "implied_prob": 0.0175,
+        "decimal": 57.0,
+        "fractional": "56/1"
       },
       "Patrick Cantlay": {
         "books": {
-          "draftkings": 5800
+          "draftkings": 5900
         },
-        "best_price": 5800,
+        "best_price": 5900,
         "best_book": "draftkings",
-        "implied_prob": 0.0169,
-        "decimal": 59.0,
-        "fractional": "58/1"
+        "implied_prob": 0.0167,
+        "decimal": 60.0,
+        "fractional": "59/1"
       },
       "Adam Scott": {
         "books": {
-          "draftkings": 6000
+          "draftkings": 5900
         },
-        "best_price": 6000,
+        "best_price": 5900,
         "best_book": "draftkings",
-        "implied_prob": 0.0164,
-        "decimal": 61.0,
-        "fractional": "60/1"
-      },
-      "Jason Day": {
-        "books": {
-          "draftkings": 6700
-        },
-        "best_price": 6700,
-        "best_book": "draftkings",
-        "implied_prob": 0.0147,
-        "decimal": 68.0,
-        "fractional": "67/1"
+        "implied_prob": 0.0167,
+        "decimal": 60.0,
+        "fractional": "59/1"
       },
       "Jake Knapp": {
         "books": {
+          "draftkings": 6500
+        },
+        "best_price": 6500,
+        "best_book": "draftkings",
+        "implied_prob": 0.0152,
+        "decimal": 66.0,
+        "fractional": "65/1"
+      },
+      "Jason Day": {
+        "books": {
+          "draftkings": 6600
+        },
+        "best_price": 6600,
+        "best_book": "draftkings",
+        "implied_prob": 0.0149,
+        "decimal": 67.0,
+        "fractional": "66/1"
+      },
+      "Shane Lowry": {
+        "books": {
           "draftkings": 6700
         },
         "best_price": 6700,
@@ -1394,17 +3133,7 @@
         "decimal": 68.0,
         "fractional": "67/1"
       },
-      "Shane Lowry": {
-        "books": {
-          "draftkings": 6800
-        },
-        "best_price": 6800,
-        "best_book": "draftkings",
-        "implied_prob": 0.0145,
-        "decimal": 69.0,
-        "fractional": "68/1"
-      },
-      "Sam Burns": {
+      "J. J. Spaun": {
         "books": {
           "draftkings": 7000
         },
@@ -1414,7 +3143,7 @@
         "decimal": 71.0,
         "fractional": "70/1"
       },
-      "J. J. Spaun": {
+      "Sam Burns": {
         "books": {
           "draftkings": 7200
         },
@@ -1424,7 +3153,7 @@
         "decimal": 73.0,
         "fractional": "72/1"
       },
-      "Sepp Straka": {
+      "Nicolai Højgaard": {
         "books": {
           "draftkings": 7400
         },
@@ -1434,7 +3163,7 @@
         "decimal": 75.0,
         "fractional": "74/1"
       },
-      "Tyrrell Hatton": {
+      "Sepp Straka": {
         "books": {
           "draftkings": 7600
         },
@@ -1444,27 +3173,27 @@
         "decimal": 77.0,
         "fractional": "76/1"
       },
-      "Nicolai Højgaard": {
-        "books": {
-          "draftkings": 7800
-        },
-        "best_price": 7800,
-        "best_book": "draftkings",
-        "implied_prob": 0.0127,
-        "decimal": 79.0,
-        "fractional": "78/1"
-      },
-      "Corey Conners": {
-        "books": {
-          "draftkings": 7800
-        },
-        "best_price": 7800,
-        "best_book": "draftkings",
-        "implied_prob": 0.0127,
-        "decimal": 79.0,
-        "fractional": "78/1"
-      },
       "Maverick Mcnealy": {
+        "books": {
+          "draftkings": 8000
+        },
+        "best_price": 8000,
+        "best_book": "draftkings",
+        "implied_prob": 0.0123,
+        "decimal": 81.0,
+        "fractional": "80/1"
+      },
+      "Tyrrell Hatton": {
+        "books": {
+          "draftkings": 8200
+        },
+        "best_price": 8200,
+        "best_book": "draftkings",
+        "implied_prob": 0.012,
+        "decimal": 83.0,
+        "fractional": "82/1"
+      },
+      "Jacob Bridgeman": {
         "books": {
           "draftkings": 8400
         },
@@ -1474,25 +3203,25 @@
         "decimal": 85.0,
         "fractional": "84/1"
       },
-      "Jacob Bridgeman": {
+      "Corey Conners": {
         "books": {
-          "draftkings": 8600
+          "draftkings": 8400
         },
-        "best_price": 8600,
+        "best_price": 8400,
         "best_book": "draftkings",
-        "implied_prob": 0.0115,
-        "decimal": 87.0,
-        "fractional": "86/1"
+        "implied_prob": 0.0118,
+        "decimal": 85.0,
+        "fractional": "84/1"
       },
       "Kurt Kitayama": {
         "books": {
-          "draftkings": 9800
+          "draftkings": 9600
         },
-        "best_price": 9800,
+        "best_price": 9600,
         "best_book": "draftkings",
-        "implied_prob": 0.0101,
-        "decimal": 99.0,
-        "fractional": "98/1"
+        "implied_prob": 0.0103,
+        "decimal": 97.0,
+        "fractional": "96/1"
       },
       "Harris English": {
         "books": {
@@ -1504,25 +3233,25 @@
         "decimal": 101.0,
         "fractional": "100/1"
       },
-      "Gary Woodland": {
+      "Sungjae Im": {
         "books": {
-          "draftkings": 10500
+          "draftkings": 11000
         },
-        "best_price": 10500,
+        "best_price": 11000,
         "best_book": "draftkings",
-        "implied_prob": 0.0094,
-        "decimal": 106.0,
-        "fractional": "105/1"
+        "implied_prob": 0.009,
+        "decimal": 111.0,
+        "fractional": "110/1"
       },
-      "Daniel Berger": {
+      "Max Homa": {
         "books": {
-          "draftkings": 10500
+          "draftkings": 11000
         },
-        "best_price": 10500,
+        "best_price": 11000,
         "best_book": "draftkings",
-        "implied_prob": 0.0094,
-        "decimal": 106.0,
-        "fractional": "105/1"
+        "implied_prob": 0.009,
+        "decimal": 111.0,
+        "fractional": "110/1"
       },
       "Ben Griffin": {
         "books": {
@@ -1536,16 +3265,6 @@
       },
       "Cameron Smith": {
         "books": {
-          "draftkings": 11000
-        },
-        "best_price": 11000,
-        "best_book": "draftkings",
-        "implied_prob": 0.009,
-        "decimal": 111.0,
-        "fractional": "110/1"
-      },
-      "Sungjae Im": {
-        "books": {
           "draftkings": 11500
         },
         "best_price": 11500,
@@ -1554,7 +3273,7 @@
         "decimal": 116.0,
         "fractional": "115/1"
       },
-      "Max Homa": {
+      "Rasmus Højgaard": {
         "books": {
           "draftkings": 12000
         },
@@ -1564,35 +3283,45 @@
         "decimal": 121.0,
         "fractional": "120/1"
       },
-      "Rasmus Højgaard": {
+      "Gary Woodland": {
         "books": {
-          "draftkings": 12500
+          "draftkings": 12000
         },
-        "best_price": 12500,
+        "best_price": 12000,
         "best_book": "draftkings",
-        "implied_prob": 0.0079,
-        "decimal": 126.0,
-        "fractional": "125/1"
+        "implied_prob": 0.0083,
+        "decimal": 121.0,
+        "fractional": "120/1"
+      },
+      "Daniel Berger": {
+        "books": {
+          "draftkings": 12000
+        },
+        "best_price": 12000,
+        "best_book": "draftkings",
+        "implied_prob": 0.0083,
+        "decimal": 121.0,
+        "fractional": "120/1"
       },
       "Keegan Bradley": {
         "books": {
-          "draftkings": 13500
+          "draftkings": 13000
         },
-        "best_price": 13500,
+        "best_price": 13000,
         "best_book": "draftkings",
-        "implied_prob": 0.0074,
-        "decimal": 136.0,
-        "fractional": "135/1"
+        "implied_prob": 0.0076,
+        "decimal": 131.0,
+        "fractional": "130/1"
       },
       "Marco Penge": {
         "books": {
-          "draftkings": 14000
+          "draftkings": 14500
         },
-        "best_price": 14000,
+        "best_price": 14500,
         "best_book": "draftkings",
-        "implied_prob": 0.0071,
-        "decimal": 141.0,
-        "fractional": "140/1"
+        "implied_prob": 0.0068,
+        "decimal": 146.0,
+        "fractional": "145/1"
       },
       "Harry Hall": {
         "books": {
@@ -1606,56 +3335,66 @@
       },
       "Ryan Gerard": {
         "books": {
-          "draftkings": 16000
+          "draftkings": 15500
         },
-        "best_price": 16000,
+        "best_price": 15500,
         "best_book": "draftkings",
-        "implied_prob": 0.0062,
-        "decimal": 161.0,
-        "fractional": "160/1"
+        "implied_prob": 0.0064,
+        "decimal": 156.0,
+        "fractional": "155/1"
       },
       "Alexander Noren": {
         "books": {
-          "draftkings": 16000
+          "draftkings": 16500
         },
-        "best_price": 16000,
+        "best_price": 16500,
         "best_book": "draftkings",
-        "implied_prob": 0.0062,
-        "decimal": 161.0,
-        "fractional": "160/1"
+        "implied_prob": 0.006,
+        "decimal": 166.0,
+        "fractional": "165/1"
       },
       "Sam Stevens": {
         "books": {
-          "draftkings": 18000
+          "draftkings": 17500
         },
-        "best_price": 18000,
+        "best_price": 17500,
         "best_book": "draftkings",
-        "implied_prob": 0.0055,
-        "decimal": 181.0,
-        "fractional": "180/1"
+        "implied_prob": 0.0057,
+        "decimal": 176.0,
+        "fractional": "175/1"
       },
       "Nick Taylor": {
         "books": {
-          "draftkings": 19500
+          "draftkings": 19000
         },
-        "best_price": 19500,
+        "best_price": 19000,
         "best_book": "draftkings",
-        "implied_prob": 0.0051,
-        "decimal": 196.0,
-        "fractional": "195/1"
+        "implied_prob": 0.0052,
+        "decimal": 191.0,
+        "fractional": "190/1"
       },
       "Ryan Fox": {
         "books": {
-          "draftkings": 21000
+          "draftkings": 20000
         },
-        "best_price": 21000,
+        "best_price": 20000,
         "best_book": "draftkings",
-        "implied_prob": 0.0047,
-        "decimal": 211.0,
-        "fractional": "210/1"
+        "implied_prob": 0.005,
+        "decimal": 201.0,
+        "fractional": "200/1"
       },
       "Wyndham Clark": {
         "books": {
+          "draftkings": 20000
+        },
+        "best_price": 20000,
+        "best_book": "draftkings",
+        "implied_prob": 0.005,
+        "decimal": 201.0,
+        "fractional": "200/1"
+      },
+      "Michael Kim": {
+        "books": {
           "draftkings": 21000
         },
         "best_price": 21000,
@@ -1664,28 +3403,28 @@
         "decimal": 211.0,
         "fractional": "210/1"
       },
-      "Michael Kim": {
-        "books": {
-          "draftkings": 22500
-        },
-        "best_price": 22500,
-        "best_book": "draftkings",
-        "implied_prob": 0.0044,
-        "decimal": 226.0,
-        "fractional": "225/1"
-      },
       "Max Greyserman": {
         "books": {
-          "draftkings": 22500
+          "draftkings": 21000
         },
-        "best_price": 22500,
+        "best_price": 21000,
         "best_book": "draftkings",
-        "implied_prob": 0.0044,
-        "decimal": 226.0,
-        "fractional": "225/1"
+        "implied_prob": 0.0047,
+        "decimal": 211.0,
+        "fractional": "210/1"
       },
       "Brian Harman": {
         "books": {
+          "draftkings": 22000
+        },
+        "best_price": 22000,
+        "best_book": "draftkings",
+        "implied_prob": 0.0045,
+        "decimal": 221.0,
+        "fractional": "220/1"
+      },
+      "Kristoffer Reitan": {
+        "books": {
           "draftkings": 22500
         },
         "best_price": 22500,
@@ -1694,7 +3433,7 @@
         "decimal": 226.0,
         "fractional": "225/1"
       },
-      "Aaron Rai": {
+      "Casey Jarvis": {
         "books": {
           "draftkings": 23000
         },
@@ -1704,7 +3443,7 @@
         "decimal": 231.0,
         "fractional": "230/1"
       },
-      "Kristoffer Reitan": {
+      "Carlos Ortiz": {
         "books": {
           "draftkings": 23000
         },
@@ -1716,26 +3455,6 @@
       },
       "Sergio Garcia": {
         "books": {
-          "draftkings": 24000
-        },
-        "best_price": 24000,
-        "best_book": "draftkings",
-        "implied_prob": 0.0041,
-        "decimal": 241.0,
-        "fractional": "240/1"
-      },
-      "Casey Jarvis": {
-        "books": {
-          "draftkings": 24000
-        },
-        "best_price": 24000,
-        "best_book": "draftkings",
-        "implied_prob": 0.0041,
-        "decimal": 241.0,
-        "fractional": "240/1"
-      },
-      "Carlos Ortiz": {
-        "books": {
           "draftkings": 25000
         },
         "best_price": 25000,
@@ -1746,93 +3465,113 @@
       },
       "Dustin Johnson": {
         "books": {
-          "draftkings": 26000
+          "draftkings": 25000
         },
-        "best_price": 26000,
+        "best_price": 25000,
         "best_book": "draftkings",
-        "implied_prob": 0.0038,
-        "decimal": 261.0,
-        "fractional": "260/1"
+        "implied_prob": 0.004,
+        "decimal": 251.0,
+        "fractional": "250/1"
       },
-      "Tom Mckibbin": {
+      "Aaron Rai": {
         "books": {
-          "draftkings": 26000
+          "draftkings": 25000
         },
-        "best_price": 26000,
+        "best_price": 25000,
         "best_book": "draftkings",
-        "implied_prob": 0.0038,
-        "decimal": 261.0,
-        "fractional": "260/1"
+        "implied_prob": 0.004,
+        "decimal": 251.0,
+        "fractional": "250/1"
       },
       "Haotong Li": {
         "books": {
-          "draftkings": 30000
+          "draftkings": 27500
         },
-        "best_price": 30000,
+        "best_price": 27500,
         "best_book": "draftkings",
-        "implied_prob": 0.0033,
-        "decimal": 301.0,
-        "fractional": "300/1"
+        "implied_prob": 0.0036,
+        "decimal": 276.0,
+        "fractional": "275/1"
       },
       "Matt Mccarty": {
         "books": {
-          "draftkings": 30000
+          "draftkings": 28000
         },
-        "best_price": 30000,
+        "best_price": 28000,
         "best_book": "draftkings",
-        "implied_prob": 0.0033,
-        "decimal": 301.0,
-        "fractional": "300/1"
+        "implied_prob": 0.0036,
+        "decimal": 281.0,
+        "fractional": "280/1"
       },
       "Andrew Novak": {
         "books": {
-          "draftkings": 31000
+          "draftkings": 29000
         },
-        "best_price": 31000,
+        "best_price": 29000,
         "best_book": "draftkings",
-        "implied_prob": 0.0032,
-        "decimal": 311.0,
-        "fractional": "310/1"
+        "implied_prob": 0.0034,
+        "decimal": 291.0,
+        "fractional": "290/1"
       },
-      "Nico Echavarria": {
+      "Tom Mckibbin": {
         "books": {
-          "draftkings": 34000
+          "draftkings": 29000
         },
-        "best_price": 34000,
+        "best_price": 29000,
         "best_book": "draftkings",
-        "implied_prob": 0.0029,
-        "decimal": 341.0,
-        "fractional": "340/1"
+        "implied_prob": 0.0034,
+        "decimal": 291.0,
+        "fractional": "290/1"
       },
       "Rasmus Neergaard-Petersen": {
         "books": {
-          "draftkings": 34000
+          "draftkings": 32000
         },
-        "best_price": 34000,
+        "best_price": 32000,
         "best_book": "draftkings",
-        "implied_prob": 0.0029,
-        "decimal": 341.0,
-        "fractional": "340/1"
+        "implied_prob": 0.0031,
+        "decimal": 321.0,
+        "fractional": "320/1"
       },
-      "Sami Välimäki": {
+      "Nico Echavarria": {
         "books": {
-          "draftkings": 39000
+          "draftkings": 32500
         },
-        "best_price": 39000,
+        "best_price": 32500,
         "best_book": "draftkings",
-        "implied_prob": 0.0026,
-        "decimal": 391.0,
-        "fractional": "390/1"
+        "implied_prob": 0.0031,
+        "decimal": 326.0,
+        "fractional": "325/1"
       },
       "Aldrich Potgieter": {
         "books": {
-          "draftkings": 39000
+          "draftkings": 36000
         },
-        "best_price": 39000,
+        "best_price": 36000,
         "best_book": "draftkings",
-        "implied_prob": 0.0026,
-        "decimal": 391.0,
-        "fractional": "390/1"
+        "implied_prob": 0.0028,
+        "decimal": 361.0,
+        "fractional": "360/1"
+      },
+      "John Keefer": {
+        "books": {
+          "draftkings": 37000
+        },
+        "best_price": 37000,
+        "best_book": "draftkings",
+        "implied_prob": 0.0027,
+        "decimal": 371.0,
+        "fractional": "370/1"
+      },
+      "Sami Välimäki": {
+        "books": {
+          "draftkings": 37500
+        },
+        "best_price": 37500,
+        "best_book": "draftkings",
+        "implied_prob": 0.0027,
+        "decimal": 376.0,
+        "fractional": "375/1"
       },
       "Michael Brennan": {
         "books": {
@@ -1844,25 +3583,15 @@
         "decimal": 401.0,
         "fractional": "400/1"
       },
-      "John Keefer": {
-        "books": {
-          "draftkings": 40000
-        },
-        "best_price": 40000,
-        "best_book": "draftkings",
-        "implied_prob": 0.0025,
-        "decimal": 401.0,
-        "fractional": "400/1"
-      },
       "Bubba Watson": {
         "books": {
-          "draftkings": 55000
+          "draftkings": 52500
         },
-        "best_price": 55000,
+        "best_price": 52500,
         "best_book": "draftkings",
-        "implied_prob": 0.0018,
-        "decimal": 551.0,
-        "fractional": "550/1"
+        "implied_prob": 0.0019,
+        "decimal": 526.0,
+        "fractional": "525/1"
       },
       "Zach Johnson": {
         "books": {
@@ -1876,55 +3605,45 @@
       },
       "Charl Schwartzel": {
         "books": {
-          "draftkings": 65000
+          "draftkings": 62500
         },
-        "best_price": 65000,
+        "best_price": 62500,
         "best_book": "draftkings",
-        "implied_prob": 0.0015,
-        "decimal": 651.0,
-        "fractional": "650/1"
+        "implied_prob": 0.0016,
+        "decimal": 626.0,
+        "fractional": "625/1"
       },
       "Davis Riley": {
         "books": {
-          "draftkings": 85000
+          "draftkings": 82500
         },
-        "best_price": 85000,
+        "best_price": 82500,
         "best_book": "draftkings",
         "implied_prob": 0.0012,
-        "decimal": 851.0,
-        "fractional": "850/1"
-      },
-      "Ben Campbell": {
-        "books": {
-          "draftkings": 250000
-        },
-        "best_price": 250000,
-        "best_book": "draftkings",
-        "implied_prob": 0.0004,
-        "decimal": 2501.0,
-        "fractional": "2500/1"
-      },
-      "Danny Willett": {
-        "books": {
-          "draftkings": 250000
-        },
-        "best_price": 250000,
-        "best_book": "draftkings",
-        "implied_prob": 0.0004,
-        "decimal": 2501.0,
-        "fractional": "2500/1"
+        "decimal": 826.0,
+        "fractional": "825/1"
       },
       "Mason Howell": {
         "books": {
-          "draftkings": 300000
+          "draftkings": 200000
         },
-        "best_price": 300000,
+        "best_price": 200000,
         "best_book": "draftkings",
-        "implied_prob": 0.0003,
-        "decimal": 3001.0,
-        "fractional": "3000/1"
+        "implied_prob": 0.0005,
+        "decimal": 2001.0,
+        "fractional": "2000/1"
       },
-      "Ethan Fang": {
+      "Danny Willett": {
+        "books": {
+          "draftkings": 225000
+        },
+        "best_price": 225000,
+        "best_book": "draftkings",
+        "implied_prob": 0.0004,
+        "decimal": 2251.0,
+        "fractional": "2250/1"
+      },
+      "Angel Cabrera": {
         "books": {
           "draftkings": 300000
         },
@@ -1934,7 +3653,17 @@
         "decimal": 3001.0,
         "fractional": "3000/1"
       },
-      "Angel Cabrera": {
+      "Ben Campbell": {
+        "books": {
+          "draftkings": 325000
+        },
+        "best_price": 325000,
+        "best_book": "draftkings",
+        "implied_prob": 0.0003,
+        "decimal": 3251.0,
+        "fractional": "3250/1"
+      },
+      "Ethan Fang": {
         "books": {
           "draftkings": 325000
         },
@@ -2043,7 +3772,7 @@
     "credits_used_this_month": 0
   },
   "dg_predictions": {
-    "last_updated": "2026-04-07T01:30:26.413274-04:00",
+    "last_updated": "2026-04-07T12:39:49.543512-04:00",
     "by_player": {
       "Scottie Scheffler": {
         "win": 0.119883333333333,
@@ -2776,7 +4505,7 @@
     }
   },
   "skill_ratings": {
-    "last_updated": "2026-04-07T01:30:26.413230-04:00",
+    "last_updated": "2026-04-07T12:39:49.543451-04:00",
     "by_player": {
       "Scottie Scheffler": {
         "sg_putt": 0.567,
@@ -8815,7 +10544,7 @@
     }
   },
   "approach_skill": {
-    "last_updated": "2026-04-07T01:30:26.413259-04:00",
+    "last_updated": "2026-04-07T12:39:49.543488-04:00",
     "by_player": {}
   },
   "course_history": {
@@ -8968,25 +10697,19 @@
     "value_ranking": [
       {
         "player": "Maverick Mcnealy",
-        "odds": "+8400",
-        "edge": 0.0028,
-        "note": "DG: 1.5% | Market: 1.2% | Edge: +0.3%"
+        "odds": "+8000",
+        "edge": 0.0023,
+        "note": "DG: 1.5% | Market: 1.2% | Edge: +0.2%"
       },
       {
         "player": "Min Woo Lee",
-        "odds": "+3500",
-        "edge": 0.0006,
-        "note": "DG: 2.8% | Market: 2.8% | Edge: +0.1%"
-      },
-      {
-        "player": "Mason Howell",
-        "odds": "+300000",
+        "odds": "+3400",
         "edge": -0.0002,
-        "note": "DG: 0.0% | Market: 0.0% | Edge: +-0.0%"
+        "note": "DG: 2.8% | Market: 2.9% | Edge: +-0.0%"
       },
       {
         "player": "Angel Cabrera",
-        "odds": "+325000",
+        "odds": "+300000",
         "edge": -0.0002,
         "note": "DG: 0.0% | Market: 0.0% | Edge: +-0.0%"
       },
@@ -9027,34 +10750,40 @@
         "note": "DG: 0.0% | Market: 0.0% | Edge: +-0.0%"
       },
       {
+        "player": "Si Woo Kim",
+        "odds": "+5000",
+        "edge": -0.0003,
+        "note": "DG: 1.9% | Market: 2.0% | Edge: +-0.0%"
+      },
+      {
         "player": "Danny Willett",
-        "odds": "+250000",
+        "odds": "+225000",
         "edge": -0.0003,
         "note": "DG: 0.0% | Market: 0.0% | Edge: +-0.0%"
       },
       {
         "player": "Ethan Fang",
-        "odds": "+300000",
+        "odds": "+325000",
         "edge": -0.0003,
         "note": "DG: 0.0% | Market: 0.0% | Edge: +-0.0%"
       },
       {
-        "player": "Sam Stevens",
-        "odds": "+18000",
+        "player": "Mason Howell",
+        "odds": "+200000",
         "edge": -0.0004,
-        "note": "DG: 0.5% | Market: 0.5% | Edge: +-0.0%"
+        "note": "DG: 0.0% | Market: 0.1% | Edge: +-0.0%"
+      },
+      {
+        "player": "Sam Stevens",
+        "odds": "+17500",
+        "edge": -0.0006,
+        "note": "DG: 0.5% | Market: 0.6% | Edge: +-0.1%"
       },
       {
         "player": "Charl Schwartzel",
-        "odds": "+65000",
-        "edge": -0.0006,
-        "note": "DG: 0.1% | Market: 0.1% | Edge: +-0.1%"
-      },
-      {
-        "player": "Si Woo Kim",
-        "odds": "+4900",
+        "odds": "+62500",
         "edge": -0.0007,
-        "note": "DG: 1.9% | Market: 2.0% | Edge: +-0.1%"
+        "note": "DG: 0.1% | Market: 0.2% | Edge: +-0.1%"
       }
     ],
     "tiers": {
@@ -9446,7 +11175,8 @@
     "odds_gaps": [
       " — no odds found at 2026-04-06T09:58:24.323830-04:00",
       " — no odds found at 2026-04-06T12:10:43.804251-04:00",
-      " — no odds found at 2026-04-07T01:30:27.063933-04:00"
+      " — no odds found at 2026-04-07T01:30:27.063933-04:00",
+      " — no odds found at 2026-04-07T12:39:50.622215-04:00"
     ],
     "data_anomalies": [],
     "analysis_uncertainties": [
@@ -9620,6 +11350,13 @@
     },
     {
       "time": "2026-04-07T01:30:27.064933-04:00",
+      "run_type": "manual",
+      "status": "complete",
+      "field_size": 91,
+      "odds_players": 91
+    },
+    {
+      "time": "2026-04-07T12:39:50.623218-04:00",
       "run_type": "manual",
       "status": "complete",
       "field_size": 91,
