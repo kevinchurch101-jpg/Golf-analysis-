@@ -234,6 +234,12 @@ def pull_datagolf_data(state: Dict) -> Dict:
                 "par": 72, "yardage": 7500, "event_tier": "MAJOR",
                 "course_key": None,
             },
+            "golf_pga_championship_winner": {
+                "name": "PGA Championship",
+                "course": "TBD", "location": "TBD",
+                "par": 72, "yardage": 7500, "event_tier": "MAJOR",
+                "course_key": None,
+            },
             "golf_us_open": {
                 "name": "U.S. Open",
                 "course": "TBD", "location": "TBD",
@@ -246,6 +252,8 @@ def pull_datagolf_data(state: Dict) -> Dict:
                 "par": 70, "yardage": 7300, "event_tier": "MAJOR",
                 "course_key": None,
             },
+            # Regular PGA Tour events — name comes from DG schedule
+            # These keys are handled by the else branch (DG schedule lookup)
         }
 
         event_info = SPORT_KEY_MAP.get(sport_key)
@@ -336,7 +344,10 @@ def pull_datagolf_data(state: Dict) -> Dict:
 def pull_odds_data(state: Dict) -> Dict:
     """Pull odds and merge into state."""
     log.info("[Main] Pulling odds…")
-    odds_snap = get_full_odds_snapshot()
+    # Pass current event name as hint so odds.py can match it against
+    # Odds API event descriptions — handles mismatched sport keys
+    event_name_hint = state.get("event", {}).get("name", "")
+    odds_snap = get_full_odds_snapshot(event_name_hint=event_name_hint)
 
     if not odds_snap:
         log.warning("[Main] No odds returned — flagging.")
@@ -418,7 +429,16 @@ def run_claude_analysis(state: Dict, run_type: str, article_summary: Optional[Di
         if article_summary:
             state["articles"]["key_narratives"] = article_summary.get("articles", [])
         prior_summary = state.get("articles", {}).get("prior_year_summary_text", "")
-        prompt = build_sunday_analysis_prompt(state, prior_year_summary=prior_summary)
+        # Resolve course profile object so Claude gets full framework database detail
+        from analysis.course import get_course_profile as _gcp
+        _course_key = (state.get("event", {}).get("course") or "").lower().replace(" ", "_")
+        _cp = _gcp(_course_key)
+        prompt = build_sunday_analysis_prompt(
+            state,
+            prior_year_summary=prior_summary,
+            player_db=PLAYER_DB,
+            course_profile=_cp,
+        )
     elif run_type in ("monday_6am", "monday_10am") and state["odds"].get("by_player"):
         prompt = build_incremental_update_prompt(state, "odds_update", state["odds"]["by_player"])
     elif run_type in ("monday_7pm", "tuesday_930am", "tuesday_6pm") and article_summary:
