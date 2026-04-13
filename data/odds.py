@@ -101,7 +101,11 @@ def find_active_golf_event(event_name_hint: str = "") -> Dict:
         log.warning("[Odds] No golf sports in /sports endpoint.")
         return {}
 
-    # Sort: active keys first, then alphabetical so pga_tour comes before masters
+    # Log all available golf sport keys for diagnostics
+    all_keys = [(s.get("key",""), s.get("active", False)) for s in golf_sports]
+    log.info(f"[Odds] Golf sport keys available: {all_keys}")
+
+    # Sort: active keys first, then alphabetical
     active = sorted([s for s in golf_sports if s.get("active", False)],
                     key=lambda s: s.get("key", ""))
     inactive = sorted([s for s in golf_sports if not s.get("active", False)],
@@ -155,19 +159,28 @@ def find_active_golf_event(event_name_hint: str = "") -> Dict:
                  f"(score={best_match['score']:.2f}, key={best_match['sport_key']})")
         return best_match
 
-    # Last resort: try golf_pga_tour directly with no name filtering
-    log.warning("[Odds] Name matching failed \u2014 falling back to golf_pga_tour direct lookup.")
-    fallback_events = _get("sports/golf_pga_tour/events", {"dateFormat": "iso"})
-    if fallback_events and isinstance(fallback_events, list):
-        event = fallback_events[0]
-        desc = event.get("description") or event.get("name") or "Unknown"
-        log.info(f"[Odds] Fallback event: '{desc}'")
-        return {
-            "sport_key":  "golf_pga_tour",
-            "event_id":   event.get("id", ""),
-            "event_name": desc,
-            "score":      0.0,
-        }
+    # Last resort: try every active golf key — take first event that has an ID, desc or not
+    log.warning("[Odds] Name matching failed — trying all active keys for any live event.")
+    for sport in active:
+        key = sport.get("key", "")
+        fallback_events = _get(f"sports/{key}/events", {"dateFormat": "iso"})
+        if not fallback_events or not isinstance(fallback_events, list):
+            continue
+        for ev in fallback_events:
+            event_id = ev.get("id", "")
+            if not event_id:
+                continue
+            # Try all possible description fields — log whatever we find
+            desc = (ev.get("description") or ev.get("name") or ev.get("title") or
+                    ev.get("home_team") or ev.get("sport_title") or f"event_{event_id[:8]}")
+            log.info(f"[Odds] Fallback event found: key={key} | id={event_id[:8]} | desc='{desc}'")
+            log.info(f"[Odds] Full event fields: {list(ev.keys())}")
+            return {
+                "sport_key":  key,
+                "event_id":   event_id,
+                "event_name": desc,
+                "score":      0.0,
+            }
 
     log.warning("[Odds] No golf event found across all sport keys including fallback.")
     return {}
