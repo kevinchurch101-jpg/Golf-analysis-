@@ -15,7 +15,7 @@ from typing import Dict, Optional
 import pytz
 
 import config
-from data.datagolf   import pull_all_weekly_data, get_field_updates
+from data.datagolf   import pull_all_weekly_data, get_field_updates, get_dg_outright_odds
 from data.odds       import get_full_odds_snapshot, find_value_plays
 from data.articles   import (fetch_all_articles, summarize_article_bundle,
                               search_for_prior_year_articles,
@@ -342,27 +342,27 @@ def pull_datagolf_data(state: Dict) -> Dict:
 
 
 def pull_odds_data(state: Dict) -> Dict:
-    """Pull odds and merge into state."""
-    log.info("[Main] Pulling odds…")
-    # Pass current event name as hint so odds.py can match it against
-    # Odds API event descriptions — handles mismatched sport keys
-    event_name_hint = state.get("event", {}).get("name", "")
-    odds_snap = get_full_odds_snapshot(event_name_hint=event_name_hint)
+    """Pull odds from DataGolf betting-tools endpoint and merge into state."""
+    log.info("[Main] Pulling odds (DataGolf)…")
+    odds_snap = get_dg_outright_odds(tour="pga", market="winner", odds_format="american")
 
     if not odds_snap:
-        log.warning("[Main] No odds returned — flagging.")
-        state["flags"]["data_anomalies"].append(f"No odds returned at {_now()}")
+        log.warning("[Main] No odds returned from DataGolf — flagging.")
+        state["flags"]["data_anomalies"].append(f"No DG odds returned at {_now()}")
         return state
 
     state.setdefault("odds", {})["by_player"] = odds_snap
     state["odds"]["last_updated"] = _now()
 
-    # Flag players in field with no odds
-    field_names = {p.get("name", "") for p in state.get("field", [])}
-    odds_names  = set(odds_snap.keys())
-    missing     = field_names - odds_names
-    for name in sorted(missing)[:20]:   # Cap at 20 flags
-        state["flags"]["odds_gaps"].append(f"{name} — no odds found at {_now()}")
+    # Flag field players with no odds
+    field_names = {
+        (p.get("player_name") or p.get("name", "")).strip()
+        for p in state.get("field", [])
+    }
+    odds_names = set(odds_snap.keys())
+    missing = field_names - odds_names
+    for name in sorted(missing)[:20]:
+        state["flags"]["odds_gaps"].append(f"{name} — no DG odds found at {_now()}")
 
     log.info(f"[Main] Odds: {len(odds_snap)} players. {len(missing)} gaps flagged.")
     return state
