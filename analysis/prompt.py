@@ -8,11 +8,15 @@ Model: claude-sonnet-4-6
 import json
 import logging
 from datetime import datetime
-from typing import Dict, List, Optional
+from typing import TYPE_CHECKING, Dict, List, Optional
 
 import anthropic
 
 from config import ANTHROPIC_KEY, ANTHROPIC_MODEL, ANTHROPIC_MAX_TOKENS
+
+if TYPE_CHECKING:
+    from analysis.players import PlayerProfile
+    from analysis.course import CourseProfile
 
 log = logging.getLogger(__name__)
 
@@ -47,27 +51,51 @@ Flag anything uncertain in the Flags section.
 """
 
 
-def build_sunday_analysis_prompt(state: Dict, prior_year_summary: str = "") -> str:
+def build_sunday_analysis_prompt(
+    state: Dict,
+    prior_year_summary: str = "",
+    player_db: Optional[List] = None,
+    course_profile=None,
+) -> str:
     """
     Full analysis prompt for Sunday night run.
     Articles + course setup + prior year course breakdown. No odds yet.
     Most expensive call of the week — use the budget wisely.
     Prior year summary: course structure only, player notes discarded.
+    player_db: list of PlayerProfile objects from analysis/players.py
+    course_profile: CourseProfile object from analysis/course.py
     """
     event = state.get("event", {})
     weather = state.get("weather", {})
     articles = state.get("articles", {})
-    skill_ratings = state.get("skill_ratings", {})
+    # Extract nested by_player dicts — state stores as {"by_player": {...}, "last_updated": ...}
+    _sr_raw = state.get("skill_ratings", {})
+    skill_ratings = _sr_raw.get("by_player", _sr_raw) if isinstance(_sr_raw, dict) else {}
+    if "by_player" in skill_ratings:
+        skill_ratings = skill_ratings["by_player"]
+
+    dg_predictions = state.get("dg_predictions", {})
+    if "by_player" in dg_predictions:
+        dg_predictions = dg_predictions["by_player"]
+
     field = state.get("field", [])
 
     # Build condensed field summary (top players by DG ranking)
-    field_summary = _build_field_summary(field, skill_ratings, state.get("dg_predictions", {}))
+    field_summary = _build_field_summary(field, skill_ratings, dg_predictions)
 
     # Build article summary
     article_summary = _build_article_summary(articles)
 
     # Weather context
     weather_summary = _build_weather_summary(weather)
+
+    # Build player designations section (Kevin's framework database)
+    # Filter to only players in the current field for token efficiency
+    field_names = {(p.get("player_name") or p.get("name", "")).lower() for p in field}
+    designation_section = _build_player_designations_section(player_db, field_names)
+
+    # Build extended course profile section if CourseProfile object passed
+    course_profile_section = _build_course_profile_section(course_profile)
 
     prompt = f"""
 WEEKLY ANALYSIS REQUEST — {event.get('name', 'Unknown Event')}
@@ -104,6 +132,16 @@ ARTICLES READ THIS WEEK
 FIELD & SKILL DATA (Top 50 by DG ranking)
 ═══════════════════════════════════════════════════════════════
 {field_summary}
+
+{"═" * 63}
+KEVIN'S FRAMEWORK — PLAYER DESIGNATIONS (field players only)
+{"═" * 63}
+{designation_section}
+
+{"═" * 63}
+COURSE PROFILE (Kevin's Framework Database)
+{"═" * 63}
+{course_profile_section}
 
 {"═" * 63}
 PRIOR YEAR COURSE BREAKDOWN
@@ -298,25 +336,75 @@ def parse_claude_response(response_text: str) -> Dict:
                 result["overall_ranking"].append({"player": m.group(1).strip(), "note": ""})
 
     # ── Extract tiers ──
-    tier_map = {
-        "S TIER": "S", "A TIER": "A", "B TIER": "B",
-        "C TIER": "C", "FADE": "FADE"
-    }
+    # Handle many Claude formatting styles: S-TIER, S TIER, **S-Tier**, ### S Tier, S-TIER —
+    import re as _re
+
+    TIER_PATTERNS = [
+        (_re.compile(r'\bS[-\s]TIER\b', _re.I),    "S"),
+        (_re.compile(r'\bA[-\s]TIER\b', _re.I),    "A"),
+        (_re.compile(r'\bB[-\s]TIER\b', _re.I),    "B"),
+        (_re.compile(r'\bC[-\s]TIER\b', _re.I),    "C"),
+        (_re.compile(r'\bFADE\b',         _re.I),   "FADE"),
+        # Also catch "S-TIER — Primary", "## S TIER", etc
+        (_re.compile(r'^#+\s*S[-\s]TIER', _re.I),   "S"),
+        (_re.compile(r'^#+\s*A[-\s]TIER', _re.I),   "A"),
+        (_re.compile(r'^#+\s*B[-\s]TIER', _re.I),   "B"),
+        (_re.compile(r'^#+\s*C[-\s]TIER', _re.I),   "C"),
+        (_re.compile(r'^#+\s*FADE',        _re.I),   "FADE"),
+    ]
+
+    # Lines that signal a new section — stop adding to current tier
+    SECTION_BREAKS = [
+        "MARKET TRAP", "FRL", "POOL", "FLAG", "SECTION",
+        "BRIEFING", "RANKING", "OVERALL", "VALUE", "BET CARD",
+        "FALLEN STAR", "## ", "==="
+    ]
+
     current_tier = None
     for line in lines:
         stripped = line.strip()
+        if not stripped:
+            continue
         upper = stripped.upper()
-        for tier_label, tier_key in tier_map.items():
-            if tier_label in upper:
+
+        # Check for section break — stop tier collection
+        if any(b in upper for b in SECTION_BREAKS) and current_tier:
+            # Only break if it's a header-style line, not player content
+            if stripped.startswith("#") or stripped.startswith("**") or stripped.isupper():
+                current_tier = None
+
+        # Check if this line announces a tier
+        for pattern, tier_key in TIER_PATTERNS:
+            if pattern.search(stripped):
                 current_tier = tier_key
                 break
-        if current_tier and stripped and not any(t in upper for t in tier_map):
-            import re
-            # Extract player names from tier lists
-            clean = re.sub(r"^[-•*\d\.]+\s*", "", stripped)
-            if len(clean) > 3 and not clean.upper().startswith(("TIER", "PRIMARY", "STRONG", "PASS")):
-                if clean not in [str(p) for p in result["tiers"][current_tier]]:
-                    result["tiers"][current_tier].append({"player": clean.split("—")[0].strip(), "reason": ""})
+        else:
+            # Only collect player entries when inside a tier
+            if current_tier:
+                # Strip bullets, numbers, bold markers
+                clean = _re.sub(r'^[-•*\d\.#\s]+', '', stripped)
+                clean = _re.sub(r'\*+', '', clean).strip()
+
+                # Skip lines that are obviously headers or meta-commentary
+                skip_prefixes = (
+                    "TIER", "PRIMARY", "STRONG", "PASS", "DEFINITION",
+                    "PLAYERS", "NOTE", "WITHOUT", "THESE ARE", "NEED",
+                    "FRAMEWORK", "CANNOT", "NO SG", "DATA", "TBD",
+                    "|", "---", "===",
+                )
+                if (len(clean) > 3
+                        and not clean.upper().startswith(skip_prefixes)
+                        and len(clean) < 80):  # Player names aren't that long
+                    player_name = clean.split("—")[0].split(" — ")[0].strip()
+                    reason = clean.split("—")[-1].strip() if "—" in clean else ""
+                    # Avoid duplicates
+                    existing = [p.get("player","") if isinstance(p,dict) else p
+                                for p in result["tiers"][current_tier]]
+                    if player_name not in existing:
+                        result["tiers"][current_tier].append({
+                            "player": player_name,
+                            "reason": reason,
+                        })
 
     # ── Extract flags ──
     in_flags = False
@@ -454,6 +542,42 @@ Please fold this new information into the current analysis incrementally.
 # HELPER BUILDERS
 # ──────────────────────────────────────────────────────────────
 
+def _normalize_name_for_lookup(name: str) -> str:
+    """Normalize a player name for fuzzy matching."""
+    return name.lower().strip().replace("-", " ").replace(".", "")
+
+
+def _find_player_skills(name: str, skill_ratings: Dict, preds_dict: Dict) -> tuple:
+    """
+    Look up player skills and predictions using exact then fuzzy name matching.
+    Returns (skills_dict, preds_dict) — both may be empty if not found.
+    """
+    # Try exact match first
+    if name in skill_ratings:
+        return skill_ratings[name], preds_dict.get(name, {})
+
+    # Try title-cased
+    name_title = name.strip().title()
+    if name_title in skill_ratings:
+        return skill_ratings[name_title], preds_dict.get(name_title, {})
+
+    # Fuzzy: normalize both sides and compare
+    name_norm = _normalize_name_for_lookup(name)
+    for key in skill_ratings:
+        if _normalize_name_for_lookup(key) == name_norm:
+            return skill_ratings[key], preds_dict.get(key, {})
+
+    # Partial match: last name only (handles "Rory McIlroy" vs "R. McIlroy")
+    name_parts = name_norm.split()
+    if len(name_parts) >= 2:
+        last = name_parts[-1]
+        candidates = [k for k in skill_ratings if _normalize_name_for_lookup(k).endswith(last)]
+        if len(candidates) == 1:
+            return skill_ratings[candidates[0]], preds_dict.get(candidates[0], {})
+
+    return {}, {}
+
+
 def _build_field_summary(
     field: List[Dict],
     skill_ratings: Dict,
@@ -463,35 +587,57 @@ def _build_field_summary(
     if not field:
         return "Field data not yet available."
 
-    lines = ["Player | Distance | SG:APP | SG:OTT | T2G(comb) | SG:PUTT | DG Win% | Designation"]
-    lines.append("-" * 80)
+    if not skill_ratings:
+        return "Field loaded but skill ratings not yet available — will populate on Monday runs."
 
-    # Sort by DG win probability
-    players_sorted = sorted(
-        field,
-        key=lambda p: -(dg_predictions.get(p.get("name", ""), {}).get("win", 0) or 0),
-    )
+    lines = ["Player                         | Distance | SG:APP  | SG:OTT  | T2G       | SG:PUTT | DG Win% "]
+    lines.append("-" * 95)
+
+    # Build a combined lookup: try to match field player names to skill ratings
+    # DG field data may use dg_id or slightly different name format
+    matched = 0
+    unmatched = []
+
+    # Sort by DG win probability if available, else alphabetical
+    def sort_key(p):
+        name = p.get("player_name") or p.get("name", "")
+        _, preds = _find_player_skills(name, skill_ratings, dg_predictions)
+        return -(preds.get("win", 0) or 0)
+
+    players_sorted = sorted(field, key=sort_key)
 
     for p in players_sorted[:top_n]:
-        name = p.get("name", "Unknown")
-        skills = skill_ratings.get(name, {})
-        preds  = dg_predictions.get(name, {})
+        name = p.get("player_name") or p.get("name", "Unknown")
+        skills, preds = _find_player_skills(name, skill_ratings, dg_predictions)
 
-        sg_app  = skills.get("sg_app", "N/A")
-        sg_ott  = skills.get("sg_ott", "N/A")
-        sg_putt = skills.get("sg_putt", "N/A")
+        sg_app  = skills.get("sg_app",  skills.get("sg_app_total",  "N/A"))
+        sg_ott  = skills.get("sg_ott",  skills.get("sg_ott_total",  "N/A"))
+        sg_putt = skills.get("sg_putt", skills.get("sg_putt_total", "N/A"))
         win_pct = preds.get("win")
-        dist    = skills.get("driving_dist", "N/A")
+        dist    = skills.get("driving_dist", skills.get("distance", "N/A"))
 
         win_str  = f"{win_pct*100:.1f}%" if win_pct else "N/A"
-        sg_app_s = f"{sg_app:.3f}" if isinstance(sg_app, float) else "N/A"
-        sg_ott_s = f"{sg_ott:.3f}" if isinstance(sg_ott, float) else "N/A"
-        sg_put_s = f"{sg_putt:.3f}" if isinstance(sg_putt, float) else "N/A"
+        sg_app_s = f"{sg_app:+.3f}" if isinstance(sg_app, (int, float)) else "N/A"
+        sg_ott_s = f"{sg_ott:+.3f}" if isinstance(sg_ott, (int, float)) else "N/A"
+        sg_put_s = f"{sg_putt:+.3f}" if isinstance(sg_putt, (int, float)) else "N/A"
         dist_s   = f"{dist:.0f}yd" if isinstance(dist, (int, float)) else "N/A"
-        t2g = (sg_app + sg_ott) if isinstance(sg_app, float) and isinstance(sg_ott, float) else None
-        t2g_s = f"{t2g:.3f}" if t2g is not None else "N/A"
+        t2g = (sg_app + sg_ott) if isinstance(sg_app, (int, float)) and isinstance(sg_ott, (int, float)) else None
+        t2g_s = f"{t2g:+.3f}" if t2g is not None else "N/A"
+
+        if skills:
+            matched += 1
+        else:
+            unmatched.append(name)
 
         lines.append(f"{name:30} | {dist_s:8} | {sg_app_s:7} | {sg_ott_s:7} | {t2g_s:9} | {sg_put_s:7} | {win_str:7}")
+
+    # Add match quality report at top
+    total = min(len(field), top_n)
+    header = f"Field stats match rate: {matched}/{total} players matched to skill ratings"
+    if unmatched[:5]:
+        header += f"\nUnmatched (first 5): {', '.join(unmatched[:5])}"
+    lines.insert(0, header)
+    lines.insert(1, "")
 
     return "\n".join(lines)
 
@@ -524,6 +670,119 @@ def _build_article_summary(articles_state: Dict) -> str:
             lines.append(f"  • {n}")
 
     return "\n".join(lines) if lines else "No articles available this run."
+
+
+def _build_player_designations_section(player_db: Optional[List], field_names: set) -> str:
+    """
+    Build a compact designation block for field players only.
+    Injects Kevin's framework knowledge so Claude applies the actual framework
+    rather than generic training knowledge.
+    """
+    if not player_db:
+        return "Player database not loaded — Claude will apply general framework principles."
+
+    lines = []
+    lines.append(
+        "Designation key: EXTRA_CONFIRM_PLUS = heightened positive scrutiny | "
+        "FRAMEWORK = standard | EXTRA_CONFIRM_MINUS = heightened skeptical scrutiny | "
+        "FALLEN_STAR = formerly elite, degraded — auto-consider at price threshold"
+    )
+    lines.append("")
+
+    sections = {
+        "EXTRA_CONFIRM_PLUS":  "⬆  EXTRA CONFIRM + (heightened positive scrutiny)",
+        "FALLEN_STAR":         "★  FALLEN STAR (auto-consider at price threshold)",
+        "EXTRA_CONFIRM_MINUS": "⬇  EXTRA CONFIRM − (heightened skeptical scrutiny)",
+        "FRAMEWORK":           "◆  FRAMEWORK (standard analysis)",
+    }
+
+    for desig_key, header in sections.items():
+        players_in_section = []
+        for p in player_db:
+            if p.designation != desig_key:
+                continue
+            # Field membership check — last-name fuzzy
+            p_last = p.name.lower().split()[-1]
+            in_field = (
+                p.name.lower() in field_names
+                or any(p_last in fn for fn in field_names)
+            )
+            if not in_field:
+                continue
+
+            parts = [p.name]
+            if p.auto_price_trigger:
+                parts.append(f"auto-consider ≥+{p.auto_price_trigger * 100 - 100}")
+            if p.max_price_threshold:
+                parts.append(f"never above +{p.max_price_threshold * 100 - 100}")
+            if p.course_triggers:
+                parts.append(f"triggers: {', '.join(p.course_triggers)}")
+            if p.is_liv:
+                parts.append("LIV")
+            if p.frl_target:
+                parts.append("FRL target")
+
+            line = f"  {' | '.join(parts)}"
+            note_preview = (p.kevin_notes or "")[:130].strip()
+            if note_preview:
+                line += f"\n    → {note_preview}"
+            players_in_section.append(line)
+
+        if players_in_section:
+            lines.append(header)
+            lines.extend(players_in_section)
+            lines.append("")
+
+    return "\n".join(lines) if len(lines) > 2 else "No matching field players found in player database."
+
+
+def _build_course_profile_section(course_profile) -> str:
+    """
+    Build a detailed course profile section from a CourseProfile dataclass.
+    Richer than what lives in state['event'] — includes specialist flags,
+    winning score, preferred flight, etc.
+    """
+    if not course_profile:
+        return "Course profile not available in Kevin's database — using event-level data above."
+
+    cp = course_profile
+    lines = [
+        f"Course: {cp.name}",
+        f"Location: {cp.location}",
+        f"Par / Yardage: {cp.par} / {cp.yardage}",
+        f"Course Type: {cp.course_type}",
+        f"Distance Multiplier: {cp.distance_multiplier}",
+        f"Dominant Stat: {cp.dominant_stat}",
+        f"Rough Penalty: {cp.rough_penalty}",
+        f"Angle Penalty: {cp.angle_penalty}",
+        f"Wind Relevance: {cp.wind_relevance}",
+    ]
+    if cp.course_avg_acc:
+        lines.append(f"Historical Driving Accuracy: {cp.course_avg_acc}%")
+    if cp.accuracy_premium:
+        lines.append("Accuracy Premium: YES — accuracy-dependent players get uplift here")
+    if cp.bomber_course:
+        lines.append("Bomber Course: YES — pure distance advantage confirmed")
+    if cp.draw_bias:
+        lines.append("Shot Shape Preference: RIGHT-TO-LEFT (draw bias)")
+    elif getattr(cp, "preferred_flight", None) == "left_to_right":
+        lines.append("Shot Shape Preference: LEFT-TO-RIGHT (fade bias)")
+    if cp.putting_premium:
+        lines.append("Putting Premium: YES — above-average putting weight this week")
+    if cp.is_unique_venue:
+        lines.append("Unique Venue: YES — standard archetypes may not apply cleanly")
+    if cp.is_complex_course:
+        lines.append("Complex Course: YES — course management is a real differentiator")
+    if cp.historical_winning_score is not None:
+        lines.append(f"Historical Winning Score: {cp.historical_winning_score:+d} (vs par)")
+    if cp.typical_cut_score is not None:
+        lines.append(f"Typical Cut Score: {cp.typical_cut_score:+d} (vs par)")
+    if cp.specialist_flags:
+        lines.append(f"Specialist Flags: {', '.join(cp.specialist_flags)}")
+    if cp.course_notes:
+        lines.append(f"\nCourse Notes:\n{cp.course_notes}")
+
+    return "\n".join(lines)
 
 
 def _build_weather_summary(weather: Dict) -> str:
