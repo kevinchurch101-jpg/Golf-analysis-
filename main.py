@@ -212,29 +212,76 @@ def pull_datagolf_data(state: Dict) -> Dict:
             state["event"]["distance_multiplier"]           = cp.distance_multiplier
             log.info(f"[Main] Course profile matched: {cp.name} | type={cp.course_type}")
     
-    # For Masters specifically — hardcode if we detect it from odds sport key
+    # Detect event from active odds sport key — do NOT hardcode any specific tournament
     if not state.get("event", {}).get("name"):
-        odds_state = state.get("odds", {})
-        # If odds pulled Masters data, set event accordingly
+        from data.odds import get_active_golf_sport_key
         from analysis.course import get_course_profile
-        state.setdefault("event", {}).update({
-            "name": "Masters Tournament",
-            "course": "Augusta National Golf Club",
-            "location": "Augusta, GA",
-            "dates": "April 10-13, 2026",
-            "par": 72,
-            "yardage": 7545,
-            "event_tier": "MAJOR",
-        })
-        cp = get_course_profile("augusta_national")
-        if cp:
-            state["event"]["course_type"]        = cp.course_type
-            state["event"]["rough_penalty"]      = cp.rough_penalty
-            state["event"]["distance_multiplier"]= cp.distance_multiplier
-            state["event"]["dominant_stat"]      = cp.dominant_stat
-            state["event"]["course_notes"]       = cp.course_notes
-            state["event"]["angle_penalty"]      = cp.angle_penalty
-        log.info("[Main] Event set to Masters Tournament (Augusta National)")
+
+        sport_key = get_active_golf_sport_key() or ""
+        log.info(f"[Main] Detecting event from odds sport key: {sport_key}")
+
+        SPORT_KEY_MAP = {
+            "golf_masters_tournament_winner": {
+                "name": "Masters Tournament",
+                "course": "Augusta National Golf Club",
+                "location": "Augusta, GA",
+                "par": 72, "yardage": 7545, "event_tier": "MAJOR",
+                "course_key": "augusta_national",
+            },
+            "golf_pga_championship": {
+                "name": "PGA Championship",
+                "course": "TBD", "location": "TBD",
+                "par": 72, "yardage": 7500, "event_tier": "MAJOR",
+                "course_key": None,
+            },
+            "golf_us_open": {
+                "name": "U.S. Open",
+                "course": "TBD", "location": "TBD",
+                "par": 70, "yardage": 7500, "event_tier": "MAJOR",
+                "course_key": None,
+            },
+            "golf_the_open_championship": {
+                "name": "The Open Championship",
+                "course": "TBD", "location": "TBD",
+                "par": 70, "yardage": 7300, "event_tier": "MAJOR",
+                "course_key": None,
+            },
+        }
+
+        event_info = SPORT_KEY_MAP.get(sport_key)
+        if event_info:
+            course_key = event_info.pop("course_key", None)
+            state.setdefault("event", {}).update(event_info)
+            if course_key:
+                cp = get_course_profile(course_key)
+                if cp:
+                    state["event"]["course_type"]         = cp.course_type
+                    state["event"]["rough_penalty"]       = cp.rough_penalty
+                    state["event"]["distance_multiplier"] = cp.distance_multiplier
+                    state["event"]["dominant_stat"]       = cp.dominant_stat
+                    state["event"]["course_notes"]        = cp.course_notes
+                    state["event"]["angle_penalty"]       = cp.angle_penalty
+            log.info(f"[Main] Event detected from sport key: {state['event']['name']}")
+        else:
+            # Regular PGA Tour event — get name from DG schedule or field data
+            # Try tour schedule endpoint
+            try:
+                from data.datagolf import get_tour_schedule
+                schedule = get_tour_schedule(tour="pga")
+                if schedule:
+                    from datetime import date
+                    today = date.today().isoformat()
+                    for event in schedule:
+                        start = event.get("date", "")
+                        end   = event.get("end_date", event.get("date", ""))
+                        if start <= today <= end:
+                            state.setdefault("event", {})["name"]   = event.get("event_name", "")
+                            state["event"]["course"]                 = event.get("course", "")
+                            state["event"]["location"]               = event.get("location", "")
+                            log.info(f"[Main] Event from DG schedule: {state['event']['name']}")
+                            break
+            except Exception as e:
+                log.warning(f"[Main] Could not get event from schedule: {e}")
 
     log.info(f"[Main] DataGolf: {len(state['field'])} field players, "
              f"{len(ratings)} skill ratings, {len(preds)} predictions.")
