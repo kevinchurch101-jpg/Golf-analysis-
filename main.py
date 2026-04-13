@@ -100,19 +100,33 @@ def is_final_run(run_type: str) -> bool:
 # ─────────────────────────────────────────────────────────────
 
 def load_state() -> Dict:
-    """Load state from GitHub repo. Fall back to empty state template."""
-    state = fetch_state_file()
-    if state:
-        log.info("[Main] Loaded existing state from GitHub.")
-        return state
+    """Load state from GitHub repo. Always merge with defaults so missing keys never crash."""
+    defaults = _default_state()
 
-    log.info("[Main] No existing state — loading empty template.")
-    try:
-        with open(config.STATE_FILE, "r") as f:
-            return json.load(f)
-    except FileNotFoundError:
-        log.warning("[Main] No local state file either — using minimal default.")
-        return _default_state()
+    raw = fetch_state_file()
+    if not raw:
+        log.info("[Main] No existing state — loading empty template.")
+        try:
+            with open(config.STATE_FILE, "r") as f:
+                raw = json.load(f)
+        except FileNotFoundError:
+            log.warning("[Main] No local state file — using minimal default.")
+            return defaults
+
+    # Deep-merge: defaults provide missing top-level keys and sub-keys
+    # so that a bare {} or partial state never causes KeyErrors downstream
+    def _merge(base: Dict, override: Dict) -> Dict:
+        result = dict(base)
+        for k, v in override.items():
+            if k in result and isinstance(result[k], dict) and isinstance(v, dict):
+                result[k] = _merge(result[k], v)
+            else:
+                result[k] = v
+        return result
+
+    state = _merge(defaults, raw)
+    log.info("[Main] State loaded and merged with defaults.")
+    return state
 
 
 def save_state(state: Dict) -> bool:
@@ -634,4 +648,4 @@ if __name__ == "__main__":
         sys.exit(0 if ok else 1)
 
     run_type = args.run_type or ("manual" if args.now else None)
-    run(run_type=run_type, force_full=args.full) 
+    run(run_type=run_type, force_full=args.full)
