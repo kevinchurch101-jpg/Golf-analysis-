@@ -634,4 +634,4 @@ if __name__ == "__main__":
         sys.exit(0 if ok else 1)
 
     run_type = args.run_type or ("manual" if args.now else None)
-    run(run_type=run_type, force_full=args.full)
+    run(run_type=run_type, force_full=args.full) 
