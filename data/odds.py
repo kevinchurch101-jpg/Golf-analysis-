@@ -124,7 +124,7 @@ def find_active_golf_event(event_name_hint: str = "") -> Dict:
 
             if event_name_hint:
                 score = _name_similarity(event_name_hint, desc)
-                log.debug(f"[Odds] {key} | '{desc}' vs '{event_name_hint}' → {score:.2f}")
+                log.info(f"[Odds] Scoring: key={key} | api='{desc}' | hint='{event_name_hint}' | score={score:.2f}")
                 if score > best_score:
                     best_score = score
                     best_match = {
@@ -133,8 +133,8 @@ def find_active_golf_event(event_name_hint: str = "") -> Dict:
                         "event_name": desc,
                         "score":      score,
                     }
-                # High confidence match — stop immediately, don't burn more credits
-                if score >= 0.6:
+                # Good enough match — stop early
+                if score >= 0.4:
                     log.info(f"[Odds] Event matched: '{desc}' (score={score:.2f}, key={key})")
                     return best_match
             else:
@@ -149,12 +149,27 @@ def find_active_golf_event(event_name_hint: str = "") -> Dict:
 
         _time.sleep(0.2)
 
+    # Return best match regardless of score threshold — any event is better than nothing
     if best_match:
-        log.info(f"[Odds] Best event match: '{best_match['event_name']}' "
+        log.info(f"[Odds] Using best available match: '{best_match['event_name']}' "
                  f"(score={best_match['score']:.2f}, key={best_match['sport_key']})")
         return best_match
 
-    log.warning("[Odds] No matching golf event found across all sport keys.")
+    # Last resort: try golf_pga_tour directly with no name filtering
+    log.warning("[Odds] Name matching failed \u2014 falling back to golf_pga_tour direct lookup.")
+    fallback_events = _get("sports/golf_pga_tour/events", {"dateFormat": "iso"})
+    if fallback_events and isinstance(fallback_events, list):
+        event = fallback_events[0]
+        desc = event.get("description") or event.get("name") or "Unknown"
+        log.info(f"[Odds] Fallback event: '{desc}'")
+        return {
+            "sport_key":  "golf_pga_tour",
+            "event_id":   event.get("id", ""),
+            "event_name": desc,
+            "score":      0.0,
+        }
+
+    log.warning("[Odds] No golf event found across all sport keys including fallback.")
     return {}
 
 
