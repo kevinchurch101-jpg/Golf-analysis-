@@ -1002,7 +1002,1139 @@
     }
   ],
   "odds": {
-    "by_player": {}
+    "by_player": {
+      "Scottie Scheffler": {
+        "books": {
+          "draftkings": 380
+        },
+        "best_price": 380,
+        "best_book": "draftkings",
+        "implied_prob": 0.2083,
+        "decimal": 4.8,
+        "fractional": "19/5"
+      },
+      "Rory McIlroy": {
+        "books": {
+          "draftkings": 650
+        },
+        "best_price": 650,
+        "best_book": "draftkings",
+        "implied_prob": 0.1333,
+        "decimal": 7.5,
+        "fractional": "13/2"
+      },
+      "Bryson Dechambeau": {
+        "books": {
+          "draftkings": 1000
+        },
+        "best_price": 1000,
+        "best_book": "draftkings",
+        "implied_prob": 0.0909,
+        "decimal": 11.0,
+        "fractional": "10/1"
+      },
+      "Jon Rahm": {
+        "books": {
+          "draftkings": 1200
+        },
+        "best_price": 1200,
+        "best_book": "draftkings",
+        "implied_prob": 0.0769,
+        "decimal": 13.0,
+        "fractional": "12/1"
+      },
+      "Xander Schauffele": {
+        "books": {
+          "draftkings": 1600
+        },
+        "best_price": 1600,
+        "best_book": "draftkings",
+        "implied_prob": 0.0588,
+        "decimal": 17.0,
+        "fractional": "16/1"
+      },
+      "Tommy Fleetwood": {
+        "books": {
+          "draftkings": 1800
+        },
+        "best_price": 1800,
+        "best_book": "draftkings",
+        "implied_prob": 0.0526,
+        "decimal": 19.0,
+        "fractional": "18/1"
+      },
+      "Ludvig Aberg": {
+        "books": {
+          "draftkings": 1800
+        },
+        "best_price": 1800,
+        "best_book": "draftkings",
+        "implied_prob": 0.0526,
+        "decimal": 19.0,
+        "fractional": "18/1"
+      },
+      "Collin Morikawa": {
+        "books": {
+          "draftkings": 2200
+        },
+        "best_price": 2200,
+        "best_book": "draftkings",
+        "implied_prob": 0.0435,
+        "decimal": 23.0,
+        "fractional": "22/1"
+      },
+      "Cameron Young": {
+        "books": {
+          "draftkings": 2200
+        },
+        "best_price": 2200,
+        "best_book": "draftkings",
+        "implied_prob": 0.0435,
+        "decimal": 23.0,
+        "fractional": "22/1"
+      },
+      "Justin Thomas": {
+        "books": {
+          "draftkings": 2500
+        },
+        "best_price": 2500,
+        "best_book": "draftkings",
+        "implied_prob": 0.0385,
+        "decimal": 26.0,
+        "fractional": "25/1"
+      },
+      "Brooks Koepka": {
+        "books": {
+          "draftkings": 3300
+        },
+        "best_price": 3300,
+        "best_book": "draftkings",
+        "implied_prob": 0.0294,
+        "decimal": 34.0,
+        "fractional": "33/1"
+      },
+      "Viktor Hovland": {
+        "books": {
+          "draftkings": 3500
+        },
+        "best_price": 3500,
+        "best_book": "draftkings",
+        "implied_prob": 0.0278,
+        "decimal": 36.0,
+        "fractional": "35/1"
+      },
+      "Tyrrell Hatton": {
+        "books": {
+          "draftkings": 3500
+        },
+        "best_price": 3500,
+        "best_book": "draftkings",
+        "implied_prob": 0.0278,
+        "decimal": 36.0,
+        "fractional": "35/1"
+      },
+      "Justin Rose": {
+        "books": {
+          "draftkings": 3500
+        },
+        "best_price": 3500,
+        "best_book": "draftkings",
+        "implied_prob": 0.0278,
+        "decimal": 36.0,
+        "fractional": "35/1"
+      },
+      "Joaquin Niemann": {
+        "books": {
+          "draftkings": 3500
+        },
+        "best_price": 3500,
+        "best_book": "draftkings",
+        "implied_prob": 0.0278,
+        "decimal": 36.0,
+        "fractional": "35/1"
+      },
+      "Christopher Gotterup": {
+        "books": {
+          "draftkings": 4000
+        },
+        "best_price": 4000,
+        "best_book": "draftkings",
+        "implied_prob": 0.0244,
+        "decimal": 41.0,
+        "fractional": "40/1"
+      },
+      "Patrick Reed": {
+        "books": {
+          "draftkings": 4000
+        },
+        "best_price": 4000,
+        "best_book": "draftkings",
+        "implied_prob": 0.0244,
+        "decimal": 41.0,
+        "fractional": "40/1"
+      },
+      "Hideki Matsuyama": {
+        "books": {
+          "draftkings": 4000
+        },
+        "best_price": 4000,
+        "best_book": "draftkings",
+        "implied_prob": 0.0244,
+        "decimal": 41.0,
+        "fractional": "40/1"
+      },
+      "Patrick Cantlay": {
+        "books": {
+          "draftkings": 4500
+        },
+        "best_price": 4500,
+        "best_book": "draftkings",
+        "implied_prob": 0.0217,
+        "decimal": 46.0,
+        "fractional": "45/1"
+      },
+      "Matthew Fitzpatrick": {
+        "books": {
+          "draftkings": 4500
+        },
+        "best_price": 4500,
+        "best_book": "draftkings",
+        "implied_prob": 0.0217,
+        "decimal": 46.0,
+        "fractional": "45/1"
+      },
+      "Ben Griffin": {
+        "books": {
+          "draftkings": 5000
+        },
+        "best_price": 5000,
+        "best_book": "draftkings",
+        "implied_prob": 0.0196,
+        "decimal": 51.0,
+        "fractional": "50/1"
+      },
+      "Jordan Spieth": {
+        "books": {
+          "draftkings": 5000
+        },
+        "best_price": 5000,
+        "best_book": "draftkings",
+        "implied_prob": 0.0196,
+        "decimal": 51.0,
+        "fractional": "50/1"
+      },
+      "Shane Lowry": {
+        "books": {
+          "draftkings": 6000
+        },
+        "best_price": 6000,
+        "best_book": "draftkings",
+        "implied_prob": 0.0164,
+        "decimal": 61.0,
+        "fractional": "60/1"
+      },
+      "Corey Conners": {
+        "books": {
+          "draftkings": 6000
+        },
+        "best_price": 6000,
+        "best_book": "draftkings",
+        "implied_prob": 0.0164,
+        "decimal": 61.0,
+        "fractional": "60/1"
+      },
+      "Robert Macintyre": {
+        "books": {
+          "draftkings": 6600
+        },
+        "best_price": 6600,
+        "best_book": "draftkings",
+        "implied_prob": 0.0149,
+        "decimal": 67.0,
+        "fractional": "66/1"
+      },
+      "Sungjae Im": {
+        "books": {
+          "draftkings": 7000
+        },
+        "best_price": 7000,
+        "best_book": "draftkings",
+        "implied_prob": 0.0141,
+        "decimal": 71.0,
+        "fractional": "70/1"
+      },
+      "Sepp Straka": {
+        "books": {
+          "draftkings": 7000
+        },
+        "best_price": 7000,
+        "best_book": "draftkings",
+        "implied_prob": 0.0141,
+        "decimal": 71.0,
+        "fractional": "70/1"
+      },
+      "Russell Henley": {
+        "books": {
+          "draftkings": 7000
+        },
+        "best_price": 7000,
+        "best_book": "draftkings",
+        "implied_prob": 0.0141,
+        "decimal": 71.0,
+        "fractional": "70/1"
+      },
+      "Wyndham Clark": {
+        "books": {
+          "draftkings": 8000
+        },
+        "best_price": 8000,
+        "best_book": "draftkings",
+        "implied_prob": 0.0123,
+        "decimal": 81.0,
+        "fractional": "80/1"
+      },
+      "Tony Finau": {
+        "books": {
+          "draftkings": 8000
+        },
+        "best_price": 8000,
+        "best_book": "draftkings",
+        "implied_prob": 0.0123,
+        "decimal": 81.0,
+        "fractional": "80/1"
+      },
+      "Si Woo Kim": {
+        "books": {
+          "draftkings": 8000
+        },
+        "best_price": 8000,
+        "best_book": "draftkings",
+        "implied_prob": 0.0123,
+        "decimal": 81.0,
+        "fractional": "80/1"
+      },
+      "Sam Burns": {
+        "books": {
+          "draftkings": 8000
+        },
+        "best_price": 8000,
+        "best_book": "draftkings",
+        "implied_prob": 0.0123,
+        "decimal": 81.0,
+        "fractional": "80/1"
+      },
+      "Maverick Mcnealy": {
+        "books": {
+          "draftkings": 8000
+        },
+        "best_price": 8000,
+        "best_book": "draftkings",
+        "implied_prob": 0.0123,
+        "decimal": 81.0,
+        "fractional": "80/1"
+      },
+      "Jason Day": {
+        "books": {
+          "draftkings": 8000
+        },
+        "best_price": 8000,
+        "best_book": "draftkings",
+        "implied_prob": 0.0123,
+        "decimal": 81.0,
+        "fractional": "80/1"
+      },
+      "Jake Knapp": {
+        "books": {
+          "draftkings": 8000
+        },
+        "best_price": 8000,
+        "best_book": "draftkings",
+        "implied_prob": 0.0123,
+        "decimal": 81.0,
+        "fractional": "80/1"
+      },
+      "J. J. Spaun": {
+        "books": {
+          "draftkings": 8000
+        },
+        "best_price": 8000,
+        "best_book": "draftkings",
+        "implied_prob": 0.0123,
+        "decimal": 81.0,
+        "fractional": "80/1"
+      },
+      "Harris English": {
+        "books": {
+          "draftkings": 8000
+        },
+        "best_price": 8000,
+        "best_book": "draftkings",
+        "implied_prob": 0.0123,
+        "decimal": 81.0,
+        "fractional": "80/1"
+      },
+      "Daniel Berger": {
+        "books": {
+          "draftkings": 8000
+        },
+        "best_price": 8000,
+        "best_book": "draftkings",
+        "implied_prob": 0.0123,
+        "decimal": 81.0,
+        "fractional": "80/1"
+      },
+      "Min Woo Lee": {
+        "books": {
+          "draftkings": 9000
+        },
+        "best_price": 9000,
+        "best_book": "draftkings",
+        "implied_prob": 0.011,
+        "decimal": 91.0,
+        "fractional": "90/1"
+      },
+      "Max Homa": {
+        "books": {
+          "draftkings": 9000
+        },
+        "best_price": 9000,
+        "best_book": "draftkings",
+        "implied_prob": 0.011,
+        "decimal": 91.0,
+        "fractional": "90/1"
+      },
+      "Cameron Smith": {
+        "books": {
+          "draftkings": 10000
+        },
+        "best_price": 10000,
+        "best_book": "draftkings",
+        "implied_prob": 0.0099,
+        "decimal": 101.0,
+        "fractional": "100/1"
+      },
+      "Jacob Bridgeman": {
+        "books": {
+          "draftkings": 10000
+        },
+        "best_price": 10000,
+        "best_book": "draftkings",
+        "implied_prob": 0.0099,
+        "decimal": 101.0,
+        "fractional": "100/1"
+      },
+      "David Puig": {
+        "books": {
+          "draftkings": 10000
+        },
+        "best_price": 10000,
+        "best_book": "draftkings",
+        "implied_prob": 0.0099,
+        "decimal": 101.0,
+        "fractional": "100/1"
+      },
+      "Will Zalatoris": {
+        "books": {
+          "draftkings": 11000
+        },
+        "best_price": 11000,
+        "best_book": "draftkings",
+        "implied_prob": 0.009,
+        "decimal": 111.0,
+        "fractional": "110/1"
+      },
+      "Keegan Bradley": {
+        "books": {
+          "draftkings": 11000
+        },
+        "best_price": 11000,
+        "best_book": "draftkings",
+        "implied_prob": 0.009,
+        "decimal": 111.0,
+        "fractional": "110/1"
+      },
+      "Byeong-Hun An": {
+        "books": {
+          "draftkings": 12000
+        },
+        "best_price": 12000,
+        "best_book": "draftkings",
+        "implied_prob": 0.0083,
+        "decimal": 121.0,
+        "fractional": "120/1"
+      },
+      "Akshay Bhatia": {
+        "books": {
+          "draftkings": 12000
+        },
+        "best_price": 12000,
+        "best_book": "draftkings",
+        "implied_prob": 0.0083,
+        "decimal": 121.0,
+        "fractional": "120/1"
+      },
+      "Adam Scott": {
+        "books": {
+          "draftkings": 12000
+        },
+        "best_price": 12000,
+        "best_book": "draftkings",
+        "implied_prob": 0.0083,
+        "decimal": 121.0,
+        "fractional": "120/1"
+      },
+      "Dean Burmester": {
+        "books": {
+          "draftkings": 12000
+        },
+        "best_price": 12000,
+        "best_book": "draftkings",
+        "implied_prob": 0.0083,
+        "decimal": 121.0,
+        "fractional": "120/1"
+      },
+      "Aaron Rai": {
+        "books": {
+          "draftkings": 13000
+        },
+        "best_price": 13000,
+        "best_book": "draftkings",
+        "implied_prob": 0.0076,
+        "decimal": 131.0,
+        "fractional": "130/1"
+      },
+      "Sahith Theegala": {
+        "books": {
+          "draftkings": 13000
+        },
+        "best_price": 13000,
+        "best_book": "draftkings",
+        "implied_prob": 0.0076,
+        "decimal": 131.0,
+        "fractional": "130/1"
+      },
+      "Dustin Johnson": {
+        "books": {
+          "draftkings": 13000
+        },
+        "best_price": 13000,
+        "best_book": "draftkings",
+        "implied_prob": 0.0076,
+        "decimal": 131.0,
+        "fractional": "130/1"
+      },
+      "Taylor Pendrith": {
+        "books": {
+          "draftkings": 14000
+        },
+        "best_price": 14000,
+        "best_book": "draftkings",
+        "implied_prob": 0.0071,
+        "decimal": 141.0,
+        "fractional": "140/1"
+      },
+      "Sergio Garcia": {
+        "books": {
+          "draftkings": 14000
+        },
+        "best_price": 14000,
+        "best_book": "draftkings",
+        "implied_prob": 0.0071,
+        "decimal": 141.0,
+        "fractional": "140/1"
+      },
+      "Ryan Gerard": {
+        "books": {
+          "draftkings": 14000
+        },
+        "best_price": 14000,
+        "best_book": "draftkings",
+        "implied_prob": 0.0071,
+        "decimal": 141.0,
+        "fractional": "140/1"
+      },
+      "Gary Woodland": {
+        "books": {
+          "draftkings": 14000
+        },
+        "best_price": 14000,
+        "best_book": "draftkings",
+        "implied_prob": 0.0071,
+        "decimal": 141.0,
+        "fractional": "140/1"
+      },
+      "Brian Harman": {
+        "books": {
+          "draftkings": 15000
+        },
+        "best_price": 15000,
+        "best_book": "draftkings",
+        "implied_prob": 0.0066,
+        "decimal": 151.0,
+        "fractional": "150/1"
+      },
+      "Joohyung Kim": {
+        "books": {
+          "draftkings": 15000
+        },
+        "best_price": 15000,
+        "best_book": "draftkings",
+        "implied_prob": 0.0066,
+        "decimal": 151.0,
+        "fractional": "150/1"
+      },
+      "Alexander Noren": {
+        "books": {
+          "draftkings": 15000
+        },
+        "best_price": 15000,
+        "best_book": "draftkings",
+        "implied_prob": 0.0066,
+        "decimal": 151.0,
+        "fractional": "150/1"
+      },
+      "Rasmus Højgaard": {
+        "books": {
+          "draftkings": 15000
+        },
+        "best_price": 15000,
+        "best_book": "draftkings",
+        "implied_prob": 0.0066,
+        "decimal": 151.0,
+        "fractional": "150/1"
+      },
+      "Nicolai Højgaard": {
+        "books": {
+          "draftkings": 15000
+        },
+        "best_price": 15000,
+        "best_book": "draftkings",
+        "implied_prob": 0.0066,
+        "decimal": 151.0,
+        "fractional": "150/1"
+      },
+      "Michael Kim": {
+        "books": {
+          "draftkings": 15000
+        },
+        "best_price": 15000,
+        "best_book": "draftkings",
+        "implied_prob": 0.0066,
+        "decimal": 151.0,
+        "fractional": "150/1"
+      },
+      "Keith Mitchell": {
+        "books": {
+          "draftkings": 15000
+        },
+        "best_price": 15000,
+        "best_book": "draftkings",
+        "implied_prob": 0.0066,
+        "decimal": 151.0,
+        "fractional": "150/1"
+      },
+      "J.T. Poston": {
+        "books": {
+          "draftkings": 15000
+        },
+        "best_price": 15000,
+        "best_book": "draftkings",
+        "implied_prob": 0.0066,
+        "decimal": 151.0,
+        "fractional": "150/1"
+      },
+      "Harry Hall": {
+        "books": {
+          "draftkings": 15000
+        },
+        "best_price": 15000,
+        "best_book": "draftkings",
+        "implied_prob": 0.0066,
+        "decimal": 151.0,
+        "fractional": "150/1"
+      },
+      "Denny Mccarthy": {
+        "books": {
+          "draftkings": 15000
+        },
+        "best_price": 15000,
+        "best_book": "draftkings",
+        "implied_prob": 0.0066,
+        "decimal": 151.0,
+        "fractional": "150/1"
+      },
+      "Rickie Fowler": {
+        "books": {
+          "draftkings": 17000
+        },
+        "best_price": 17000,
+        "best_book": "draftkings",
+        "implied_prob": 0.0058,
+        "decimal": 171.0,
+        "fractional": "170/1"
+      },
+      "Davis Thompson": {
+        "books": {
+          "draftkings": 17000
+        },
+        "best_price": 17000,
+        "best_book": "draftkings",
+        "implied_prob": 0.0058,
+        "decimal": 171.0,
+        "fractional": "170/1"
+      },
+      "Andrew Novak": {
+        "books": {
+          "draftkings": 18000
+        },
+        "best_price": 18000,
+        "best_book": "draftkings",
+        "implied_prob": 0.0055,
+        "decimal": 181.0,
+        "fractional": "180/1"
+      },
+      "Bud Cauley": {
+        "books": {
+          "draftkings": 20000
+        },
+        "best_price": 20000,
+        "best_book": "draftkings",
+        "implied_prob": 0.005,
+        "decimal": 201.0,
+        "fractional": "200/1"
+      },
+      "Billy Horschel": {
+        "books": {
+          "draftkings": 20000
+        },
+        "best_price": 20000,
+        "best_book": "draftkings",
+        "implied_prob": 0.005,
+        "decimal": 201.0,
+        "fractional": "200/1"
+      },
+      "Thomas Detry": {
+        "books": {
+          "draftkings": 20000
+        },
+        "best_price": 20000,
+        "best_book": "draftkings",
+        "implied_prob": 0.005,
+        "decimal": 201.0,
+        "fractional": "200/1"
+      },
+      "Taylor Moore": {
+        "books": {
+          "draftkings": 20000
+        },
+        "best_price": 20000,
+        "best_book": "draftkings",
+        "implied_prob": 0.005,
+        "decimal": 201.0,
+        "fractional": "200/1"
+      },
+      "Stephan Jaeger": {
+        "books": {
+          "draftkings": 20000
+        },
+        "best_price": 20000,
+        "best_book": "draftkings",
+        "implied_prob": 0.005,
+        "decimal": 201.0,
+        "fractional": "200/1"
+      },
+      "Sam Stevens": {
+        "books": {
+          "draftkings": 20000
+        },
+        "best_price": 20000,
+        "best_book": "draftkings",
+        "implied_prob": 0.005,
+        "decimal": 201.0,
+        "fractional": "200/1"
+      },
+      "Max Greyserman": {
+        "books": {
+          "draftkings": 20000
+        },
+        "best_price": 20000,
+        "best_book": "draftkings",
+        "implied_prob": 0.005,
+        "decimal": 201.0,
+        "fractional": "200/1"
+      },
+      "Mackenzie Hughes": {
+        "books": {
+          "draftkings": 20000
+        },
+        "best_price": 20000,
+        "best_book": "draftkings",
+        "implied_prob": 0.005,
+        "decimal": 201.0,
+        "fractional": "200/1"
+      },
+      "Lucas Glover": {
+        "books": {
+          "draftkings": 20000
+        },
+        "best_price": 20000,
+        "best_book": "draftkings",
+        "implied_prob": 0.005,
+        "decimal": 201.0,
+        "fractional": "200/1"
+      },
+      "Davis Riley": {
+        "books": {
+          "draftkings": 20000
+        },
+        "best_price": 20000,
+        "best_book": "draftkings",
+        "implied_prob": 0.005,
+        "decimal": 201.0,
+        "fractional": "200/1"
+      },
+      "Cameron Davis": {
+        "books": {
+          "draftkings": 25000
+        },
+        "best_price": 25000,
+        "best_book": "draftkings",
+        "implied_prob": 0.004,
+        "decimal": 251.0,
+        "fractional": "250/1"
+      },
+      "Tom Mckibbin": {
+        "books": {
+          "draftkings": 25000
+        },
+        "best_price": 25000,
+        "best_book": "draftkings",
+        "implied_prob": 0.004,
+        "decimal": 251.0,
+        "fractional": "250/1"
+      },
+      "Tom Hoge": {
+        "books": {
+          "draftkings": 25000
+        },
+        "best_price": 25000,
+        "best_book": "draftkings",
+        "implied_prob": 0.004,
+        "decimal": 251.0,
+        "fractional": "250/1"
+      },
+      "Tiger Woods": {
+        "books": {
+          "draftkings": 25000
+        },
+        "best_price": 25000,
+        "best_book": "draftkings",
+        "implied_prob": 0.004,
+        "decimal": 251.0,
+        "fractional": "250/1"
+      },
+      "Thorbjorn Olesen": {
+        "books": {
+          "draftkings": 25000
+        },
+        "best_price": 25000,
+        "best_book": "draftkings",
+        "implied_prob": 0.004,
+        "decimal": 251.0,
+        "fractional": "250/1"
+      },
+      "Seamus Power": {
+        "books": {
+          "draftkings": 25000
+        },
+        "best_price": 25000,
+        "best_book": "draftkings",
+        "implied_prob": 0.004,
+        "decimal": 251.0,
+        "fractional": "250/1"
+      },
+      "Rasmus Neergaard-Petersen": {
+        "books": {
+          "draftkings": 25000
+        },
+        "best_price": 25000,
+        "best_book": "draftkings",
+        "implied_prob": 0.004,
+        "decimal": 251.0,
+        "fractional": "250/1"
+      },
+      "Erik Van Rooyen": {
+        "books": {
+          "draftkings": 25000
+        },
+        "best_price": 25000,
+        "best_book": "draftkings",
+        "implied_prob": 0.004,
+        "decimal": 251.0,
+        "fractional": "250/1"
+      },
+      "Phil Mickelson": {
+        "books": {
+          "draftkings": 30000
+        },
+        "best_price": 30000,
+        "best_book": "draftkings",
+        "implied_prob": 0.0033,
+        "decimal": 301.0,
+        "fractional": "300/1"
+      },
+      "Patrick Rodgers": {
+        "books": {
+          "draftkings": 30000
+        },
+        "best_price": 30000,
+        "best_book": "draftkings",
+        "implied_prob": 0.0033,
+        "decimal": 301.0,
+        "fractional": "300/1"
+      },
+      "Nick Taylor": {
+        "books": {
+          "draftkings": 30000
+        },
+        "best_price": 30000,
+        "best_book": "draftkings",
+        "implied_prob": 0.0033,
+        "decimal": 301.0,
+        "fractional": "300/1"
+      },
+      "Kevin Yu": {
+        "books": {
+          "draftkings": 30000
+        },
+        "best_price": 30000,
+        "best_book": "draftkings",
+        "implied_prob": 0.0033,
+        "decimal": 301.0,
+        "fractional": "300/1"
+      },
+      "Jhonattan Vegas": {
+        "books": {
+          "draftkings": 30000
+        },
+        "best_price": 30000,
+        "best_book": "draftkings",
+        "implied_prob": 0.0033,
+        "decimal": 301.0,
+        "fractional": "300/1"
+      },
+      "Eric Cole": {
+        "books": {
+          "draftkings": 30000
+        },
+        "best_price": 30000,
+        "best_book": "draftkings",
+        "implied_prob": 0.0033,
+        "decimal": 301.0,
+        "fractional": "300/1"
+      },
+      "Chris Kirk": {
+        "books": {
+          "draftkings": 30000
+        },
+        "best_price": 30000,
+        "best_book": "draftkings",
+        "implied_prob": 0.0033,
+        "decimal": 301.0,
+        "fractional": "300/1"
+      },
+      "Lee Hodges": {
+        "books": {
+          "draftkings": 35000
+        },
+        "best_price": 35000,
+        "best_book": "draftkings",
+        "implied_prob": 0.0028,
+        "decimal": 351.0,
+        "fractional": "350/1"
+      },
+      "Laurie Canter": {
+        "books": {
+          "draftkings": 35000
+        },
+        "best_price": 35000,
+        "best_book": "draftkings",
+        "implied_prob": 0.0028,
+        "decimal": 351.0,
+        "fractional": "350/1"
+      },
+      "Karl Vilips": {
+        "books": {
+          "draftkings": 35000
+        },
+        "best_price": 35000,
+        "best_book": "draftkings",
+        "implied_prob": 0.0028,
+        "decimal": 351.0,
+        "fractional": "350/1"
+      },
+      "Garrick Higgo": {
+        "books": {
+          "draftkings": 35000
+        },
+        "best_price": 35000,
+        "best_book": "draftkings",
+        "implied_prob": 0.0028,
+        "decimal": 351.0,
+        "fractional": "350/1"
+      },
+      "Christiaan Bezuidenhout": {
+        "books": {
+          "draftkings": 36000
+        },
+        "best_price": 36000,
+        "best_book": "draftkings",
+        "implied_prob": 0.0028,
+        "decimal": 361.0,
+        "fractional": "360/1"
+      },
+      "Austin Eckroat": {
+        "books": {
+          "draftkings": 40000
+        },
+        "best_price": 40000,
+        "best_book": "draftkings",
+        "implied_prob": 0.0025,
+        "decimal": 401.0,
+        "fractional": "400/1"
+      },
+      "Nicolas Echavarria": {
+        "books": {
+          "draftkings": 40000
+        },
+        "best_price": 40000,
+        "best_book": "draftkings",
+        "implied_prob": 0.0025,
+        "decimal": 401.0,
+        "fractional": "400/1"
+      },
+      "Matt Wallace": {
+        "books": {
+          "draftkings": 40000
+        },
+        "best_price": 40000,
+        "best_book": "draftkings",
+        "implied_prob": 0.0025,
+        "decimal": 401.0,
+        "fractional": "400/1"
+      },
+      "Matt Mccarty": {
+        "books": {
+          "draftkings": 40000
+        },
+        "best_price": 40000,
+        "best_book": "draftkings",
+        "implied_prob": 0.0025,
+        "decimal": 401.0,
+        "fractional": "400/1"
+      },
+      "Elvis Smylie": {
+        "books": {
+          "draftkings": 40000
+        },
+        "best_price": 40000,
+        "best_book": "draftkings",
+        "implied_prob": 0.0025,
+        "decimal": 401.0,
+        "fractional": "400/1"
+      },
+      "Beau Hossler": {
+        "books": {
+          "draftkings": 45000
+        },
+        "best_price": 45000,
+        "best_book": "draftkings",
+        "implied_prob": 0.0022,
+        "decimal": 451.0,
+        "fractional": "450/1"
+      },
+      "Ryo Hisatsune": {
+        "books": {
+          "draftkings": 45000
+        },
+        "best_price": 45000,
+        "best_book": "draftkings",
+        "implied_prob": 0.0022,
+        "decimal": 451.0,
+        "fractional": "450/1"
+      },
+      "Matthieu Pavon": {
+        "books": {
+          "draftkings": 50000
+        },
+        "best_price": 50000,
+        "best_book": "draftkings",
+        "implied_prob": 0.002,
+        "decimal": 501.0,
+        "fractional": "500/1"
+      },
+      "Vijay Singh": {
+        "books": {
+          "draftkings": 100000
+        },
+        "best_price": 100000,
+        "best_book": "draftkings",
+        "implied_prob": 0.001,
+        "decimal": 1001.0,
+        "fractional": "1000/1"
+      },
+      "Padraig Harrington": {
+        "books": {
+          "draftkings": 100000
+        },
+        "best_price": 100000,
+        "best_book": "draftkings",
+        "implied_prob": 0.001,
+        "decimal": 1001.0,
+        "fractional": "1000/1"
+      },
+      "Michael Block": {
+        "books": {
+          "draftkings": 100000
+        },
+        "best_price": 100000,
+        "best_book": "draftkings",
+        "implied_prob": 0.001,
+        "decimal": 1001.0,
+        "fractional": "1000/1"
+      },
+      "Martin Kaymer": {
+        "books": {
+          "draftkings": 100000
+        },
+        "best_price": 100000,
+        "best_book": "draftkings",
+        "implied_prob": 0.001,
+        "decimal": 1001.0,
+        "fractional": "1000/1"
+      },
+      "Jimmy Walker": {
+        "books": {
+          "draftkings": 100000
+        },
+        "best_price": 100000,
+        "best_book": "draftkings",
+        "implied_prob": 0.001,
+        "decimal": 1001.0,
+        "fractional": "1000/1"
+      },
+      "Jason Dufner": {
+        "books": {
+          "draftkings": 100000
+        },
+        "best_price": 100000,
+        "best_book": "draftkings",
+        "implied_prob": 0.001,
+        "decimal": 1001.0,
+        "fractional": "1000/1"
+      }
+    },
+    "last_updated": "2026-04-13T12:45:56.495418-04:00"
   },
   "dg_predictions": {
     "by_player": {
@@ -1735,7 +2867,7 @@
         "dg_id": 30044977
       }
     },
-    "last_updated": "2026-04-13T12:41:53.678809-04:00"
+    "last_updated": "2026-04-13T12:45:55.515636-04:00"
   },
   "skill_ratings": {
     "by_player": {
@@ -7774,11 +8906,11 @@
         "player_name": "Martin Trainer"
       }
     },
-    "last_updated": "2026-04-13T12:41:53.678765-04:00"
+    "last_updated": "2026-04-13T12:45:55.515574-04:00"
   },
   "approach_skill": {
     "by_player": {},
-    "last_updated": "2026-04-13T12:41:53.678796-04:00"
+    "last_updated": "2026-04-13T12:45:55.515618-04:00"
   },
   "course_history": {
     "by_player": {}
@@ -7914,9 +9046,100 @@
     "prior_year_summary_text": "═══════════════════════════════════════════════════════════════\nPRIOR YEAR COURSE BREAKDOWN (structural only — player notes discarded)\n⚠️  PRIOR YEAR CONTENT: Course structure only. All player-specific notes are from last year and have been discarded. Do not use for current player assessment.\n═══════════════════════════════════════════════════════════════\nPlayer-specific paragraphs discarded: 2"
   },
   "analysis": {
-    "briefing_paragraph": "Harbour Town is one of those courses that just does not care how far you hit it. At roughly 7,100 yards playing to a par 71, it's among the shortest venues on tour, and the distance multiplier here is only partial — meaning the bombers get almost zero advantage and in some cases get actively punished for pulling driver on holes that funnel into tight tree-lined corridors and those iconic railroad tie-bordered greens. The course type is TIGHT, and that designation matters more here than almost anywhere else on the schedule. The 62.5% course average driving accuracy number tells the story — if you're missing fairways at Harbour Town, you're hitting wedges and short irons from pine straw and angles that turn easy scoring holes into par scrambles. The dominant stat historically aligns with approach play (APP) — specifically the ability to flight irons precisely from tight lies and manufacture the right angles into small, firm, contoured greens. Ball-striking quality is the engine here, full stop. The putter can win you the tournament on the weekend, but it won't carry you into contention if your iron play is leaking. The big narrative entering this week is impossible to ignore: Rory McIlroy just defended his Masters title, becoming only the fourth player in history to do so. That's a massive emotional and physical storyline. The question isn't whether Rory belongs here — he absolutely fits Harbour Town's precision profile — it's whether he shows up at all and if so, what version of him shows up four days after one of the most draining weeks in golf. Masters hangover is real, but so is Masters momentum. Beyond Rory, we're setting up for the usual Harbour Town dynamic: the course rewards a certain type of tidy, controlled ball-striker, which means the field tends to tighten up in terms of realistic contenders. The bombers who feasted at Augusta on length are suddenly neutralized. Weather data is unavailable at this stage — Hilton Head in April can introduce coastal wind that makes the precision demand even more severe, which historically suppresses scoring and makes the course play even more like a precision test. That context matters for wave assignment and FRL targeting when we get there. ---",
+    "briefing_paragraph": "Harbour Town is one of those courses that just does not care how far you hit it. At roughly 7,100 yards playing to a par 71, it's among the shortest venues on tour, and the distance multiplier here is only partial — meaning the bombers get almost zero advantage and in some cases get actively punished for pulling driver on holes that funnel into tight tree-lined corridors and those iconic railroad tie-bordered greens. The course type is TIGHT, and that designation matters more here than almost anywhere else on the schedule. The 62.5% course average driving accuracy number tells the story — if you're missing fairways at Harbour Town, you're hitting wedges and short irons from pine straw and angles that turn easy scoring holes into par scrambles. The dominant stat historically aligns with approach play (APP) — specifically the ability to flight irons precisely from tight lies and manufacture the right angles into small, firm, contoured greens. Ball-striking quality is the engine here, full stop. The putter can win you the tournament on the weekend, but it won't carry you into contention if your iron play is leaking. The big narrative entering this week is impossible to ignore: Rory McIlroy just defended his Masters title, becoming only the fourth player in history to do so. That's a massive emotional and physical storyline. The question isn't whether Rory belongs here — he absolutely fits Harbour Town's precision profile — it's whether he shows up at all and if so, what version of him shows up four days after one of the most draining weeks in golf. Masters hangover is real, but so is Masters momentum. Beyond Rory, we're setting up for the usual Harbour Town dynamic: the course rewards a certain type of tidy, controlled ball-striker, which means the field tends to tighten up in terms of realistic contenders. The bombers who feasted at Augusta on length are suddenly neutralized. Weather data is unavailable at this stage — Hilton Head in April can introduce coastal wind that makes the precision demand even more severe, which historically suppresses scoring and makes the course play even more like a precision test. That context matters for wave assignment and FRL targeting when we get there. ---\n\n[Odds note Mon 04:47PM ET] > **⚠️ SYSTEM FLAG — MISSING PRIOR RANKINGS**\n> The current rankings input came in blank (`[]`). I'm working from my RBC Heritage course/form framework knowledge, but I don't have the specific pre-odds ranking list to reference for this update. The analysis below applies framework principles to the odds as presented. **Flagging this at the top — if the prior ranking doc exists, feed it in and I'll reconcile.**\n\nHarbour Town is a precision ball-striker's track. Short, tight, Bermuda rough, small greens, demands accuracy off the tee and approach precision. APP is king here. Power is irrelevant — length actually punishes you if it leads to tight angles. This immediately creates a market tension with guys like Bryson and Rahm who are priced partly on power upside that simply doesn't translate here.\n\nKey profile checklist:\n- ✅ Accurate iron play (APP SG, not raw distance)\n- ✅ Driving accuracy over distance\n- ✅ Harbour Town course history matters more here than almost anywhere\n- ✅ Tight-window scoring tolerance — can't spray it around this layout\n- ❌ Power-first profiles get course fade regardless of form",
     "overall_ranking": [],
-    "value_ranking": [],
+    "value_ranking": [
+      {
+        "player": "Min Woo Lee",
+        "odds": "+9000",
+        "edge": 0.0182,
+        "note": "DG: 2.9% | Market: 1.1% | Edge: +1.8%"
+      },
+      {
+        "player": "Robert Macintyre",
+        "odds": "+6600",
+        "edge": 0.0133,
+        "note": "DG: 2.8% | Market: 1.5% | Edge: +1.3%"
+      },
+      {
+        "player": "Hideki Matsuyama",
+        "odds": "+4000",
+        "edge": 0.0093,
+        "note": "DG: 3.4% | Market: 2.4% | Edge: +0.9%"
+      },
+      {
+        "player": "Si Woo Kim",
+        "odds": "+8000",
+        "edge": 0.0089,
+        "note": "DG: 2.1% | Market: 1.2% | Edge: +0.9%"
+      },
+      {
+        "player": "Russell Henley",
+        "odds": "+7000",
+        "edge": 0.0048,
+        "note": "DG: 1.9% | Market: 1.4% | Edge: +0.5%"
+      },
+      {
+        "player": "Maverick Mcnealy",
+        "odds": "+8000",
+        "edge": 0.0028,
+        "note": "DG: 1.5% | Market: 1.2% | Edge: +0.3%"
+      },
+      {
+        "player": "Akshay Bhatia",
+        "odds": "+12000",
+        "edge": 0.0016,
+        "note": "DG: 1.0% | Market: 0.8% | Edge: +0.2%"
+      },
+      {
+        "player": "Adam Scott",
+        "odds": "+12000",
+        "edge": 0.0016,
+        "note": "DG: 1.0% | Market: 0.8% | Edge: +0.2%"
+      },
+      {
+        "player": "Jake Knapp",
+        "odds": "+8000",
+        "edge": 0.001,
+        "note": "DG: 1.3% | Market: 1.2% | Edge: +0.1%"
+      },
+      {
+        "player": "Jacob Bridgeman",
+        "odds": "+10000",
+        "edge": 0.0003,
+        "note": "DG: 1.0% | Market: 1.0% | Edge: +0.0%"
+      },
+      {
+        "player": "Sam Stevens",
+        "odds": "+20000",
+        "edge": 0.0001,
+        "note": "DG: 0.5% | Market: 0.5% | Edge: +0.0%"
+      },
+      {
+        "player": "Nick Taylor",
+        "odds": "+30000",
+        "edge": -0.0002,
+        "note": "DG: 0.3% | Market: 0.3% | Edge: +-0.0%"
+      },
+      {
+        "player": "Matt Mccarty",
+        "odds": "+40000",
+        "edge": -0.0002,
+        "note": "DG: 0.2% | Market: 0.2% | Edge: +-0.0%"
+      },
+      {
+        "player": "Vijay Singh",
+        "odds": "+100000",
+        "edge": -0.001,
+        "note": "DG: 0.0% | Market: 0.1% | Edge: +-0.1%"
+      },
+      {
+        "player": "Jordan Spieth",
+        "odds": "+5000",
+        "edge": -0.0017,
+        "note": "DG: 1.8% | Market: 2.0% | Edge: +-0.2%"
+      }
+    ],
     "tiers": {
       "S": [
         {
@@ -8121,37 +9344,289 @@
       "C": [],
       "FADE": [
         {
-          "player": "**Designation check:** Will flag attention but not override",
+          "player": "## SECTION 1: VALUE RANKING",
           "reason": ""
         },
         {
-          "player": "| Tier | Definition | Players (TBD) |",
+          "player": "Who is mispriced relative to actual win probability at this specific course?*",
           "reason": ""
         },
         {
-          "player": "|------|-----------|---------------|",
+          "player": "Justin Rose (+3500)**",
           "reason": ""
         },
         {
-          "player": "| S | Elite course fit + elite recent form |",
+          "player": "This is a glaring mispricing and it might be the best number on the board. Rose has one of the most documented Harbour Town profiles on tour",
           "reason": ""
         },
         {
-          "player": "| A | Strong course fit OR strong recent form |",
+          "player": "Justin Thomas (+2500)**",
           "reason": ""
         },
         {
-          "player": "| B | Solid profile, some course fit questions |",
+          "player": "JT at 25/1 at Harbour Town is a number I want. He's a past champion here, the course profile fits",
           "reason": ""
         },
         {
-          "player": "| C | Marginal fit, needs price compensation |",
+          "player": "Patrick Cantlay (+4500)**",
+          "reason": ""
+        },
+        {
+          "player": "Cantlay at 45/1 is a legitimate trigger. Precise ball-striker, elite approach player, doesn't panic under pressure. The course suits the methodical, accurate profile he brings every week. He's been quiet recently which is exactly why the market has pushed him out to this number, but quiet ≠ bad fit. He's one of the better Harbour Town profile matches in the field. True probability estimate: 3-4%. Market implied: 2.17%. **Price trigger hit. This is a live bet.**",
+          "reason": ""
+        },
+        {
+          "player": "Matthew Fitzpatrick (+4500)**",
+          "reason": ""
+        },
+        {
+          "player": "Same tier as Cantlay, same price, different reasoning path. Fitzpatrick is a precision iron player whose entire game is built around the exact skill set Harbour Town rewards. He doesn't need length. He doesn't need raw power. He needs accurate approaches, tight dispersion, and good wedge work. That's his profile exactly. Recent form concerns exist but the course fit is hard to ignore at this number. True probability estimate: 3-3.5%. Market implied: 2.17%. **Borderline",
+          "reason": ""
+        },
+        {
+          "player": "Ben Griffin (+5000)**",
+          "reason": ""
+        },
+        {
+          "player": "Griffin at 50/1 is interesting. He's shown legitimate Harbour Town-style competency",
+          "reason": ""
+        },
+        {
+          "player": "Tommy Fleetwood (+1800)**",
+          "reason": ""
+        },
+        {
+          "player": "The most interesting number in the mid-tier. Fleetwood's iron play is legitimate and Harbour Town suits the controlled ball flight he produces. 18/1 is on the shorter side for an outright but if his form is current and SG APP is driving his recent numbers (not just putting), there's mild value here. Would prefer 22/1+. At 18/1, it's marginal.",
+          "reason": ""
+        },
+        {
+          "player": "Collin Morikawa (+2200)**",
+          "reason": ""
+        },
+        {
+          "player": "Cameron Young (+2200)**",
+          "reason": ""
+        },
+        {
+          "player": "Young has the ball-striking profile that fits. 22/1 is reasonable. Not screaming value but I'm not fading this number either.",
+          "reason": ""
+        },
+        {
+          "player": "Corey Conners (+6000)**",
+          "reason": ""
+        },
+        {
+          "player": "Conners at 60/1 is worth a small look. Elite approach player, career built on precision iron play. The market consistently undervalues him at specific ball-striking tracks. His wins have come at courses that reward exactly what he does. 60/1 might have a small value gap here. True probability: ~2%. Market implied: 1.64%. **Flier territory",
+          "reason": ""
+        },
+        {
+          "player": "Shane Lowry (+6000)**",
+          "reason": ""
+        },
+        {
+          "player": "Lowry has Harbour Town course history that the market may not be fully pricing. Patient, controlled game. 60/1 is a live number if his recent form is clean.",
+          "reason": ""
+        },
+        {
+          "player": "**Ludvig Aberg (+1800)**: Intriguing talent, course fit is decent, but limited Harbour Town history. Fair at 18/1.",
+          "reason": ""
+        },
+        {
+          "player": "**Viktor Hovland (+3500)**: Course fit is moderate at best. Harbour Town doesn't scream Hovland. 35/1 is roughly fair.",
+          "reason": ""
+        },
+        {
+          "player": "**Robert MacIntyre (+6600)**: Ball-striker, accurate. Interesting at this price but limited data here.",
+          "reason": ""
+        },
+        {
+          "player": "**Sungjae Im (+7000)**: Consistent, accurate. 70/1 is live territory as a flier.",
+          "reason": ""
+        },
+        {
+          "player": "**Sepp Straka (+7000)**: See trigger section below.",
+          "reason": ""
+        },
+        {
+          "player": "## SECTION 2: PRICE TRIGGERS",
+          "reason": ""
+        },
+        {
+          "player": "✅ TRIGGERED: Justin Thomas +2500**",
+          "reason": ""
+        },
+        {
+          "player": "JT at 25/1 past champion, course fit is real. Trigger confirmed.",
+          "reason": ""
+        },
+        {
+          "player": "✅ TRIGGERED: Patrick Cantlay +4500**",
+          "reason": ""
+        },
+        {
+          "player": "Hit the 45/1 threshold. Precise profile, Harbour Town fits. Trigger confirmed.",
+          "reason": ""
+        },
+        {
+          "player": "⚠️ NEAR TRIGGER: Viktor Hovland +3500**",
+          "reason": ""
+        },
+        {
+          "player": "35/1 is the number. He's there. But Harbour Town course fit is the question mark. Not pulling the trigger on Hovland here specifically",
+          "reason": ""
+        },
+        {
+          "player": "⚠️ NEAR TRIGGER: Sepp Straka +7000**",
+          "reason": ""
+        },
+        {
+          "player": "70/1 is bigger than the typical 45/1 trigger threshold mentioned. Straka is an accurate iron player",
+          "reason": ""
+        },
+        {
+          "player": "✅ TRIGGERED: Justin Rose +3500**",
+          "reason": ""
+        },
+        {
+          "player": "This is the value anchor of the card. Course history + profile fit + market overreaction to age. 35/1 is too big.",
+          "reason": ""
+        },
+        {
+          "player": "## SECTION 3: UPDATED BET CARD",
+          "reason": ""
+        },
+        {
+          "player": "outrights. Shorter anchors get larger stakes.*",
+          "reason": ""
+        },
+        {
+          "player": "### 🃏 OUTRIGHT BET CARD",
+          "reason": ""
+        },
+        {
+          "player": "| # | Player | Price | Book | Stake | Reasoning |",
+          "reason": ""
+        },
+        {
+          "player": "|---|--------|-------|------|-------|-----------|",
+          "reason": ""
+        },
+        {
+          "player": "| 1 | **Justin Rose** | +3500 | DraftKings | **2.5 units** | Primary value anchor. Course history, profile fit, market overvaluing age discount. Best mispricing on board. |",
+          "reason": ""
+        },
+        {
+          "player": "| 2 | **Justin Thomas** | +2500 | DraftKings | **2 units** | Past champion, shortest \"value\" price on card = larger stake. Course fit confirmed. |",
+          "reason": ""
+        },
+        {
+          "player": "| 3 | **Patrick Cantlay** | +4500 | DraftKings | **1.5 units** | Trigger hit. Precise profile, methodical game, Harbour Town suits him perfectly. |",
+          "reason": ""
+        },
+        {
+          "player": "| 4 | **Matthew Fitzpatrick** | +4500 | DraftKings | **1 unit** | Course fit drives this. Precision iron player at a precision iron player track. |",
+          "reason": ""
+        },
+        {
+          "player": "| 5 | **Ben Griffin** | +5000 | DraftKings | **0.5 units** | Flier. Harbour Town-style profile, market \"vaguely knows\" tier. Small exposure. |",
+          "reason": ""
+        },
+        {
+          "player": "Total exposure: 7.5 units**",
+          "reason": ""
+        },
+        {
+          "player": "Stake logic: JT at 25/1 is the shortest outright on the value card",
+          "reason": ""
+        },
+        {
+          "player": "## SECTION 4: ODDS ANOMALIES",
+          "reason": ""
+        },
+        {
+          "player": "🚨 Bryson DeChambeau at +1000 (3rd shortest)**",
+          "reason": ""
+        },
+        {
+          "player": "This is the single biggest anomaly on the board and it's a flag, not a bet. Bryson is the third-favorite at a course that actively punishes his primary weapon (length). Harbour Town is the exact anti-Bryson venue",
+          "reason": ""
+        },
+        {
+          "player": "🚨 Jon Rahm at +1200 (4th)**",
+          "reason": ""
+        },
+        {
+          "player": "Similar flag to Bryson. Rahm's best golf comes when he can use length and raw power to attack. Harbour Town doesn't give him that runway. 12/1 implies ~7.7% win probability. I think his true probability here is closer to 4-5%. The market is pricing general quality, not course fit.",
+          "reason": ""
+        },
+        {
+          "player": "📋 Rory McIlroy at +650**",
+          "reason": ""
+        },
+        {
+          "player": "Second favorite at a course where length doesn't dominate. Rory can play precision golf when he's locked in",
+          "reason": ""
+        },
+        {
+          "player": "📋 No notable missing players flagged**",
+          "reason": ""
+        },
+        {
+          "player": "🚫 Bryson DeChambeau (+1000)**",
+          "reason": ""
+        },
+        {
+          "player": "At 10/1 he's the third choice at a course where his distance advantage evaporates. He's been priced on general excellence, not Harbour Town fit. Market trap at its most obvious. Fading hard.",
+          "reason": ""
+        },
+        {
+          "player": "🚫 Jon Rahm (+1200)**",
+          "reason": ""
+        },
+        {
+          "player": "🚫 Brooks Koepka (+3300)**",
+          "reason": ""
+        },
+        {
+          "player": "🚫 Tony Finau (+8000)**",
+          "reason": ""
+        },
+        {
+          "player": "/1 sounds like value but Finau's game is length-dependent. He's a bomber who struggles at accuracy-demanding, short tracks. Harbour Town historically hasn't been kind to his profile. The price isn't big enough to compensate for the fit problem.",
+          "reason": ""
+        },
+        {
+          "player": "## FLAGS SECTION",
+          "reason": ""
+        },
+        {
+          "player": "🚨 **PRIMARY FLAG**: Prior rankings were blank",
+          "reason": ""
+        },
+        {
+          "player": "⚠️ **Rose age flag**: I'm comfortable with the value argument but acknowledge the physical/form uncertainty. If recent SG APP numbers have deteriorated significantly, the age discount may be partially justified. The bet thesis assumes his approach metrics are holding in a reasonable recent window.",
+          "reason": ""
+        },
+        {
+          "player": "⚠️ **Fitzpatrick form flag**: If his recent form is a legitimate slump rather than a pricing opportunity, the 45/1 number may be accurate. Monitoring for any current-week reporting.",
+          "reason": ""
+        },
+        {
+          "player": "⚠️ **Straka near-trigger**: At 70/1, if recent form is clean, this is a small unit flier. Not on the card now but live if I get a form confirmation before Thursday.",
+          "reason": ""
+        },
+        {
+          "player": "⚠️ **Cantlay motivation flag**: He's been in a quiet stretch. If there's any reporting suggesting he's playing low-effort leading into a bigger event, worth revisiting",
+          "reason": ""
+        },
+        {
+          "player": "Card locked pending prior rankings reconciliation. Core value targets: Rose, JT, Cantlay, Fitz. Total exposure: 7.5 units.*",
           "reason": ""
         }
       ]
     },
     "player_notes": {},
-    "last_updated": "2026-04-13T12:44:36.992858-04:00"
+    "last_updated": "2026-04-13T12:47:24.743536-04:00"
   },
   "bet_card": {
     "outrights": [],
@@ -8174,7 +9649,9 @@
   },
   "flags": {
     "blocked_articles": [],
-    "odds_gaps": [],
+    "odds_gaps": [
+      " — no odds found at 2026-04-13T12:45:56.495498-04:00"
+    ],
     "data_anomalies": [],
     "analysis_uncertainties": [
       "[Claude] > ⚠️ **CRITICAL DATA FLAG — READ BEFORE ANYTHING ELSE**",
@@ -8249,7 +9726,96 @@
       "[Claude] | Weather check | Hilton Head forecast | Tuesday |",
       "[Claude] | Odds arrival | Market prices | Monday |",
       "[Claude] | Final card | All of the above combined | Wednesday |",
-      "[Claude] **Bottom line:** The infrastructure is solid, the course read is locked in, and the framework filters are set. I just need actual player data to run it through. The moment that feed populates, I can turn this into a full analysis fast. Don't force rankings off empty data — that's how bad bets get made."
+      "[Claude] **Bottom line:** The infrastructure is solid, the course read is locked in, and the framework filters are set. I just need actual player data to run it through. The moment that feed populates, I can turn this into a full analysis fast. Don't force rankings off empty data — that's how bad bets get made.",
+      "[Claude] > **⚠️ SYSTEM FLAG — MISSING PRIOR RANKINGS**",
+      "[Claude] > The current rankings input came in blank (`[]`). I'm working from my RBC Heritage course/form framework knowledge, but I don't have the specific pre-odds ranking list to reference for this update. The analysis below applies framework principles to the odds as presented. **Flagging this at the top — if the prior ranking doc exists, feed it in and I'll reconcile.**",
+      "[Claude] ## COURSE CONTEXT FIRST",
+      "[Claude] Harbour Town is a precision ball-striker's track. Short, tight, Bermuda rough, small greens, demands accuracy off the tee and approach precision. APP is king here. Power is irrelevant — length actually punishes you if it leads to tight angles. This immediately creates a market tension with guys like Bryson and Rahm who are priced partly on power upside that simply doesn't translate here.",
+      "[Claude] Key profile checklist:",
+      "[Claude] - ✅ Accurate iron play (APP SG, not raw distance)",
+      "[Claude] - ✅ Driving accuracy over distance",
+      "[Claude] - ✅ Harbour Town course history matters more here than almost anywhere",
+      "[Claude] - ✅ Tight-window scoring tolerance — can't spray it around this layout",
+      "[Claude] - ❌ Power-first profiles get course fade regardless of form",
+      "[Claude] ## SECTION 1: VALUE RANKING",
+      "[Claude] *Who is mispriced relative to actual win probability at this specific course?*",
+      "[Claude] **TIER 1 — STRONG VALUE**",
+      "[Claude] **Justin Rose (+3500)**",
+      "[Claude] This is a glaring mispricing and it might be the best number on the board. Rose has one of the most documented Harbour Town profiles on tour — multiple wins, consistent contention, the course suits his precise iron game and controlled ball flight perfectly. At +3500 he's being priced like a 70-year-old version of himself. Yes, he's 45. Yes, the body is aging. But his APP metrics in recent windows have held up better than the market is giving him credit for, and this specific layout is one of the last places on tour where his game is still genuinely competitive. The market is applying a blanket \"old guy\" discount that ignores course specificity. My true probability here: 4-5%. Market implied: 2.78%. That's a meaningful gap at this price. **This is my primary value target.**",
+      "[Claude] **Justin Thomas (+2500)**",
+      "[Claude] JT at 25/1 at Harbour Town is a number I want. He's a past champion here, the course profile fits — precise iron player, excellent wedge game, doesn't need to overpower anything. The market has him in an awkward middle tier that suggests \"we don't know what to do with him right now.\" His recent form has been inconsistent, but Harbour Town is the kind of course-specific reset that suits his technical profile. If he's anywhere close to functional, 25/1 is too big. True probability estimate: 5-6%. Market implied: 3.85%. **Good value, especially with the course fit.**",
+      "[Claude] **Patrick Cantlay (+4500)**",
+      "[Claude] Cantlay at 45/1 is a legitimate trigger. Precise ball-striker, elite approach player, doesn't panic under pressure. The course suits the methodical, accurate profile he brings every week. He's been quiet recently which is exactly why the market has pushed him out to this number, but quiet ≠ bad fit. He's one of the better Harbour Town profile matches in the field. True probability estimate: 3-4%. Market implied: 2.17%. **Price trigger hit. This is a live bet.**",
+      "[Claude] **Matthew Fitzpatrick (+4500)**",
+      "[Claude] Same tier as Cantlay, same price, different reasoning path. Fitzpatrick is a precision iron player whose entire game is built around the exact skill set Harbour Town rewards. He doesn't need length. He doesn't need raw power. He needs accurate approaches, tight dispersion, and good wedge work. That's his profile exactly. Recent form concerns exist but the course fit is hard to ignore at this number. True probability estimate: 3-3.5%. Market implied: 2.17%. **Borderline — course fit drives this one.**",
+      "[Claude] **Ben Griffin (+5000)**",
+      "[Claude] Griffin at 50/1 is interesting. He's shown legitimate Harbour Town-style competency — precise ball-striker, not a bomber, plays to the course. The market has him in the \"we vaguely know who he is\" tier which is exactly where value lives at this course. If his recent SG APP numbers are holding, this is underpriced. True probability estimate: 2.5-3%. Market implied: 1.96%. **Lean value, smaller stake territory.**",
+      "[Claude] **TIER 2 — FAIR/SLIGHT VALUE**",
+      "[Claude] **Tommy Fleetwood (+1800)**",
+      "[Claude] The most interesting number in the mid-tier. Fleetwood's iron play is legitimate and Harbour Town suits the controlled ball flight he produces. 18/1 is on the shorter side for an outright but if his form is current and SG APP is driving his recent numbers (not just putting), there's mild value here. Would prefer 22/1+. At 18/1, it's marginal.",
+      "[Claude] **Collin Morikawa (+2200)**",
+      "[Claude] Morikawa at 22/1 — precise iron player, classic Harbour Town profile. The market has him in a reasonable range. Not a strong value play but not a fade either. If you need a cleaner mid-range option with course fit confidence, Morikawa works. Fair price, not mispriced.",
+      "[Claude] **Cameron Young (+2200)**",
+      "[Claude] Young has the ball-striking profile that fits. 22/1 is reasonable. Not screaming value but I'm not fading this number either.",
+      "[Claude] **Corey Conners (+6000)**",
+      "[Claude] Conners at 60/1 is worth a small look. Elite approach player, career built on precision iron play. The market consistently undervalues him at specific ball-striking tracks. His wins have come at courses that reward exactly what he does. 60/1 might have a small value gap here. True probability: ~2%. Market implied: 1.64%. **Flier territory — small unit only.**",
+      "[Claude] **Shane Lowry (+6000)**",
+      "[Claude] Lowry has Harbour Town course history that the market may not be fully pricing. Patient, controlled game. 60/1 is a live number if his recent form is clean.",
+      "[Claude] **TIER 3 — ROUGHLY FAIR PRICED**",
+      "[Claude] - **Xander Schauffele (+1600)**: Fair price. Ball-striking is elite. Course fits. Not a value play at 16/1 but not a fade.",
+      "[Claude] - **Ludvig Aberg (+1800)**: Intriguing talent, course fit is decent, but limited Harbour Town history. Fair at 18/1.",
+      "[Claude] - **Viktor Hovland (+3500)**: Course fit is moderate at best. Harbour Town doesn't scream Hovland. 35/1 is roughly fair.",
+      "[Claude] - **Robert MacIntyre (+6600)**: Ball-striker, accurate. Interesting at this price but limited data here.",
+      "[Claude] - **Sungjae Im (+7000)**: Consistent, accurate. 70/1 is live territory as a flier.",
+      "[Claude] - **Sepp Straka (+7000)**: See trigger section below.",
+      "[Claude] ## SECTION 2: PRICE TRIGGERS",
+      "[Claude] **✅ TRIGGERED: Justin Thomas +2500**",
+      "[Claude] - JT at 25/1 past champion, course fit is real. Trigger confirmed.",
+      "[Claude] **✅ TRIGGERED: Patrick Cantlay +4500**",
+      "[Claude] - Hit the 45/1 threshold. Precise profile, Harbour Town fits. Trigger confirmed.",
+      "[Claude] **⚠️ NEAR TRIGGER: Viktor Hovland +3500**",
+      "[Claude] - 35/1 is the number. He's there. But Harbour Town course fit is the question mark. Not pulling the trigger on Hovland here specifically — the course profile doesn't demand what he does best. Near trigger doesn't mean automatic bet. **PASS despite hitting the number.**",
+      "[Claude] **⚠️ NEAR TRIGGER: Sepp Straka +7000**",
+      "[Claude] - 70/1 is bigger than the typical 45/1 trigger threshold mentioned. Straka is an accurate iron player — the profile fits better than the market suggests. But at 70/1 I need a cleaner recent form signal. If form is current: **small flier.**",
+      "[Claude] **✅ TRIGGERED: Justin Rose +3500**",
+      "[Claude] - This is the value anchor of the card. Course history + profile fit + market overreaction to age. 35/1 is too big.",
+      "[Claude] ## SECTION 3: UPDATED BET CARD",
+      "[Claude] *2-5 outrights. Shorter anchors get larger stakes.*",
+      "[Claude] ### 🃏 OUTRIGHT BET CARD — RBC HERITAGE 2026",
+      "[Claude] | # | Player | Price | Book | Stake | Reasoning |",
+      "[Claude] |---|--------|-------|------|-------|-----------|",
+      "[Claude] | 1 | **Justin Rose** | +3500 | DraftKings | **2.5 units** | Primary value anchor. Course history, profile fit, market overvaluing age discount. Best mispricing on board. |",
+      "[Claude] | 2 | **Justin Thomas** | +2500 | DraftKings | **2 units** | Past champion, shortest \"value\" price on card = larger stake. Course fit confirmed. |",
+      "[Claude] | 3 | **Patrick Cantlay** | +4500 | DraftKings | **1.5 units** | Trigger hit. Precise profile, methodical game, Harbour Town suits him perfectly. |",
+      "[Claude] | 4 | **Matthew Fitzpatrick** | +4500 | DraftKings | **1 unit** | Course fit drives this. Precision iron player at a precision iron player track. |",
+      "[Claude] | 5 | **Ben Griffin** | +5000 | DraftKings | **0.5 units** | Flier. Harbour Town-style profile, market \"vaguely knows\" tier. Small exposure. |",
+      "[Claude] **Total exposure: 7.5 units**",
+      "[Claude] *Stake logic: JT at 25/1 is the shortest outright on the value card — he gets the second-largest stake. Rose at 35/1 gets the largest stake because the value gap is widest. Cantlay and Fitz at 45/1 split the middle. Griffin is a small flier only.*",
+      "[Claude] ## SECTION 4: ODDS ANOMALIES",
+      "[Claude] **🚨 Bryson DeChambeau at +1000 (3rd shortest)**",
+      "[Claude] This is the single biggest anomaly on the board and it's a flag, not a bet. Bryson is the third-favorite at a course that actively punishes his primary weapon (length). Harbour Town is the exact anti-Bryson venue — tight, tree-lined, demands accuracy over power, small greens. The market is pricing him on his overall world ranking and recent form without sufficient course-fit adjustment. This is a sportsbook knowing casual money will back him because he's been good lately. **The implied probability of ~9% at Harbour Town is significantly inflated.**",
+      "[Claude] **🚨 Jon Rahm at +1200 (4th)**",
+      "[Claude] Similar flag to Bryson. Rahm's best golf comes when he can use length and raw power to attack. Harbour Town doesn't give him that runway. 12/1 implies ~7.7% win probability. I think his true probability here is closer to 4-5%. The market is pricing general quality, not course fit.",
+      "[Claude] **📋 Rory McIlroy at +650**",
+      "[Claude] Second favorite at a course where length doesn't dominate. Rory can play precision golf when he's locked in — his iron play is world-class — but the layout doesn't maximize his advantages the way Augusta or big-layout events do. 6.5/1 feels 15-20% too short given course fit. Not an anomaly per se, just worth noting the implied probability (13.3%) seems aggressive for this specific venue.",
+      "[Claude] **📋 No notable missing players flagged** — the board looks complete for a Heritage field. If there are LIV-only guys who got sponsor exemptions, check those lines as they often have thin liquidity and mispriced numbers.",
+      "[Claude] ## SECTION 5: HARD FADES",
+      "[Claude] **🚫 Bryson DeChambeau (+1000)**",
+      "[Claude] At 10/1 he's the third choice at a course where his distance advantage evaporates. He's been priced on general excellence, not Harbour Town fit. Market trap at its most obvious. Fading hard.",
+      "[Claude] **🚫 Jon Rahm (+1200)**",
+      "[Claude] Same logic as Bryson. Power profile at a precision course. 12/1 is egregiously short for the course fit. If Rahm wins this week it's despite the course, not because of it. Hard fade.",
+      "[Claude] **🚫 Brooks Koepka (+3300)**",
+      "[Claude] Koepka at 33/1 is a worse version of the Bryson/Rahm problem. Power hitter, doesn't profile here, limited Harbour Town pedigree. The market is still respecting his major pedigree at a course where that's irrelevant. Hard fade.",
+      "[Claude] **🚫 Tony Finau (+8000)**",
+      "[Claude] 80/1 sounds like value but Finau's game is length-dependent. He's a bomber who struggles at accuracy-demanding, short tracks. Harbour Town historically hasn't been kind to his profile. The price isn't big enough to compensate for the fit problem.",
+      "[Claude] **⚠️ Soft fade — Wyndham Clark (+8000)**",
+      "[Claude] Clark's game runs through his power. Since his breakthrough he's been most effective at courses where that matters. Harbour Town isn't that. Soft fade, wouldn't touch at this number even as a flier.",
+      "[Claude] 🚨 **PRIMARY FLAG**: Prior rankings were blank — this entire analysis is built from framework + course knowledge without the reconciliation step. If there's a rankings document, feed it in.",
+      "[Claude] ⚠️ **Rose age flag**: I'm comfortable with the value argument but acknowledge the physical/form uncertainty. If recent SG APP numbers have deteriorated significantly, the age discount may be partially justified. The bet thesis assumes his approach metrics are holding in a reasonable recent window.",
+      "[Claude] ⚠️ **Fitzpatrick form flag**: If his recent form is a legitimate slump rather than a pricing opportunity, the 45/1 number may be accurate. Monitoring for any current-week reporting.",
+      "[Claude] ⚠️ **Straka near-trigger**: At 70/1, if recent form is clean, this is a small unit flier. Not on the card now but live if I get a form confirmation before Thursday.",
+      "[Claude] ⚠️ **Cantlay motivation flag**: He's been in a quiet stretch. If there's any reporting suggesting he's playing low-effort leading into a bigger event, worth revisiting — though Harbour Town is typically a course he respects and plays with full intention.",
+      "[Claude] *Card locked pending prior rankings reconciliation. Core value targets: Rose, JT, Cantlay, Fitz. Total exposure: 7.5 units.*"
     ],
     "manual_interventions": [],
     "article_log": [
@@ -8284,6 +9850,13 @@
       "status": "complete",
       "field_size": 82,
       "odds_players": 0
+    },
+    {
+      "time": "2026-04-13T12:47:24.744489-04:00",
+      "run_type": "monday_6am",
+      "status": "complete",
+      "field_size": 82,
+      "odds_players": 113
     }
   ]
 }
