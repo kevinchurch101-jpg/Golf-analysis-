@@ -263,25 +263,70 @@ def pull_datagolf_data(state: Dict) -> Dict:
                     state["event"]["angle_penalty"]       = cp.angle_penalty
             log.info(f"[Main] Event detected from sport key: {state['event']['name']}")
         else:
-            # Regular PGA Tour event — get name from DG schedule or field data
-            # Try tour schedule endpoint
-            try:
-                from data.datagolf import get_tour_schedule
-                schedule = get_tour_schedule(tour="pga")
-                if schedule:
-                    from datetime import date
-                    today = date.today().isoformat()
-                    for event in schedule:
-                        start = event.get("date", "")
-                        end   = event.get("end_date", event.get("date", ""))
-                        if start <= today <= end:
-                            state.setdefault("event", {})["name"]   = event.get("event_name", "")
-                            state["event"]["course"]                 = event.get("course", "")
-                            state["event"]["location"]               = event.get("location", "")
-                            log.info(f"[Main] Event from DG schedule: {state['event']['name']}")
-                            break
-            except Exception as e:
-                log.warning(f"[Main] Could not get event from schedule: {e}")
+            # Regular PGA Tour event — detect from field data or DG schedule
+            event_detected = False
+
+            # Strategy A: field data often has event_name in each player entry
+            field = state.get("field", [])
+            for player in field[:5]:
+                ename = player.get("event_name") or player.get("tournament_name") or player.get("event")
+                cname = player.get("course_name") or player.get("course")
+                if ename and len(ename) > 3:
+                    state.setdefault("event", {})["name"]   = ename
+                    if cname:
+                        state["event"]["course"] = cname
+                    log.info(f"[Main] Event name from field data: {ename}")
+                    event_detected = True
+                    break
+
+            # Strategy B: DG schedule — match by date window
+            if not event_detected:
+                try:
+                    from data.datagolf import get_tour_schedule
+                    from datetime import date, timedelta
+                    schedule = get_tour_schedule(tour="pga")
+                    if schedule:
+                        today = date.today().isoformat()
+                        # Look 3 days back and 7 days forward to catch current week
+                        window_start = (date.today() - timedelta(days=3)).isoformat()
+                        window_end   = (date.today() + timedelta(days=7)).isoformat()
+                        for event in schedule:
+                            start = event.get("date", event.get("start_date", ""))
+                            end   = event.get("end_date", start)
+                            if not start:
+                                continue
+                            if start <= window_end and end >= window_start:
+                                ename = event.get("event_name") or event.get("name", "")
+                                cname = event.get("course") or event.get("course_name", "")
+                                loc   = event.get("location", "")
+                                if ename:
+                                    state.setdefault("event", {})["name"]   = ename
+                                    if cname: state["event"]["course"]       = cname
+                                    if loc:   state["event"]["location"]     = loc
+                                    log.info(f"[Main] Event from DG schedule: {ename}")
+                                    event_detected = True
+                                    break
+                except Exception as e:
+                    log.warning(f"[Main] Could not get event from DG schedule: {e}")
+
+            # Strategy C: field endpoint often has event_name at top level
+            if not event_detected:
+                try:
+                    from data.datagolf import get_field_updates
+                    raw_field = get_field_updates()
+                    if isinstance(raw_field, dict):
+                        ename = raw_field.get("event_name") or raw_field.get("tournament")
+                        cname = raw_field.get("course")
+                        if ename:
+                            state.setdefault("event", {})["name"] = ename
+                            if cname: state["event"]["course"] = cname
+                            log.info(f"[Main] Event from field endpoint: {ename}")
+                            event_detected = True
+                except Exception as e:
+                    log.warning(f"[Main] Could not get event from field endpoint: {e}")
+
+            if not event_detected:
+                log.warning("[Main] Could not detect current event name — showing as pending")
 
     log.info(f"[Main] DataGolf: {len(state['field'])} field players, "
              f"{len(ratings)} skill ratings, {len(preds)} predictions.")
