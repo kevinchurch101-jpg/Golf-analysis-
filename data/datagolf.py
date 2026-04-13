@@ -489,3 +489,125 @@ def get_player_r1_history(event_ids: List[str], tour: str = "pga") -> Dict[str, 
             "birdie_rate":         round(sum(birdies) / len(birdies), 2) if birdies else None,
         }
     return result
+
+
+# ──────────────────────────────────────────────────────────────
+# OUTRIGHT ODDS (replaces The Odds API for regular PGA events)
+# ──────────────────────────────────────────────────────────────
+
+def get_dg_outright_odds(
+    tour: str = "pga",
+    market: str = "winner",
+    odds_format: str = "american",
+) -> Dict[str, Dict]:
+    """
+    Pull outright odds from DataGolf's betting-tools endpoint.
+    Returns per-player dict matching the format previously used by odds.py:
+    {
+      "Scottie Scheffler": {
+        "draftkings": 350,
+        "bet365": 325,
+        "best_price": 350,
+        "best_book": "draftkings",
+        "implied_prob": 0.222,
+        "decimal": 4.5,
+        "fractional": "7/2",
+        "books": {"draftkings": 350, "bet365": 325},
+      },
+      ...
+    }
+    Always available for current PGA Tour event — no sport key matching needed.
+    """
+    url = f"{DG_BASE}/betting-tools/outrights"
+    data = _get(url, {
+        "tour":         tour,
+        "market":       market,
+        "odds_format":  odds_format,
+        "file_format":  "json",
+    }, label="DG outright odds")
+
+    if not data:
+        log.warning("[DG] Outright odds returned no data.")
+        return {}
+
+    # DataGolf returns: {"event_name": "...", "last_updated": "...", "odds": [...]}
+    # Each entry in odds: {"player_name": "...", "datagolf_baseline": X, "draftkings": X, "bet365": X, ...}
+    odds_list = data.get("odds", [])
+    if not odds_list:
+        log.warning("[DG] Outright odds list empty.")
+        return {}
+
+    # Books we care about — DataGolf includes many books, we want these two
+    PRIMARY_BOOKS = ["draftkings", "bet365"]
+
+    result: Dict[str, Dict] = {}
+
+    for entry in odds_list:
+        name = entry.get("player_name", "").strip()
+        if not name:
+            continue
+
+        books = {}
+        for book in PRIMARY_BOOKS:
+            val = entry.get(book)
+            if val is not None:
+                try:
+                    books[book] = int(val)
+                except (ValueError, TypeError):
+                    pass
+
+        # Also store datagolf baseline as a reference
+        dg_baseline = entry.get("datagolf_baseline")
+
+        if not books and dg_baseline is None:
+            continue
+
+        # Best price = highest American odds available
+        best_price = max(books.values()) if books else None
+        best_book  = max(books, key=books.get) if books else "datagolf"
+
+        # Fall back to DG baseline if no book odds available
+        if best_price is None and dg_baseline is not None:
+            try:
+                best_price = int(dg_baseline)
+                best_book  = "datagolf_baseline"
+                books["datagolf_baseline"] = best_price
+            except (ValueError, TypeError):
+                pass
+
+        if best_price is None:
+            continue
+
+        from math import gcd as _gcd
+        def _implied(american: int) -> float:
+            if american > 0:
+                return round(100 / (american + 100), 4)
+            return round(abs(american) / (abs(american) + 100), 4)
+
+        def _decimal(american: int) -> float:
+            if american > 0:
+                return round((american / 100) + 1, 3)
+            return round((100 / abs(american)) + 1, 3)
+
+        def _fractional(american: int) -> str:
+            if american > 0:
+                n, d = american, 100
+            else:
+                n, d = 100, abs(american)
+            g = _gcd(n, d)
+            return f"{n // g}/{d // g}"
+
+        result[name] = {
+            "books":        books,
+            "best_price":   best_price,
+            "best_book":    best_book,
+            "implied_prob": _implied(best_price),
+            "decimal":      _decimal(best_price),
+            "fractional":   _fractional(best_price),
+            "dg_baseline":  dg_baseline,
+        }
+
+    event_name = data.get("event_name", "unknown")
+    last_updated = data.get("last_updated", "unknown")
+    log.info(f"[DG] Outright odds: {len(result)} players | event='{event_name}' | updated={last_updated}")
+    return result
