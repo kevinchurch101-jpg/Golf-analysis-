@@ -60,55 +60,120 @@ def get_events(sport: str = ODDS_SPORT) -> List[Dict]:
     return data or []
 
 
-def get_active_golf_sport_key() -> Optional[str]:
+def _name_similarity(a: str, b: str) -> float:
     """
-    Query the /sports endpoint to find the currently active golf event key.
-    The Odds API uses event-specific keys like 'golf_masters_tournament_winner'.
-    Returns the sport key string or None.
+    Simple word-overlap similarity between two event name strings.
+    e.g. "RBC Heritage" vs "RBC Heritage Presented by Boeing" → high match.
+    Returns 0.0 to 1.0.
     """
+    import re as _re
+    # Strip common noise words
+    noise = {"the", "presented", "by", "sponsored", "at", "golf", "pga", "tour",
+             "championship", "open", "invitational", "classic", "tournament"}
+    def words(s):
+        return set(w.lower() for w in _re.findall(r"[a-z]+", s.lower()) if w not in noise)
+    wa, wb = words(a), words(b)
+    if not wa or not wb:
+        return 0.0
+    return len(wa & wb) / max(len(wa), len(wb))
+
+
+def find_active_golf_event(event_name_hint: str = "") -> Dict:
+    """
+    Core discovery function. Searches ALL golf sport keys for a matching
+    live event. Returns {"sport_key": str, "event_id": str, "event_name": str}
+    or empty dict if nothing found.
+
+    Strategy:
+    1. Get all golf sport keys from /sports (1 credit)
+    2. For each key, get events list (1 credit each)
+    3. If event_name_hint provided, score each event against it
+       and take the best match above threshold
+    4. If no hint, take the key with the soonest upcoming event
+    5. Stop as soon as a good match is found — don't burn credits
+    """
+    import time as _time
+
     sports = get_sports()
-    golf_sports = [
-        s for s in sports
-        if "golf" in s.get("key", "").lower() and s.get("active", False)
-    ]
+    golf_sports = [s for s in sports if "golf" in s.get("key", "").lower()]
+
     if not golf_sports:
-        # Try has_outrights as fallback
-        golf_sports = [s for s in sports if "golf" in s.get("key", "").lower()]
+        log.warning("[Odds] No golf sports in /sports endpoint.")
+        return {}
 
-    if golf_sports:
-        # Prefer the most specific active one
-        for key_fragment in ["masters", "pga_championship", "us_open", "the_open", "pga_tour"]:
-            for s in golf_sports:
-                if key_fragment in s.get("key", "").lower():
-                    log.info(f"[Odds] Active golf sport key: {s['key']}")
-                    return s["key"]
-        # Fallback to first golf sport found
-        log.info(f"[Odds] Using golf sport key: {golf_sports[0]['key']}")
-        return golf_sports[0]["key"]
+    # Sort: active keys first, then alphabetical so pga_tour comes before masters
+    active = sorted([s for s in golf_sports if s.get("active", False)],
+                    key=lambda s: s.get("key", ""))
+    inactive = sorted([s for s in golf_sports if not s.get("active", False)],
+                      key=lambda s: s.get("key", ""))
+    candidates = active + inactive
 
-    log.warning("[Odds] No active golf sport found.")
-    return None
+    best_match = {}
+    best_score = 0.0
+
+    for sport in candidates:
+        key = sport.get("key", "")
+        events = _get(f"sports/{key}/events", {"dateFormat": "iso"})
+        if not events or not isinstance(events, list):
+            _time.sleep(0.2)
+            continue
+
+        for event in events:
+            desc = (event.get("description") or event.get("name") or
+                    event.get("home_team") or "")
+
+            if event_name_hint:
+                score = _name_similarity(event_name_hint, desc)
+                log.debug(f"[Odds] {key} | '{desc}' vs '{event_name_hint}' → {score:.2f}")
+                if score > best_score:
+                    best_score = score
+                    best_match = {
+                        "sport_key":  key,
+                        "event_id":   event.get("id", ""),
+                        "event_name": desc,
+                        "score":      score,
+                    }
+                # High confidence match — stop immediately, don't burn more credits
+                if score >= 0.6:
+                    log.info(f"[Odds] Event matched: '{desc}' (score={score:.2f}, key={key})")
+                    return best_match
+            else:
+                # No hint — return first key that has any live/upcoming event
+                log.info(f"[Odds] Found live event: '{desc}' (key={key})")
+                return {
+                    "sport_key":  key,
+                    "event_id":   event.get("id", ""),
+                    "event_name": desc,
+                    "score":      1.0,
+                }
+
+        _time.sleep(0.2)
+
+    if best_match:
+        log.info(f"[Odds] Best event match: '{best_match['event_name']}' "
+                 f"(score={best_match['score']:.2f}, key={best_match['sport_key']})")
+        return best_match
+
+    log.warning("[Odds] No matching golf event found across all sport keys.")
+    return {}
 
 
-def get_active_tournament_id() -> Optional[str]:
-    """
-    Find the currently active or next PGA event ID.
-    Dynamically finds the correct sport key first.
-    Returns the event_id string needed for odds queries.
-    """
-    sport_key = get_active_golf_sport_key()
-    if not sport_key:
-        log.warning("[Odds] No active golf sport key found.")
-        return None
+def get_active_golf_sport_key(event_name_hint: str = "") -> Optional[str]:
+    """Returns sport key for the current active golf event."""
+    result = find_active_golf_event(event_name_hint)
+    key = result.get("sport_key")
+    if key:
+        log.info(f"[Odds] Active golf sport key: {key}")
+    return key
 
-    events = get_events(sport=sport_key)
-    if not events:
-        log.warning(f"[Odds] No events found for {sport_key}.")
-        return None
 
-    events_sorted = sorted(events, key=lambda e: e.get("commence_time", ""))
-    event_id = events_sorted[0].get("id")
-    log.info(f"[Odds] Active tournament: {events_sorted[0].get('description', event_id)}")
+def get_active_tournament_id(event_name_hint: str = "") -> Optional[str]:
+    """Returns event ID for the current active golf event."""
+    result = find_active_golf_event(event_name_hint)
+    event_id = result.get("event_id")
+    if event_id:
+        log.info(f"[Odds] Active tournament ID: {event_id} "
+                 f"({result.get('event_name', '')})")
     return event_id
 
 
@@ -124,21 +189,30 @@ def get_active_sport_key() -> Optional[str]:
 def get_outright_odds(
     event_id: Optional[str] = None,
     books: Optional[List[str]] = None,
+    event_name_hint: str = "",
 ) -> List[Dict]:
     """
     Pull outright (winner) odds for the active PGA event.
+    event_name_hint: current event name from DataGolf — used to match
+    against Odds API event descriptions so we always find the right event.
     Uses primary books: DraftKings + Bet365.
-    Returns raw API response list.
     """
     if books is None:
         books = ODDS_PRIMARY_BOOKS
 
-    sport_key = get_active_golf_sport_key() or ODDS_SPORT
+    # Use find_active_golf_event once — gets both sport_key and event_id together
+    # This avoids duplicate /sports and /events calls
     if event_id is None:
-        event_id = get_active_tournament_id()
-    if event_id is None:
-        log.warning("[Odds] No active tournament found.")
-        return []
+        discovery = find_active_golf_event(event_name_hint=event_name_hint)
+        if not discovery:
+            log.warning("[Odds] No active tournament found.")
+            return []
+        sport_key = discovery["sport_key"]
+        event_id  = discovery["event_id"]
+        log.info(f"[Odds] Pulling odds for: {discovery.get('event_name','?')} "
+                 f"(key={sport_key}, id={event_id})")
+    else:
+        sport_key = get_active_golf_sport_key(event_name_hint) or ODDS_SPORT
 
     data = _get(
         f"sports/{sport_key}/events/{event_id}/odds",
@@ -241,12 +315,16 @@ def parse_outright_odds(raw_books_data: List[Dict]) -> Dict[str, Dict]:
     return result
 
 
-def get_full_odds_snapshot(event_id: Optional[str] = None) -> Dict[str, Dict]:
+def get_full_odds_snapshot(
+    event_id: Optional[str] = None,
+    event_name_hint: str = "",
+) -> Dict[str, Dict]:
     """
     One-call convenience: pull and parse odds into clean per-player dict.
-    This is what the rest of the system calls.
+    event_name_hint is passed from main.py — the current event name from
+    DataGolf — so odds always match the right tournament.
     """
-    raw = get_outright_odds(event_id=event_id)
+    raw = get_outright_odds(event_id=event_id, event_name_hint=event_name_hint)
     if not raw:
         log.warning("[Odds] No raw odds data returned.")
         return {}
