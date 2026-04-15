@@ -24,8 +24,27 @@
       "owgr_rank": 17,
       "player_name": "Aberg, Ludvig",
       "player_num": 52955,
-      "pre_tourn_pageviews": 1870,
-      "teetimes": [],
+      "pre_tourn_pageviews": 2172,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-16 10:05",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-17 13:40",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "13"
     },
     {
@@ -36,8 +55,27 @@
       "owgr_rank": 40,
       "player_name": "Berger, Daniel",
       "player_num": 40026,
-      "pre_tourn_pageviews": 1343,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1553,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-16 11:20",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-17 07:35",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "28"
     },
     {
@@ -48,8 +86,27 @@
       "owgr_rank": 24,
       "player_name": "Bhatia, Akshay",
       "player_num": 56630,
-      "pre_tourn_pageviews": 1114,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1315,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-16 12:55",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-17 09:10",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "8"
     },
     {
@@ -60,8 +117,27 @@
       "owgr_rank": 115,
       "player_name": "Blanchet, Chandler",
       "player_num": 54788,
-      "pre_tourn_pageviews": 268,
-      "teetimes": [],
+      "pre_tourn_pageviews": 329,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-16 07:05",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-17 10:40",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "70"
     },
     {
@@ -72,8 +148,27 @@
       "owgr_rank": 26,
       "player_name": "Bradley, Keegan",
       "player_num": 33141,
-      "pre_tourn_pageviews": 722,
-      "teetimes": [],
+      "pre_tourn_pageviews": 845,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-16 12:35",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-17 08:50",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "110"
     },
     {
@@ -84,8 +179,27 @@
       "owgr_rank": 47,
       "player_name": "Brennan, Michael",
       "player_num": 61522,
-      "pre_tourn_pageviews": 434,
-      "teetimes": [],
+      "pre_tourn_pageviews": 540,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-16 08:05",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-17 11:40",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "111"
     },
     {
@@ -96,8 +210,27 @@
       "owgr_rank": 18,
       "player_name": "Bridgeman, Jacob",
       "player_num": 60004,
-      "pre_tourn_pageviews": 1514,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1803,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-16 09:35",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-17 13:05",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "3"
     },
     {
@@ -108,8 +241,27 @@
       "owgr_rank": 28,
       "player_name": "Burns, Sam",
       "player_num": 47504,
-      "pre_tourn_pageviews": 1181,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1386,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-16 13:40",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-17 09:55",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "24"
     },
     {
@@ -120,8 +272,27 @@
       "owgr_rank": 100,
       "player_name": "Campbell, Brian",
       "player_num": 46443,
-      "pre_tourn_pageviews": 719,
-      "teetimes": [],
+      "pre_tourn_pageviews": 821,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-16 07:15",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-17 10:50",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "138"
     },
     {
@@ -132,8 +303,27 @@
       "owgr_rank": 33,
       "player_name": "Cantlay, Patrick",
       "player_num": 35450,
-      "pre_tourn_pageviews": 2232,
-      "teetimes": [],
+      "pre_tourn_pageviews": 2629,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-16 13:05",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-17 09:20",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "41"
     },
     {
@@ -144,8 +334,27 @@
       "owgr_rank": 87,
       "player_name": "Castillo, Ricky",
       "player_num": 59440,
-      "pre_tourn_pageviews": 339,
-      "teetimes": [],
+      "pre_tourn_pageviews": 407,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-16 12:25",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-17 08:40",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "33"
     },
     {
@@ -156,8 +365,27 @@
       "owgr_rank": 76,
       "player_name": "Cauley, Bud",
       "player_num": 34021,
-      "pre_tourn_pageviews": 477,
-      "teetimes": [],
+      "pre_tourn_pageviews": 566,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-16 12:15",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-17 08:30",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "84"
     },
     {
@@ -168,8 +396,27 @@
       "owgr_rank": 71,
       "player_name": "Clark, Wyndham",
       "player_num": 51766,
-      "pre_tourn_pageviews": 798,
-      "teetimes": [],
+      "pre_tourn_pageviews": 960,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-16 12:05",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-17 08:20",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "82"
     },
     {
@@ -180,8 +427,27 @@
       "owgr_rank": 43,
       "player_name": "Conners, Corey",
       "player_num": 39997,
-      "pre_tourn_pageviews": 1013,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1193,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-16 13:05",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-17 09:20",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "67"
     },
     {
@@ -192,8 +458,27 @@
       "owgr_rank": 55,
       "player_name": "Coody, Pierceson",
       "player_num": 59836,
-      "pre_tourn_pageviews": 327,
-      "teetimes": [],
+      "pre_tourn_pageviews": 393,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-16 10:50",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-17 07:05",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "35"
     },
     {
@@ -204,8 +489,27 @@
       "owgr_rank": 39,
       "player_name": "Day, Jason",
       "player_num": 28089,
-      "pre_tourn_pageviews": 908,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1110,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-16 14:00",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-17 10:15",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "37"
     },
     {
@@ -216,8 +520,27 @@
       "owgr_rank": 42,
       "player_name": "Echavarria, Nico",
       "player_num": 51349,
-      "pre_tourn_pageviews": 371,
-      "teetimes": [],
+      "pre_tourn_pageviews": 436,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-16 12:55",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-17 09:10",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "21"
     },
     {
@@ -228,8 +551,27 @@
       "owgr_rank": 21,
       "player_name": "English, Harris",
       "player_num": 34099,
-      "pre_tourn_pageviews": 664,
-      "teetimes": [],
+      "pre_tourn_pageviews": 792,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-16 09:00",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-17 12:35",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "55"
     },
     {
@@ -240,8 +582,27 @@
       "owgr_rank": 110,
       "player_name": "Finau, Tony",
       "player_num": 29725,
-      "pre_tourn_pageviews": 538,
-      "teetimes": [],
+      "pre_tourn_pageviews": 638,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-16 08:50",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-17 12:25",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "68"
     },
     {
@@ -252,8 +613,27 @@
       "owgr_rank": 142,
       "player_name": "Fisk, Steven",
       "player_num": 57123,
-      "pre_tourn_pageviews": 192,
-      "teetimes": [],
+      "pre_tourn_pageviews": 232,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-16 07:45",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-17 11:20",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "141"
     },
     {
@@ -264,8 +644,27 @@
       "owgr_rank": 7,
       "player_name": "Fitzpatrick, Matt",
       "player_num": 40098,
-      "pre_tourn_pageviews": 2146,
-      "teetimes": [],
+      "pre_tourn_pageviews": 2561,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-16 13:50",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-17 10:05",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "5"
     },
     {
@@ -276,8 +675,27 @@
       "owgr_rank": 5,
       "player_name": "Fleetwood, Tommy",
       "player_num": 30911,
-      "pre_tourn_pageviews": 1921,
-      "teetimes": [],
+      "pre_tourn_pageviews": 2274,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-16 13:40",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-17 09:55",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "14"
     },
     {
@@ -288,8 +706,27 @@
       "owgr_rank": 63,
       "player_name": "Fowler, Rickie",
       "player_num": 32102,
-      "pre_tourn_pageviews": 752,
-      "teetimes": [],
+      "pre_tourn_pageviews": 885,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-16 11:40",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-17 07:55",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "45"
     },
     {
@@ -300,8 +737,27 @@
       "owgr_rank": 54,
       "player_name": "Fox, Ryan",
       "player_num": 29936,
-      "pre_tourn_pageviews": 352,
-      "teetimes": [],
+      "pre_tourn_pageviews": 419,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-16 11:00",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-17 07:15",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "54"
     },
     {
@@ -312,8 +768,27 @@
       "owgr_rank": 32,
       "player_name": "Gerard, Ryan",
       "player_num": 59018,
-      "pre_tourn_pageviews": 884,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1044,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-16 08:50",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-17 12:25",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "20"
     },
     {
@@ -324,8 +799,27 @@
       "owgr_rank": 95,
       "player_name": "Glover, Lucas",
       "player_num": 25900,
-      "pre_tourn_pageviews": 366,
-      "teetimes": [],
+      "pre_tourn_pageviews": 436,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-16 07:55",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-17 11:30",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "147"
     },
     {
@@ -336,8 +830,27 @@
       "owgr_rank": 11,
       "player_name": "Gotterup, Chris",
       "player_num": 59095,
-      "pre_tourn_pageviews": 1132,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1341,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-16 09:55",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-17 13:30",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "6"
     },
     {
@@ -348,8 +861,27 @@
       "owgr_rank": 16,
       "player_name": "Griffin, Ben",
       "player_num": 54591,
-      "pre_tourn_pageviews": 796,
-      "teetimes": [],
+      "pre_tourn_pageviews": 933,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-16 09:10",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-17 12:45",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "72"
     },
     {
@@ -360,8 +892,27 @@
       "owgr_rank": 61,
       "player_name": "Hall, Harry",
       "player_num": 57975,
-      "pre_tourn_pageviews": 510,
-      "teetimes": [],
+      "pre_tourn_pageviews": 609,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-16 12:25",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-17 08:40",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "46"
     },
     {
@@ -372,8 +923,27 @@
       "owgr_rank": 50,
       "player_name": "Harman, Brian",
       "player_num": 27644,
-      "pre_tourn_pageviews": 1635,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1948,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-16 09:20",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-17 12:55",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "58"
     },
     {
@@ -384,8 +954,27 @@
       "owgr_rank": 6,
       "player_name": "Henley, Russell",
       "player_num": 34098,
-      "pre_tourn_pageviews": 2761,
-      "teetimes": [],
+      "pre_tourn_pageviews": 3133,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-16 13:30",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-17 09:45",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "15"
     },
     {
@@ -396,8 +985,27 @@
       "owgr_rank": 85,
       "player_name": "Higgo, Garrick",
       "player_num": 54421,
-      "pre_tourn_pageviews": 175,
-      "teetimes": [],
+      "pre_tourn_pageviews": 206,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-16 11:20",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-17 07:35",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "165"
     },
     {
@@ -408,8 +1016,27 @@
       "owgr_rank": 144,
       "player_name": "Highsmith, Joe",
       "player_num": 60067,
-      "pre_tourn_pageviews": 209,
-      "teetimes": [],
+      "pre_tourn_pageviews": 251,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-16 07:15",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-17 10:50",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "151"
     },
     {
@@ -420,8 +1047,27 @@
       "owgr_rank": 56,
       "player_name": "Hisatsune, Ryo",
       "player_num": 51287,
-      "pre_tourn_pageviews": 1149,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1371,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-16 08:05",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-17 11:40",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "22"
     },
     {
@@ -432,8 +1078,27 @@
       "owgr_rank": 111,
       "player_name": "Hoge, Tom",
       "player_num": 35532,
-      "pre_tourn_pageviews": 502,
-      "teetimes": [],
+      "pre_tourn_pageviews": 615,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-16 08:20",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-17 11:50",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "81"
     },
     {
@@ -444,8 +1109,27 @@
       "owgr_rank": 38,
       "player_name": "Hojgaard, Nicolai",
       "player_num": 52453,
-      "pre_tourn_pageviews": 544,
-      "teetimes": [],
+      "pre_tourn_pageviews": 648,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-16 11:50",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-17 08:05",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "23"
     },
     {
@@ -456,8 +1140,27 @@
       "owgr_rank": 117,
       "player_name": "Homa, Max",
       "player_num": 39977,
-      "pre_tourn_pageviews": 1412,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1599,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-16 14:10",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-17 10:25",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "50"
     },
     {
@@ -468,8 +1171,27 @@
       "owgr_rank": 97,
       "player_name": "Horschel, Billy",
       "player_num": 29420,
-      "pre_tourn_pageviews": 381,
-      "teetimes": [],
+      "pre_tourn_pageviews": 446,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-16 10:25",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-17 14:00",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "92"
     },
     {
@@ -480,8 +1202,27 @@
       "owgr_rank": 22,
       "player_name": "Hovland, Viktor",
       "player_num": 46717,
-      "pre_tourn_pageviews": 1724,
-      "teetimes": [],
+      "pre_tourn_pageviews": 2012,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-16 09:55",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-17 13:30",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "48"
     },
     {
@@ -492,8 +1233,27 @@
       "owgr_rank": 72,
       "player_name": "Im, Sungjae",
       "player_num": 39971,
-      "pre_tourn_pageviews": 1105,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1337,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-16 09:20",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-17 12:55",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "100"
     },
     {
@@ -504,8 +1264,27 @@
       "owgr_rank": 66,
       "player_name": "Keefer, Johnny",
       "player_num": 63454,
-      "pre_tourn_pageviews": 280,
-      "teetimes": [],
+      "pre_tourn_pageviews": 320,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-16 10:35",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-17 14:10",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "69"
     },
     {
@@ -516,8 +1295,27 @@
       "owgr_rank": 44,
       "player_name": "Kim, Michael",
       "player_num": 39975,
-      "pre_tourn_pageviews": 438,
-      "teetimes": [],
+      "pre_tourn_pageviews": 515,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-16 11:00",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-17 07:15",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "49"
     },
     {
@@ -528,8 +1326,27 @@
       "owgr_rank": 30,
       "player_name": "Kim, Si Woo",
       "player_num": 37455,
-      "pre_tourn_pageviews": 1388,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1651,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-16 12:35",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-17 08:50",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "19"
     },
     {
@@ -540,8 +1357,27 @@
       "owgr_rank": 35,
       "player_name": "Kitayama, Kurt",
       "player_num": 48117,
-      "pre_tourn_pageviews": 445,
-      "teetimes": [],
+      "pre_tourn_pageviews": 531,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-16 11:40",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-17 07:55",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "31"
     },
     {
@@ -552,8 +1388,27 @@
       "owgr_rank": 36,
       "player_name": "Knapp, Jake",
       "player_num": 47420,
-      "pre_tourn_pageviews": 1535,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1778,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-16 14:00",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-17 10:15",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "11"
     },
     {
@@ -564,8 +1419,27 @@
       "owgr_rank": 27,
       "player_name": "Lee, Min Woo",
       "player_num": 37378,
-      "pre_tourn_pageviews": 888,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1092,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-16 08:30",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-17 12:05",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "9"
     },
     {
@@ -576,8 +1450,27 @@
       "owgr_rank": 88,
       "player_name": "Lipsky, David",
       "player_num": 36326,
-      "pre_tourn_pageviews": 438,
-      "teetimes": [],
+      "pre_tourn_pageviews": 536,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-16 07:05",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-17 10:40",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "42"
     },
     {
@@ -588,8 +1481,27 @@
       "owgr_rank": 34,
       "player_name": "Lowry, Shane",
       "player_num": 33204,
-      "pre_tourn_pageviews": 1257,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1511,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-16 13:20",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-17 09:35",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "36"
     },
     {
@@ -600,8 +1512,27 @@
       "owgr_rank": 12,
       "player_name": "MacIntyre, Robert",
       "player_num": 52215,
-      "pre_tourn_pageviews": 905,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1058,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-16 09:10",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-17 12:45",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "17"
     },
     {
@@ -612,8 +1543,27 @@
       "owgr_rank": 93,
       "player_name": "McCarthy, Denny",
       "player_num": 47993,
-      "pre_tourn_pageviews": 551,
-      "teetimes": [],
+      "pre_tourn_pageviews": 652,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-16 07:35",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-17 11:10",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "97"
     },
     {
@@ -624,8 +1574,27 @@
       "owgr_rank": 48,
       "player_name": "McCarty, Matt",
       "player_num": 59141,
-      "pre_tourn_pageviews": 523,
-      "teetimes": [],
+      "pre_tourn_pageviews": 624,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-16 08:40",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-17 12:15",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "44"
     },
     {
@@ -636,8 +1605,27 @@
       "owgr_rank": 29,
       "player_name": "McNealy, Maverick",
       "player_num": 46442,
-      "pre_tourn_pageviews": 1474,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1699,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-16 12:45",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-17 09:00",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "38"
     },
     {
@@ -648,8 +1636,27 @@
       "owgr_rank": 8,
       "player_name": "Morikawa, Collin",
       "player_num": 50525,
-      "pre_tourn_pageviews": 1347,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1560,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-16 13:20",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-17 09:35",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "4"
     },
     {
@@ -660,8 +1667,27 @@
       "owgr_rank": 122,
       "player_name": "Mouw, William",
       "player_num": 63121,
-      "pre_tourn_pageviews": 256,
-      "teetimes": [],
+      "pre_tourn_pageviews": 302,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-16 11:10",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-17 07:25",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "94"
     },
     {
@@ -672,8 +1698,27 @@
       "owgr_rank": 19,
       "player_name": "Noren, Alex",
       "player_num": 27349,
-      "pre_tourn_pageviews": 950,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1135,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-16 11:50",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-17 08:05",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "60"
     },
     {
@@ -684,8 +1729,27 @@
       "owgr_rank": 53,
       "player_name": "Novak, Andrew",
       "player_num": 51997,
-      "pre_tourn_pageviews": 792,
-      "teetimes": [],
+      "pre_tourn_pageviews": 923,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-16 12:45",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-17 09:00",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "73"
     },
     {
@@ -696,8 +1760,27 @@
       "owgr_rank": 77,
       "player_name": "Pendrith, Taylor",
       "player_num": 40250,
-      "pre_tourn_pageviews": 235,
-      "teetimes": [],
+      "pre_tourn_pageviews": 301,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-16 08:30",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-17 12:05",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "88"
     },
     {
@@ -708,8 +1791,27 @@
       "owgr_rank": 37,
       "player_name": "Penge, Marco",
       "player_num": 51003,
-      "pre_tourn_pageviews": 376,
-      "teetimes": [],
+      "pre_tourn_pageviews": 461,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-16 10:35",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-17 14:10",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "62"
     },
     {
@@ -720,8 +1822,27 @@
       "owgr_rank": 79,
       "player_name": "Poston, J.T.",
       "player_num": 49771,
-      "pre_tourn_pageviews": 1068,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1258,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-16 07:45",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-17 11:20",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "115"
     },
     {
@@ -732,8 +1853,27 @@
       "owgr_rank": 81,
       "player_name": "Potgieter, Aldrich",
       "player_num": 63343,
-      "pre_tourn_pageviews": 253,
-      "teetimes": [],
+      "pre_tourn_pageviews": 288,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-16 12:05",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-17 08:20",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "47"
     },
     {
@@ -744,8 +1884,27 @@
       "owgr_rank": 92,
       "player_name": "Putnam, Andrew",
       "player_num": 34256,
-      "pre_tourn_pageviews": 937,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1109,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-16 11:10",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-17 07:25",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "43"
     },
     {
@@ -756,8 +1915,27 @@
       "owgr_rank": 74,
       "player_name": "Rodgers, Patrick",
       "player_num": 36699,
-      "pre_tourn_pageviews": 305,
-      "teetimes": [],
+      "pre_tourn_pageviews": 392,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-16 07:55",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-17 11:30",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "34"
     },
     {
@@ -768,8 +1946,27 @@
       "owgr_rank": 9,
       "player_name": "Schauffele, Xander",
       "player_num": 48081,
-      "pre_tourn_pageviews": 2041,
-      "teetimes": [],
+      "pre_tourn_pageviews": 2399,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-16 13:30",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-17 09:45",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "10"
     },
     {
@@ -780,8 +1977,27 @@
       "owgr_rank": 1,
       "player_name": "Scheffler, Scottie",
       "player_num": 46046,
-      "pre_tourn_pageviews": 3891,
-      "teetimes": [],
+      "pre_tourn_pageviews": 4385,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-16 13:50",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-17 10:05",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "2"
     },
     {
@@ -792,8 +2008,27 @@
       "owgr_rank": 150,
       "player_name": "Schenk, Adam",
       "player_num": 47347,
-      "pre_tourn_pageviews": 184,
-      "teetimes": [],
+      "pre_tourn_pageviews": 233,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-16 07:25",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-17 11:00",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "124"
     },
     {
@@ -804,8 +2039,27 @@
       "owgr_rank": 68,
       "player_name": "Smith, Jordan",
       "player_num": 46464,
-      "pre_tourn_pageviews": 345,
-      "teetimes": [],
+      "pre_tourn_pageviews": 438,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-16 07:35",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-17 11:10",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "51"
     },
     {
@@ -816,8 +2070,27 @@
       "owgr_rank": 86,
       "player_name": "Smotherman, Austin",
       "player_num": 50095,
-      "pre_tourn_pageviews": 664,
-      "teetimes": [],
+      "pre_tourn_pageviews": 778,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-16 12:15",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-17 08:30",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "40"
     },
     {
@@ -828,8 +2101,27 @@
       "owgr_rank": 10,
       "player_name": "Spaun, J.J.",
       "player_num": 39324,
-      "pre_tourn_pageviews": 755,
-      "teetimes": [],
+      "pre_tourn_pageviews": 874,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-16 09:35",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-17 13:05",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "29"
     },
     {
@@ -840,8 +2132,27 @@
       "owgr_rank": 52,
       "player_name": "Spieth, Jordan",
       "player_num": 34046,
-      "pre_tourn_pageviews": 3687,
-      "teetimes": [],
+      "pre_tourn_pageviews": 4189,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-16 10:15",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-17 13:50",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "32"
     },
     {
@@ -852,8 +2163,27 @@
       "owgr_rank": 45,
       "player_name": "Stevens, Sam",
       "player_num": 55893,
-      "pre_tourn_pageviews": 584,
-      "teetimes": [],
+      "pre_tourn_pageviews": 705,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-16 11:30",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-17 07:45",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "39"
     },
     {
@@ -864,8 +2194,27 @@
       "owgr_rank": 13,
       "player_name": "Straka, Sepp",
       "player_num": 49960,
-      "pre_tourn_pageviews": 1543,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1875,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-16 09:45",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-17 13:20",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "18"
     },
     {
@@ -876,8 +2225,27 @@
       "owgr_rank": 64,
       "player_name": "Taylor, Nick",
       "player_num": 25493,
-      "pre_tourn_pageviews": 722,
-      "teetimes": [],
+      "pre_tourn_pageviews": 886,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-16 09:00",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-17 12:35",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "57"
     },
     {
@@ -888,8 +2256,27 @@
       "owgr_rank": 73,
       "player_name": "Theegala, Sahith",
       "player_num": 51634,
-      "pre_tourn_pageviews": 1055,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1256,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-16 10:25",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-17 14:00",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "26"
     },
     {
@@ -900,8 +2287,27 @@
       "owgr_rank": 15,
       "player_name": "Thomas, Justin",
       "player_num": 33448,
-      "pre_tourn_pageviews": 1879,
-      "teetimes": [],
+      "pre_tourn_pageviews": 2258,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-16 10:05",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-17 13:40",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "64"
     },
     {
@@ -912,8 +2318,27 @@
       "owgr_rank": 59,
       "player_name": "Thorbjornsen, Michael",
       "player_num": 57364,
-      "pre_tourn_pageviews": 424,
-      "teetimes": [],
+      "pre_tourn_pageviews": 526,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-16 08:40",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-17 12:15",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "52"
     },
     {
@@ -924,8 +2349,27 @@
       "owgr_rank": 57,
       "player_name": "Valimaki, Sami",
       "player_num": 52666,
-      "pre_tourn_pageviews": 377,
-      "teetimes": [],
+      "pre_tourn_pageviews": 444,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-16 11:30",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-17 07:45",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "112"
     },
     {
@@ -936,8 +2380,27 @@
       "owgr_rank": 108,
       "player_name": "Vegas, Jhonattan",
       "player_num": 27064,
-      "pre_tourn_pageviews": 232,
-      "teetimes": [],
+      "pre_tourn_pageviews": 274,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-16 10:50",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-17 07:05",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "101"
     },
     {
@@ -948,8 +2411,27 @@
       "owgr_rank": 154,
       "player_name": "Vilips, Karl",
       "player_num": 54304,
-      "pre_tourn_pageviews": 254,
-      "teetimes": [],
+      "pre_tourn_pageviews": 304,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-16 08:20",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-17 11:50",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "113"
     },
     {
@@ -960,8 +2442,27 @@
       "owgr_rank": 67,
       "player_name": "Wallace, Matt",
       "player_num": 48887,
-      "pre_tourn_pageviews": 391,
-      "teetimes": [],
+      "pre_tourn_pageviews": 508,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-16 07:25",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-17 11:00",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "65"
     },
     {
@@ -972,8 +2473,27 @@
       "owgr_rank": 49,
       "player_name": "Woodland, Gary",
       "player_num": 31323,
-      "pre_tourn_pageviews": 446,
-      "teetimes": [],
+      "pre_tourn_pageviews": 528,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-16 09:45",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-17 13:20",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "27"
     },
     {
@@ -984,8 +2504,27 @@
       "owgr_rank": 120,
       "player_name": "Yellamaraju, Sudarshan",
       "player_num": 60386,
-      "pre_tourn_pageviews": 848,
-      "teetimes": [],
+      "pre_tourn_pageviews": 985,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-16 14:10",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-17 10:25",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "30"
     },
     {
@@ -996,8 +2535,27 @@
       "owgr_rank": 3,
       "player_name": "Young, Cameron",
       "player_num": 57366,
-      "pre_tourn_pageviews": 2078,
-      "teetimes": [],
+      "pre_tourn_pageviews": 2403,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-16 10:15",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Harbour Town Golf Links",
+          "course_num": 12,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-04-17 13:50",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "1"
     }
   ],
@@ -2139,663 +3697,663 @@
   "dg_predictions": {
     "by_player": {
       "Scottie Scheffler": {
-        "win": 0.138516666666667,
-        "top_5": 0.387185925925926,
-        "top_10": 0.550653085941836,
-        "top_20": 0.734166568847819,
+        "win": 0.137383333333333,
+        "top_5": 0.384241051587302,
+        "top_10": 0.548162142857143,
+        "top_20": 0.731154285922411,
         "make_cut": 1,
         "dg_id": 18417
       },
-      "Matt Fitzpatrick": {
-        "win": 0.05555,
-        "top_5": 0.215163802910053,
-        "top_10": 0.361151162772413,
-        "top_20": 0.565953187691938,
-        "make_cut": 1,
-        "dg_id": 17646
-      },
       "Xander Schauffele": {
-        "win": 0.05505,
-        "top_5": 0.208467599206349,
-        "top_10": 0.343818581048581,
-        "top_20": 0.543796943773819,
+        "win": 0.0539,
+        "top_5": 0.205535647130647,
+        "top_10": 0.343931397583898,
+        "top_20": 0.538329265805001,
         "make_cut": 1,
         "dg_id": 19895
       },
+      "Matt Fitzpatrick": {
+        "win": 0.0538,
+        "top_5": 0.213091071428571,
+        "top_10": 0.357087065897066,
+        "top_20": 0.560487013958264,
+        "make_cut": 1,
+        "dg_id": 17646
+      },
       "Cameron Young": {
-        "win": 0.05435,
-        "top_5": 0.206783439153439,
-        "top_10": 0.343959402958153,
-        "top_20": 0.540455518347393,
+        "win": 0.0521833333333333,
+        "top_5": 0.202604741045991,
+        "top_10": 0.334056248103748,
+        "top_20": 0.528408922884033,
         "make_cut": 1,
         "dg_id": 26651
       },
       "Russell Henley": {
-        "win": 0.0504666666666667,
-        "top_5": 0.208487843915344,
-        "top_10": 0.351148314463314,
-        "top_20": 0.556879784891035,
+        "win": 0.0497166666666667,
+        "top_5": 0.204282552910053,
+        "top_10": 0.346008846570097,
+        "top_20": 0.549152447436822,
         "make_cut": 1,
         "dg_id": 14578
       },
       "Tommy Fleetwood": {
-        "win": 0.0396666666666667,
-        "top_5": 0.175087691798942,
-        "top_10": 0.309526402902653,
-        "top_20": 0.510987701719577,
+        "win": 0.0381666666666667,
+        "top_5": 0.169689067460317,
+        "top_10": 0.300066041967292,
+        "top_20": 0.504302127156612,
         "make_cut": 1,
         "dg_id": 12294
       },
       "Collin Morikawa": {
-        "win": 0.0345333333333333,
-        "top_5": 0.157291164021164,
-        "top_10": 0.281550437617938,
-        "top_20": 0.478482883042883,
+        "win": 0.0355333333333333,
+        "top_5": 0.153333802910053,
+        "top_10": 0.277945870610871,
+        "top_20": 0.470188774165649,
         "make_cut": 1,
         "dg_id": 22085
       },
-      "Ludvig Aberg": {
-        "win": 0.03095,
-        "top_5": 0.140208882275132,
-        "top_10": 0.252336182613683,
-        "top_20": 0.438684727147852,
-        "make_cut": 1,
-        "dg_id": 23950
-      },
       "Si Woo Kim": {
-        "win": 0.0308166666666667,
-        "top_5": 0.146689365079365,
-        "top_10": 0.270326413123913,
-        "top_20": 0.472091064722315,
+        "win": 0.03145,
+        "top_5": 0.147908075396825,
+        "top_10": 0.271498298229548,
+        "top_20": 0.469020312420423,
         "make_cut": 1,
         "dg_id": 14609
       },
+      "Ludvig Aberg": {
+        "win": 0.0304833333333333,
+        "top_5": 0.13870753968254,
+        "top_10": 0.24992104016354,
+        "top_20": 0.430782253071003,
+        "make_cut": 1,
+        "dg_id": 23950
+      },
       "Patrick Cantlay": {
-        "win": 0.0253666666666667,
-        "top_5": 0.127215152116402,
-        "top_10": 0.241559782347282,
-        "top_20": 0.432519795297295,
+        "win": 0.02625,
+        "top_5": 0.127531051587302,
+        "top_10": 0.238615805074555,
+        "top_20": 0.42747131031006,
         "make_cut": 1,
         "dg_id": 15466
       },
       "Robert Macintyre": {
-        "win": 0.0251666666666667,
-        "top_5": 0.12550832010582,
-        "top_10": 0.237672585516336,
-        "top_20": 0.426923732979983,
+        "win": 0.0245666666666667,
+        "top_5": 0.124399338624339,
+        "top_10": 0.235283953222703,
+        "top_20": 0.423982312039812,
         "make_cut": 1,
         "dg_id": 23323
       },
       "Maverick Mcnealy": {
-        "win": 0.02285,
-        "top_5": 0.114974232804233,
-        "top_10": 0.216971693907944,
-        "top_20": 0.397009967902468,
+        "win": 0.0222833333333333,
+        "top_5": 0.112362895807896,
+        "top_10": 0.217168935092685,
+        "top_20": 0.395669047366033,
         "make_cut": 1,
         "dg_id": 18634
       },
       "Jake Knapp": {
-        "win": 0.0208166666666667,
-        "top_5": 0.100133875661376,
-        "top_10": 0.192343311087061,
-        "top_20": 0.357818375975876,
+        "win": 0.0203,
+        "top_5": 0.100090085978836,
+        "top_10": 0.191494315776816,
+        "top_20": 0.355035030316905,
         "make_cut": 1,
         "dg_id": 19396
       },
-      "Sam Burns": {
-        "win": 0.0188,
-        "top_5": 0.0953731878306878,
-        "top_10": 0.187286035353535,
-        "top_20": 0.356150819180819,
-        "make_cut": 1,
-        "dg_id": 19483
-      },
-      "Viktor Hovland": {
-        "win": 0.01825,
-        "top_5": 0.0992151190476191,
-        "top_10": 0.196040685148185,
-        "top_20": 0.370145245032745,
-        "make_cut": 1,
-        "dg_id": 18841
-      },
       "Jacob Bridgeman": {
-        "win": 0.0168333333333333,
-        "top_5": 0.0930691137566138,
-        "top_10": 0.187614998751249,
-        "top_20": 0.357149620703371,
+        "win": 0.0178666666666667,
+        "top_5": 0.0930624470899471,
+        "top_10": 0.185994201539202,
+        "top_20": 0.358206513024013,
         "make_cut": 1,
         "dg_id": 29433
       },
+      "Viktor Hovland": {
+        "win": 0.01715,
+        "top_5": 0.0975130092592593,
+        "top_10": 0.1894019502257,
+        "top_20": 0.363934077866578,
+        "make_cut": 1,
+        "dg_id": 18841
+      },
+      "Sam Burns": {
+        "win": 0.0168833333333333,
+        "top_5": 0.0919413492063492,
+        "top_10": 0.183132882395382,
+        "top_20": 0.350737220765346,
+        "make_cut": 1,
+        "dg_id": 19483
+      },
       "Min Woo Lee": {
-        "win": 0.0164666666666667,
-        "top_5": 0.0867338822751323,
-        "top_10": 0.175293515096015,
-        "top_20": 0.340211151071151,
+        "win": 0.0168333333333333,
+        "top_5": 0.0883135185185185,
+        "top_10": 0.177942548840049,
+        "top_20": 0.342146471028971,
         "make_cut": 1,
         "dg_id": 16841
       },
       "Alex Noren": {
-        "win": 0.0153833333333333,
-        "top_5": 0.085516626984127,
-        "top_10": 0.177985452325452,
-        "top_20": 0.349908772038147,
+        "win": 0.0152,
+        "top_5": 0.0886230026455026,
+        "top_10": 0.180073469215969,
+        "top_20": 0.349381840312465,
         "make_cut": 1,
         "dg_id": 10419
       },
       "Jordan Spieth": {
-        "win": 0.0145,
-        "top_5": 0.0836034920634921,
-        "top_10": 0.17194652958153,
-        "top_20": 0.338630386349761,
+        "win": 0.01505,
+        "top_5": 0.0799654497354497,
+        "top_10": 0.162836048349798,
+        "top_20": 0.323334857318607,
         "make_cut": 1,
         "dg_id": 14636
       },
       "J.J. Spaun": {
-        "win": 0.0144166666666667,
-        "top_5": 0.0845291005291005,
-        "top_10": 0.171940958578459,
-        "top_20": 0.338970924307174,
+        "win": 0.01445,
+        "top_5": 0.0826837103174603,
+        "top_10": 0.167678418109668,
+        "top_20": 0.333323581788582,
         "make_cut": 1,
         "dg_id": 17536
       },
-      "Jason Day": {
-        "win": 0.0132333333333333,
-        "top_5": 0.076060291005291,
-        "top_10": 0.159475961168461,
-        "top_20": 0.320915508843009,
-        "make_cut": 1,
-        "dg_id": 9771
-      },
       "Harris English": {
-        "win": 0.0128333333333333,
-        "top_5": 0.077257123015873,
-        "top_10": 0.16215014985015,
-        "top_20": 0.326457578440078,
+        "win": 0.0132666666666667,
+        "top_5": 0.0779509457671958,
+        "top_10": 0.161480965608466,
+        "top_20": 0.326919525636401,
         "make_cut": 1,
         "dg_id": 14577
       },
+      "Jason Day": {
+        "win": 0.0130333333333333,
+        "top_5": 0.0748892394179894,
+        "top_10": 0.155140863164613,
+        "top_20": 0.310296365347615,
+        "make_cut": 1,
+        "dg_id": 9771
+      },
+      "Ryan Gerard": {
+        "win": 0.0121666666666667,
+        "top_5": 0.0724713161375661,
+        "top_10": 0.151102561327561,
+        "top_20": 0.308362843384829,
+        "make_cut": 1,
+        "dg_id": 29767
+      },
+      "Ben Griffin": {
+        "win": 0.01185,
+        "top_5": 0.0700122420634921,
+        "top_10": 0.150501016113516,
+        "top_20": 0.309561065255551,
+        "make_cut": 1,
+        "dg_id": 24968
+      },
       "Sepp Straka": {
-        "win": 0.0123833333333333,
-        "top_5": 0.0695053835978836,
-        "top_10": 0.14769548039923,
-        "top_20": 0.301725610916861,
+        "win": 0.0116333333333333,
+        "top_5": 0.0664505942205942,
+        "top_10": 0.140898706617457,
+        "top_20": 0.292343073546824,
         "make_cut": 1,
         "dg_id": 17511
       },
       "Justin Thomas": {
-        "win": 0.01235,
-        "top_5": 0.0698283068783069,
-        "top_10": 0.144784456469456,
-        "top_20": 0.291344527370777,
+        "win": 0.0113666666666667,
+        "top_5": 0.0667614814814815,
+        "top_10": 0.139365310846561,
+        "top_20": 0.284440508796759,
         "make_cut": 1,
         "dg_id": 14139
       },
-      "Ben Griffin": {
-        "win": 0.0119,
-        "top_5": 0.068661369047619,
-        "top_10": 0.148619006919007,
-        "top_20": 0.309197652532653,
-        "make_cut": 1,
-        "dg_id": 24968
-      },
       "Akshay Bhatia": {
-        "win": 0.0116333333333333,
-        "top_5": 0.0697087632275132,
-        "top_10": 0.148704173280423,
-        "top_20": 0.303271996198246,
+        "win": 0.01085,
+        "top_5": 0.0692615674603175,
+        "top_10": 0.147610082972583,
+        "top_20": 0.301082461498197,
         "make_cut": 1,
         "dg_id": 26096
       },
-      "Ryan Gerard": {
-        "win": 0.0110166666666667,
-        "top_5": 0.0714917328042328,
-        "top_10": 0.149986721334221,
-        "top_20": 0.307524417365042,
-        "make_cut": 1,
-        "dg_id": 29767
-      },
-      "Chris Gotterup": {
-        "win": 0.0109666666666667,
-        "top_5": 0.0608976653439153,
-        "top_10": 0.128986605709106,
-        "top_20": 0.266624653194028,
-        "make_cut": 1,
-        "dg_id": 27774
-      },
       "Sam Stevens": {
-        "win": 0.0096333333333333,
-        "top_5": 0.0611005158730159,
-        "top_10": 0.133153474025974,
-        "top_20": 0.284800653120028,
+        "win": 0.0106333333333333,
+        "top_5": 0.0624560714285714,
+        "top_10": 0.137704025974026,
+        "top_20": 0.290334673520924,
         "make_cut": 1,
         "dg_id": 25569
       },
+      "Chris Gotterup": {
+        "win": 0.0103833333333333,
+        "top_5": 0.0576953296703297,
+        "top_10": 0.123412481037481,
+        "top_20": 0.260445160834536,
+        "make_cut": 1,
+        "dg_id": 27774
+      },
       "Shane Lowry": {
-        "win": 0.0095833333333333,
-        "top_5": 0.0629611574074074,
-        "top_10": 0.137918206469456,
-        "top_20": 0.289411048349798,
+        "win": 0.00975,
+        "top_5": 0.0629889285714286,
+        "top_10": 0.136618415103415,
+        "top_20": 0.285837843314093,
         "make_cut": 1,
         "dg_id": 13900
       },
       "Ryo Hisatsune": {
-        "win": 0.0083,
-        "top_5": 0.0547418981481482,
-        "top_10": 0.122189234792985,
-        "top_20": 0.263440424575425,
+        "win": 0.00925,
+        "top_5": 0.0584309447496947,
+        "top_10": 0.128782541995042,
+        "top_20": 0.274489365173225,
         "make_cut": 1,
         "dg_id": 22760
       },
+      "Nicolai Hojgaard": {
+        "win": 0.0086166666666666,
+        "top_5": 0.0515670171957672,
+        "top_10": 0.113427319393569,
+        "top_20": 0.242406876271876,
+        "make_cut": 1,
+        "dg_id": 23602
+      },
       "Rickie Fowler": {
-        "win": 0.0081333333333333,
-        "top_5": 0.0525042592592593,
-        "top_10": 0.115737176480926,
-        "top_20": 0.25197925047175,
+        "win": 0.0084666666666666,
+        "top_5": 0.0529465740740741,
+        "top_10": 0.116948738576239,
+        "top_20": 0.253296315258815,
         "make_cut": 1,
         "dg_id": 12965
       },
       "Keegan Bradley": {
-        "win": 0.0079333333333333,
-        "top_5": 0.0534485846560847,
-        "top_10": 0.117272688792689,
-        "top_20": 0.25133234025234,
+        "win": 0.0081166666666666,
+        "top_5": 0.0522809060846561,
+        "top_10": 0.114947397186147,
+        "top_20": 0.250249479155104,
         "make_cut": 1,
         "dg_id": 13872
       },
+      "J.T. Poston": {
+        "win": 0.0076833333333333,
+        "top_5": 0.0521369378306878,
+        "top_10": 0.117906360630111,
+        "top_20": 0.25997217995104,
+        "make_cut": 1,
+        "dg_id": 21554
+      },
       "Corey Conners": {
-        "win": 0.0079333333333333,
-        "top_5": 0.0528676587301587,
-        "top_10": 0.11748367040367,
-        "top_20": 0.256585600348725,
+        "win": 0.0076833333333333,
+        "top_5": 0.0509818772893773,
+        "top_10": 0.115430406121656,
+        "top_20": 0.250794362234987,
         "make_cut": 1,
         "dg_id": 17576
       },
       "Kurt Kitayama": {
-        "win": 0.0076,
-        "top_5": 0.0475938293650794,
-        "top_10": 0.104809121526622,
-        "top_20": 0.232064309348059,
+        "win": 0.0076666666666666,
+        "top_5": 0.0494211828449328,
+        "top_10": 0.109222405511156,
+        "top_20": 0.237604484080734,
         "make_cut": 1,
         "dg_id": 21891
       },
-      "Nicolai Hojgaard": {
-        "win": 0.00745,
-        "top_5": 0.0500612037037037,
-        "top_10": 0.111266681836682,
-        "top_20": 0.243055116087616,
+      "Matt Mccarty": {
+        "win": 0.0070666666666666,
+        "top_5": 0.0420060505698006,
+        "top_10": 0.099039263976764,
+        "top_20": 0.226321408822659,
         "make_cut": 1,
-        "dg_id": 23602
+        "dg_id": 28635
       },
-      "J.T. Poston": {
-        "win": 0.0074,
-        "top_5": 0.0466906216931217,
-        "top_10": 0.109047997234247,
-        "top_20": 0.244217364764865,
+      "Wyndham Clark": {
+        "win": 0.0069333333333333,
+        "top_5": 0.044649041005291,
+        "top_10": 0.0996818759018759,
+        "top_20": 0.221862396816147,
         "make_cut": 1,
-        "dg_id": 21554
+        "dg_id": 23604
+      },
+      "Michael Thorbjornsen": {
+        "win": 0.0068666666666666,
+        "top_5": 0.043008955026455,
+        "top_10": 0.0965747915047915,
+        "top_20": 0.217679942834943,
+        "make_cut": 1,
+        "dg_id": 26649
       },
       "Sahith Theegala": {
-        "win": 0.0071333333333333,
-        "top_5": 0.0462378174603175,
-        "top_10": 0.103996211103711,
-        "top_20": 0.231058803742554,
+        "win": 0.0068666666666666,
+        "top_5": 0.0446884050671551,
+        "top_10": 0.10036717042217,
+        "top_20": 0.222920961815962,
         "make_cut": 1,
         "dg_id": 23014
       },
       "Nick Taylor": {
-        "win": 0.0068333333333333,
-        "top_5": 0.048801335978836,
-        "top_10": 0.113541922753173,
-        "top_20": 0.255354467060717,
+        "win": 0.00675,
+        "top_5": 0.0496838624338624,
+        "top_10": 0.114864404299404,
+        "top_20": 0.254722030261405,
         "make_cut": 1,
         "dg_id": 13126
       },
+      "Daniel Berger": {
+        "win": 0.0065666666666666,
+        "top_5": 0.0442437103174603,
+        "top_10": 0.101631338383838,
+        "top_20": 0.227561322797573,
+        "make_cut": 1,
+        "dg_id": 17606
+      },
       "Sungjae Im": {
-        "win": 0.00665,
-        "top_5": 0.0447323082010582,
-        "top_10": 0.103680870795871,
-        "top_20": 0.233358024290524,
+        "win": 0.0064333333333333,
+        "top_5": 0.0441940343915344,
+        "top_10": 0.102891888528139,
+        "top_20": 0.231035156417656,
         "make_cut": 1,
         "dg_id": 17488
       },
       "Brian Harman": {
-        "win": 0.00665,
-        "top_5": 0.0460391402116402,
-        "top_10": 0.104611133357383,
-        "top_20": 0.238969973683724,
+        "win": 0.0061833333333333,
+        "top_5": 0.0446734722222222,
+        "top_10": 0.103754085867836,
+        "top_20": 0.237177218105968,
         "make_cut": 1,
         "dg_id": 8825
       },
-      "Wyndham Clark": {
-        "win": 0.0064,
-        "top_5": 0.0440527777777778,
-        "top_10": 0.10139919016169,
-        "top_20": 0.22682573028823,
-        "make_cut": 1,
-        "dg_id": 23604
-      },
       "Harry Hall": {
-        "win": 0.0061833333333333,
-        "top_5": 0.0422113492063492,
-        "top_10": 0.0997896283808784,
-        "top_20": 0.234139179015429,
+        "win": 0.0059333333333333,
+        "top_5": 0.0432871957671958,
+        "top_10": 0.100571241351241,
+        "top_20": 0.233362667403403,
         "make_cut": 1,
         "dg_id": 27194
       },
-      "Daniel Berger": {
-        "win": 0.0060666666666666,
-        "top_5": 0.0415323148148148,
-        "top_10": 0.0979417983405483,
-        "top_20": 0.225668027250527,
+      "Matt Wallace": {
+        "win": 0.0046833333333333,
+        "top_5": 0.0329977116402116,
+        "top_10": 0.0806022835497835,
+        "top_20": 0.19244992965368,
         "make_cut": 1,
-        "dg_id": 17606
-      },
-      "Michael Thorbjornsen": {
-        "win": 0.0059333333333333,
-        "top_5": 0.0401445701058201,
-        "top_10": 0.0913022047859548,
-        "top_20": 0.209851882145632,
-        "make_cut": 1,
-        "dg_id": 26649
-      },
-      "Matt Mccarty": {
-        "win": 0.0058833333333333,
-        "top_5": 0.0420441203703704,
-        "top_10": 0.0992243777981278,
-        "top_20": 0.22560388037888,
-        "make_cut": 1,
-        "dg_id": 28635
+        "dg_id": 20706
       },
       "Andrew Putnam": {
-        "win": 0.0041166666666666,
-        "top_5": 0.0343837830687831,
-        "top_10": 0.084820303030303,
-        "top_20": 0.20969901015651,
+        "win": 0.0046,
+        "top_5": 0.0351016005291005,
+        "top_10": 0.0869634034484034,
+        "top_20": 0.213136636766012,
         "make_cut": 1,
         "dg_id": 14704
       },
-      "Andrew Novak": {
-        "win": 0.0039166666666666,
-        "top_5": 0.0265818386243386,
-        "top_10": 0.0653933164983165,
-        "top_20": 0.162982755716506,
-        "make_cut": 1,
-        "dg_id": 23475
-      },
-      "Max Homa": {
-        "win": 0.00385,
-        "top_5": 0.0285689153439153,
-        "top_10": 0.0686897354034854,
-        "top_20": 0.169500175380175,
-        "make_cut": 1,
-        "dg_id": 17538
-      },
-      "Gary Woodland": {
-        "win": 0.0037666666666666,
-        "top_5": 0.0273800396825397,
-        "top_10": 0.06518466001591,
-        "top_20": 0.158930543368668,
-        "make_cut": 1,
-        "dg_id": 12577
-      },
       "Bud Cauley": {
-        "win": 0.0037,
-        "top_5": 0.0284151455026455,
-        "top_10": 0.0704291758241758,
-        "top_20": 0.174075633047508,
+        "win": 0.0043166666666666,
+        "top_5": 0.030767791005291,
+        "top_10": 0.0745988335738336,
+        "top_20": 0.179267881447256,
         "make_cut": 1,
         "dg_id": 14502
       },
       "Jordan Smith": {
-        "win": 0.0034166666666666,
-        "top_5": 0.0307989484126984,
-        "top_10": 0.0730172837347837,
-        "top_20": 0.180164761951012,
+        "win": 0.0043,
+        "top_5": 0.0333806934269434,
+        "top_10": 0.0808685743423243,
+        "top_20": 0.192368895827756,
         "make_cut": 1,
         "dg_id": 18586
       },
-      "Matt Wallace": {
-        "win": 0.0033166666666666,
-        "top_5": 0.0298678637566138,
-        "top_10": 0.0724471188071188,
-        "top_20": 0.17907516992267,
+      "Gary Woodland": {
+        "win": 0.0037666666666666,
+        "top_5": 0.0257001322751323,
+        "top_10": 0.0638806437081437,
+        "top_20": 0.157415635105635,
         "make_cut": 1,
-        "dg_id": 20706
+        "dg_id": 12577
       },
-      "Marco Penge": {
-        "win": 0.0033,
-        "top_5": 0.0236177380952381,
-        "top_10": 0.0581609866522367,
-        "top_20": 0.145854328588079,
+      "Max Homa": {
+        "win": 0.0035833333333333,
+        "top_5": 0.0267043518518519,
+        "top_10": 0.0657042760942761,
+        "top_20": 0.164410757344507,
         "make_cut": 1,
-        "dg_id": 22465
+        "dg_id": 17538
       },
-      "Michael Brennan": {
-        "win": 0.0031833333333333,
-        "top_5": 0.0240762037037037,
-        "top_10": 0.0592047816997817,
-        "top_20": 0.146634484080734,
+      "Andrew Novak": {
+        "win": 0.00345,
+        "top_5": 0.0259670492470492,
+        "top_10": 0.0648040424852925,
+        "top_20": 0.162234077312938,
         "make_cut": 1,
-        "dg_id": 29197
+        "dg_id": 23475
       },
       "Sudarshan Yellamaraju": {
-        "win": 0.0030166666666666,
-        "top_5": 0.0243899206349206,
-        "top_10": 0.0612808682058682,
-        "top_20": 0.153950691276316,
+        "win": 0.00315,
+        "top_5": 0.0250480092592593,
+        "top_10": 0.0605731996244496,
+        "top_20": 0.151035467009842,
         "make_cut": 1,
         "dg_id": 29925
       },
-      "Austin Smotherman": {
-        "win": 0.0029,
-        "top_5": 0.0232858796296296,
-        "top_10": 0.0592635206922707,
-        "top_20": 0.150572773245273,
+      "Michael Brennan": {
+        "win": 0.0031333333333333,
+        "top_5": 0.0242965211640212,
+        "top_10": 0.0606040313852814,
+        "top_20": 0.152507586580087,
         "make_cut": 1,
-        "dg_id": 22985
-      },
-      "Denny Mccarthy": {
-        "win": 0.0028166666666666,
-        "top_5": 0.0234251917989418,
-        "top_10": 0.0617919959207459,
-        "top_20": 0.161473965201465,
-        "make_cut": 1,
-        "dg_id": 19870
+        "dg_id": 29197
       },
       "Ricky Castillo": {
-        "win": 0.0025666666666666,
-        "top_5": 0.0219243055555556,
-        "top_10": 0.0563666842416842,
-        "top_20": 0.141871723322973,
+        "win": 0.0031,
+        "top_5": 0.0231833002645503,
+        "top_10": 0.0563030182780183,
+        "top_20": 0.145927336991712,
         "make_cut": 1,
         "dg_id": 27819
       },
-      "Michael Kim": {
-        "win": 0.0023333333333333,
-        "top_5": 0.0215654298941799,
-        "top_10": 0.0563667906630407,
-        "top_20": 0.147752227864728,
+      "Denny Mccarthy": {
+        "win": 0.0031,
+        "top_5": 0.0255934060846561,
+        "top_10": 0.0651805318755319,
+        "top_20": 0.16840674982425,
         "make_cut": 1,
-        "dg_id": 17543
+        "dg_id": 19870
       },
-      "Tony Finau": {
-        "win": 0.0022666666666666,
-        "top_5": 0.0184578968253968,
-        "top_10": 0.0486878246753247,
-        "top_20": 0.129879437460687,
+      "Marco Penge": {
+        "win": 0.0030833333333333,
+        "top_5": 0.0241580092592593,
+        "top_10": 0.0575706737706738,
+        "top_20": 0.142275489257475,
         "make_cut": 1,
-        "dg_id": 11676
+        "dg_id": 22465
+      },
+      "Austin Smotherman": {
+        "win": 0.0028333333333333,
+        "top_5": 0.0235213095238095,
+        "top_10": 0.0590158134920635,
+        "top_20": 0.149593040940541,
+        "make_cut": 1,
+        "dg_id": 22985
       },
       "Pierceson Coody": {
-        "win": 0.0021,
-        "top_5": 0.0187090079365079,
-        "top_10": 0.0492579466829467,
-        "top_20": 0.132602187997188,
+        "win": 0.0026166666666666,
+        "top_5": 0.0204764351851852,
+        "top_10": 0.052221237974988,
+        "top_20": 0.137886992291478,
         "make_cut": 1,
         "dg_id": 28309
       },
+      "Tony Finau": {
+        "win": 0.0026166666666666,
+        "top_5": 0.0185939021164021,
+        "top_10": 0.0493532862045362,
+        "top_20": 0.129905277800903,
+        "make_cut": 1,
+        "dg_id": 11676
+      },
+      "Michael Kim": {
+        "win": 0.0025,
+        "top_5": 0.0225445171957672,
+        "top_10": 0.0573672643097643,
+        "top_20": 0.149283332084582,
+        "make_cut": 1,
+        "dg_id": 17543
+      },
       "Taylor Pendrith": {
-        "win": 0.0020333333333333,
-        "top_5": 0.0194282804232804,
-        "top_10": 0.051716284040034,
-        "top_20": 0.137677568681319,
+        "win": 0.0024,
+        "top_5": 0.0211530026455026,
+        "top_10": 0.0537165698653199,
+        "top_20": 0.142532887806638,
         "make_cut": 1,
         "dg_id": 17780
       },
-      "Nico Echavarria": {
-        "win": 0.0019833333333333,
-        "top_5": 0.0178227711640212,
-        "top_10": 0.0468410316997817,
-        "top_20": 0.127879134337884,
-        "make_cut": 1,
-        "dg_id": 22833
-      },
       "Sami Valimaki": {
-        "win": 0.0019333333333333,
-        "top_5": 0.0187206878306878,
-        "top_10": 0.0489967618030118,
-        "top_20": 0.132330048470048,
+        "win": 0.0021833333333333,
+        "top_5": 0.0191424603174603,
+        "top_10": 0.0493075841750842,
+        "top_20": 0.132414890849891,
         "make_cut": 1,
         "dg_id": 23816
       },
+      "Nico Echavarria": {
+        "win": 0.0020333333333333,
+        "top_5": 0.0173648015873016,
+        "top_10": 0.0472575408850409,
+        "top_20": 0.129184500661376,
+        "make_cut": 1,
+        "dg_id": 22833
+      },
       "Chandler Blanchet": {
-        "win": 0.00175,
-        "top_5": 0.0149800529100529,
-        "top_10": 0.0423770256132756,
-        "top_20": 0.116619003080253,
+        "win": 0.0018166666666666,
+        "top_5": 0.0181452976190476,
+        "top_10": 0.0488604082491583,
+        "top_20": 0.130192417489918,
         "make_cut": 1,
         "dg_id": 24956
       },
       "Ryan Fox": {
-        "win": 0.00165,
-        "top_5": 0.0160241335978836,
-        "top_10": 0.0432487860750361,
-        "top_20": 0.119918262755763,
+        "win": 0.00175,
+        "top_5": 0.0164073148148148,
+        "top_10": 0.0441936129148629,
+        "top_20": 0.120656712685463,
         "make_cut": 1,
         "dg_id": 11889
       },
+      "William Mouw": {
+        "win": 0.0017166666666666,
+        "top_5": 0.0140147883597884,
+        "top_10": 0.0375085407647908,
+        "top_20": 0.104263267843268,
+        "make_cut": 1,
+        "dg_id": 29770
+      },
       "Patrick Rodgers": {
-        "win": 0.0016,
-        "top_5": 0.0131680753968254,
-        "top_10": 0.0362364947089947,
-        "top_20": 0.103270861337736,
+        "win": 0.0015333333333333,
+        "top_5": 0.0141361044973545,
+        "top_10": 0.0389002320827321,
+        "top_20": 0.108491661116661,
         "make_cut": 1,
         "dg_id": 16283
       },
       "Johnny Keefer": {
-        "win": 0.0016,
-        "top_5": 0.0126726455026455,
-        "top_10": 0.0351807738095238,
-        "top_20": 0.098165413012913,
+        "win": 0.00145,
+        "top_5": 0.0132871693121693,
+        "top_10": 0.0358385994560995,
+        "top_20": 0.100279987697488,
         "make_cut": 1,
         "dg_id": 32457
       },
       "Billy Horschel": {
-        "win": 0.0015166666666666,
-        "top_5": 0.013552414021164,
-        "top_10": 0.0374751897639398,
-        "top_20": 0.105477246110371,
+        "win": 0.0013333333333333,
+        "top_5": 0.0132801455026455,
+        "top_10": 0.0373946717171717,
+        "top_20": 0.102938790724526,
         "make_cut": 1,
         "dg_id": 11276
       },
-      "William Mouw": {
-        "win": 0.00145,
-        "top_5": 0.0124578505291005,
-        "top_10": 0.0349738714526215,
-        "top_20": 0.100058402546528,
-        "make_cut": 1,
-        "dg_id": 29770
-      },
       "David Lipsky": {
-        "win": 0.0013666666666666,
-        "top_5": 0.0121071097883598,
-        "top_10": 0.0349110464997965,
-        "top_20": 0.101324261294261,
+        "win": 0.0012833333333333,
+        "top_5": 0.0131061507936508,
+        "top_10": 0.0371832611832612,
+        "top_20": 0.110847114829615,
         "make_cut": 1,
         "dg_id": 15980
       },
-      "Lucas Glover": {
-        "win": 0.0010166666666666,
-        "top_5": 0.010295462962963,
-        "top_10": 0.0298066856754357,
-        "top_20": 0.0898519224294224,
-        "make_cut": 1,
-        "dg_id": 7399
-      },
       "Steven Fisk": {
-        "win": 0.0009666666666666,
-        "top_5": 0.0104257407407407,
-        "top_10": 0.029144433020683,
-        "top_20": 0.087022014004514,
+        "win": 0.0010833333333333,
+        "top_5": 0.0110017063492063,
+        "top_10": 0.0302776418951419,
+        "top_20": 0.0915764331964332,
         "make_cut": 1,
         "dg_id": 26657
       },
+      "Lucas Glover": {
+        "win": 0.0009833333333333,
+        "top_5": 0.0120828174603175,
+        "top_10": 0.0340465957190957,
+        "top_20": 0.0984742522061272,
+        "make_cut": 1,
+        "dg_id": 7399
+      },
       "Garrick Higgo": {
-        "win": 0.0006166666666666,
-        "top_5": 0.0067808928571428,
-        "top_10": 0.019298863960114,
-        "top_20": 0.0598711651774152,
+        "win": 0.0007833333333333,
+        "top_5": 0.0074487952787952,
+        "top_10": 0.0207649211436711,
+        "top_20": 0.0633398506137109,
         "make_cut": 1,
         "dg_id": 24342
       },
       "Jhonattan Vegas": {
-        "win": 0.0006166666666666,
-        "top_5": 0.006024246031746,
-        "top_10": 0.0174370238095238,
-        "top_20": 0.0567073391885892,
+        "win": 0.0007166666666666,
+        "top_5": 0.0063714087301587,
+        "top_10": 0.0185611910774411,
+        "top_20": 0.0589191642616643,
         "make_cut": 1,
         "dg_id": 13508
       },
       "Tom Hoge": {
-        "win": 0.0005833333333333,
-        "top_5": 0.0059856415343915,
-        "top_10": 0.0183060842398342,
-        "top_20": 0.0583446127946128,
+        "win": 0.0006666666666666,
+        "top_5": 0.0063131216931216,
+        "top_10": 0.019474154040404,
+        "top_20": 0.0605618885512635,
         "make_cut": 1,
         "dg_id": 15575
       },
-      "Karl Vilips": {
-        "win": 0.0005666666666666,
-        "top_5": 0.0060289153439153,
-        "top_10": 0.0173930124505124,
-        "top_20": 0.0566451371313871,
-        "make_cut": 1,
-        "dg_id": 24304
-      },
-      "Brian Campbell": {
-        "win": 0.00055,
-        "top_5": 0.0059911044973545,
-        "top_10": 0.0194992201779702,
-        "top_20": 0.0637876843526844,
-        "make_cut": 1,
-        "dg_id": 18628
-      },
-      "Aldrich Potgieter": {
-        "win": 0.0004166666666666,
-        "top_5": 0.0045983531746031,
-        "top_10": 0.0137306421356421,
-        "top_20": 0.0442040711603212,
-        "make_cut": 1,
-        "dg_id": 27900
-      },
       "Adam Schenk": {
-        "win": 0.0003,
-        "top_5": 0.0027766666666666,
-        "top_10": 0.0091663822751322,
-        "top_20": 0.0335350192400192,
+        "win": 0.0004666666666666,
+        "top_5": 0.0034926984126984,
+        "top_10": 0.0104492009379509,
+        "top_20": 0.0358267351629852,
         "make_cut": 1,
         "dg_id": 19477
       },
+      "Karl Vilips": {
+        "win": 0.00045,
+        "top_5": 0.0062105555555555,
+        "top_10": 0.0178700931938432,
+        "top_20": 0.0582318932918933,
+        "make_cut": 1,
+        "dg_id": 24304
+      },
+      "Aldrich Potgieter": {
+        "win": 0.0004166666666666,
+        "top_5": 0.0044537433862433,
+        "top_10": 0.0140624537037037,
+        "top_20": 0.043840248038998,
+        "make_cut": 1,
+        "dg_id": 27900
+      },
+      "Brian Campbell": {
+        "win": 0.0004,
+        "top_5": 0.0066253174603174,
+        "top_10": 0.02047652995153,
+        "top_20": 0.0678119404669405,
+        "make_cut": 1,
+        "dg_id": 18628
+      },
       "Joe Highsmith": {
-        "win": 0.00015,
-        "top_5": 0.0022969312169312,
-        "top_10": 0.0080037187349687,
-        "top_20": 0.0305757732545233,
+        "win": 0.0002333333333333,
+        "top_5": 0.0029105687830687,
+        "top_10": 0.0100699446849447,
+        "top_20": 0.0353829227716728,
         "make_cut": 1,
         "dg_id": 28469
       }
     },
-    "last_updated": "2026-04-14T13:46:08.591960-04:00"
+    "last_updated": "2026-04-14T20:08:59.818765-04:00"
   },
   "skill_ratings": {
     "by_player": {
@@ -8820,11 +10378,11 @@
         "player_name": "Martin Trainer"
       }
     },
-    "last_updated": "2026-04-14T13:46:08.591896-04:00"
+    "last_updated": "2026-04-14T20:08:59.818705-04:00"
   },
   "approach_skill": {
     "by_player": {},
-    "last_updated": "2026-04-14T13:46:08.591938-04:00"
+    "last_updated": "2026-04-14T20:08:59.818742-04:00"
   },
   "course_history": {
     "by_player": {}
@@ -9036,92 +10594,92 @@
       {
         "player": "Russell Henley",
         "odds": "+7000",
-        "edge": 0.0364,
-        "note": "DG: 5.1% | Market: 1.4% | Edge: +3.6%"
+        "edge": 0.0356,
+        "note": "DG: 5.0% | Market: 1.4% | Edge: +3.6%"
       },
       {
         "player": "Si Woo Kim",
         "odds": "+8000",
-        "edge": 0.0185,
-        "note": "DG: 3.1% | Market: 1.2% | Edge: +1.8%"
+        "edge": 0.0192,
+        "note": "DG: 3.1% | Market: 1.2% | Edge: +1.9%"
       },
       {
         "player": "Maverick Mcnealy",
         "odds": "+8000",
-        "edge": 0.0105,
-        "note": "DG: 2.3% | Market: 1.2% | Edge: +1.1%"
+        "edge": 0.01,
+        "note": "DG: 2.2% | Market: 1.2% | Edge: +1.0%"
       },
       {
         "player": "Robert Macintyre",
         "odds": "+6600",
-        "edge": 0.0103,
+        "edge": 0.0097,
         "note": "DG: 2.5% | Market: 1.5% | Edge: +1.0%"
       },
       {
         "player": "Jake Knapp",
         "odds": "+8000",
-        "edge": 0.0085,
-        "note": "DG: 2.1% | Market: 1.2% | Edge: +0.9%"
+        "edge": 0.008,
+        "note": "DG: 2.0% | Market: 1.2% | Edge: +0.8%"
       },
       {
         "player": "Jacob Bridgeman",
         "odds": "+10000",
-        "edge": 0.0069,
-        "note": "DG: 1.7% | Market: 1.0% | Edge: +0.7%"
-      },
-      {
-        "player": "Sam Burns",
-        "odds": "+8000",
-        "edge": 0.0065,
-        "note": "DG: 1.9% | Market: 1.2% | Edge: +0.7%"
+        "edge": 0.008,
+        "note": "DG: 1.8% | Market: 1.0% | Edge: +0.8%"
       },
       {
         "player": "Ryo Hisatsune",
         "odds": "+45000",
-        "edge": 0.0061,
-        "note": "DG: 0.8% | Market: 0.2% | Edge: +0.6%"
+        "edge": 0.007,
+        "note": "DG: 0.9% | Market: 0.2% | Edge: +0.7%"
       },
       {
         "player": "Min Woo Lee",
         "odds": "+9000",
-        "edge": 0.0055,
-        "note": "DG: 1.7% | Market: 1.1% | Edge: +0.5%"
+        "edge": 0.0058,
+        "note": "DG: 1.7% | Market: 1.1% | Edge: +0.6%"
       },
       {
         "player": "Sam Stevens",
         "odds": "+20000",
-        "edge": 0.0046,
-        "note": "DG: 1.0% | Market: 0.5% | Edge: +0.5%"
+        "edge": 0.0056,
+        "note": "DG: 1.1% | Market: 0.5% | Edge: +0.6%"
       },
       {
         "player": "Ryan Gerard",
         "odds": "+14000",
-        "edge": 0.0039,
-        "note": "DG: 1.1% | Market: 0.7% | Edge: +0.4%"
+        "edge": 0.0051,
+        "note": "DG: 1.2% | Market: 0.7% | Edge: +0.5%"
       },
       {
-        "player": "Patrick Cantlay",
-        "odds": "+4500",
-        "edge": 0.0037,
-        "note": "DG: 2.5% | Market: 2.2% | Edge: +0.4%"
-      },
-      {
-        "player": "Nick Taylor",
-        "odds": "+30000",
-        "edge": 0.0035,
-        "note": "DG: 0.7% | Market: 0.3% | Edge: +0.4%"
+        "player": "Sam Burns",
+        "odds": "+8000",
+        "edge": 0.0046,
+        "note": "DG: 1.7% | Market: 1.2% | Edge: +0.5%"
       },
       {
         "player": "Matt Mccarty",
         "odds": "+40000",
-        "edge": 0.0034,
-        "note": "DG: 0.6% | Market: 0.2% | Edge: +0.3%"
+        "edge": 0.0046,
+        "note": "DG: 0.7% | Market: 0.2% | Edge: +0.5%"
       },
       {
-        "player": "Akshay Bhatia",
-        "odds": "+12000",
-        "edge": 0.0033,
-        "note": "DG: 1.2% | Market: 0.8% | Edge: +0.3%"
+        "player": "Patrick Cantlay",
+        "odds": "+4500",
+        "edge": 0.0045,
+        "note": "DG: 2.6% | Market: 2.2% | Edge: +0.4%"
+      },
+      {
+        "player": "Nick Taylor",
+        "odds": "+30000",
+        "edge": 0.0034,
+        "note": "DG: 0.7% | Market: 0.3% | Edge: +0.3%"
+      },
+      {
+        "player": "Rickie Fowler",
+        "odds": "+17000",
+        "edge": 0.0027,
+        "note": "DG: 0.9% | Market: 0.6% | Edge: +0.3%"
       }
     ],
     "tiers": {
@@ -9374,7 +10932,8 @@
       "No DG odds returned at 2026-04-13T18:10:15.979182-04:00",
       "No DG odds returned at 2026-04-13T18:22:59.998353-04:00",
       "No DG odds returned at 2026-04-14T02:13:00.438965-04:00",
-      "No DG odds returned at 2026-04-14T13:46:08.688447-04:00"
+      "No DG odds returned at 2026-04-14T13:46:08.688447-04:00",
+      "No DG odds returned at 2026-04-14T20:08:59.919157-04:00"
     ],
     "analysis_uncertainties": [
       "[Claude] > ⚠️ **CRITICAL DATA FLAG — READ BEFORE ANYTHING ELSE**",
@@ -10268,6 +11827,13 @@
     },
     {
       "time": "2026-04-14T13:46:08.689528-04:00",
+      "run_type": "manual",
+      "status": "complete",
+      "field_size": 82,
+      "odds_players": 113
+    },
+    {
+      "time": "2026-04-14T20:08:59.920136-04:00",
       "run_type": "manual",
       "status": "complete",
       "field_size": 82,
