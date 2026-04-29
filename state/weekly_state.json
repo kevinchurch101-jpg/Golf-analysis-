@@ -24,8 +24,27 @@
       "owgr_rank": 40,
       "player_name": "Berger, Daniel",
       "player_num": 40026,
-      "pre_tourn_pageviews": 528,
-      "teetimes": [],
+      "pre_tourn_pageviews": 745,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-30 13:00",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-01 09:45",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "30"
     },
     {
@@ -36,8 +55,27 @@
       "owgr_rank": 24,
       "player_name": "Bhatia, Akshay",
       "player_num": 56630,
-      "pre_tourn_pageviews": 642,
-      "teetimes": [],
+      "pre_tourn_pageviews": 911,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-30 10:35",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-01 13:50",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "7"
     },
     {
@@ -48,8 +86,27 @@
       "owgr_rank": 103,
       "player_name": "Blanchet, Chandler",
       "player_num": 54788,
-      "pre_tourn_pageviews": 187,
-      "teetimes": [],
+      "pre_tourn_pageviews": 255,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-30 12:45",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-01 09:30",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "76"
     },
     {
@@ -60,8 +117,27 @@
       "owgr_rank": 27,
       "player_name": "Bradley, Keegan",
       "player_num": 33141,
-      "pre_tourn_pageviews": 497,
-      "teetimes": [],
+      "pre_tourn_pageviews": 748,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-30 14:35",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-01 11:20",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "81"
     },
     {
@@ -72,8 +148,27 @@
       "owgr_rank": 19,
       "player_name": "Bridgeman, Jacob",
       "player_num": 60004,
-      "pre_tourn_pageviews": 644,
-      "teetimes": [],
+      "pre_tourn_pageviews": 898,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-30 11:20",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-01 14:35",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "5"
     },
     {
@@ -84,8 +179,27 @@
       "owgr_rank": 29,
       "player_name": "Burns, Sam",
       "player_num": 47504,
-      "pre_tourn_pageviews": 984,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1361,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-30 13:50",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-01 10:35",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "22"
     },
     {
@@ -96,21 +210,28 @@
       "owgr_rank": 100,
       "player_name": "Campbell, Brian",
       "player_num": 46443,
-      "pre_tourn_pageviews": 166,
-      "teetimes": [],
+      "pre_tourn_pageviews": 217,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-30 14:55",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-01 11:40",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "149"
-    },
-    {
-      "am": 0,
-      "country": "USA",
-      "dg_id": 15466,
-      "dg_rank": 15,
-      "owgr_rank": 32,
-      "player_name": "Cantlay, Patrick",
-      "player_num": 35450,
-      "pre_tourn_pageviews": 947,
-      "teetimes": [],
-      "tour_rank": "33"
     },
     {
       "am": 0,
@@ -120,8 +241,27 @@
       "owgr_rank": 86,
       "player_name": "Castillo, Ricky",
       "player_num": 59440,
-      "pre_tourn_pageviews": 254,
-      "teetimes": [],
+      "pre_tourn_pageviews": 357,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-30 10:35",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-01 13:50",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "39"
     },
     {
@@ -132,8 +272,27 @@
       "owgr_rank": 65,
       "player_name": "Cauley, Bud",
       "player_num": 34021,
-      "pre_tourn_pageviews": 217,
-      "teetimes": [],
+      "pre_tourn_pageviews": 338,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-30 08:50",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-01 12:05",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "44"
     },
     {
@@ -144,8 +303,27 @@
       "owgr_rank": 44,
       "player_name": "Conners, Corey",
       "player_num": 39997,
-      "pre_tourn_pageviews": 455,
-      "teetimes": [],
+      "pre_tourn_pageviews": 644,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-30 13:30",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-01 10:15",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "72"
     },
     {
@@ -156,8 +334,27 @@
       "owgr_rank": 53,
       "player_name": "Coody, Pierceson",
       "player_num": 59836,
-      "pre_tourn_pageviews": 545,
-      "teetimes": [],
+      "pre_tourn_pageviews": 773,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-30 09:45",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-01 13:00",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "35"
     },
     {
@@ -168,8 +365,27 @@
       "owgr_rank": 181,
       "player_name": "Dahmen, Joel",
       "player_num": 34076,
-      "pre_tourn_pageviews": 183,
-      "teetimes": [],
+      "pre_tourn_pageviews": 264,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-30 09:00",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-01 12:15",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "92"
     },
     {
@@ -180,8 +396,27 @@
       "owgr_rank": 39,
       "player_name": "Day, Jason",
       "player_num": 28089,
-      "pre_tourn_pageviews": 507,
-      "teetimes": [],
+      "pre_tourn_pageviews": 713,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-30 14:45",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-01 11:30",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "42"
     },
     {
@@ -192,8 +427,27 @@
       "owgr_rank": 42,
       "player_name": "Echavarria, Nico",
       "player_num": 51349,
-      "pre_tourn_pageviews": 198,
-      "teetimes": [],
+      "pre_tourn_pageviews": 278,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-30 13:20",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-01 10:05",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "23"
     },
     {
@@ -204,8 +458,27 @@
       "owgr_rank": 18,
       "player_name": "English, Harris",
       "player_num": 34099,
-      "pre_tourn_pageviews": 862,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1158,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-30 10:15",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-01 13:30",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "31"
     },
     {
@@ -216,8 +489,27 @@
       "owgr_rank": 140,
       "player_name": "Fitzpatrick, Alex",
       "player_num": 55721,
-      "pre_tourn_pageviews": 1552,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1774,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-30 13:20",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-01 10:05",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "45"
     },
     {
@@ -228,8 +520,27 @@
       "owgr_rank": 7,
       "player_name": "Fleetwood, Tommy",
       "player_num": 30911,
-      "pre_tourn_pageviews": 910,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1200,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-30 14:15",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-01 11:00",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "16"
     },
     {
@@ -240,8 +551,27 @@
       "owgr_rank": 56,
       "player_name": "Fowler, Rickie",
       "player_num": 32102,
-      "pre_tourn_pageviews": 663,
-      "teetimes": [],
+      "pre_tourn_pageviews": 965,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-30 14:25",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-01 11:10",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "36"
     },
     {
@@ -252,8 +582,27 @@
       "owgr_rank": 55,
       "player_name": "Fox, Ryan",
       "player_num": 29936,
-      "pre_tourn_pageviews": 519,
-      "teetimes": [],
+      "pre_tourn_pageviews": 748,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-30 12:25",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-01 09:10",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "56"
     },
     {
@@ -264,8 +613,27 @@
       "owgr_rank": 33,
       "player_name": "Gerard, Ryan",
       "player_num": 59018,
-      "pre_tourn_pageviews": 383,
-      "teetimes": [],
+      "pre_tourn_pageviews": 550,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-30 14:45",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-01 11:30",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "21"
     },
     {
@@ -276,8 +644,27 @@
       "owgr_rank": 92,
       "player_name": "Glover, Lucas",
       "player_num": 25900,
-      "pre_tourn_pageviews": 143,
-      "teetimes": [],
+      "pre_tourn_pageviews": 208,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-30 13:00",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-01 09:45",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "148"
     },
     {
@@ -288,8 +675,27 @@
       "owgr_rank": 11,
       "player_name": "Gotterup, Chris",
       "player_num": 59095,
-      "pre_tourn_pageviews": 2053,
-      "teetimes": [],
+      "pre_tourn_pageviews": 2726,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-30 14:05",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-01 10:50",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "6"
     },
     {
@@ -300,8 +706,27 @@
       "owgr_rank": 67,
       "player_name": "Greyserman, Max",
       "player_num": 51977,
-      "pre_tourn_pageviews": 273,
-      "teetimes": [],
+      "pre_tourn_pageviews": 368,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-30 12:15",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-01 09:00",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "117"
     },
     {
@@ -312,8 +737,27 @@
       "owgr_rank": 16,
       "player_name": "Griffin, Ben",
       "player_num": 54591,
-      "pre_tourn_pageviews": 351,
-      "teetimes": [],
+      "pre_tourn_pageviews": 493,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-30 10:05",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-01 13:20",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "66"
     },
     {
@@ -324,8 +768,27 @@
       "owgr_rank": 64,
       "player_name": "Hall, Harry",
       "player_num": 57975,
-      "pre_tourn_pageviews": 174,
-      "teetimes": [],
+      "pre_tourn_pageviews": 275,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-30 10:25",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-01 13:40",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "54"
     },
     {
@@ -336,8 +799,27 @@
       "owgr_rank": 51,
       "player_name": "Harman, Brian",
       "player_num": 27644,
-      "pre_tourn_pageviews": 220,
-      "teetimes": [],
+      "pre_tourn_pageviews": 313,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-30 10:15",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-01 13:30",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "59"
     },
     {
@@ -348,8 +830,27 @@
       "owgr_rank": 8,
       "player_name": "Henley, Russell",
       "player_num": 34098,
-      "pre_tourn_pageviews": 629,
-      "teetimes": [],
+      "pre_tourn_pageviews": 901,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-30 13:40",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-01 10:25",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "15"
     },
     {
@@ -360,8 +861,27 @@
       "owgr_rank": 57,
       "player_name": "Hisatsune, Ryo",
       "player_num": 51287,
-      "pre_tourn_pageviews": 387,
-      "teetimes": [],
+      "pre_tourn_pageviews": 572,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-30 09:30",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-01 12:45",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "25"
     },
     {
@@ -372,8 +892,27 @@
       "owgr_rank": 115,
       "player_name": "Hoge, Tom",
       "player_num": 35532,
-      "pre_tourn_pageviews": 202,
-      "teetimes": [],
+      "pre_tourn_pageviews": 274,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-30 09:00",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-01 12:15",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "73"
     },
     {
@@ -384,8 +923,27 @@
       "owgr_rank": 37,
       "player_name": "Hojgaard, Nicolai",
       "player_num": 52453,
-      "pre_tourn_pageviews": 915,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1249,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-30 13:10",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-01 09:55",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "27"
     },
     {
@@ -396,8 +954,27 @@
       "owgr_rank": 118,
       "player_name": "Homa, Max",
       "player_num": 39977,
-      "pre_tourn_pageviews": 511,
-      "teetimes": [],
+      "pre_tourn_pageviews": 727,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-30 12:15",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-01 09:00",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "57"
     },
     {
@@ -408,8 +985,27 @@
       "owgr_rank": 26,
       "player_name": "Hovland, Viktor",
       "player_num": 46717,
-      "pre_tourn_pageviews": 1080,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1440,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-30 14:15",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-01 11:00",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "55"
     },
     {
@@ -420,8 +1016,27 @@
       "owgr_rank": 76,
       "player_name": "Im, Sungjae",
       "player_num": 39971,
-      "pre_tourn_pageviews": 342,
-      "teetimes": [],
+      "pre_tourn_pageviews": 473,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-30 09:55",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-01 13:10",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "105"
     },
     {
@@ -432,8 +1047,27 @@
       "owgr_rank": 43,
       "player_name": "Kim, Michael",
       "player_num": 39975,
-      "pre_tourn_pageviews": 204,
-      "teetimes": [],
+      "pre_tourn_pageviews": 294,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-30 12:05",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-01 08:50",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "52"
     },
     {
@@ -444,8 +1078,27 @@
       "owgr_rank": 25,
       "player_name": "Kim, Si Woo",
       "player_num": 37455,
-      "pre_tourn_pageviews": 675,
-      "teetimes": [],
+      "pre_tourn_pageviews": 999,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-30 13:40",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-01 10:25",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "10"
     },
     {
@@ -456,8 +1109,27 @@
       "owgr_rank": 34,
       "player_name": "Kitayama, Kurt",
       "player_num": 48117,
-      "pre_tourn_pageviews": 947,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1276,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-30 11:55",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-01 08:40",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "24"
     },
     {
@@ -468,8 +1140,27 @@
       "owgr_rank": 36,
       "player_name": "Knapp, Jake",
       "player_num": 47420,
-      "pre_tourn_pageviews": 1584,
-      "teetimes": [],
+      "pre_tourn_pageviews": 2037,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-30 12:35",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-01 09:20",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "13"
     },
     {
@@ -480,8 +1171,27 @@
       "owgr_rank": 31,
       "player_name": "Lee, Min Woo",
       "player_num": 37378,
-      "pre_tourn_pageviews": 1414,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1884,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-30 11:30",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-01 14:45",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "12"
     },
     {
@@ -492,8 +1202,27 @@
       "owgr_rank": 89,
       "player_name": "Lipsky, David",
       "player_num": 36326,
-      "pre_tourn_pageviews": 164,
-      "teetimes": [],
+      "pre_tourn_pageviews": 222,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-30 09:20",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-01 12:35",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "49"
     },
     {
@@ -504,8 +1233,27 @@
       "owgr_rank": 35,
       "player_name": "Lowry, Shane",
       "player_num": 33204,
-      "pre_tourn_pageviews": 524,
-      "teetimes": [],
+      "pre_tourn_pageviews": 725,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-30 14:35",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-01 11:20",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "41"
     },
     {
@@ -516,8 +1264,27 @@
       "owgr_rank": 15,
       "player_name": "Matsuyama, Hideki",
       "player_num": 32839,
-      "pre_tourn_pageviews": 1143,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1550,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-30 14:05",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-01 10:50",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "18"
     },
     {
@@ -528,8 +1295,27 @@
       "owgr_rank": 93,
       "player_name": "McCarthy, Denny",
       "player_num": 47993,
-      "pre_tourn_pageviews": 176,
-      "teetimes": [],
+      "pre_tourn_pageviews": 240,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-30 09:30",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-01 12:45",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "107"
     },
     {
@@ -540,8 +1326,27 @@
       "owgr_rank": 47,
       "player_name": "McCarty, Matt",
       "player_num": 59141,
-      "pre_tourn_pageviews": 265,
-      "teetimes": [],
+      "pre_tourn_pageviews": 363,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-30 09:20",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-01 12:35",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "38"
     },
     {
@@ -552,8 +1357,27 @@
       "owgr_rank": 30,
       "player_name": "McNealy, Maverick",
       "player_num": 46442,
-      "pre_tourn_pageviews": 501,
-      "teetimes": [],
+      "pre_tourn_pageviews": 730,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-30 09:55",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-01 13:10",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "40"
     },
     {
@@ -564,8 +1388,27 @@
       "owgr_rank": 108,
       "player_name": "Mitchell, Keith",
       "player_num": 39546,
-      "pre_tourn_pageviews": 496,
-      "teetimes": [],
+      "pre_tourn_pageviews": 708,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-30 11:40",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-01 14:55",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "62"
     },
     {
@@ -576,8 +1419,27 @@
       "owgr_rank": 6,
       "player_name": "Morikawa, Collin",
       "player_num": 50525,
-      "pre_tourn_pageviews": 1217,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1651,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-30 14:25",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-01 11:10",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "3"
     },
     {
@@ -588,8 +1450,27 @@
       "owgr_rank": 22,
       "player_name": "Noren, Alex",
       "player_num": 27349,
-      "pre_tourn_pageviews": 241,
-      "teetimes": [],
+      "pre_tourn_pageviews": 340,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-30 12:25",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-01 09:10",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "65"
     },
     {
@@ -600,8 +1481,27 @@
       "owgr_rank": 52,
       "player_name": "Novak, Andrew",
       "player_num": 51997,
-      "pre_tourn_pageviews": 321,
-      "teetimes": [],
+      "pre_tourn_pageviews": 414,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-30 13:50",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-01 10:35",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "61"
     },
     {
@@ -612,8 +1512,27 @@
       "owgr_rank": 82,
       "player_name": "Pendrith, Taylor",
       "player_num": 40250,
-      "pre_tourn_pageviews": 331,
-      "teetimes": [],
+      "pre_tourn_pageviews": 474,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-30 09:10",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-01 12:25",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "94"
     },
     {
@@ -624,8 +1543,27 @@
       "owgr_rank": 80,
       "player_name": "Poston, J.T.",
       "player_num": 49771,
-      "pre_tourn_pageviews": 136,
-      "teetimes": [],
+      "pre_tourn_pageviews": 193,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-30 12:35",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-01 09:20",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "123"
     },
     {
@@ -636,8 +1574,27 @@
       "owgr_rank": 77,
       "player_name": "Potgieter, Aldrich",
       "player_num": 63343,
-      "pre_tourn_pageviews": 610,
-      "teetimes": [],
+      "pre_tourn_pageviews": 831,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-30 12:45",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-01 09:30",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "47"
     },
     {
@@ -648,8 +1605,27 @@
       "owgr_rank": 88,
       "player_name": "Putnam, Andrew",
       "player_num": 34256,
-      "pre_tourn_pageviews": 175,
-      "teetimes": [],
+      "pre_tourn_pageviews": 243,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-30 09:45",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-01 13:00",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "48"
     },
     {
@@ -660,8 +1636,27 @@
       "owgr_rank": 73,
       "player_name": "Rodgers, Patrick",
       "player_num": 36699,
-      "pre_tourn_pageviews": 291,
-      "teetimes": [],
+      "pre_tourn_pageviews": 431,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-30 08:40",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-01 11:55",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "34"
     },
     {
@@ -672,8 +1667,27 @@
       "owgr_rank": 5,
       "player_name": "Rose, Justin",
       "player_num": 22405,
-      "pre_tourn_pageviews": 907,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1283,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-30 11:00",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-01 14:15",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "14"
     },
     {
@@ -684,8 +1698,27 @@
       "owgr_rank": 1,
       "player_name": "Scheffler, Scottie",
       "player_num": 46046,
-      "pre_tourn_pageviews": 1514,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1945,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-30 10:50",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-01 14:05",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "2"
     },
     {
@@ -696,8 +1729,27 @@
       "owgr_rank": 54,
       "player_name": "Scott, Adam",
       "player_num": 24502,
-      "pre_tourn_pageviews": 1343,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1849,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-30 11:00",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-01 14:15",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "28"
     },
     {
@@ -708,8 +1760,27 @@
       "owgr_rank": 104,
       "player_name": "Smalley, Alex",
       "player_num": 46340,
-      "pre_tourn_pageviews": 459,
-      "teetimes": [],
+      "pre_tourn_pageviews": 657,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-30 11:40",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-01 14:55",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "50"
     },
     {
@@ -720,8 +1791,27 @@
       "owgr_rank": 67,
       "player_name": "Smith, Jordan",
       "player_num": 46464,
-      "pre_tourn_pageviews": 437,
-      "teetimes": [],
+      "pre_tourn_pageviews": 635,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-30 11:30",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-01 14:45",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "51"
     },
     {
@@ -732,8 +1822,27 @@
       "owgr_rank": 87,
       "player_name": "Smotherman, Austin",
       "player_num": 50095,
-      "pre_tourn_pageviews": 307,
-      "teetimes": [],
+      "pre_tourn_pageviews": 415,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-30 12:05",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-01 08:50",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "46"
     },
     {
@@ -744,8 +1853,27 @@
       "owgr_rank": 10,
       "player_name": "Spaun, J.J.",
       "player_num": 39324,
-      "pre_tourn_pageviews": 458,
-      "teetimes": [],
+      "pre_tourn_pageviews": 701,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-30 10:05",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-01 13:20",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "29"
     },
     {
@@ -756,8 +1884,27 @@
       "owgr_rank": 50,
       "player_name": "Spieth, Jordan",
       "player_num": 34046,
-      "pre_tourn_pageviews": 824,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1144,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-30 11:10",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-01 14:25",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "37"
     },
     {
@@ -768,8 +1915,27 @@
       "owgr_rank": 46,
       "player_name": "Stevens, Sam",
       "player_num": 55893,
-      "pre_tourn_pageviews": 492,
-      "teetimes": [],
+      "pre_tourn_pageviews": 690,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-30 14:55",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-01 11:40",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "43"
     },
     {
@@ -780,8 +1946,27 @@
       "owgr_rank": 13,
       "player_name": "Straka, Sepp",
       "player_num": 49960,
-      "pre_tourn_pageviews": 453,
-      "teetimes": [],
+      "pre_tourn_pageviews": 671,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-30 10:25",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-01 13:40",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "19"
     },
     {
@@ -792,8 +1977,27 @@
       "owgr_rank": 66,
       "player_name": "Taylor, Nick",
       "player_num": 25493,
-      "pre_tourn_pageviews": 192,
-      "teetimes": [],
+      "pre_tourn_pageviews": 260,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-30 13:10",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-01 09:55",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "64"
     },
     {
@@ -804,8 +2008,27 @@
       "owgr_rank": 74,
       "player_name": "Theegala, Sahith",
       "player_num": 51634,
-      "pre_tourn_pageviews": 498,
-      "teetimes": [],
+      "pre_tourn_pageviews": 709,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-30 09:10",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-01 12:25",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "26"
     },
     {
@@ -816,9 +2039,59 @@
       "owgr_rank": 17,
       "player_name": "Thomas, Justin",
       "player_num": 33448,
-      "pre_tourn_pageviews": 549,
-      "teetimes": [],
+      "pre_tourn_pageviews": 754,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-30 11:10",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-01 14:25",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "71"
+    },
+    {
+      "am": 0,
+      "country": "USA",
+      "dg_id": 26649,
+      "dg_rank": 54,
+      "owgr_rank": 59,
+      "player_name": "Thorbjornsen, Michael",
+      "player_num": 57364,
+      "pre_tourn_pageviews": 414,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-30 13:30",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-01 10:15",
+          "wave": "early"
+        }
+      ],
+      "tour_rank": "53"
     },
     {
       "am": 0,
@@ -828,8 +2101,27 @@
       "owgr_rank": 112,
       "player_name": "Vegas, Jhonattan",
       "player_num": 27064,
-      "pre_tourn_pageviews": 234,
-      "teetimes": [],
+      "pre_tourn_pageviews": 349,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-30 08:50",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-01 12:05",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "112"
     },
     {
@@ -840,8 +2132,27 @@
       "owgr_rank": 69,
       "player_name": "Wallace, Matt",
       "player_num": 48887,
-      "pre_tourn_pageviews": 178,
-      "teetimes": [],
+      "pre_tourn_pageviews": 267,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-30 08:40",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-01 11:55",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "68"
     },
     {
@@ -852,8 +2163,27 @@
       "owgr_rank": 45,
       "player_name": "Woodland, Gary",
       "player_num": 31323,
-      "pre_tourn_pageviews": 1084,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1487,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-30 11:20",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-01 14:35",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "20"
     },
     {
@@ -864,8 +2194,27 @@
       "owgr_rank": 113,
       "player_name": "Yellamaraju, Sudarshan",
       "player_num": 60386,
-      "pre_tourn_pageviews": 645,
-      "teetimes": [],
+      "pre_tourn_pageviews": 892,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-30 11:55",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-01 08:40",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "32"
     },
     {
@@ -876,8 +2225,27 @@
       "owgr_rank": 4,
       "player_name": "Young, Cameron",
       "player_num": 57366,
-      "pre_tourn_pageviews": 1700,
-      "teetimes": [],
+      "pre_tourn_pageviews": 2256,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-04-30 10:50",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Trump National Doral (Blue Monster)",
+          "course_num": 8,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-01 14:05",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "4"
     }
   ],
@@ -2019,583 +3387,583 @@
   "dg_predictions": {
     "by_player": {
       "Scottie Scheffler": {
-        "win": 0.192366666666667,
-        "top_5": 0.473888697089947,
-        "top_10": 0.636493565416065,
-        "top_20": 0.804771258186258,
+        "win": 0.187616666666667,
+        "top_5": 0.467448168590669,
+        "top_10": 0.630507801180301,
+        "top_20": 0.797818694684945,
         "make_cut": 1,
         "dg_id": 18417
       },
       "Cameron Young": {
-        "win": 0.06945,
-        "top_5": 0.247348306878307,
-        "top_10": 0.394615534465534,
-        "top_20": 0.599514640881994,
+        "win": 0.06965,
+        "top_5": 0.244750939153439,
+        "top_10": 0.390574058580309,
+        "top_20": 0.594913326280201,
         "make_cut": 1,
         "dg_id": 26651
       },
       "Collin Morikawa": {
-        "win": 0.03825,
-        "top_5": 0.169545568783069,
-        "top_10": 0.301661530784031,
-        "top_20": 0.505797631165131,
+        "win": 0.0367666666666667,
+        "top_5": 0.163499596560847,
+        "top_10": 0.291556370805121,
+        "top_20": 0.495870481092981,
         "make_cut": 1,
         "dg_id": 22085
       },
       "Min Woo Lee": {
-        "win": 0.033,
-        "top_5": 0.148503816137566,
-        "top_10": 0.266679621165871,
-        "top_20": 0.464744683570787,
+        "win": 0.0312,
+        "top_5": 0.143436892135642,
+        "top_10": 0.262334445646946,
+        "top_20": 0.456198130966256,
         "make_cut": 1,
         "dg_id": 16841
       },
+      "Jake Knapp": {
+        "win": 0.0306833333333333,
+        "top_5": 0.13877582010582,
+        "top_10": 0.248245330687831,
+        "top_20": 0.433289915547416,
+        "make_cut": 1,
+        "dg_id": 19396
+      },
       "Chris Gotterup": {
-        "win": 0.0291166666666667,
-        "top_5": 0.136873194444444,
-        "top_10": 0.250313851010101,
-        "top_20": 0.439063222749473,
+        "win": 0.02945,
+        "top_5": 0.134034305555556,
+        "top_10": 0.24427802988678,
+        "top_20": 0.429754297993673,
         "make_cut": 1,
         "dg_id": 27774
       },
       "Si Woo Kim": {
-        "win": 0.0277666666666667,
-        "top_5": 0.137752585978836,
-        "top_10": 0.259704957264957,
-        "top_20": 0.462825463855317,
+        "win": 0.0264333333333333,
+        "top_5": 0.135397394781145,
+        "top_10": 0.255902334193584,
+        "top_20": 0.462054042300292,
         "make_cut": 1,
         "dg_id": 14609
       },
-      "Patrick Cantlay": {
-        "win": 0.02735,
-        "top_5": 0.134595317460317,
-        "top_10": 0.250119955461205,
-        "top_20": 0.447683047276797,
-        "make_cut": 1,
-        "dg_id": 15466
-      },
-      "Tommy Fleetwood": {
-        "win": 0.02715,
-        "top_5": 0.136977585978836,
-        "top_10": 0.256490835738336,
-        "top_20": 0.455501880864234,
-        "make_cut": 1,
-        "dg_id": 12294
-      },
-      "Jake Knapp": {
-        "win": 0.0270833333333333,
-        "top_5": 0.128119894179894,
-        "top_10": 0.237887180689681,
-        "top_20": 0.423525926573427,
-        "make_cut": 1,
-        "dg_id": 19396
-      },
       "Maverick Mcnealy": {
-        "win": 0.0246333333333333,
-        "top_5": 0.121514947089947,
-        "top_10": 0.230273525733526,
-        "top_20": 0.420432160617161,
+        "win": 0.0262666666666667,
+        "top_5": 0.125473519119769,
+        "top_10": 0.234921403318903,
+        "top_20": 0.42547568995819,
         "make_cut": 1,
         "dg_id": 18634
       },
+      "Tommy Fleetwood": {
+        "win": 0.0254166666666667,
+        "top_5": 0.132452605820106,
+        "top_10": 0.248614205331705,
+        "top_20": 0.442763013051763,
+        "make_cut": 1,
+        "dg_id": 12294
+      },
       "Russell Henley": {
-        "win": 0.02305,
-        "top_5": 0.122740562169312,
-        "top_10": 0.236047713443963,
-        "top_20": 0.43434650739511,
+        "win": 0.02375,
+        "top_5": 0.123398075998076,
+        "top_10": 0.234294256854257,
+        "top_20": 0.427710519179894,
         "make_cut": 1,
         "dg_id": 14578
       },
-      "Hideki Matsuyama": {
-        "win": 0.0218666666666667,
-        "top_5": 0.11446371031746,
-        "top_10": 0.222663293049543,
-        "top_20": 0.410235815031918,
-        "make_cut": 1,
-        "dg_id": 13562
-      },
       "Nicolai Hojgaard": {
-        "win": 0.0203,
-        "top_5": 0.106717010582011,
-        "top_10": 0.206580494227994,
-        "top_20": 0.387657639351389,
+        "win": 0.02235,
+        "top_5": 0.111004974146224,
+        "top_10": 0.212286387223887,
+        "top_20": 0.391705232198357,
         "make_cut": 1,
         "dg_id": 23602
       },
       "Sam Burns": {
-        "win": 0.0198833333333333,
-        "top_5": 0.10358708994709,
-        "top_10": 0.204161236124986,
-        "top_20": 0.384426326543827,
+        "win": 0.0207833333333333,
+        "top_5": 0.105922301587302,
+        "top_10": 0.205848955812706,
+        "top_20": 0.385660039127539,
         "make_cut": 1,
         "dg_id": 19483
       },
-      "Jacob Bridgeman": {
-        "win": 0.01845,
-        "top_5": 0.104788366402116,
-        "top_10": 0.203387145863396,
-        "top_20": 0.38122241980242,
+      "Hideki Matsuyama": {
+        "win": 0.0202,
+        "top_5": 0.109710635521886,
+        "top_10": 0.212095708874459,
+        "top_20": 0.397144438385688,
         "make_cut": 1,
-        "dg_id": 29433
-      },
-      "Viktor Hovland": {
-        "win": 0.0169833333333333,
-        "top_5": 0.093540667989418,
-        "top_10": 0.187960797813298,
-        "top_20": 0.363920361999112,
-        "make_cut": 1,
-        "dg_id": 18841
-      },
-      "Adam Scott": {
-        "win": 0.0169166666666667,
-        "top_5": 0.0925586904761905,
-        "top_10": 0.188389086052836,
-        "top_20": 0.366008405205905,
-        "make_cut": 1,
-        "dg_id": 6430
+        "dg_id": 13562
       },
       "Kurt Kitayama": {
-        "win": 0.0161333333333333,
-        "top_5": 0.0855307208994709,
-        "top_10": 0.176361216329966,
-        "top_20": 0.344486618242868,
+        "win": 0.0196666666666667,
+        "top_5": 0.101136044973545,
+        "top_10": 0.196276914983165,
+        "top_20": 0.370922181984682,
         "make_cut": 1,
         "dg_id": 21891
       },
+      "Jacob Bridgeman": {
+        "win": 0.01845,
+        "top_5": 0.102668955026455,
+        "top_10": 0.200299827441077,
+        "top_20": 0.379262882626633,
+        "make_cut": 1,
+        "dg_id": 29433
+      },
+      "Michael Thorbjornsen": {
+        "win": 0.018,
+        "top_5": 0.0969055363155363,
+        "top_10": 0.190522575757576,
+        "top_20": 0.364542499167499,
+        "make_cut": 1,
+        "dg_id": 26649
+      },
+      "Adam Scott": {
+        "win": 0.01675,
+        "top_5": 0.0913935317460318,
+        "top_10": 0.184134918831169,
+        "top_20": 0.357835464373589,
+        "make_cut": 1,
+        "dg_id": 6430
+      },
+      "Viktor Hovland": {
+        "win": 0.01605,
+        "top_5": 0.0909680753968254,
+        "top_10": 0.180913315295815,
+        "top_20": 0.352822539127539,
+        "make_cut": 1,
+        "dg_id": 18841
+      },
       "Justin Rose": {
-        "win": 0.0151666666666667,
-        "top_5": 0.0860496891534391,
-        "top_10": 0.173342302789803,
-        "top_20": 0.338082317834671,
+        "win": 0.0155333333333333,
+        "top_5": 0.082978578042328,
+        "top_10": 0.167575996225996,
+        "top_20": 0.327860415464165,
         "make_cut": 1,
         "dg_id": 6093
       },
       "Harris English": {
-        "win": 0.0144,
-        "top_5": 0.0850092592592593,
-        "top_10": 0.177101495310245,
-        "top_20": 0.352562504407357,
+        "win": 0.0149166666666667,
+        "top_5": 0.0868383405483406,
+        "top_10": 0.180663208874459,
+        "top_20": 0.356425002960003,
         "make_cut": 1,
         "dg_id": 14577
       },
       "Jordan Spieth": {
-        "win": 0.01425,
-        "top_5": 0.0844546891534391,
-        "top_10": 0.172033213684464,
-        "top_20": 0.342802651977652,
+        "win": 0.0137666666666667,
+        "top_5": 0.0795525661375661,
+        "top_10": 0.166561077441077,
+        "top_20": 0.334118072483072,
         "make_cut": 1,
         "dg_id": 14636
       },
       "J.J. Spaun": {
-        "win": 0.01305,
-        "top_5": 0.0796257936507937,
-        "top_10": 0.168355794205794,
-        "top_20": 0.338383672669923,
+        "win": 0.0137333333333333,
+        "top_5": 0.0806886117123617,
+        "top_10": 0.168746724941725,
+        "top_20": 0.339257699383949,
         "make_cut": 1,
         "dg_id": 17536
       },
+      "Sahith Theegala": {
+        "win": 0.0118333333333333,
+        "top_5": 0.0728811772486773,
+        "top_10": 0.151494180495431,
+        "top_20": 0.308176588573464,
+        "make_cut": 1,
+        "dg_id": 23014
+      },
       "Rickie Fowler": {
-        "win": 0.01235,
-        "top_5": 0.0715085185185185,
-        "top_10": 0.151380141848892,
-        "top_20": 0.312316164312267,
+        "win": 0.0112,
+        "top_5": 0.0694978637566138,
+        "top_10": 0.14652588041588,
+        "top_20": 0.300653974220224,
         "make_cut": 1,
         "dg_id": 12965
       },
       "Ryan Gerard": {
-        "win": 0.0121666666666667,
-        "top_5": 0.0762022817460317,
-        "top_10": 0.161443991055241,
-        "top_20": 0.330314143772894,
+        "win": 0.0110166666666667,
+        "top_5": 0.0704509060846561,
+        "top_10": 0.151727569097569,
+        "top_20": 0.313110726819477,
         "make_cut": 1,
         "dg_id": 29767
       },
-      "Akshay Bhatia": {
-        "win": 0.0118166666666667,
-        "top_5": 0.0699812235449735,
-        "top_10": 0.148599980759981,
-        "top_20": 0.309909410681911,
-        "make_cut": 1,
-        "dg_id": 26096
-      },
       "Keith Mitchell": {
-        "win": 0.0114333333333333,
-        "top_5": 0.0683967526455026,
-        "top_10": 0.145746659405409,
-        "top_20": 0.301137686942687,
+        "win": 0.0109333333333333,
+        "top_5": 0.0651986177248677,
+        "top_10": 0.140061452621453,
+        "top_20": 0.290902701187701,
         "make_cut": 1,
         "dg_id": 17365
       },
-      "Keegan Bradley": {
-        "win": 0.0112166666666667,
-        "top_5": 0.0683419378306878,
-        "top_10": 0.147445129268879,
-        "top_20": 0.302504184981685,
+      "Akshay Bhatia": {
+        "win": 0.0109166666666667,
+        "top_5": 0.0703306150793651,
+        "top_10": 0.150541424963925,
+        "top_20": 0.311352843059718,
         "make_cut": 1,
-        "dg_id": 13872
+        "dg_id": 26096
       },
       "Ben Griffin": {
-        "win": 0.0109,
-        "top_5": 0.0692154034391534,
-        "top_10": 0.151299892376142,
-        "top_20": 0.317565606338106,
+        "win": 0.0108833333333333,
+        "top_5": 0.0696865939153439,
+        "top_10": 0.15135104978355,
+        "top_20": 0.317984128880379,
         "make_cut": 1,
         "dg_id": 24968
       },
-      "Sepp Straka": {
-        "win": 0.0106,
-        "top_5": 0.0647923677248677,
-        "top_10": 0.137792594951345,
-        "top_20": 0.288782659007659,
+      "Keegan Bradley": {
+        "win": 0.0105,
+        "top_5": 0.0637017989417989,
+        "top_10": 0.137921520562771,
+        "top_20": 0.291891130836756,
         "make_cut": 1,
-        "dg_id": 17511
-      },
-      "Sahith Theegala": {
-        "win": 0.0105833333333333,
-        "top_5": 0.0671643783068783,
-        "top_10": 0.142632492183742,
-        "top_20": 0.296440032745033,
-        "make_cut": 1,
-        "dg_id": 23014
-      },
-      "Alex Smalley": {
-        "win": 0.0104166666666667,
-        "top_5": 0.0665458267195767,
-        "top_10": 0.141039248436748,
-        "top_20": 0.295538506322109,
-        "make_cut": 1,
-        "dg_id": 18474
-      },
-      "Shane Lowry": {
-        "win": 0.0102833333333333,
-        "top_5": 0.0650187896825397,
-        "top_10": 0.141643922512673,
-        "top_20": 0.304208531838532,
-        "make_cut": 1,
-        "dg_id": 13900
-      },
-      "Pierceson Coody": {
-        "win": 0.0100833333333333,
-        "top_5": 0.0614159325396825,
-        "top_10": 0.134608825757576,
-        "top_20": 0.284628159294409,
-        "make_cut": 1,
-        "dg_id": 28309
-      },
-      "Sam Stevens": {
-        "win": 0.0099,
-        "top_5": 0.0623106415343915,
-        "top_10": 0.137518921263921,
-        "top_20": 0.295462091195841,
-        "make_cut": 1,
-        "dg_id": 25569
-      },
-      "Gary Woodland": {
-        "win": 0.0097666666666666,
-        "top_5": 0.0600031547619048,
-        "top_10": 0.13022761960262,
-        "top_20": 0.275029158989159,
-        "make_cut": 1,
-        "dg_id": 12577
+        "dg_id": 13872
       },
       "Ryo Hisatsune": {
-        "win": 0.0097,
-        "top_5": 0.0622094642857143,
-        "top_10": 0.136931996706997,
-        "top_20": 0.295279723563474,
+        "win": 0.0104833333333333,
+        "top_5": 0.0661734722222222,
+        "top_10": 0.142993111471861,
+        "top_20": 0.304114686100936,
         "make_cut": 1,
         "dg_id": 22760
       },
-      "Jordan Smith": {
-        "win": 0.0096,
-        "top_5": 0.0613102513227513,
-        "top_10": 0.136527543891294,
-        "top_20": 0.290514131932882,
+      "Pierceson Coody": {
+        "win": 0.0104333333333333,
+        "top_5": 0.065228869047619,
+        "top_10": 0.139243903873904,
+        "top_20": 0.290293565971066,
         "make_cut": 1,
-        "dg_id": 18586
+        "dg_id": 28309
+      },
+      "Sepp Straka": {
+        "win": 0.0104,
+        "top_5": 0.0643432738095238,
+        "top_10": 0.140017980584231,
+        "top_20": 0.289703762163762,
+        "make_cut": 1,
+        "dg_id": 17511
+      },
+      "Shane Lowry": {
+        "win": 0.0103666666666667,
+        "top_5": 0.0641206878306878,
+        "top_10": 0.138857897380397,
+        "top_20": 0.293093903365153,
+        "make_cut": 1,
+        "dg_id": 13900
+      },
+      "Alex Smalley": {
+        "win": 0.0102333333333333,
+        "top_5": 0.0607481084656085,
+        "top_10": 0.132681266233766,
+        "top_20": 0.283942937525438,
+        "make_cut": 1,
+        "dg_id": 18474
+      },
+      "Gary Woodland": {
+        "win": 0.0097333333333333,
+        "top_5": 0.0574398418710919,
+        "top_10": 0.125427609427609,
+        "top_20": 0.267280669492544,
+        "make_cut": 1,
+        "dg_id": 12577
       },
       "Justin Thomas": {
-        "win": 0.0094,
-        "top_5": 0.0590685912698413,
-        "top_10": 0.126090204980205,
-        "top_20": 0.266952888777889,
+        "win": 0.0093,
+        "top_5": 0.0558333333333333,
+        "top_10": 0.122974525613276,
+        "top_20": 0.262661661371036,
         "make_cut": 1,
         "dg_id": 14139
       },
-      "Jason Day": {
-        "win": 0.0084833333333333,
-        "top_5": 0.0560666600529101,
-        "top_10": 0.125025877178377,
-        "top_20": 0.269086298192548,
+      "Jordan Smith": {
+        "win": 0.0089,
+        "top_5": 0.058899908008658,
+        "top_10": 0.129852716033966,
+        "top_20": 0.279100920560921,
         "make_cut": 1,
-        "dg_id": 9771
+        "dg_id": 18586
       },
       "Matt Mccarty": {
-        "win": 0.0068333333333333,
-        "top_5": 0.0520048148148148,
-        "top_10": 0.116917539081289,
-        "top_20": 0.260719792799793,
+        "win": 0.0083666666666666,
+        "top_5": 0.0554629100529101,
+        "top_10": 0.123385588208088,
+        "top_20": 0.271655376359751,
         "make_cut": 1,
         "dg_id": 28635
       },
-      "Ricky Castillo": {
-        "win": 0.0067666666666666,
-        "top_5": 0.0470569312169312,
-        "top_10": 0.105966006447256,
-        "top_20": 0.238779191502941,
+      "Sam Stevens": {
+        "win": 0.0082666666666666,
+        "top_5": 0.0578982407407407,
+        "top_10": 0.129566045574796,
+        "top_20": 0.27881519027269,
         "make_cut": 1,
-        "dg_id": 27819
+        "dg_id": 25569
+      },
+      "Jason Day": {
+        "win": 0.0075833333333333,
+        "top_5": 0.0532291402116402,
+        "top_10": 0.116932153078403,
+        "top_20": 0.257846110972361,
+        "make_cut": 1,
+        "dg_id": 9771
       },
       "Sudarshan Yellamaraju": {
-        "win": 0.0064333333333333,
-        "top_5": 0.0444595171957672,
-        "top_10": 0.102495830928331,
-        "top_20": 0.229589048927652,
+        "win": 0.0075166666666666,
+        "top_5": 0.048822003968254,
+        "top_10": 0.111662328042328,
+        "top_20": 0.247403924108299,
         "make_cut": 1,
         "dg_id": 29925
       },
       "Alex Noren": {
-        "win": 0.0063166666666666,
-        "top_5": 0.0431937698412698,
-        "top_10": 0.102670300625301,
-        "top_20": 0.24015855701216,
+        "win": 0.00705,
+        "top_5": 0.0485039165464165,
+        "top_10": 0.110885856134606,
+        "top_20": 0.254478006160506,
         "make_cut": 1,
         "dg_id": 10419
       },
-      "Corey Conners": {
-        "win": 0.00605,
-        "top_5": 0.0401955357142857,
-        "top_10": 0.0947661832611833,
-        "top_20": 0.226242410751014,
+      "Ricky Castillo": {
+        "win": 0.0069833333333333,
+        "top_5": 0.0453457407407407,
+        "top_10": 0.105477487974988,
+        "top_20": 0.237743203162578,
         "make_cut": 1,
-        "dg_id": 17576
+        "dg_id": 27819
       },
       "Andrew Novak": {
-        "win": 0.0060333333333333,
-        "top_5": 0.0426620767195767,
-        "top_10": 0.0996600192400192,
-        "top_20": 0.230281277241277,
+        "win": 0.0061,
+        "top_5": 0.0408792923280423,
+        "top_10": 0.0957508928571429,
+        "top_20": 0.223864748168498,
         "make_cut": 1,
         "dg_id": 23475
       },
+      "Corey Conners": {
+        "win": 0.0059166666666666,
+        "top_5": 0.0427788227513227,
+        "top_10": 0.100399014550265,
+        "top_20": 0.230771525372775,
+        "make_cut": 1,
+        "dg_id": 17576
+      },
       "Harry Hall": {
-        "win": 0.0056333333333333,
-        "top_5": 0.0441669113756614,
-        "top_10": 0.103990138888889,
-        "top_20": 0.243239551929552,
+        "win": 0.00585,
+        "top_5": 0.0427566606541607,
+        "top_10": 0.102886902356902,
+        "top_20": 0.241420748094498,
         "make_cut": 1,
         "dg_id": 27194
       },
+      "Ryan Fox": {
+        "win": 0.00585,
+        "top_5": 0.0401536838624339,
+        "top_10": 0.0942347793410293,
+        "top_20": 0.2234137000037,
+        "make_cut": 1,
+        "dg_id": 11889
+      },
       "Daniel Berger": {
-        "win": 0.0053833333333333,
-        "top_5": 0.0414456283068783,
-        "top_10": 0.0967025883838384,
-        "top_20": 0.226812442478545,
+        "win": 0.0058166666666666,
+        "top_5": 0.0431834535834536,
+        "top_10": 0.100182192760943,
+        "top_20": 0.229682384929885,
         "make_cut": 1,
         "dg_id": 17606
       },
       "Taylor Pendrith": {
-        "win": 0.00535,
-        "top_5": 0.0370002116402116,
-        "top_10": 0.0873944378306878,
-        "top_20": 0.209181174612425,
+        "win": 0.0056833333333333,
+        "top_5": 0.0422648088023088,
+        "top_10": 0.0993380236892737,
+        "top_20": 0.225908447755948,
         "make_cut": 1,
         "dg_id": 17780
       },
-      "Ryan Fox": {
-        "win": 0.0046833333333333,
-        "top_5": 0.0363361904761905,
-        "top_10": 0.0876711525974026,
-        "top_20": 0.209867826756577,
-        "make_cut": 1,
-        "dg_id": 11889
-      },
       "Aldrich Potgieter": {
-        "win": 0.0044833333333333,
-        "top_5": 0.03152625,
-        "top_10": 0.0729354407166907,
-        "top_20": 0.17336857027232,
+        "win": 0.00525,
+        "top_5": 0.0330557142857143,
+        "top_10": 0.0761236453823954,
+        "top_20": 0.179485883607134,
         "make_cut": 1,
         "dg_id": 27900
       },
       "Bud Cauley": {
-        "win": 0.0041,
-        "top_5": 0.03403166005291,
-        "top_10": 0.0819250288600289,
-        "top_20": 0.201350845418198,
+        "win": 0.0050833333333333,
+        "top_5": 0.039630404040404,
+        "top_10": 0.0944106331168831,
+        "top_20": 0.219667306582307,
         "make_cut": 1,
         "dg_id": 14502
       },
       "Matt Wallace": {
-        "win": 0.0036833333333333,
-        "top_5": 0.0286960978835979,
-        "top_10": 0.0714329467291967,
-        "top_20": 0.184907076858327,
+        "win": 0.0044666666666666,
+        "top_5": 0.0329125529100529,
+        "top_10": 0.0822820923520924,
+        "top_20": 0.20063074032449,
         "make_cut": 1,
         "dg_id": 20706
       },
-      "Sungjae Im": {
-        "win": 0.00365,
-        "top_5": 0.0268709986772487,
-        "top_10": 0.0672625012025012,
-        "top_20": 0.172756027629778,
-        "make_cut": 1,
-        "dg_id": 17488
-      },
-      "Alex Fitzpatrick": {
-        "win": 0.00365,
-        "top_5": 0.0310002182539683,
-        "top_10": 0.0775155254467755,
-        "top_20": 0.192978458023458,
-        "make_cut": 1,
-        "dg_id": 25362
-      },
       "Max Greyserman": {
-        "win": 0.0036,
-        "top_5": 0.0277106150793651,
-        "top_10": 0.0661010196747697,
-        "top_20": 0.16199769022644,
+        "win": 0.0042333333333333,
+        "top_5": 0.0294266534391534,
+        "top_10": 0.0696620893458393,
+        "top_20": 0.17152676547989,
         "make_cut": 1,
         "dg_id": 23465
       },
       "Max Homa": {
-        "win": 0.00345,
-        "top_5": 0.0282242526455026,
-        "top_10": 0.0708174373774374,
-        "top_20": 0.175522321428571,
+        "win": 0.0042,
+        "top_5": 0.0327314417989418,
+        "top_10": 0.0781734950697451,
+        "top_20": 0.186923662541163,
         "make_cut": 1,
         "dg_id": 17538
       },
-      "Patrick Rodgers": {
-        "win": 0.0032,
-        "top_5": 0.0265891137566138,
-        "top_10": 0.0657237638287638,
-        "top_20": 0.171124574453324,
+      "Alex Fitzpatrick": {
+        "win": 0.0038833333333333,
+        "top_5": 0.0309210515873016,
+        "top_10": 0.0775146669071669,
+        "top_20": 0.193071465525216,
         "make_cut": 1,
-        "dg_id": 16283
+        "dg_id": 25362
       },
       "J.T. Poston": {
-        "win": 0.0031333333333333,
-        "top_5": 0.0272111111111111,
-        "top_10": 0.0693680381192881,
-        "top_20": 0.178741715460465,
+        "win": 0.0038833333333333,
+        "top_5": 0.029713544973545,
+        "top_10": 0.0748418518518519,
+        "top_20": 0.187105170708921,
         "make_cut": 1,
         "dg_id": 21554
       },
-      "Brian Harman": {
-        "win": 0.0031166666666666,
-        "top_5": 0.0267648412698413,
-        "top_10": 0.0695968013468014,
-        "top_20": 0.174184965682466,
-        "make_cut": 1,
-        "dg_id": 8825
-      },
-      "Nick Taylor": {
-        "win": 0.00305,
-        "top_5": 0.0270102513227513,
-        "top_10": 0.0699915337902838,
-        "top_20": 0.181210654484404,
-        "make_cut": 1,
-        "dg_id": 13126
-      },
-      "Michael Kim": {
-        "win": 0.0028833333333333,
-        "top_5": 0.0221305952380952,
-        "top_10": 0.0575520508658009,
-        "top_20": 0.151310437062937,
-        "make_cut": 1,
-        "dg_id": 17543
-      },
       "Austin Smotherman": {
-        "win": 0.0028,
-        "top_5": 0.0260186772486772,
-        "top_10": 0.0665396404521404,
-        "top_20": 0.166766508782612,
+        "win": 0.0038166666666666,
+        "top_5": 0.0303969444444444,
+        "top_10": 0.0744208387445887,
+        "top_20": 0.181919385614386,
         "make_cut": 1,
         "dg_id": 22985
       },
+      "Sungjae Im": {
+        "win": 0.0037833333333333,
+        "top_5": 0.0301418121693122,
+        "top_10": 0.0707916373903874,
+        "top_20": 0.175019972758723,
+        "make_cut": 1,
+        "dg_id": 17488
+      },
+      "Patrick Rodgers": {
+        "win": 0.00375,
+        "top_5": 0.031803835978836,
+        "top_10": 0.0765902430902431,
+        "top_20": 0.187236548914049,
+        "make_cut": 1,
+        "dg_id": 16283
+      },
+      "Brian Harman": {
+        "win": 0.0032833333333333,
+        "top_5": 0.0262880032467532,
+        "top_10": 0.0668343157768158,
+        "top_20": 0.172934676897177,
+        "make_cut": 1,
+        "dg_id": 8825
+      },
+      "Michael Kim": {
+        "win": 0.0031833333333333,
+        "top_5": 0.0261096362433862,
+        "top_10": 0.0654890031265031,
+        "top_20": 0.16771980954231,
+        "make_cut": 1,
+        "dg_id": 17543
+      },
+      "Nick Taylor": {
+        "win": 0.0030833333333333,
+        "top_5": 0.0283618584656085,
+        "top_10": 0.0722618205405705,
+        "top_20": 0.184144566359566,
+        "make_cut": 1,
+        "dg_id": 13126
+      },
       "Denny Mccarthy": {
-        "win": 0.002,
-        "top_5": 0.0181855026455026,
-        "top_10": 0.0489788888888889,
-        "top_20": 0.136246447487697,
+        "win": 0.0025166666666666,
+        "top_5": 0.0195290746753247,
+        "top_10": 0.0522243061105561,
+        "top_20": 0.142521610704111,
         "make_cut": 1,
         "dg_id": 19870
       },
       "Chandler Blanchet": {
-        "win": 0.00185,
-        "top_5": 0.0169940013227513,
-        "top_10": 0.0465728884078884,
-        "top_20": 0.129808636733637,
+        "win": 0.0024333333333333,
+        "top_5": 0.0189158537758538,
+        "top_10": 0.0501704395141895,
+        "top_20": 0.135511724849225,
         "make_cut": 1,
         "dg_id": 24956
       },
       "Joel Dahmen": {
-        "win": 0.0012833333333333,
-        "top_5": 0.0124471097883598,
-        "top_10": 0.0357230092130092,
-        "top_20": 0.105056319005069,
+        "win": 0.00155,
+        "top_5": 0.0150747023809524,
+        "top_10": 0.04030598003848,
+        "top_20": 0.114397287897288,
         "make_cut": 1,
         "dg_id": 14509
       },
       "Andrew Putnam": {
-        "win": 0.0011833333333333,
-        "top_5": 0.0122842328042328,
-        "top_10": 0.0363361135161135,
-        "top_20": 0.110916225778579,
+        "win": 0.00125,
+        "top_5": 0.0133721560846561,
+        "top_10": 0.0388429972342472,
+        "top_20": 0.115696368515744,
         "make_cut": 1,
         "dg_id": 14704
       },
       "David Lipsky": {
-        "win": 0.0010666666666666,
-        "top_5": 0.0107830555555556,
-        "top_10": 0.0315544853294853,
-        "top_20": 0.0952033931808932,
+        "win": 0.0011833333333333,
+        "top_5": 0.0119211970899471,
+        "top_10": 0.0335264754689755,
+        "top_20": 0.100755532985533,
         "make_cut": 1,
         "dg_id": 15980
       },
       "Jhonattan Vegas": {
-        "win": 0.0009833333333333,
-        "top_5": 0.0090280753968254,
-        "top_10": 0.0263877164502164,
-        "top_20": 0.081830128991379,
+        "win": 0.0011666666666666,
+        "top_5": 0.0103097751322751,
+        "top_10": 0.0300308473470973,
+        "top_20": 0.0887421985884486,
         "make_cut": 1,
         "dg_id": 13508
       },
       "Tom Hoge": {
-        "win": 0.0008666666666666,
-        "top_5": 0.0096063888888888,
-        "top_10": 0.0262548232323232,
-        "top_20": 0.0832667178654679,
+        "win": 0.0010666666666666,
+        "top_5": 0.010349246031746,
+        "top_10": 0.0294922685185185,
+        "top_20": 0.0889156095756096,
         "make_cut": 1,
         "dg_id": 15575
       },
       "Nico Echavarria": {
-        "win": 0.0008166666666666,
-        "top_5": 0.0089674338624338,
-        "top_10": 0.0268298821548822,
-        "top_20": 0.0806022202797203,
+        "win": 0.00085,
+        "top_5": 0.0086832936507936,
+        "top_10": 0.026227784992785,
+        "top_20": 0.081373500989751,
         "make_cut": 1,
         "dg_id": 22833
       },
       "Lucas Glover": {
-        "win": 0.0002833333333333,
-        "top_5": 0.0046403835978836,
-        "top_10": 0.0158779761904762,
-        "top_20": 0.0556597307784808,
+        "win": 0.0004666666666666,
+        "top_5": 0.0050627116402116,
+        "top_10": 0.0166347246272246,
+        "top_20": 0.0588260224035224,
         "make_cut": 1,
         "dg_id": 7399
       },
       "Brian Campbell": {
         "win": 6.66666666666667e-05,
-        "top_5": 0.0010192063492063,
-        "top_10": 0.0039089021164021,
-        "top_20": 0.016654525012025,
+        "top_5": 0.0010393253968254,
+        "top_10": 0.0036206421356421,
+        "top_20": 0.0152020448070448,
         "make_cut": 1,
         "dg_id": 18628
       }
     },
-    "last_updated": "2026-04-28T14:12:29.901485-04:00"
+    "last_updated": "2026-04-29T02:42:24.976354-04:00"
   },
   "skill_ratings": {
     "by_player": {
@@ -8634,11 +10002,11 @@
         "player_name": "Martin Trainer"
       }
     },
-    "last_updated": "2026-04-28T14:12:29.901432-04:00"
+    "last_updated": "2026-04-29T02:42:24.976293-04:00"
   },
   "approach_skill": {
     "by_player": {},
-    "last_updated": "2026-04-28T14:12:29.901466-04:00"
+    "last_updated": "2026-04-29T02:42:24.976332-04:00"
   },
   "course_history": {
     "by_player": {}
@@ -8850,32 +10218,32 @@
       {
         "player": "Min Woo Lee",
         "odds": "+9000",
-        "edge": 0.022,
-        "note": "DG: 3.3% | Market: 1.1% | Edge: +2.2%"
-      },
-      {
-        "player": "Si Woo Kim",
-        "odds": "+8000",
-        "edge": 0.0155,
-        "note": "DG: 2.8% | Market: 1.2% | Edge: +1.6%"
+        "edge": 0.0202,
+        "note": "DG: 3.1% | Market: 1.1% | Edge: +2.0%"
       },
       {
         "player": "Jake Knapp",
         "odds": "+8000",
-        "edge": 0.0148,
-        "note": "DG: 2.7% | Market: 1.2% | Edge: +1.5%"
+        "edge": 0.0184,
+        "note": "DG: 3.1% | Market: 1.2% | Edge: +1.8%"
+      },
+      {
+        "player": "Si Woo Kim",
+        "odds": "+8000",
+        "edge": 0.0141,
+        "note": "DG: 2.6% | Market: 1.2% | Edge: +1.4%"
       },
       {
         "player": "Maverick Mcnealy",
         "odds": "+8000",
-        "edge": 0.0123,
-        "note": "DG: 2.5% | Market: 1.2% | Edge: +1.2%"
+        "edge": 0.014,
+        "note": "DG: 2.6% | Market: 1.2% | Edge: +1.4%"
       },
       {
         "player": "Russell Henley",
         "odds": "+7000",
-        "edge": 0.009,
-        "note": "DG: 2.3% | Market: 1.4% | Edge: +0.9%"
+        "edge": 0.0097,
+        "note": "DG: 2.4% | Market: 1.4% | Edge: +1.0%"
       },
       {
         "player": "Jacob Bridgeman",
@@ -8884,58 +10252,58 @@
         "note": "DG: 1.8% | Market: 1.0% | Edge: +0.9%"
       },
       {
-        "player": "Adam Scott",
-        "odds": "+12000",
-        "edge": 0.0086,
-        "note": "DG: 1.7% | Market: 0.8% | Edge: +0.9%"
-      },
-      {
         "player": "Sam Burns",
         "odds": "+8000",
-        "edge": 0.0076,
-        "note": "DG: 2.0% | Market: 1.2% | Edge: +0.8%"
+        "edge": 0.0085,
+        "note": "DG: 2.1% | Market: 1.2% | Edge: +0.9%"
+      },
+      {
+        "player": "Adam Scott",
+        "odds": "+12000",
+        "edge": 0.0085,
+        "note": "DG: 1.7% | Market: 0.8% | Edge: +0.9%"
       },
       {
         "player": "Ryo Hisatsune",
         "odds": "+45000",
-        "edge": 0.0075,
-        "note": "DG: 1.0% | Market: 0.2% | Edge: +0.8%"
-      },
-      {
-        "player": "Rickie Fowler",
-        "odds": "+17000",
-        "edge": 0.0066,
-        "note": "DG: 1.2% | Market: 0.6% | Edge: +0.7%"
-      },
-      {
-        "player": "Patrick Cantlay",
-        "odds": "+4500",
-        "edge": 0.0056,
-        "note": "DG: 2.7% | Market: 2.2% | Edge: +0.6%"
-      },
-      {
-        "player": "Ryan Gerard",
-        "odds": "+14000",
-        "edge": 0.0051,
-        "note": "DG: 1.2% | Market: 0.7% | Edge: +0.5%"
-      },
-      {
-        "player": "Sam Stevens",
-        "odds": "+20000",
-        "edge": 0.0049,
-        "note": "DG: 1.0% | Market: 0.5% | Edge: +0.5%"
-      },
-      {
-        "player": "Keith Mitchell",
-        "odds": "+15000",
-        "edge": 0.0048,
-        "note": "DG: 1.1% | Market: 0.7% | Edge: +0.5%"
+        "edge": 0.0083,
+        "note": "DG: 1.1% | Market: 0.2% | Edge: +0.8%"
       },
       {
         "player": "Matt Mccarty",
         "odds": "+40000",
+        "edge": 0.0059,
+        "note": "DG: 0.8% | Market: 0.2% | Edge: +0.6%"
+      },
+      {
+        "player": "Rickie Fowler",
+        "odds": "+17000",
+        "edge": 0.0054,
+        "note": "DG: 1.1% | Market: 0.6% | Edge: +0.5%"
+      },
+      {
+        "player": "Keith Mitchell",
+        "odds": "+15000",
         "edge": 0.0043,
-        "note": "DG: 0.7% | Market: 0.2% | Edge: +0.4%"
+        "note": "DG: 1.1% | Market: 0.7% | Edge: +0.4%"
+      },
+      {
+        "player": "Sahith Theegala",
+        "odds": "+13000",
+        "edge": 0.0042,
+        "note": "DG: 1.2% | Market: 0.8% | Edge: +0.4%"
+      },
+      {
+        "player": "Ryan Gerard",
+        "odds": "+14000",
+        "edge": 0.0039,
+        "note": "DG: 1.1% | Market: 0.7% | Edge: +0.4%"
+      },
+      {
+        "player": "Sam Stevens",
+        "odds": "+20000",
+        "edge": 0.0033,
+        "note": "DG: 0.8% | Market: 0.5% | Edge: +0.3%"
       }
     ],
     "tiers": {
@@ -9246,7 +10614,8 @@
       "No DG odds returned at 2026-04-27T12:00:17.022518-04:00",
       "No DG odds returned at 2026-04-27T13:56:03.393497-04:00",
       "No DG odds returned at 2026-04-28T03:43:25.769497-04:00",
-      "No DG odds returned at 2026-04-28T14:12:29.990323-04:00"
+      "No DG odds returned at 2026-04-28T14:12:29.990323-04:00",
+      "No DG odds returned at 2026-04-29T02:42:25.065317-04:00"
     ],
     "analysis_uncertainties": [
       "[Claude] > ⚠️ **CRITICAL DATA FLAG — READ BEFORE ANYTHING ELSE**",
@@ -10389,6 +11758,13 @@
     },
     {
       "time": "2026-04-28T14:12:29.991370-04:00",
+      "run_type": "manual",
+      "status": "complete",
+      "field_size": 72,
+      "odds_players": 113
+    },
+    {
+      "time": "2026-04-29T02:42:25.066252-04:00",
       "run_type": "manual",
       "status": "complete",
       "field_size": 72,
