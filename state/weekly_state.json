@@ -18,34 +18,27 @@
   "field": [
     {
       "am": 0,
+      "country": "SWE",
+      "dg_id": 23950,
+      "dg_rank": 8,
+      "owgr_rank": 14,
+      "player_name": "Aberg, Ludvig",
+      "player_num": 52955,
+      "pre_tourn_pageviews": 72,
+      "teetimes": [],
+      "tour_rank": "10"
+    },
+    {
+      "am": 0,
       "country": "USA",
       "dg_id": 17606,
       "dg_rank": 62,
       "owgr_rank": 40,
       "player_name": "Berger, Daniel",
       "player_num": 40026,
-      "pre_tourn_pageviews": 1081,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-04-30 13:00",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-01 09:45",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "30"
+      "pre_tourn_pageviews": 16,
+      "teetimes": [],
+      "tour_rank": "32"
     },
     {
       "am": 0,
@@ -55,27 +48,8 @@
       "owgr_rank": 24,
       "player_name": "Bhatia, Akshay",
       "player_num": 56630,
-      "pre_tourn_pageviews": 1384,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-04-30 10:35",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-01 13:50",
-          "wave": "late"
-        }
-      ],
+      "pre_tourn_pageviews": 24,
+      "teetimes": [],
       "tour_rank": "7"
     },
     {
@@ -86,28 +60,9 @@
       "owgr_rank": 103,
       "player_name": "Blanchet, Chandler",
       "player_num": 54788,
-      "pre_tourn_pageviews": 371,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-04-30 12:45",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-01 09:30",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "76"
+      "pre_tourn_pageviews": 9,
+      "teetimes": [],
+      "tour_rank": "74"
     },
     {
       "am": 0,
@@ -117,28 +72,9 @@
       "owgr_rank": 27,
       "player_name": "Bradley, Keegan",
       "player_num": 33141,
-      "pre_tourn_pageviews": 1131,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-04-30 14:35",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-01 11:20",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "81"
+      "pre_tourn_pageviews": 26,
+      "teetimes": [],
+      "tour_rank": "76"
     },
     {
       "am": 0,
@@ -148,27 +84,8 @@
       "owgr_rank": 19,
       "player_name": "Bridgeman, Jacob",
       "player_num": 60004,
-      "pre_tourn_pageviews": 1312,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-04-30 11:20",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-01 14:35",
-          "wave": "late"
-        }
-      ],
+      "pre_tourn_pageviews": 27,
+      "teetimes": [],
       "tour_rank": "5"
     },
     {
@@ -179,28 +96,9 @@
       "owgr_rank": 29,
       "player_name": "Burns, Sam",
       "player_num": 47504,
-      "pre_tourn_pageviews": 2019,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-04-30 13:50",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-01 10:35",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "22"
+      "pre_tourn_pageviews": 33,
+      "teetimes": [],
+      "tour_rank": "24"
     },
     {
       "am": 0,
@@ -210,28 +108,21 @@
       "owgr_rank": 100,
       "player_name": "Campbell, Brian",
       "player_num": 46443,
-      "pre_tourn_pageviews": 315,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-04-30 14:55",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-01 11:40",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "149"
+      "pre_tourn_pageviews": 9,
+      "teetimes": [],
+      "tour_rank": "142"
+    },
+    {
+      "am": 0,
+      "country": "USA",
+      "dg_id": 15466,
+      "dg_rank": 15,
+      "owgr_rank": 32,
+      "player_name": "Cantlay, Patrick",
+      "player_num": 35450,
+      "pre_tourn_pageviews": 30,
+      "teetimes": [],
+      "tour_rank": "40"
     },
     {
       "am": 0,
@@ -241,28 +132,9 @@
       "owgr_rank": 86,
       "player_name": "Castillo, Ricky",
       "player_num": 59440,
-      "pre_tourn_pageviews": 507,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-04-30 10:35",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-01 13:50",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "39"
+      "pre_tourn_pageviews": 12,
+      "teetimes": [],
+      "tour_rank": "44"
     },
     {
       "am": 0,
@@ -272,28 +144,9 @@
       "owgr_rank": 65,
       "player_name": "Cauley, Bud",
       "player_num": 34021,
-      "pre_tourn_pageviews": 485,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-04-30 08:50",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-01 12:05",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "44"
+      "pre_tourn_pageviews": 13,
+      "teetimes": [],
+      "tour_rank": "50"
     },
     {
       "am": 0,
@@ -303,28 +156,9 @@
       "owgr_rank": 44,
       "player_name": "Conners, Corey",
       "player_num": 39997,
-      "pre_tourn_pageviews": 982,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-04-30 13:30",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-01 10:15",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "72"
+      "pre_tourn_pageviews": 19,
+      "teetimes": [],
+      "tour_rank": "69"
     },
     {
       "am": 0,
@@ -334,59 +168,9 @@
       "owgr_rank": 53,
       "player_name": "Coody, Pierceson",
       "player_num": 59836,
-      "pre_tourn_pageviews": 1116,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-04-30 09:45",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-01 13:00",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "35"
-    },
-    {
-      "am": 0,
-      "country": "USA",
-      "dg_id": 14509,
-      "dg_rank": 176,
-      "owgr_rank": 181,
-      "player_name": "Dahmen, Joel",
-      "player_num": 34076,
-      "pre_tourn_pageviews": 364,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-04-30 09:00",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-01 12:15",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "92"
+      "pre_tourn_pageviews": 18,
+      "teetimes": [],
+      "tour_rank": "38"
     },
     {
       "am": 0,
@@ -396,28 +180,9 @@
       "owgr_rank": 39,
       "player_name": "Day, Jason",
       "player_num": 28089,
-      "pre_tourn_pageviews": 998,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-04-30 14:45",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-01 11:30",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "42"
+      "pre_tourn_pageviews": 32,
+      "teetimes": [],
+      "tour_rank": "47"
     },
     {
       "am": 0,
@@ -427,28 +192,9 @@
       "owgr_rank": 42,
       "player_name": "Echavarria, Nico",
       "player_num": 51349,
-      "pre_tourn_pageviews": 416,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-04-30 13:20",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-01 10:05",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "23"
+      "pre_tourn_pageviews": 7,
+      "teetimes": [],
+      "tour_rank": "28"
     },
     {
       "am": 0,
@@ -458,28 +204,21 @@
       "owgr_rank": 18,
       "player_name": "English, Harris",
       "player_num": 34099,
-      "pre_tourn_pageviews": 1644,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-04-30 10:15",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-01 13:30",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "31"
+      "pre_tourn_pageviews": 38,
+      "teetimes": [],
+      "tour_rank": "34"
+    },
+    {
+      "am": 0,
+      "country": "USA",
+      "dg_id": 11676,
+      "dg_rank": 165,
+      "owgr_rank": 116,
+      "player_name": "Finau, Tony",
+      "player_num": 29725,
+      "pre_tourn_pageviews": 15,
+      "teetimes": [],
+      "tour_rank": "78"
     },
     {
       "am": 0,
@@ -489,28 +228,21 @@
       "owgr_rank": 140,
       "player_name": "Fitzpatrick, Alex",
       "player_num": 55721,
-      "pre_tourn_pageviews": 1989,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-04-30 13:20",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-01 10:05",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "45"
+      "pre_tourn_pageviews": 90,
+      "teetimes": [],
+      "tour_rank": "39"
+    },
+    {
+      "am": 0,
+      "country": "ENG",
+      "dg_id": 17646,
+      "dg_rank": 4,
+      "owgr_rank": 3,
+      "player_name": "Fitzpatrick, Matt",
+      "player_num": 40098,
+      "pre_tourn_pageviews": 73,
+      "teetimes": [],
+      "tour_rank": "2"
     },
     {
       "am": 0,
@@ -520,28 +252,9 @@
       "owgr_rank": 7,
       "player_name": "Fleetwood, Tommy",
       "player_num": 30911,
-      "pre_tourn_pageviews": 1761,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-04-30 14:15",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-01 11:00",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "16"
+      "pre_tourn_pageviews": 61,
+      "teetimes": [],
+      "tour_rank": "17"
     },
     {
       "am": 0,
@@ -551,28 +264,9 @@
       "owgr_rank": 56,
       "player_name": "Fowler, Rickie",
       "player_num": 32102,
-      "pre_tourn_pageviews": 1335,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-04-30 14:25",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-01 11:10",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "36"
+      "pre_tourn_pageviews": 68,
+      "teetimes": [],
+      "tour_rank": "30"
     },
     {
       "am": 0,
@@ -582,28 +276,9 @@
       "owgr_rank": 55,
       "player_name": "Fox, Ryan",
       "player_num": 29936,
-      "pre_tourn_pageviews": 1085,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-04-30 12:25",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-01 09:10",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "56"
+      "pre_tourn_pageviews": 112,
+      "teetimes": [],
+      "tour_rank": "58"
     },
     {
       "am": 0,
@@ -613,28 +288,9 @@
       "owgr_rank": 33,
       "player_name": "Gerard, Ryan",
       "player_num": 59018,
-      "pre_tourn_pageviews": 817,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-04-30 14:45",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-01 11:30",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "21"
+      "pre_tourn_pageviews": 23,
+      "teetimes": [],
+      "tour_rank": "23"
     },
     {
       "am": 0,
@@ -644,28 +300,9 @@
       "owgr_rank": 92,
       "player_name": "Glover, Lucas",
       "player_num": 25900,
-      "pre_tourn_pageviews": 320,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-04-30 13:00",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-01 09:45",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "148"
+      "pre_tourn_pageviews": 14,
+      "teetimes": [],
+      "tour_rank": "109"
     },
     {
       "am": 0,
@@ -675,59 +312,9 @@
       "owgr_rank": 11,
       "player_name": "Gotterup, Chris",
       "player_num": 59095,
-      "pre_tourn_pageviews": 3870,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-04-30 14:05",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-01 10:50",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "6"
-    },
-    {
-      "am": 0,
-      "country": "USA",
-      "dg_id": 23465,
-      "dg_rank": 116,
-      "owgr_rank": 67,
-      "player_name": "Greyserman, Max",
-      "player_num": 51977,
-      "pre_tourn_pageviews": 560,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-04-30 12:15",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-01 09:00",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "117"
+      "pre_tourn_pageviews": 80,
+      "teetimes": [],
+      "tour_rank": "8"
     },
     {
       "am": 0,
@@ -737,28 +324,9 @@
       "owgr_rank": 16,
       "player_name": "Griffin, Ben",
       "player_num": 54591,
-      "pre_tourn_pageviews": 706,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-04-30 10:05",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-01 13:20",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "66"
+      "pre_tourn_pageviews": 52,
+      "teetimes": [],
+      "tour_rank": "33"
     },
     {
       "am": 0,
@@ -768,28 +336,9 @@
       "owgr_rank": 64,
       "player_name": "Hall, Harry",
       "player_num": 57975,
-      "pre_tourn_pageviews": 393,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-04-30 10:25",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-01 13:40",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "54"
+      "pre_tourn_pageviews": 7,
+      "teetimes": [],
+      "tour_rank": "56"
     },
     {
       "am": 0,
@@ -799,59 +348,9 @@
       "owgr_rank": 51,
       "player_name": "Harman, Brian",
       "player_num": 27644,
-      "pre_tourn_pageviews": 449,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-04-30 10:15",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-01 13:30",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "59"
-    },
-    {
-      "am": 0,
-      "country": "USA",
-      "dg_id": 14578,
-      "dg_rank": 7,
-      "owgr_rank": 8,
-      "player_name": "Henley, Russell",
-      "player_num": 34098,
-      "pre_tourn_pageviews": 1309,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-04-30 13:40",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-01 10:25",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "15"
+      "pre_tourn_pageviews": 17,
+      "teetimes": [],
+      "tour_rank": "62"
     },
     {
       "am": 0,
@@ -861,28 +360,9 @@
       "owgr_rank": 57,
       "player_name": "Hisatsune, Ryo",
       "player_num": 51287,
-      "pre_tourn_pageviews": 929,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-04-30 09:30",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-01 12:45",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "25"
+      "pre_tourn_pageviews": 12,
+      "teetimes": [],
+      "tour_rank": "29"
     },
     {
       "am": 0,
@@ -892,27 +372,8 @@
       "owgr_rank": 115,
       "player_name": "Hoge, Tom",
       "player_num": 35532,
-      "pre_tourn_pageviews": 378,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-04-30 09:00",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-01 12:15",
-          "wave": "late"
-        }
-      ],
+      "pre_tourn_pageviews": 9,
+      "teetimes": [],
       "tour_rank": "73"
     },
     {
@@ -923,27 +384,8 @@
       "owgr_rank": 37,
       "player_name": "Hojgaard, Nicolai",
       "player_num": 52453,
-      "pre_tourn_pageviews": 1741,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-04-30 13:10",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-01 09:55",
-          "wave": "early"
-        }
-      ],
+      "pre_tourn_pageviews": 44,
+      "teetimes": [],
       "tour_rank": "27"
     },
     {
@@ -954,28 +396,9 @@
       "owgr_rank": 118,
       "player_name": "Homa, Max",
       "player_num": 39977,
-      "pre_tourn_pageviews": 1035,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-04-30 12:15",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-01 09:00",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "57"
+      "pre_tourn_pageviews": 49,
+      "teetimes": [],
+      "tour_rank": "61"
     },
     {
       "am": 0,
@@ -985,28 +408,21 @@
       "owgr_rank": 26,
       "player_name": "Hovland, Viktor",
       "player_num": 46717,
-      "pre_tourn_pageviews": 2042,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-04-30 14:15",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-01 11:00",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "55"
+      "pre_tourn_pageviews": 47,
+      "teetimes": [],
+      "tour_rank": "60"
+    },
+    {
+      "am": 0,
+      "country": "CAN",
+      "dg_id": 15556,
+      "dg_rank": 135,
+      "owgr_rank": 134,
+      "player_name": "Hughes, Mackenzie",
+      "player_num": 35506,
+      "pre_tourn_pageviews": 17,
+      "teetimes": [],
+      "tour_rank": "129"
     },
     {
       "am": 0,
@@ -1016,28 +432,9 @@
       "owgr_rank": 76,
       "player_name": "Im, Sungjae",
       "player_num": 39971,
-      "pre_tourn_pageviews": 708,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-04-30 09:55",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-01 13:10",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "105"
+      "pre_tourn_pageviews": 20,
+      "teetimes": [],
+      "tour_rank": "104"
     },
     {
       "am": 0,
@@ -1047,28 +444,9 @@
       "owgr_rank": 43,
       "player_name": "Kim, Michael",
       "player_num": 39975,
-      "pre_tourn_pageviews": 428,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-04-30 12:05",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-01 08:50",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "52"
+      "pre_tourn_pageviews": 7,
+      "teetimes": [],
+      "tour_rank": "51"
     },
     {
       "am": 0,
@@ -1078,28 +456,9 @@
       "owgr_rank": 25,
       "player_name": "Kim, Si Woo",
       "player_num": 37455,
-      "pre_tourn_pageviews": 1503,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-04-30 13:40",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-01 10:25",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "10"
+      "pre_tourn_pageviews": 60,
+      "teetimes": [],
+      "tour_rank": "6"
     },
     {
       "am": 0,
@@ -1109,28 +468,9 @@
       "owgr_rank": 34,
       "player_name": "Kitayama, Kurt",
       "player_num": 48117,
-      "pre_tourn_pageviews": 1786,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-04-30 11:55",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-01 08:40",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "24"
+      "pre_tourn_pageviews": 32,
+      "teetimes": [],
+      "tour_rank": "19"
     },
     {
       "am": 0,
@@ -1140,28 +480,9 @@
       "owgr_rank": 36,
       "player_name": "Knapp, Jake",
       "player_num": 47420,
-      "pre_tourn_pageviews": 2843,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-04-30 12:35",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-01 09:20",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "13"
+      "pre_tourn_pageviews": 23,
+      "teetimes": [],
+      "tour_rank": "14"
     },
     {
       "am": 0,
@@ -1171,28 +492,9 @@
       "owgr_rank": 31,
       "player_name": "Lee, Min Woo",
       "player_num": 37378,
-      "pre_tourn_pageviews": 2713,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-04-30 11:30",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-01 14:45",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "12"
+      "pre_tourn_pageviews": 41,
+      "teetimes": [],
+      "tour_rank": "13"
     },
     {
       "am": 0,
@@ -1202,59 +504,21 @@
       "owgr_rank": 89,
       "player_name": "Lipsky, David",
       "player_num": 36326,
-      "pre_tourn_pageviews": 359,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-04-30 09:20",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-01 12:35",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "49"
+      "pre_tourn_pageviews": 6,
+      "teetimes": [],
+      "tour_rank": "55"
     },
     {
       "am": 0,
-      "country": "IRL",
-      "dg_id": 13900,
-      "dg_rank": 28,
-      "owgr_rank": 35,
-      "player_name": "Lowry, Shane",
-      "player_num": 33204,
-      "pre_tourn_pageviews": 1081,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-04-30 14:35",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-01 11:20",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "41"
+      "country": "SCO",
+      "dg_id": 23323,
+      "dg_rank": 13,
+      "owgr_rank": 12,
+      "player_name": "MacIntyre, Robert",
+      "player_num": 52215,
+      "pre_tourn_pageviews": 35,
+      "teetimes": [],
+      "tour_rank": "21"
     },
     {
       "am": 0,
@@ -1264,28 +528,9 @@
       "owgr_rank": 15,
       "player_name": "Matsuyama, Hideki",
       "player_num": 32839,
-      "pre_tourn_pageviews": 2269,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-04-30 14:05",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-01 10:50",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "18"
+      "pre_tourn_pageviews": 45,
+      "teetimes": [],
+      "tour_rank": "20"
     },
     {
       "am": 0,
@@ -1295,28 +540,9 @@
       "owgr_rank": 93,
       "player_name": "McCarthy, Denny",
       "player_num": 47993,
-      "pre_tourn_pageviews": 348,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-04-30 09:30",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-01 12:45",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "107"
+      "pre_tourn_pageviews": 18,
+      "teetimes": [],
+      "tour_rank": "94"
     },
     {
       "am": 0,
@@ -1326,28 +552,21 @@
       "owgr_rank": 47,
       "player_name": "McCarty, Matt",
       "player_num": 59141,
-      "pre_tourn_pageviews": 543,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-04-30 09:20",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-01 12:35",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "38"
+      "pre_tourn_pageviews": 17,
+      "teetimes": [],
+      "tour_rank": "31"
+    },
+    {
+      "am": 0,
+      "country": "NIR",
+      "dg_id": 10091,
+      "dg_rank": 3,
+      "owgr_rank": 2,
+      "player_name": "McIlroy, Rory",
+      "player_num": 28237,
+      "pre_tourn_pageviews": 148,
+      "teetimes": [],
+      "tour_rank": "9"
     },
     {
       "am": 0,
@@ -1357,59 +576,9 @@
       "owgr_rank": 30,
       "player_name": "McNealy, Maverick",
       "player_num": 46442,
-      "pre_tourn_pageviews": 1095,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-04-30 09:55",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-01 13:10",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "40"
-    },
-    {
-      "am": 0,
-      "country": "USA",
-      "dg_id": 17365,
-      "dg_rank": 48,
-      "owgr_rank": 108,
-      "player_name": "Mitchell, Keith",
-      "player_num": 39546,
-      "pre_tourn_pageviews": 1027,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-04-30 11:40",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-01 14:55",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "62"
+      "pre_tourn_pageviews": 25,
+      "teetimes": [],
+      "tour_rank": "43"
     },
     {
       "am": 0,
@@ -1419,28 +588,9 @@
       "owgr_rank": 6,
       "player_name": "Morikawa, Collin",
       "player_num": 50525,
-      "pre_tourn_pageviews": 2352,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-04-30 14:25",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-01 11:10",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "3"
+      "pre_tourn_pageviews": 47,
+      "teetimes": [],
+      "tour_rank": "4"
     },
     {
       "am": 0,
@@ -1450,28 +600,9 @@
       "owgr_rank": 22,
       "player_name": "Noren, Alex",
       "player_num": 27349,
-      "pre_tourn_pageviews": 515,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-04-30 12:25",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-01 09:10",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "65"
+      "pre_tourn_pageviews": 27,
+      "teetimes": [],
+      "tour_rank": "46"
     },
     {
       "am": 0,
@@ -1481,28 +612,9 @@
       "owgr_rank": 52,
       "player_name": "Novak, Andrew",
       "player_num": 51997,
-      "pre_tourn_pageviews": 639,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-04-30 13:50",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-01 10:35",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "61"
+      "pre_tourn_pageviews": 12,
+      "teetimes": [],
+      "tour_rank": "64"
     },
     {
       "am": 0,
@@ -1512,28 +624,9 @@
       "owgr_rank": 82,
       "player_name": "Pendrith, Taylor",
       "player_num": 40250,
-      "pre_tourn_pageviews": 651,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-04-30 09:10",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-01 12:25",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "94"
+      "pre_tourn_pageviews": 28,
+      "teetimes": [],
+      "tour_rank": "88"
     },
     {
       "am": 0,
@@ -1543,28 +636,9 @@
       "owgr_rank": 80,
       "player_name": "Poston, J.T.",
       "player_num": 49771,
-      "pre_tourn_pageviews": 285,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-04-30 12:35",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-01 09:20",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "123"
+      "pre_tourn_pageviews": 13,
+      "teetimes": [],
+      "tour_rank": "117"
     },
     {
       "am": 0,
@@ -1574,59 +648,21 @@
       "owgr_rank": 77,
       "player_name": "Potgieter, Aldrich",
       "player_num": 63343,
-      "pre_tourn_pageviews": 1182,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-04-30 12:45",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-01 09:30",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "47"
+      "pre_tourn_pageviews": 36,
+      "teetimes": [],
+      "tour_rank": "48"
     },
     {
       "am": 0,
-      "country": "USA",
-      "dg_id": 14704,
-      "dg_rank": 76,
-      "owgr_rank": 88,
-      "player_name": "Putnam, Andrew",
-      "player_num": 34256,
-      "pre_tourn_pageviews": 355,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-04-30 09:45",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-01 13:00",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "48"
+      "country": "NOR",
+      "dg_id": 21407,
+      "dg_rank": 71,
+      "owgr_rank": 48,
+      "player_name": "Reitan, Kristoffer",
+      "player_num": 49855,
+      "pre_tourn_pageviews": 32,
+      "teetimes": [],
+      "tour_rank": "54"
     },
     {
       "am": 0,
@@ -1636,28 +672,9 @@
       "owgr_rank": 73,
       "player_name": "Rodgers, Patrick",
       "player_num": 36699,
-      "pre_tourn_pageviews": 630,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-04-30 08:40",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-01 11:55",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "34"
+      "pre_tourn_pageviews": 12,
+      "teetimes": [],
+      "tour_rank": "41"
     },
     {
       "am": 0,
@@ -1667,59 +684,21 @@
       "owgr_rank": 5,
       "player_name": "Rose, Justin",
       "player_num": 22405,
-      "pre_tourn_pageviews": 1894,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-04-30 11:00",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-01 14:15",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "14"
+      "pre_tourn_pageviews": 40,
+      "teetimes": [],
+      "tour_rank": "15"
     },
     {
       "am": 0,
       "country": "USA",
-      "dg_id": 18417,
-      "dg_rank": 1,
-      "owgr_rank": 1,
-      "player_name": "Scheffler, Scottie",
-      "player_num": 46046,
-      "pre_tourn_pageviews": 2626,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-04-30 10:50",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-01 14:05",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "2"
+      "dg_id": 19895,
+      "dg_rank": 5,
+      "owgr_rank": 9,
+      "player_name": "Schauffele, Xander",
+      "player_num": 48081,
+      "pre_tourn_pageviews": 91,
+      "teetimes": [],
+      "tour_rank": "12"
     },
     {
       "am": 0,
@@ -1729,28 +708,21 @@
       "owgr_rank": 54,
       "player_name": "Scott, Adam",
       "player_num": 24502,
-      "pre_tourn_pageviews": 2584,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-04-30 11:00",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-01 14:15",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "28"
+      "pre_tourn_pageviews": 87,
+      "teetimes": [],
+      "tour_rank": "16"
+    },
+    {
+      "am": 0,
+      "country": "USA",
+      "dg_id": 11049,
+      "dg_rank": 183,
+      "owgr_rank": 430,
+      "player_name": "Simpson, Webb",
+      "player_num": 29221,
+      "pre_tourn_pageviews": 7,
+      "teetimes": [],
+      "tour_rank": "154"
     },
     {
       "am": 0,
@@ -1760,90 +732,9 @@
       "owgr_rank": 104,
       "player_name": "Smalley, Alex",
       "player_num": 46340,
-      "pre_tourn_pageviews": 948,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-04-30 11:40",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-01 14:55",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "50"
-    },
-    {
-      "am": 0,
-      "country": "ENG",
-      "dg_id": 18586,
-      "dg_rank": 58,
-      "owgr_rank": 67,
-      "player_name": "Smith, Jordan",
-      "player_num": 46464,
-      "pre_tourn_pageviews": 947,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-04-30 11:30",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-01 14:45",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "51"
-    },
-    {
-      "am": 0,
-      "country": "USA",
-      "dg_id": 22985,
-      "dg_rank": 131,
-      "owgr_rank": 87,
-      "player_name": "Smotherman, Austin",
-      "player_num": 50095,
-      "pre_tourn_pageviews": 628,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-04-30 12:05",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-01 08:50",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "46"
+      "pre_tourn_pageviews": 42,
+      "teetimes": [],
+      "tour_rank": "35"
     },
     {
       "am": 0,
@@ -1853,28 +744,9 @@
       "owgr_rank": 10,
       "player_name": "Spaun, J.J.",
       "player_num": 39324,
-      "pre_tourn_pageviews": 1090,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-04-30 10:05",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-01 13:20",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "29"
+      "pre_tourn_pageviews": 28,
+      "teetimes": [],
+      "tour_rank": "25"
     },
     {
       "am": 0,
@@ -1884,27 +756,8 @@
       "owgr_rank": 50,
       "player_name": "Spieth, Jordan",
       "player_num": 34046,
-      "pre_tourn_pageviews": 1583,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-04-30 11:10",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-01 14:25",
-          "wave": "late"
-        }
-      ],
+      "pre_tourn_pageviews": 54,
+      "teetimes": [],
       "tour_rank": "37"
     },
     {
@@ -1915,28 +768,9 @@
       "owgr_rank": 46,
       "player_name": "Stevens, Sam",
       "player_num": 55893,
-      "pre_tourn_pageviews": 969,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-04-30 14:55",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-01 11:40",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "43"
+      "pre_tourn_pageviews": 12,
+      "teetimes": [],
+      "tour_rank": "45"
     },
     {
       "am": 0,
@@ -1946,28 +780,9 @@
       "owgr_rank": 13,
       "player_name": "Straka, Sepp",
       "player_num": 49960,
-      "pre_tourn_pageviews": 1055,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-04-30 10:25",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-01 13:40",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "19"
+      "pre_tourn_pageviews": 39,
+      "teetimes": [],
+      "tour_rank": "11"
     },
     {
       "am": 0,
@@ -1977,28 +792,9 @@
       "owgr_rank": 66,
       "player_name": "Taylor, Nick",
       "player_num": 25493,
-      "pre_tourn_pageviews": 373,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-04-30 13:10",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-01 09:55",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "64"
+      "pre_tourn_pageviews": 11,
+      "teetimes": [],
+      "tour_rank": "52"
     },
     {
       "am": 0,
@@ -2008,27 +804,8 @@
       "owgr_rank": 74,
       "player_name": "Theegala, Sahith",
       "player_num": 51634,
-      "pre_tourn_pageviews": 1044,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-04-30 09:10",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-01 12:25",
-          "wave": "late"
-        }
-      ],
+      "pre_tourn_pageviews": 18,
+      "teetimes": [],
       "tour_rank": "26"
     },
     {
@@ -2039,59 +816,9 @@
       "owgr_rank": 17,
       "player_name": "Thomas, Justin",
       "player_num": 33448,
-      "pre_tourn_pageviews": 1103,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-04-30 11:10",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-01 14:25",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "71"
-    },
-    {
-      "am": 0,
-      "country": "USA",
-      "dg_id": 26649,
-      "dg_rank": 54,
-      "owgr_rank": 59,
-      "player_name": "Thorbjornsen, Michael",
-      "player_num": 57364,
-      "pre_tourn_pageviews": 892,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-04-30 13:30",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-01 10:15",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "53"
+      "pre_tourn_pageviews": 32,
+      "teetimes": [],
+      "tour_rank": "67"
     },
     {
       "am": 0,
@@ -2101,28 +828,9 @@
       "owgr_rank": 112,
       "player_name": "Vegas, Jhonattan",
       "player_num": 27064,
-      "pre_tourn_pageviews": 541,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-04-30 08:50",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-01 12:05",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "112"
+      "pre_tourn_pageviews": 8,
+      "teetimes": [],
+      "tour_rank": "110"
     },
     {
       "am": 0,
@@ -2132,28 +840,9 @@
       "owgr_rank": 69,
       "player_name": "Wallace, Matt",
       "player_num": 48887,
-      "pre_tourn_pageviews": 391,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-04-30 08:40",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-01 11:55",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "68"
+      "pre_tourn_pageviews": 11,
+      "teetimes": [],
+      "tour_rank": "66"
     },
     {
       "am": 0,
@@ -2163,28 +852,9 @@
       "owgr_rank": 45,
       "player_name": "Woodland, Gary",
       "player_num": 31323,
-      "pre_tourn_pageviews": 2165,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-04-30 11:20",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-01 14:35",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "20"
+      "pre_tourn_pageviews": 39,
+      "teetimes": [],
+      "tour_rank": "22"
     },
     {
       "am": 0,
@@ -2194,28 +864,9 @@
       "owgr_rank": 113,
       "player_name": "Yellamaraju, Sudarshan",
       "player_num": 60386,
-      "pre_tourn_pageviews": 1258,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-04-30 11:55",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-01 08:40",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "32"
+      "pre_tourn_pageviews": 26,
+      "teetimes": [],
+      "tour_rank": "36"
     },
     {
       "am": 0,
@@ -2225,28 +876,9 @@
       "owgr_rank": 4,
       "player_name": "Young, Cameron",
       "player_num": 57366,
-      "pre_tourn_pageviews": 3136,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-04-30 10:50",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "Trump National Doral (Blue Monster)",
-          "course_num": 8,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-01 14:05",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "4"
+      "pre_tourn_pageviews": 254,
+      "teetimes": [],
+      "tour_rank": "3"
     }
   ],
   "odds": {
@@ -3963,7 +2595,7 @@
         "dg_id": 18628
       }
     },
-    "last_updated": "2026-04-29T19:14:10.034175-04:00"
+    "last_updated": "2026-05-04T06:34:19.895288-04:00"
   },
   "skill_ratings": {
     "by_player": {
@@ -10002,11 +8634,11 @@
         "player_name": "Martin Trainer"
       }
     },
-    "last_updated": "2026-04-29T19:14:10.034127-04:00"
+    "last_updated": "2026-05-04T06:34:19.895227-04:00"
   },
   "approach_skill": {
     "by_player": {},
-    "last_updated": "2026-04-29T19:14:10.034160-04:00"
+    "last_updated": "2026-05-04T06:34:19.895264-04:00"
   },
   "course_history": {
     "by_player": {}
@@ -10212,7 +8844,7 @@
     "prior_year_summary_text": "═══════════════════════════════════════════════════════════════\nPRIOR YEAR COURSE BREAKDOWN (structural only — player notes discarded)\n⚠️  PRIOR YEAR CONTENT: Course structure only. All player-specific notes are from last year and have been discarded. Do not use for current player assessment.\n═══════════════════════════════════════════════════════════════\nPlayer-specific paragraphs discarded: 2"
   },
   "analysis": {
-    "briefing_paragraph": "Harbour Town is one of the most honest course-fit tests on the Tour calendar, and I genuinely look forward to it every year because the pretenders get exposed fast. This is a TIGHT, COMPRESSED-distance track where the premium is almost entirely on accuracy off the tee, approach play into small, firm greens, and short game when you inevitably miss. ARG is the dominant stat here — not raw ball-striking, not distance, not even pure SG:APP in isolation. It's the combination of finding fairways, controlling trajectory and angle into elevated or guarded greens, and scrambling when the angle punishes you. Historical driving accuracy at Harbour Town runs around 68% — well above tour average — which means bombers who sacrifice accuracy are actively penalized, not just neutral. Distance multiplier is COMPRESSED, meaning long hitters get essentially no structural edge. The rough penalty is HIGH and the angle penalty is HIGH — miss the fairway here and you're not just in a bad lie, you're staring at a completely different shot shape requirement. Course management is a real differentiator. This is one of the few events where I actually upgrade the smart, shorter, accurate players and fade the distance guys who can't hit fairways. Webb Simpson famously dominated this venue for years — the archetype is clear. Weather data is not yet in, but wind relevance at Harbour Town is MODERATE. It's a coastal track on Hilton Head and can absolutely get breezy — any sustained wind tightens the course even further and adds another layer to the approach premium. No weather numbers yet, so I'll hold full wind reads for the midweek update. A few player narratives worth flagging now: Collin Morikawa is the first name I'm writing on the card conceptually — EXTRA CONFIRM PLUS at approach-dominant accuracy courses, full stop, and this is one of the best examples of that archetype on the schedule. I need to confirm his recent form and health before committing, but course fit is as strong as it gets. Matt Fitzpatrick is another name who should show up well here — accuracy driver, elite iron play, exactly the profile Harbour Town rewards. On the fallen star watch, Viktor Hovland's EXTRA CONFIRM status triggers at 40/1+ and I need to check his current form — if the ball-striking has stabilized at all, Harbour Town could be a bounce-back spot given the reduced distance penalty. The field notes are relatively clean: this is a signature event so it draws well, but the TIGHT course will naturally eliminate a chunk of the field by Round 2. No designated-event red flags jumping out. Stat data came in very thin this week — only 2/50 players matched — so I'm working heavily from framework designations, course fit, and career profiles. That's noted prominently and will be resolved when full odds and data arrive Monday. ---\n\n[Odds note Mon 10:11PM ET] I'm seeing an empty current rankings array `[]` fed in as my pre-odds analysis. **I have no prior course/form analysis to layer odds onto.** This means I'm working without the foundational ball-striking profiles, recent form windows, course-fit assessments, and SG breakdowns that the framework requires before odds even enter the conversation.\n\n**What I can do here:** Give you the odds structure analysis, flag pricing anomalies, and identify where the market is likely soft — but I want to be transparent that any \"value\" calls below are based on general Harbour Town knowledge and these players' publicly known profiles, NOT a completed framework analysis. The full bet card should be treated as directional, not final, until the form/course analysis is run and merged.\n\n**Scheffler at +380 (20.8% implied)** is doing heavy lifting at the top. That's a steep chalk price for a field with genuine contenders. The book is essentially saying 1-in-5 chance for the world #1, which historically at Harbour Town is aggressive — this course has bitten Scheffler before, it rewards precision and local knowledge over raw dominance.\n\n[Odds note Mon 10:34AM ET] > **CRITICAL NOTE:** I'm flagging immediately that my current rankings list came through empty `[]`. I'm going to build the value analysis from the odds snapshot and my framework principles, but I want to be transparent — I don't have the pre-odds course/form tier rankings loaded in this session. I'll work from what the odds are telling me and apply the framework, but **flag this to yourself**: you'll want to cross-reference my value calls against your form notes before pulling the trigger. Everything below is odds-layer analysis grounded in framework principles.\n\n**1. Bryson DeChambeau at +1000 (9.1% implied)**\nBryson is a LIV player. He does not have Heritage eligibility in 2026 under current tour structure unless there's been a policy change I need to flag. Either this is a stale line, a book error, or eligibility rules have shifted. **Do not bet until confirmed eligible.**\n\n**2. Jon Rahm at +1200 (7.7% implied)**\nSame LIV concern. Rahm left for LIV — if he's on this board legitimately, flag it. Could be a cross-market error. Worth verifying before treating as actionable.\n\n[Odds note Wed 08:04PM ET] > **⚠️ CRITICAL SYSTEM NOTE**\n> The \"Current Rankings\" input came through **empty** — no pre-built course/form rankings were passed into this session. I'm working from my trained framework knowledge of Harbour Town and 2026 form through late April, but I'm flagging this hard: **the odds layer is only as good as the course/form layer beneath it.** If you ran a separate analysis session, cross-reference before placing anything.\n\n- **Precision iron play is non-negotiable.** Small greens, tight Bermuda, tree-lined corridors. APP is king here.\n- **Distance is neutral to slightly negative.** Bombers who can't shape shots get exposed.\n- **Putting on Bermuda** matters more here than at most non-major venues. Can't completely dismiss it.\n- **The field is strong** (post-Masters hangover gone, FedEx points push). Depth pricing will be compressed.\n- **Recent form window:** Last 6-8 weeks only. Anyone leaning on 2024 Heritage results as primary evidence is a trap.\n\nI'm building my own probability estimates from the framework and comparing against market implied prob. Positive gap = value. Negative gap = fade territory.",
+    "briefing_paragraph": "Harbour Town is one of the most honest course-fit tests on the Tour calendar, and I genuinely look forward to it every year because the pretenders get exposed fast. This is a TIGHT, COMPRESSED-distance track where the premium is almost entirely on accuracy off the tee, approach play into small, firm greens, and short game when you inevitably miss. ARG is the dominant stat here — not raw ball-striking, not distance, not even pure SG:APP in isolation. It's the combination of finding fairways, controlling trajectory and angle into elevated or guarded greens, and scrambling when the angle punishes you. Historical driving accuracy at Harbour Town runs around 68% — well above tour average — which means bombers who sacrifice accuracy are actively penalized, not just neutral. Distance multiplier is COMPRESSED, meaning long hitters get essentially no structural edge. The rough penalty is HIGH and the angle penalty is HIGH — miss the fairway here and you're not just in a bad lie, you're staring at a completely different shot shape requirement. Course management is a real differentiator. This is one of the few events where I actually upgrade the smart, shorter, accurate players and fade the distance guys who can't hit fairways. Webb Simpson famously dominated this venue for years — the archetype is clear. Weather data is not yet in, but wind relevance at Harbour Town is MODERATE. It's a coastal track on Hilton Head and can absolutely get breezy — any sustained wind tightens the course even further and adds another layer to the approach premium. No weather numbers yet, so I'll hold full wind reads for the midweek update. A few player narratives worth flagging now: Collin Morikawa is the first name I'm writing on the card conceptually — EXTRA CONFIRM PLUS at approach-dominant accuracy courses, full stop, and this is one of the best examples of that archetype on the schedule. I need to confirm his recent form and health before committing, but course fit is as strong as it gets. Matt Fitzpatrick is another name who should show up well here — accuracy driver, elite iron play, exactly the profile Harbour Town rewards. On the fallen star watch, Viktor Hovland's EXTRA CONFIRM status triggers at 40/1+ and I need to check his current form — if the ball-striking has stabilized at all, Harbour Town could be a bounce-back spot given the reduced distance penalty. The field notes are relatively clean: this is a signature event so it draws well, but the TIGHT course will naturally eliminate a chunk of the field by Round 2. No designated-event red flags jumping out. Stat data came in very thin this week — only 2/50 players matched — so I'm working heavily from framework designations, course fit, and career profiles. That's noted prominently and will be resolved when full odds and data arrive Monday. ---\n\n[Odds note Mon 10:11PM ET] I'm seeing an empty current rankings array `[]` fed in as my pre-odds analysis. **I have no prior course/form analysis to layer odds onto.** This means I'm working without the foundational ball-striking profiles, recent form windows, course-fit assessments, and SG breakdowns that the framework requires before odds even enter the conversation.\n\n**What I can do here:** Give you the odds structure analysis, flag pricing anomalies, and identify where the market is likely soft — but I want to be transparent that any \"value\" calls below are based on general Harbour Town knowledge and these players' publicly known profiles, NOT a completed framework analysis. The full bet card should be treated as directional, not final, until the form/course analysis is run and merged.\n\n**Scheffler at +380 (20.8% implied)** is doing heavy lifting at the top. That's a steep chalk price for a field with genuine contenders. The book is essentially saying 1-in-5 chance for the world #1, which historically at Harbour Town is aggressive — this course has bitten Scheffler before, it rewards precision and local knowledge over raw dominance.\n\n[Odds note Mon 10:34AM ET] > **CRITICAL NOTE:** I'm flagging immediately that my current rankings list came through empty `[]`. I'm going to build the value analysis from the odds snapshot and my framework principles, but I want to be transparent — I don't have the pre-odds course/form tier rankings loaded in this session. I'll work from what the odds are telling me and apply the framework, but **flag this to yourself**: you'll want to cross-reference my value calls against your form notes before pulling the trigger. Everything below is odds-layer analysis grounded in framework principles.\n\n**1. Bryson DeChambeau at +1000 (9.1% implied)**\nBryson is a LIV player. He does not have Heritage eligibility in 2026 under current tour structure unless there's been a policy change I need to flag. Either this is a stale line, a book error, or eligibility rules have shifted. **Do not bet until confirmed eligible.**\n\n**2. Jon Rahm at +1200 (7.7% implied)**\nSame LIV concern. Rahm left for LIV — if he's on this board legitimately, flag it. Could be a cross-market error. Worth verifying before treating as actionable.\n\n[Odds note Wed 08:04PM ET] > **⚠️ CRITICAL SYSTEM NOTE**\n> The \"Current Rankings\" input came through **empty** — no pre-built course/form rankings were passed into this session. I'm working from my trained framework knowledge of Harbour Town and 2026 form through late April, but I'm flagging this hard: **the odds layer is only as good as the course/form layer beneath it.** If you ran a separate analysis session, cross-reference before placing anything.\n\n- **Precision iron play is non-negotiable.** Small greens, tight Bermuda, tree-lined corridors. APP is king here.\n- **Distance is neutral to slightly negative.** Bombers who can't shape shots get exposed.\n- **Putting on Bermuda** matters more here than at most non-major venues. Can't completely dismiss it.\n- **The field is strong** (post-Masters hangover gone, FedEx points push). Depth pricing will be compressed.\n- **Recent form window:** Last 6-8 weeks only. Anyone leaning on 2024 Heritage results as primary evidence is a trap.\n\nI'm building my own probability estimates from the framework and comparing against market implied prob. Positive gap = value. Negative gap = fade territory.\n\n[Odds note Mon 10:34AM ET] I'm being asked to layer odds onto current rankings, but the rankings array is **empty** — `[]`. No prior course/form analysis was passed into this session. I don't have the pre-built rankings to layer against.\n\n**I will not fabricate a prior analysis.** That would violate the core framework principle: *articles are inputs, framework makes decisions* — and I can't pretend I already did work I didn't do.\n\n**Option A — Full Analysis From Scratch**\nGive me the course/form data you have (recent SG splits, Heritage history, current form notes) and I'll build the complete framework analysis + odds layer in one pass.",
     "overall_ranking": [],
     "value_ranking": [
       {
@@ -10510,133 +9142,17 @@
       "C": [],
       "FADE": [
         {
-          "player": "JUSTIN THOMAS",
-          "reason": "+2500 (3.85% implied)"
+          "player": "Xander at 16/1",
+          "reason": "solid Harbour Town history, but need recent SG to confirm"
         },
         {
-          "player": "My estimate: ~5-6% win probability",
+          "player": "Which option do you want to run? Drop the data and we build this properly.",
           "reason": ""
-        },
-        {
-          "player": "CAMERON YOUNG",
-          "reason": "+2200 (4.35% implied)"
-        },
-        {
-          "player": "My estimate: ~4.5-5.5% win probability",
-          "reason": ""
-        },
-        {
-          "player": "RORY McILROY",
-          "reason": "+650 (13.33% implied)"
-        },
-        {
-          "player": "My estimate: 10-13% win probability",
-          "reason": ""
-        },
-        {
-          "player": "BRYSON DeCHAMBEAU",
-          "reason": "+1000 (9.09% implied)"
-        },
-        {
-          "player": "My estimate: 6-8% win probability",
-          "reason": ""
-        },
-        {
-          "player": "JON RAHM",
-          "reason": "+1200 (7.69% implied)"
-        },
-        {
-          "player": "XANDER SCHAUFFELE",
-          "reason": "+1600 (5.88% implied)"
-        },
-        {
-          "player": "My estimate: 5-6% win probability",
-          "reason": ""
-        },
-        {
-          "player": "LUDVIG ÅBERG",
-          "reason": "+1800 (5.26% implied)"
-        },
-        {
-          "player": "My estimate: 5-7% win probability",
-          "reason": ""
-        },
-        {
-          "player": "PATRICK CANTLAY",
-          "reason": "+4500 (2.17% implied)"
-        },
-        {
-          "player": "My estimate: 2-3.5% win probability",
-          "reason": ""
-        },
-        {
-          "player": "BEN GRIFFIN",
-          "reason": "+5000 (1.96% implied)"
-        },
-        {
-          "player": "JORDAN SPIETH",
-          "reason": "+5000 (1.96% implied)"
-        },
-        {
-          "player": "My estimate: 2-4% win probability",
-          "reason": ""
-        },
-        {
-          "player": "COREY CONNERS",
-          "reason": "+6000 (1.64% implied)"
-        },
-        {
-          "player": "My estimate: 2-3% win probability",
-          "reason": ""
-        },
-        {
-          "player": "SEPP STRAKA",
-          "reason": "+7000 (1.41% implied)"
-        },
-        {
-          "player": "My estimate: 1.5-2.5% win probability",
-          "reason": ""
-        },
-        {
-          "player": "TYRRELL HATTON",
-          "reason": "+3500 (2.78% implied)"
-        },
-        {
-          "player": "JUSTIN ROSE",
-          "reason": "+3500 (2.78% implied)"
-        },
-        {
-          "player": "CHRISTOPHER GOTTERUP",
-          "reason": "+4000 (2.44% implied)"
-        },
-        {
-          "player": "PATRICK REED",
-          "reason": "+4000 (2.44% implied)"
-        },
-        {
-          "player": "HIDEKI MATSUYAMA",
-          "reason": "+4000 (2.44% implied)"
-        },
-        {
-          "player": "MATTHEW FITZPATRICK",
-          "reason": "+4500 (2.17% implied)"
-        },
-        {
-          "player": "SHANE LOWRY",
-          "reason": "+6000 (1.64% implied)"
-        },
-        {
-          "player": "ROBERT MacINTYRE",
-          "reason": "+6600 (1.49% implied)"
-        },
-        {
-          "player": "SUNGJAE IM",
-          "reason": "+7000 (1.41% implied)"
         }
       ]
     },
     "player_notes": {},
-    "last_updated": "2026-04-29T16:04:04.396632-04:00"
+    "last_updated": "2026-05-04T06:34:39.851639-04:00"
   },
   "bet_card": {
     "outrights": [],
@@ -10694,7 +9210,8 @@
       "No DG odds returned at 2026-04-29T02:42:25.065317-04:00",
       "No DG odds returned at 2026-04-29T14:03:33.317323-04:00",
       "No DG odds returned at 2026-04-29T16:02:36.556433-04:00",
-      "No DG odds returned at 2026-04-29T19:14:10.121049-04:00"
+      "No DG odds returned at 2026-04-29T19:14:10.121049-04:00",
+      "No DG odds returned at 2026-05-04T06:34:19.985692-04:00"
     ],
     "analysis_uncertainties": [
       "[Claude] > ⚠️ **CRITICAL DATA FLAG — READ BEFORE ANYTHING ELSE**",
@@ -11664,7 +10181,24 @@
       "[Claude] Bhatia has legitimate ball-striking ability and enough creativity to navigate Harbour Town. At +12000, you don't need much to get value. **Long dart consideration.**",
       "[Claude] **JAKE KNAPP — +8000 (1.23% implied)**",
       "[Claude] My estimate: 1-1.5% win probability",
-      "Final run: no outrights on bet card — manual review needed"
+      "Final run: no outrights on bet card — manual review needed",
+      "[Claude] I can give you a pure market structure breakdown right now — who's likely overpriced, who's likely underpriced based on the odds alone and general knowledge of these players at Harbour Town — clearly flagged as *incomplete analysis, no SG data applied.*",
+      "[Claude] **Option C — Rebuild Rankings First**",
+      "[Claude] Tell me what data you have available and we reconstruct the pre-odds rankings properly, then layer.",
+      "[Claude] ## WHAT I'M SEEING IN THE MARKET (Preliminary, Unconfirmed)",
+      "[Claude] While you decide, here are the **structural flags** I can read from the odds board alone:",
+      "[Claude] **Suspicious Pricing:**",
+      "[Claude] - **Bryson DeChambeau at 10/1** — Harbour Town is one of the worst fits in golf for him. Short, tight, tree-lined, precision required. Market may be pricing him on name/ranking, not course fit. Classic trap number.",
+      "[Claude] - **Jon Rahm at 12/1** — He's been inconsistent since returning from his back issues. 12/1 feels like they're pricing 2023 Rahm.",
+      "[Claude] - **Justin Rose at 35/1** — This one actually catches my eye as potentially interesting. Rose has been in solid form and Harbour Town suits his controlled ball-striking profile. Worth a deeper look once I have SG data.",
+      "[Claude] - **Christopher Gotterup at 40/1** — Harbour Town historically rewards accurate iron players. If his APP numbers are holding, this price could have value.",
+      "[Claude] - **Ben Griffin at 50/1** — Local-knowledge type profile, plays well on Bermuda. Flag for deeper look.",
+      "[Claude] - **Corey Conners at 60/1** — Elite approach play, always relevant at precision tracks. Could be underpriced if recent form holds.",
+      "[Claude] **Market Anchors (Likely Fairly Priced or Short):**",
+      "[Claude] - Scheffler at 4/1 — fair chalk, never great value but never a true fade either",
+      "[Claude] - Rory at 13/2 — post-Masters momentum could be real, but also classic market overreaction",
+      "[Claude] - Xander at 16/1 — solid Harbour Town history, but need recent SG to confirm",
+      "[Claude] **Which option do you want to run?** Drop the data and we build this properly."
     ],
     "manual_interventions": [],
     "article_log": [
@@ -11974,6 +10508,13 @@
     {
       "time": "2026-04-29T19:14:10.121855-04:00",
       "run_type": "manual",
+      "status": "complete",
+      "field_size": 72,
+      "odds_players": 113
+    },
+    {
+      "time": "2026-05-04T06:34:39.852435-04:00",
+      "run_type": "monday_6am",
       "status": "complete",
       "field_size": 72,
       "odds_players": 113
