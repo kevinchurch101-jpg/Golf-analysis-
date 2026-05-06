@@ -24,16 +24,16 @@
       "owgr_rank": 15,
       "player_name": "Aberg, Ludvig",
       "player_num": 52955,
-      "pre_tourn_pageviews": 3423,
+      "pre_tourn_pageviews": 3603,
       "teetimes": [
         {
           "course_code": "",
           "course_name": "Quail Hollow Club",
           "course_num": 872,
           "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-05-07 13:10",
-          "wave": "late"
+          "start_hole": 10,
+          "teetime": "2026-05-07 11:22",
+          "wave": "early"
         },
         {
           "course_code": "",
@@ -41,8 +41,8 @@
           "course_num": 872,
           "round_num": 2,
           "start_hole": 1,
-          "teetime": "2026-05-08 09:55",
-          "wave": "early"
+          "teetime": "2026-05-08 12:28",
+          "wave": "late"
         }
       ],
       "tour_rank": "10"
@@ -55,16 +55,16 @@
       "owgr_rank": 40,
       "player_name": "Berger, Daniel",
       "player_num": 40026,
-      "pre_tourn_pageviews": 732,
+      "pre_tourn_pageviews": 782,
       "teetimes": [
         {
           "course_code": "",
           "course_name": "Quail Hollow Club",
           "course_num": 872,
           "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-05-07 08:05",
-          "wave": "early"
+          "start_hole": 10,
+          "teetime": "2026-05-07 12:17",
+          "wave": "late"
         },
         {
           "course_code": "",
@@ -72,8 +72,8 @@
           "course_num": 872,
           "round_num": 2,
           "start_hole": 1,
-          "teetime": "2026-05-08 11:20",
-          "wave": "late"
+          "teetime": "2026-05-08 11:11",
+          "wave": "early"
         }
       ],
       "tour_rank": "32"
@@ -86,16 +86,16 @@
       "owgr_rank": 24,
       "player_name": "Bhatia, Akshay",
       "player_num": 56630,
-      "pre_tourn_pageviews": 1281,
+      "pre_tourn_pageviews": 1363,
       "teetimes": [
         {
           "course_code": "",
           "course_name": "Quail Hollow Club",
           "course_num": 872,
           "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-05-07 09:55",
-          "wave": "early"
+          "start_hole": 10,
+          "teetime": "2026-05-07 12:28",
+          "wave": "late"
         },
         {
           "course_code": "",
@@ -103,8 +103,8 @@
           "course_num": 872,
           "round_num": 2,
           "start_hole": 1,
-          "teetime": "2026-05-08 13:10",
-          "wave": "late"
+          "teetime": "2026-05-08 11:22",
+          "wave": "early"
         }
       ],
       "tour_rank": "7"
@@ -117,16 +117,16 @@
       "owgr_rank": 106,
       "player_name": "Blanchet, Chandler",
       "player_num": 54788,
-      "pre_tourn_pageviews": 323,
+      "pre_tourn_pageviews": 332,
       "teetimes": [
         {
           "course_code": "",
           "course_name": "Quail Hollow Club",
           "course_num": 872,
           "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-05-07 11:30",
-          "wave": "late"
+          "start_hole": 10,
+          "teetime": "2026-05-07 11:55",
+          "wave": "early"
         },
         {
           "course_code": "",
@@ -134,8 +134,8 @@
           "course_num": 872,
           "round_num": 2,
           "start_hole": 1,
-          "teetime": "2026-05-08 08:15",
-          "wave": "early"
+          "teetime": "2026-05-08 13:01",
+          "wave": "late"
         }
       ],
       "tour_rank": "74"
@@ -148,7 +148,7 @@
       "owgr_rank": 30,
       "player_name": "Bradley, Keegan",
       "player_num": 33141,
-      "pre_tourn_pageviews": 951,
+      "pre_tourn_pageviews": 1015,
       "teetimes": [
         {
           "course_code": "",
@@ -156,7 +156,7 @@
           "course_num": 872,
           "round_num": 1,
           "start_hole": 1,
-          "teetime": "2026-05-07 09:20",
+          "teetime": "2026-05-07 11:33",
           "wave": "early"
         },
         {
@@ -164,8 +164,8 @@
           "course_name": "Quail Hollow Club",
           "course_num": 872,
           "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-08 12:35",
+          "start_hole": 10,
+          "teetime": "2026-05-08 12:39",
           "wave": "late"
         }
       ],
@@ -179,15 +179,15 @@
       "owgr_rank": 19,
       "player_name": "Bridgeman, Jacob",
       "player_num": 60004,
-      "pre_tourn_pageviews": 912,
+      "pre_tourn_pageviews": 976,
       "teetimes": [
         {
           "course_code": "",
           "course_name": "Quail Hollow Club",
           "course_num": 872,
           "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-05-07 12:25",
+          "start_hole": 10,
+          "teetime": "2026-05-07 12:39",
           "wave": "late"
         },
         {
@@ -196,7 +196,7 @@
           "course_num": 872,
           "round_num": 2,
           "start_hole": 1,
-          "teetime": "2026-05-08 09:10",
+          "teetime": "2026-05-08 11:33",
           "wave": "early"
         }
       ],
@@ -210,16 +210,16 @@
       "owgr_rank": 31,
       "player_name": "Burns, Sam",
       "player_num": 47504,
-      "pre_tourn_pageviews": 1925,
+      "pre_tourn_pageviews": 2030,
       "teetimes": [
         {
           "course_code": "",
           "course_name": "Quail Hollow Club",
           "course_num": 872,
           "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-05-07 10:35",
-          "wave": "early"
+          "start_hole": 10,
+          "teetime": "2026-05-07 12:39",
+          "wave": "late"
         },
         {
           "course_code": "",
@@ -227,8 +227,8 @@
           "course_num": 872,
           "round_num": 2,
           "start_hole": 1,
-          "teetime": "2026-05-08 13:50",
-          "wave": "late"
+          "teetime": "2026-05-08 11:33",
+          "wave": "early"
         }
       ],
       "tour_rank": "24"
@@ -241,7 +241,7 @@
       "owgr_rank": 101,
       "player_name": "Campbell, Brian",
       "player_num": 46443,
-      "pre_tourn_pageviews": 309,
+      "pre_tourn_pageviews": 319,
       "teetimes": [
         {
           "course_code": "",
@@ -249,7 +249,7 @@
           "course_num": 872,
           "round_num": 1,
           "start_hole": 1,
-          "teetime": "2026-05-07 10:45",
+          "teetime": "2026-05-07 11:55",
           "wave": "early"
         },
         {
@@ -257,8 +257,8 @@
           "course_name": "Quail Hollow Club",
           "course_num": 872,
           "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-08 14:00",
+          "start_hole": 10,
+          "teetime": "2026-05-08 13:01",
           "wave": "late"
         }
       ],
@@ -272,15 +272,15 @@
       "owgr_rank": 33,
       "player_name": "Cantlay, Patrick",
       "player_num": 35450,
-      "pre_tourn_pageviews": 1381,
+      "pre_tourn_pageviews": 1472,
       "teetimes": [
         {
           "course_code": "",
           "course_name": "Quail Hollow Club",
           "course_num": 872,
           "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-05-07 12:15",
+          "start_hole": 10,
+          "teetime": "2026-05-07 12:39",
           "wave": "late"
         },
         {
@@ -289,7 +289,7 @@
           "course_num": 872,
           "round_num": 2,
           "start_hole": 1,
-          "teetime": "2026-05-08 09:00",
+          "teetime": "2026-05-08 11:33",
           "wave": "early"
         }
       ],
@@ -303,7 +303,7 @@
       "owgr_rank": 86,
       "player_name": "Castillo, Ricky",
       "player_num": 59440,
-      "pre_tourn_pageviews": 437,
+      "pre_tourn_pageviews": 460,
       "teetimes": [
         {
           "course_code": "",
@@ -311,17 +311,17 @@
           "course_num": 872,
           "round_num": 1,
           "start_hole": 1,
-          "teetime": "2026-05-07 12:05",
-          "wave": "late"
+          "teetime": "2026-05-07 11:22",
+          "wave": "early"
         },
         {
           "course_code": "",
           "course_name": "Quail Hollow Club",
           "course_num": 872,
           "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-08 08:50",
-          "wave": "early"
+          "start_hole": 10,
+          "teetime": "2026-05-08 12:28",
+          "wave": "late"
         }
       ],
       "tour_rank": "44"
@@ -334,16 +334,16 @@
       "owgr_rank": 65,
       "player_name": "Cauley, Bud",
       "player_num": 34021,
-      "pre_tourn_pageviews": 553,
+      "pre_tourn_pageviews": 605,
       "teetimes": [
         {
           "course_code": "",
           "course_name": "Quail Hollow Club",
           "course_num": 872,
           "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-05-07 11:20",
-          "wave": "late"
+          "start_hole": 10,
+          "teetime": "2026-05-07 11:55",
+          "wave": "early"
         },
         {
           "course_code": "",
@@ -351,8 +351,8 @@
           "course_num": 872,
           "round_num": 2,
           "start_hole": 1,
-          "teetime": "2026-05-08 08:05",
-          "wave": "early"
+          "teetime": "2026-05-08 13:01",
+          "wave": "late"
         }
       ],
       "tour_rank": "50"
@@ -365,7 +365,7 @@
       "owgr_rank": 49,
       "player_name": "Conners, Corey",
       "player_num": 39997,
-      "pre_tourn_pageviews": 992,
+      "pre_tourn_pageviews": 1057,
       "teetimes": [
         {
           "course_code": "",
@@ -373,7 +373,7 @@
           "course_num": 872,
           "round_num": 1,
           "start_hole": 1,
-          "teetime": "2026-05-07 10:35",
+          "teetime": "2026-05-07 11:22",
           "wave": "early"
         },
         {
@@ -381,8 +381,8 @@
           "course_name": "Quail Hollow Club",
           "course_num": 872,
           "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-08 13:50",
+          "start_hole": 10,
+          "teetime": "2026-05-08 12:28",
           "wave": "late"
         }
       ],
@@ -396,16 +396,16 @@
       "owgr_rank": 56,
       "player_name": "Coody, Pierceson",
       "player_num": 59836,
-      "pre_tourn_pageviews": 887,
+      "pre_tourn_pageviews": 950,
       "teetimes": [
         {
           "course_code": "",
           "course_name": "Quail Hollow Club",
           "course_num": 872,
           "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-05-07 13:40",
-          "wave": "late"
+          "start_hole": 10,
+          "teetime": "2026-05-07 11:11",
+          "wave": "early"
         },
         {
           "course_code": "",
@@ -413,8 +413,8 @@
           "course_num": 872,
           "round_num": 2,
           "start_hole": 1,
-          "teetime": "2026-05-08 10:25",
-          "wave": "early"
+          "teetime": "2026-05-08 12:17",
+          "wave": "late"
         }
       ],
       "tour_rank": "38"
@@ -427,7 +427,7 @@
       "owgr_rank": 38,
       "player_name": "Day, Jason",
       "player_num": 28089,
-      "pre_tourn_pageviews": 1060,
+      "pre_tourn_pageviews": 1134,
       "teetimes": [
         {
           "course_code": "",
@@ -435,7 +435,7 @@
           "course_num": 872,
           "round_num": 1,
           "start_hole": 1,
-          "teetime": "2026-05-07 11:50",
+          "teetime": "2026-05-07 12:06",
           "wave": "late"
         },
         {
@@ -443,8 +443,8 @@
           "course_name": "Quail Hollow Club",
           "course_num": 872,
           "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-08 08:35",
+          "start_hole": 10,
+          "teetime": "2026-05-08 11:00",
           "wave": "early"
         }
       ],
@@ -458,7 +458,7 @@
       "owgr_rank": 44,
       "player_name": "Echavarria, Nico",
       "player_num": 51349,
-      "pre_tourn_pageviews": 371,
+      "pre_tourn_pageviews": 402,
       "teetimes": [
         {
           "course_code": "",
@@ -466,17 +466,17 @@
           "course_num": 872,
           "round_num": 1,
           "start_hole": 1,
-          "teetime": "2026-05-07 12:45",
-          "wave": "late"
+          "teetime": "2026-05-07 11:33",
+          "wave": "early"
         },
         {
           "course_code": "",
           "course_name": "Quail Hollow Club",
           "course_num": 872,
           "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-08 09:30",
-          "wave": "early"
+          "start_hole": 10,
+          "teetime": "2026-05-08 12:39",
+          "wave": "late"
         }
       ],
       "tour_rank": "28"
@@ -489,7 +489,7 @@
       "owgr_rank": 22,
       "player_name": "English, Harris",
       "player_num": 34099,
-      "pre_tourn_pageviews": 1401,
+      "pre_tourn_pageviews": 1480,
       "teetimes": [
         {
           "course_code": "",
@@ -497,17 +497,17 @@
           "course_num": 872,
           "round_num": 1,
           "start_hole": 1,
-          "teetime": "2026-05-07 12:05",
-          "wave": "late"
+          "teetime": "2026-05-07 11:33",
+          "wave": "early"
         },
         {
           "course_code": "",
           "course_name": "Quail Hollow Club",
           "course_num": 872,
           "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-08 08:50",
-          "wave": "early"
+          "start_hole": 10,
+          "teetime": "2026-05-08 12:39",
+          "wave": "late"
         }
       ],
       "tour_rank": "34"
@@ -520,15 +520,15 @@
       "owgr_rank": 117,
       "player_name": "Finau, Tony",
       "player_num": 29725,
-      "pre_tourn_pageviews": 733,
+      "pre_tourn_pageviews": 761,
       "teetimes": [
         {
           "course_code": "",
           "course_name": "Quail Hollow Club",
           "course_num": 872,
           "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-05-07 11:00",
+          "start_hole": 10,
+          "teetime": "2026-05-07 12:17",
           "wave": "late"
         },
         {
@@ -537,7 +537,7 @@
           "course_num": 872,
           "round_num": 2,
           "start_hole": 1,
-          "teetime": "2026-05-08 07:45",
+          "teetime": "2026-05-08 11:11",
           "wave": "early"
         }
       ],
@@ -551,15 +551,15 @@
       "owgr_rank": 120,
       "player_name": "Fitzpatrick, Alex",
       "player_num": 55721,
-      "pre_tourn_pageviews": 1354,
+      "pre_tourn_pageviews": 1414,
       "teetimes": [
         {
           "course_code": "",
           "course_name": "Quail Hollow Club",
           "course_num": 872,
           "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-05-07 10:25",
+          "start_hole": 10,
+          "teetime": "2026-05-07 11:44",
           "wave": "early"
         },
         {
@@ -568,7 +568,7 @@
           "course_num": 872,
           "round_num": 2,
           "start_hole": 1,
-          "teetime": "2026-05-08 13:40",
+          "teetime": "2026-05-08 12:50",
           "wave": "late"
         }
       ],
@@ -582,15 +582,15 @@
       "owgr_rank": 4,
       "player_name": "Fitzpatrick, Matt",
       "player_num": 40098,
-      "pre_tourn_pageviews": 2275,
+      "pre_tourn_pageviews": 2408,
       "teetimes": [
         {
           "course_code": "",
           "course_name": "Quail Hollow Club",
           "course_num": 872,
           "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-05-07 10:05",
+          "start_hole": 10,
+          "teetime": "2026-05-07 11:33",
           "wave": "early"
         },
         {
@@ -599,7 +599,7 @@
           "course_num": 872,
           "round_num": 2,
           "start_hole": 1,
-          "teetime": "2026-05-08 13:20",
+          "teetime": "2026-05-08 12:39",
           "wave": "late"
         }
       ],
@@ -613,15 +613,15 @@
       "owgr_rank": 7,
       "player_name": "Fleetwood, Tommy",
       "player_num": 30911,
-      "pre_tourn_pageviews": 1771,
+      "pre_tourn_pageviews": 1866,
       "teetimes": [
         {
           "course_code": "",
           "course_name": "Quail Hollow Club",
           "course_num": 872,
           "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-05-07 10:15",
+          "start_hole": 10,
+          "teetime": "2026-05-07 11:22",
           "wave": "early"
         },
         {
@@ -630,7 +630,7 @@
           "course_num": 872,
           "round_num": 2,
           "start_hole": 1,
-          "teetime": "2026-05-08 13:30",
+          "teetime": "2026-05-08 12:28",
           "wave": "late"
         }
       ],
@@ -644,15 +644,15 @@
       "owgr_rank": 52,
       "player_name": "Fowler, Rickie",
       "player_num": 32102,
-      "pre_tourn_pageviews": 1995,
+      "pre_tourn_pageviews": 2104,
       "teetimes": [
         {
           "course_code": "",
           "course_name": "Quail Hollow Club",
           "course_num": 872,
           "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-05-07 10:25",
+          "start_hole": 10,
+          "teetime": "2026-05-07 11:44",
           "wave": "early"
         },
         {
@@ -661,7 +661,7 @@
           "course_num": 872,
           "round_num": 2,
           "start_hole": 1,
-          "teetime": "2026-05-08 13:40",
+          "teetime": "2026-05-08 12:50",
           "wave": "late"
         }
       ],
@@ -675,7 +675,7 @@
       "owgr_rank": 55,
       "player_name": "Fox, Ryan",
       "player_num": 29936,
-      "pre_tourn_pageviews": 1475,
+      "pre_tourn_pageviews": 1557,
       "teetimes": [
         {
           "course_code": "",
@@ -683,7 +683,7 @@
           "course_num": 872,
           "round_num": 1,
           "start_hole": 1,
-          "teetime": "2026-05-07 12:55",
+          "teetime": "2026-05-07 12:50",
           "wave": "late"
         },
         {
@@ -691,8 +691,8 @@
           "course_name": "Quail Hollow Club",
           "course_num": 872,
           "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-08 09:40",
+          "start_hole": 10,
+          "teetime": "2026-05-08 11:44",
           "wave": "early"
         }
       ],
@@ -706,7 +706,7 @@
       "owgr_rank": 32,
       "player_name": "Gerard, Ryan",
       "player_num": 59018,
-      "pre_tourn_pageviews": 795,
+      "pre_tourn_pageviews": 852,
       "teetimes": [
         {
           "course_code": "",
@@ -714,17 +714,17 @@
           "course_num": 872,
           "round_num": 1,
           "start_hole": 1,
-          "teetime": "2026-05-07 07:55",
-          "wave": "early"
+          "teetime": "2026-05-07 12:17",
+          "wave": "late"
         },
         {
           "course_code": "",
           "course_name": "Quail Hollow Club",
           "course_num": 872,
           "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-08 11:10",
-          "wave": "late"
+          "start_hole": 10,
+          "teetime": "2026-05-08 11:11",
+          "wave": "early"
         }
       ],
       "tour_rank": "23"
@@ -737,16 +737,16 @@
       "owgr_rank": 90,
       "player_name": "Glover, Lucas",
       "player_num": 25900,
-      "pre_tourn_pageviews": 506,
+      "pre_tourn_pageviews": 536,
       "teetimes": [
         {
           "course_code": "",
           "course_name": "Quail Hollow Club",
           "course_num": 872,
           "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-05-07 13:50",
-          "wave": "late"
+          "start_hole": 10,
+          "teetime": "2026-05-07 11:00",
+          "wave": "early"
         },
         {
           "course_code": "",
@@ -754,8 +754,8 @@
           "course_num": 872,
           "round_num": 2,
           "start_hole": 1,
-          "teetime": "2026-05-08 10:35",
-          "wave": "early"
+          "teetime": "2026-05-08 12:06",
+          "wave": "late"
         }
       ],
       "tour_rank": "109"
@@ -768,7 +768,7 @@
       "owgr_rank": 11,
       "player_name": "Gotterup, Chris",
       "player_num": 59095,
-      "pre_tourn_pageviews": 2451,
+      "pre_tourn_pageviews": 2589,
       "teetimes": [
         {
           "course_code": "",
@@ -776,7 +776,7 @@
           "course_num": 872,
           "round_num": 1,
           "start_hole": 1,
-          "teetime": "2026-05-07 12:55",
+          "teetime": "2026-05-07 12:50",
           "wave": "late"
         },
         {
@@ -784,8 +784,8 @@
           "course_name": "Quail Hollow Club",
           "course_num": 872,
           "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-08 09:40",
+          "start_hole": 10,
+          "teetime": "2026-05-08 11:44",
           "wave": "early"
         }
       ],
@@ -799,16 +799,16 @@
       "owgr_rank": 14,
       "player_name": "Griffin, Ben",
       "player_num": 54591,
-      "pre_tourn_pageviews": 1688,
+      "pre_tourn_pageviews": 1778,
       "teetimes": [
         {
           "course_code": "",
           "course_name": "Quail Hollow Club",
           "course_num": 872,
           "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-05-07 09:55",
-          "wave": "early"
+          "start_hole": 10,
+          "teetime": "2026-05-07 12:28",
+          "wave": "late"
         },
         {
           "course_code": "",
@@ -816,8 +816,8 @@
           "course_num": 872,
           "round_num": 2,
           "start_hole": 1,
-          "teetime": "2026-05-08 13:10",
-          "wave": "late"
+          "teetime": "2026-05-08 11:22",
+          "wave": "early"
         }
       ],
       "tour_rank": "33"
@@ -830,7 +830,7 @@
       "owgr_rank": 64,
       "player_name": "Hall, Harry",
       "player_num": 57975,
-      "pre_tourn_pageviews": 362,
+      "pre_tourn_pageviews": 389,
       "teetimes": [
         {
           "course_code": "",
@@ -838,7 +838,7 @@
           "course_num": 872,
           "round_num": 1,
           "start_hole": 1,
-          "teetime": "2026-05-07 09:00",
+          "teetime": "2026-05-07 11:44",
           "wave": "early"
         },
         {
@@ -846,8 +846,8 @@
           "course_name": "Quail Hollow Club",
           "course_num": 872,
           "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-08 12:15",
+          "start_hole": 10,
+          "teetime": "2026-05-08 12:50",
           "wave": "late"
         }
       ],
@@ -861,16 +861,16 @@
       "owgr_rank": 53,
       "player_name": "Harman, Brian",
       "player_num": 27644,
-      "pre_tourn_pageviews": 455,
+      "pre_tourn_pageviews": 484,
       "teetimes": [
         {
           "course_code": "",
           "course_name": "Quail Hollow Club",
           "course_num": 872,
           "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-05-07 12:25",
-          "wave": "late"
+          "start_hole": 10,
+          "teetime": "2026-05-07 11:22",
+          "wave": "early"
         },
         {
           "course_code": "",
@@ -878,8 +878,8 @@
           "course_num": 872,
           "round_num": 2,
           "start_hole": 1,
-          "teetime": "2026-05-08 09:10",
-          "wave": "early"
+          "teetime": "2026-05-08 12:28",
+          "wave": "late"
         }
       ],
       "tour_rank": "62"
@@ -892,16 +892,16 @@
       "owgr_rank": 58,
       "player_name": "Hisatsune, Ryo",
       "player_num": 51287,
-      "pre_tourn_pageviews": 657,
+      "pre_tourn_pageviews": 695,
       "teetimes": [
         {
           "course_code": "",
           "course_name": "Quail Hollow Club",
           "course_num": 872,
           "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-05-07 11:10",
-          "wave": "late"
+          "start_hole": 10,
+          "teetime": "2026-05-07 11:11",
+          "wave": "early"
         },
         {
           "course_code": "",
@@ -909,8 +909,8 @@
           "course_num": 872,
           "round_num": 2,
           "start_hole": 1,
-          "teetime": "2026-05-08 07:55",
-          "wave": "early"
+          "teetime": "2026-05-08 12:17",
+          "wave": "late"
         }
       ],
       "tour_rank": "29"
@@ -923,16 +923,16 @@
       "owgr_rank": 116,
       "player_name": "Hoge, Tom",
       "player_num": 35532,
-      "pre_tourn_pageviews": 311,
+      "pre_tourn_pageviews": 326,
       "teetimes": [
         {
           "course_code": "",
           "course_name": "Quail Hollow Club",
           "course_num": 872,
           "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-05-07 08:50",
-          "wave": "early"
+          "start_hole": 10,
+          "teetime": "2026-05-07 12:06",
+          "wave": "late"
         },
         {
           "course_code": "",
@@ -940,8 +940,8 @@
           "course_num": 872,
           "round_num": 2,
           "start_hole": 1,
-          "teetime": "2026-05-08 12:05",
-          "wave": "late"
+          "teetime": "2026-05-08 11:00",
+          "wave": "early"
         }
       ],
       "tour_rank": "73"
@@ -954,7 +954,7 @@
       "owgr_rank": 37,
       "player_name": "Hojgaard, Nicolai",
       "player_num": 52453,
-      "pre_tourn_pageviews": 1498,
+      "pre_tourn_pageviews": 1603,
       "teetimes": [
         {
           "course_code": "",
@@ -962,17 +962,17 @@
           "course_num": 872,
           "round_num": 1,
           "start_hole": 1,
-          "teetime": "2026-05-07 11:50",
-          "wave": "late"
+          "teetime": "2026-05-07 11:55",
+          "wave": "early"
         },
         {
           "course_code": "",
           "course_name": "Quail Hollow Club",
           "course_num": 872,
           "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-08 08:35",
-          "wave": "early"
+          "start_hole": 10,
+          "teetime": "2026-05-08 13:01",
+          "wave": "late"
         }
       ],
       "tour_rank": "27"
@@ -985,7 +985,7 @@
       "owgr_rank": 118,
       "player_name": "Homa, Max",
       "player_num": 39977,
-      "pre_tourn_pageviews": 1539,
+      "pre_tourn_pageviews": 1614,
       "teetimes": [
         {
           "course_code": "",
@@ -993,7 +993,7 @@
           "course_num": 872,
           "round_num": 1,
           "start_hole": 1,
-          "teetime": "2026-05-07 11:10",
+          "teetime": "2026-05-07 13:01",
           "wave": "late"
         },
         {
@@ -1001,8 +1001,8 @@
           "course_name": "Quail Hollow Club",
           "course_num": 872,
           "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-08 07:55",
+          "start_hole": 10,
+          "teetime": "2026-05-08 11:55",
           "wave": "early"
         }
       ],
@@ -1016,16 +1016,16 @@
       "owgr_rank": 26,
       "player_name": "Hovland, Viktor",
       "player_num": 46717,
-      "pre_tourn_pageviews": 1684,
+      "pre_tourn_pageviews": 1792,
       "teetimes": [
         {
           "course_code": "",
           "course_name": "Quail Hollow Club",
           "course_num": 872,
           "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-05-07 12:45",
-          "wave": "late"
+          "start_hole": 10,
+          "teetime": "2026-05-07 11:44",
+          "wave": "early"
         },
         {
           "course_code": "",
@@ -1033,8 +1033,8 @@
           "course_num": 872,
           "round_num": 2,
           "start_hole": 1,
-          "teetime": "2026-05-08 09:30",
-          "wave": "early"
+          "teetime": "2026-05-08 12:50",
+          "wave": "late"
         }
       ],
       "tour_rank": "60"
@@ -1047,7 +1047,7 @@
       "owgr_rank": 138,
       "player_name": "Hughes, Mackenzie",
       "player_num": 35506,
-      "pre_tourn_pageviews": 437,
+      "pre_tourn_pageviews": 460,
       "teetimes": [
         {
           "course_code": "",
@@ -1055,7 +1055,7 @@
           "course_num": 872,
           "round_num": 1,
           "start_hole": 1,
-          "teetime": "2026-05-07 08:15",
+          "teetime": "2026-05-07 11:00",
           "wave": "early"
         },
         {
@@ -1063,8 +1063,8 @@
           "course_name": "Quail Hollow Club",
           "course_num": 872,
           "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-08 11:30",
+          "start_hole": 10,
+          "teetime": "2026-05-08 12:06",
           "wave": "late"
         }
       ],
@@ -1078,15 +1078,15 @@
       "owgr_rank": 77,
       "player_name": "Im, Sungjae",
       "player_num": 39971,
-      "pre_tourn_pageviews": 690,
+      "pre_tourn_pageviews": 737,
       "teetimes": [
         {
           "course_code": "",
           "course_name": "Quail Hollow Club",
           "course_num": 872,
           "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-05-07 12:35",
+          "start_hole": 10,
+          "teetime": "2026-05-07 12:50",
           "wave": "late"
         },
         {
@@ -1095,7 +1095,7 @@
           "course_num": 872,
           "round_num": 2,
           "start_hole": 1,
-          "teetime": "2026-05-08 09:20",
+          "teetime": "2026-05-08 11:44",
           "wave": "early"
         }
       ],
@@ -1109,7 +1109,7 @@
       "owgr_rank": 41,
       "player_name": "Kim, Michael",
       "player_num": 39975,
-      "pre_tourn_pageviews": 642,
+      "pre_tourn_pageviews": 683,
       "teetimes": [
         {
           "course_code": "",
@@ -1117,7 +1117,7 @@
           "course_num": 872,
           "round_num": 1,
           "start_hole": 1,
-          "teetime": "2026-05-07 14:00",
+          "teetime": "2026-05-07 12:06",
           "wave": "late"
         },
         {
@@ -1125,8 +1125,8 @@
           "course_name": "Quail Hollow Club",
           "course_num": 872,
           "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-08 10:45",
+          "start_hole": 10,
+          "teetime": "2026-05-08 11:00",
           "wave": "early"
         }
       ],
@@ -1140,7 +1140,7 @@
       "owgr_rank": 20,
       "player_name": "Kim, Si Woo",
       "player_num": 37455,
-      "pre_tourn_pageviews": 2010,
+      "pre_tourn_pageviews": 2135,
       "teetimes": [
         {
           "course_code": "",
@@ -1148,17 +1148,17 @@
           "course_num": 872,
           "round_num": 1,
           "start_hole": 1,
-          "teetime": "2026-05-07 10:15",
-          "wave": "early"
+          "teetime": "2026-05-07 12:50",
+          "wave": "late"
         },
         {
           "course_code": "",
           "course_name": "Quail Hollow Club",
           "course_num": 872,
           "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-08 13:30",
-          "wave": "late"
+          "start_hole": 10,
+          "teetime": "2026-05-08 11:44",
+          "wave": "early"
         }
       ],
       "tour_rank": "6"
@@ -1171,7 +1171,7 @@
       "owgr_rank": 34,
       "player_name": "Kitayama, Kurt",
       "player_num": 48117,
-      "pre_tourn_pageviews": 1477,
+      "pre_tourn_pageviews": 1582,
       "teetimes": [
         {
           "course_code": "",
@@ -1179,7 +1179,7 @@
           "course_num": 872,
           "round_num": 1,
           "start_hole": 1,
-          "teetime": "2026-05-07 12:15",
+          "teetime": "2026-05-07 12:17",
           "wave": "late"
         },
         {
@@ -1187,8 +1187,8 @@
           "course_name": "Quail Hollow Club",
           "course_num": 872,
           "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-08 09:00",
+          "start_hole": 10,
+          "teetime": "2026-05-08 11:11",
           "wave": "early"
         }
       ],
@@ -1202,7 +1202,7 @@
       "owgr_rank": 27,
       "player_name": "Lee, Min Woo",
       "player_num": 37378,
-      "pre_tourn_pageviews": 1693,
+      "pre_tourn_pageviews": 1835,
       "teetimes": [
         {
           "course_code": "",
@@ -1210,7 +1210,7 @@
           "course_num": 872,
           "round_num": 1,
           "start_hole": 1,
-          "teetime": "2026-05-07 10:45",
+          "teetime": "2026-05-07 11:11",
           "wave": "early"
         },
         {
@@ -1218,8 +1218,8 @@
           "course_name": "Quail Hollow Club",
           "course_num": 872,
           "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-08 14:00",
+          "start_hole": 10,
+          "teetime": "2026-05-08 12:17",
           "wave": "late"
         }
       ],
@@ -1233,7 +1233,7 @@
       "owgr_rank": 91,
       "player_name": "Lipsky, David",
       "player_num": 36326,
-      "pre_tourn_pageviews": 255,
+      "pre_tourn_pageviews": 269,
       "teetimes": [
         {
           "course_code": "",
@@ -1241,7 +1241,7 @@
           "course_num": 872,
           "round_num": 1,
           "start_hole": 1,
-          "teetime": "2026-05-07 11:40",
+          "teetime": "2026-05-07 12:06",
           "wave": "late"
         },
         {
@@ -1249,8 +1249,8 @@
           "course_name": "Quail Hollow Club",
           "course_num": 872,
           "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-08 08:25",
+          "start_hole": 10,
+          "teetime": "2026-05-08 11:00",
           "wave": "early"
         }
       ],
@@ -1264,16 +1264,16 @@
       "owgr_rank": 12,
       "player_name": "MacIntyre, Robert",
       "player_num": 52215,
-      "pre_tourn_pageviews": 1289,
+      "pre_tourn_pageviews": 1363,
       "teetimes": [
         {
           "course_code": "",
           "course_name": "Quail Hollow Club",
           "course_num": 872,
           "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-05-07 09:00",
-          "wave": "early"
+          "start_hole": 10,
+          "teetime": "2026-05-07 12:50",
+          "wave": "late"
         },
         {
           "course_code": "",
@@ -1281,8 +1281,8 @@
           "course_num": 872,
           "round_num": 2,
           "start_hole": 1,
-          "teetime": "2026-05-08 12:15",
-          "wave": "late"
+          "teetime": "2026-05-08 11:44",
+          "wave": "early"
         }
       ],
       "tour_rank": "21"
@@ -1295,7 +1295,7 @@
       "owgr_rank": 16,
       "player_name": "Matsuyama, Hideki",
       "player_num": 32839,
-      "pre_tourn_pageviews": 1429,
+      "pre_tourn_pageviews": 1502,
       "teetimes": [
         {
           "course_code": "",
@@ -1303,17 +1303,17 @@
           "course_num": 872,
           "round_num": 1,
           "start_hole": 1,
-          "teetime": "2026-05-07 09:10",
-          "wave": "early"
+          "teetime": "2026-05-07 12:28",
+          "wave": "late"
         },
         {
           "course_code": "",
           "course_name": "Quail Hollow Club",
           "course_num": 872,
           "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-08 12:25",
-          "wave": "late"
+          "start_hole": 10,
+          "teetime": "2026-05-08 11:22",
+          "wave": "early"
         }
       ],
       "tour_rank": "20"
@@ -1326,7 +1326,7 @@
       "owgr_rank": 94,
       "player_name": "McCarthy, Denny",
       "player_num": 47993,
-      "pre_tourn_pageviews": 725,
+      "pre_tourn_pageviews": 778,
       "teetimes": [
         {
           "course_code": "",
@@ -1334,7 +1334,7 @@
           "course_num": 872,
           "round_num": 1,
           "start_hole": 1,
-          "teetime": "2026-05-07 08:50",
+          "teetime": "2026-05-07 11:11",
           "wave": "early"
         },
         {
@@ -1342,8 +1342,8 @@
           "course_name": "Quail Hollow Club",
           "course_num": 872,
           "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-08 12:05",
+          "start_hole": 10,
+          "teetime": "2026-05-08 12:17",
           "wave": "late"
         }
       ],
@@ -1357,15 +1357,15 @@
       "owgr_rank": 45,
       "player_name": "McCarty, Matt",
       "player_num": 59141,
-      "pre_tourn_pageviews": 712,
+      "pre_tourn_pageviews": 759,
       "teetimes": [
         {
           "course_code": "",
           "course_name": "Quail Hollow Club",
           "course_num": 872,
           "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-05-07 07:55",
+          "start_hole": 10,
+          "teetime": "2026-05-07 11:55",
           "wave": "early"
         },
         {
@@ -1374,7 +1374,7 @@
           "course_num": 872,
           "round_num": 2,
           "start_hole": 1,
-          "teetime": "2026-05-08 11:10",
+          "teetime": "2026-05-08 13:01",
           "wave": "late"
         }
       ],
@@ -1388,15 +1388,15 @@
       "owgr_rank": 2,
       "player_name": "McIlroy, Rory",
       "player_num": 28237,
-      "pre_tourn_pageviews": 4183,
+      "pre_tourn_pageviews": 4389,
       "teetimes": [
         {
           "course_code": "",
           "course_name": "Quail Hollow Club",
           "course_num": 872,
           "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-05-07 10:05",
+          "start_hole": 10,
+          "teetime": "2026-05-07 11:33",
           "wave": "early"
         },
         {
@@ -1405,7 +1405,7 @@
           "course_num": 872,
           "round_num": 2,
           "start_hole": 1,
-          "teetime": "2026-05-08 13:20",
+          "teetime": "2026-05-08 12:39",
           "wave": "late"
         }
       ],
@@ -1419,7 +1419,7 @@
       "owgr_rank": 28,
       "player_name": "McNealy, Maverick",
       "player_num": 46442,
-      "pre_tourn_pageviews": 889,
+      "pre_tourn_pageviews": 939,
       "teetimes": [
         {
           "course_code": "",
@@ -1427,7 +1427,7 @@
           "course_num": 872,
           "round_num": 1,
           "start_hole": 1,
-          "teetime": "2026-05-07 09:10",
+          "teetime": "2026-05-07 11:44",
           "wave": "early"
         },
         {
@@ -1435,8 +1435,8 @@
           "course_name": "Quail Hollow Club",
           "course_num": 872,
           "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-08 12:25",
+          "start_hole": 10,
+          "teetime": "2026-05-08 12:50",
           "wave": "late"
         }
       ],
@@ -1450,7 +1450,7 @@
       "owgr_rank": 18,
       "player_name": "Noren, Alex",
       "player_num": 27349,
-      "pre_tourn_pageviews": 862,
+      "pre_tourn_pageviews": 910,
       "teetimes": [
         {
           "course_code": "",
@@ -1458,7 +1458,7 @@
           "course_num": 872,
           "round_num": 1,
           "start_hole": 1,
-          "teetime": "2026-05-07 13:40",
+          "teetime": "2026-05-07 12:17",
           "wave": "late"
         },
         {
@@ -1466,8 +1466,8 @@
           "course_name": "Quail Hollow Club",
           "course_num": 872,
           "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-08 10:25",
+          "start_hole": 10,
+          "teetime": "2026-05-08 11:11",
           "wave": "early"
         }
       ],
@@ -1481,7 +1481,7 @@
       "owgr_rank": 54,
       "player_name": "Novak, Andrew",
       "player_num": 51997,
-      "pre_tourn_pageviews": 391,
+      "pre_tourn_pageviews": 422,
       "teetimes": [
         {
           "course_code": "",
@@ -1489,7 +1489,7 @@
           "course_num": 872,
           "round_num": 1,
           "start_hole": 1,
-          "teetime": "2026-05-07 09:20",
+          "teetime": "2026-05-07 11:22",
           "wave": "early"
         },
         {
@@ -1497,8 +1497,8 @@
           "course_name": "Quail Hollow Club",
           "course_num": 872,
           "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-08 12:35",
+          "start_hole": 10,
+          "teetime": "2026-05-08 12:28",
           "wave": "late"
         }
       ],
@@ -1512,7 +1512,7 @@
       "owgr_rank": 83,
       "player_name": "Pendrith, Taylor",
       "player_num": 40250,
-      "pre_tourn_pageviews": 1215,
+      "pre_tourn_pageviews": 1308,
       "teetimes": [
         {
           "course_code": "",
@@ -1520,7 +1520,7 @@
           "course_num": 872,
           "round_num": 1,
           "start_hole": 1,
-          "teetime": "2026-05-07 07:45",
+          "teetime": "2026-05-07 11:00",
           "wave": "early"
         },
         {
@@ -1528,8 +1528,8 @@
           "course_name": "Quail Hollow Club",
           "course_num": 872,
           "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-08 11:00",
+          "start_hole": 10,
+          "teetime": "2026-05-08 12:06",
           "wave": "late"
         }
       ],
@@ -1543,7 +1543,7 @@
       "owgr_rank": 80,
       "player_name": "Poston, J.T.",
       "player_num": 49771,
-      "pre_tourn_pageviews": 442,
+      "pre_tourn_pageviews": 480,
       "teetimes": [
         {
           "course_code": "",
@@ -1551,7 +1551,7 @@
           "course_num": 872,
           "round_num": 1,
           "start_hole": 1,
-          "teetime": "2026-05-07 07:45",
+          "teetime": "2026-05-07 11:55",
           "wave": "early"
         },
         {
@@ -1559,8 +1559,8 @@
           "course_name": "Quail Hollow Club",
           "course_num": 872,
           "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-08 11:00",
+          "start_hole": 10,
+          "teetime": "2026-05-08 13:01",
           "wave": "late"
         }
       ],
@@ -1574,7 +1574,7 @@
       "owgr_rank": 74,
       "player_name": "Potgieter, Aldrich",
       "player_num": 63343,
-      "pre_tourn_pageviews": 1052,
+      "pre_tourn_pageviews": 1136,
       "teetimes": [
         {
           "course_code": "",
@@ -1582,17 +1582,17 @@
           "course_num": 872,
           "round_num": 1,
           "start_hole": 1,
-          "teetime": "2026-05-07 08:25",
-          "wave": "early"
+          "teetime": "2026-05-07 13:01",
+          "wave": "late"
         },
         {
           "course_code": "",
           "course_name": "Quail Hollow Club",
           "course_num": 872,
           "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-08 11:40",
-          "wave": "late"
+          "start_hole": 10,
+          "teetime": "2026-05-08 11:55",
+          "wave": "early"
         }
       ],
       "tour_rank": "48"
@@ -1605,15 +1605,15 @@
       "owgr_rank": 84,
       "player_name": "Putnam, Andrew",
       "player_num": 34256,
-      "pre_tourn_pageviews": 449,
+      "pre_tourn_pageviews": 473,
       "teetimes": [
         {
           "course_code": "",
           "course_name": "Quail Hollow Club",
           "course_num": 872,
           "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-05-07 11:00",
+          "start_hole": 10,
+          "teetime": "2026-05-07 13:01",
           "wave": "late"
         },
         {
@@ -1622,7 +1622,7 @@
           "course_num": 872,
           "round_num": 2,
           "start_hole": 1,
-          "teetime": "2026-05-08 07:45",
+          "teetime": "2026-05-08 11:55",
           "wave": "early"
         }
       ],
@@ -1636,16 +1636,16 @@
       "owgr_rank": 48,
       "player_name": "Reitan, Kristoffer",
       "player_num": 49855,
-      "pre_tourn_pageviews": 1173,
+      "pre_tourn_pageviews": 1237,
       "teetimes": [
         {
           "course_code": "",
           "course_name": "Quail Hollow Club",
           "course_num": 872,
           "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-05-07 13:50",
-          "wave": "late"
+          "start_hole": 10,
+          "teetime": "2026-05-07 11:00",
+          "wave": "early"
         },
         {
           "course_code": "",
@@ -1653,8 +1653,8 @@
           "course_num": 872,
           "round_num": 2,
           "start_hole": 1,
-          "teetime": "2026-05-08 10:35",
-          "wave": "early"
+          "teetime": "2026-05-08 12:06",
+          "wave": "late"
         }
       ],
       "tour_rank": "54"
@@ -1667,15 +1667,15 @@
       "owgr_rank": 73,
       "player_name": "Rodgers, Patrick",
       "player_num": 36699,
-      "pre_tourn_pageviews": 448,
+      "pre_tourn_pageviews": 481,
       "teetimes": [
         {
           "course_code": "",
           "course_name": "Quail Hollow Club",
           "course_num": 872,
           "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-05-07 11:20",
+          "start_hole": 10,
+          "teetime": "2026-05-07 12:06",
           "wave": "late"
         },
         {
@@ -1684,7 +1684,7 @@
           "course_num": 872,
           "round_num": 2,
           "start_hole": 1,
-          "teetime": "2026-05-08 08:05",
+          "teetime": "2026-05-08 11:00",
           "wave": "early"
         }
       ],
@@ -1698,15 +1698,15 @@
       "owgr_rank": 5,
       "player_name": "Rose, Justin",
       "player_num": 22405,
-      "pre_tourn_pageviews": 1204,
+      "pre_tourn_pageviews": 1260,
       "teetimes": [
         {
           "course_code": "",
           "course_name": "Quail Hollow Club",
           "course_num": 872,
           "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-05-07 09:30",
+          "start_hole": 10,
+          "teetime": "2026-05-07 11:33",
           "wave": "early"
         },
         {
@@ -1715,7 +1715,7 @@
           "course_num": 872,
           "round_num": 2,
           "start_hole": 1,
-          "teetime": "2026-05-08 12:45",
+          "teetime": "2026-05-08 12:39",
           "wave": "late"
         }
       ],
@@ -1729,7 +1729,7 @@
       "owgr_rank": 10,
       "player_name": "Schauffele, Xander",
       "player_num": 48081,
-      "pre_tourn_pageviews": 3489,
+      "pre_tourn_pageviews": 3691,
       "teetimes": [
         {
           "course_code": "",
@@ -1737,7 +1737,7 @@
           "course_num": 872,
           "round_num": 1,
           "start_hole": 1,
-          "teetime": "2026-05-07 13:10",
+          "teetime": "2026-05-07 12:39",
           "wave": "late"
         },
         {
@@ -1745,8 +1745,8 @@
           "course_name": "Quail Hollow Club",
           "course_num": 872,
           "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-08 09:55",
+          "start_hole": 10,
+          "teetime": "2026-05-08 11:33",
           "wave": "early"
         }
       ],
@@ -1760,15 +1760,15 @@
       "owgr_rank": 43,
       "player_name": "Scott, Adam",
       "player_num": 24502,
-      "pre_tourn_pageviews": 3342,
+      "pre_tourn_pageviews": 3545,
       "teetimes": [
         {
           "course_code": "",
           "course_name": "Quail Hollow Club",
           "course_num": 872,
           "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-05-07 09:40",
+          "start_hole": 10,
+          "teetime": "2026-05-07 11:11",
           "wave": "early"
         },
         {
@@ -1777,7 +1777,7 @@
           "course_num": 872,
           "round_num": 2,
           "start_hole": 1,
-          "teetime": "2026-05-08 12:55",
+          "teetime": "2026-05-08 12:17",
           "wave": "late"
         }
       ],
@@ -1791,16 +1791,16 @@
       "owgr_rank": 441,
       "player_name": "Simpson, Webb",
       "player_num": 29221,
-      "pre_tourn_pageviews": 334,
+      "pre_tourn_pageviews": 349,
       "teetimes": [
         {
           "course_code": "",
           "course_name": "Quail Hollow Club",
           "course_num": 872,
           "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-05-07 08:15",
-          "wave": "early"
+          "start_hole": 10,
+          "teetime": "2026-05-07 13:01",
+          "wave": "late"
         },
         {
           "course_code": "",
@@ -1808,8 +1808,8 @@
           "course_num": 872,
           "round_num": 2,
           "start_hole": 1,
-          "teetime": "2026-05-08 11:30",
-          "wave": "late"
+          "teetime": "2026-05-08 11:55",
+          "wave": "early"
         }
       ],
       "tour_rank": "154"
@@ -1822,7 +1822,7 @@
       "owgr_rank": 87,
       "player_name": "Smalley, Alex",
       "player_num": 46340,
-      "pre_tourn_pageviews": 1629,
+      "pre_tourn_pageviews": 1728,
       "teetimes": [
         {
           "course_code": "",
@@ -1830,7 +1830,7 @@
           "course_num": 872,
           "round_num": 1,
           "start_hole": 1,
-          "teetime": "2026-05-07 08:35",
+          "teetime": "2026-05-07 11:00",
           "wave": "early"
         },
         {
@@ -1838,8 +1838,8 @@
           "course_name": "Quail Hollow Club",
           "course_num": 872,
           "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-08 11:50",
+          "start_hole": 10,
+          "teetime": "2026-05-08 12:06",
           "wave": "late"
         }
       ],
@@ -1853,16 +1853,16 @@
       "owgr_rank": 88,
       "player_name": "Smotherman, Austin",
       "player_num": 50095,
-      "pre_tourn_pageviews": 289,
+      "pre_tourn_pageviews": 319,
       "teetimes": [
         {
           "course_code": "",
           "course_name": "Quail Hollow Club",
           "course_num": 872,
           "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-05-07 08:05",
-          "wave": "early"
+          "start_hole": 10,
+          "teetime": "2026-05-07 12:17",
+          "wave": "late"
         },
         {
           "course_code": "",
@@ -1870,8 +1870,8 @@
           "course_num": 872,
           "round_num": 2,
           "start_hole": 1,
-          "teetime": "2026-05-08 11:20",
-          "wave": "late"
+          "teetime": "2026-05-08 11:11",
+          "wave": "early"
         }
       ],
       "tour_rank": "53"
@@ -1884,16 +1884,16 @@
       "owgr_rank": 9,
       "player_name": "Spaun, J.J.",
       "player_num": 39324,
-      "pre_tourn_pageviews": 1334,
+      "pre_tourn_pageviews": 1413,
       "teetimes": [
         {
           "course_code": "",
           "course_name": "Quail Hollow Club",
           "course_num": 872,
           "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-05-07 09:30",
-          "wave": "early"
+          "start_hole": 10,
+          "teetime": "2026-05-07 12:50",
+          "wave": "late"
         },
         {
           "course_code": "",
@@ -1901,8 +1901,8 @@
           "course_num": 872,
           "round_num": 2,
           "start_hole": 1,
-          "teetime": "2026-05-08 12:45",
-          "wave": "late"
+          "teetime": "2026-05-08 11:44",
+          "wave": "early"
         }
       ],
       "tour_rank": "25"
@@ -1915,7 +1915,7 @@
       "owgr_rank": 50,
       "player_name": "Spieth, Jordan",
       "player_num": 34046,
-      "pre_tourn_pageviews": 2050,
+      "pre_tourn_pageviews": 2134,
       "teetimes": [
         {
           "course_code": "",
@@ -1923,7 +1923,7 @@
           "course_num": 872,
           "round_num": 1,
           "start_hole": 1,
-          "teetime": "2026-05-07 13:30",
+          "teetime": "2026-05-07 12:28",
           "wave": "late"
         },
         {
@@ -1931,8 +1931,8 @@
           "course_name": "Quail Hollow Club",
           "course_num": 872,
           "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-08 10:15",
+          "start_hole": 10,
+          "teetime": "2026-05-08 11:22",
           "wave": "early"
         }
       ],
@@ -1946,15 +1946,15 @@
       "owgr_rank": 46,
       "player_name": "Stevens, Sam",
       "player_num": 55893,
-      "pre_tourn_pageviews": 841,
+      "pre_tourn_pageviews": 899,
       "teetimes": [
         {
           "course_code": "",
           "course_name": "Quail Hollow Club",
           "course_num": 872,
           "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-05-07 14:00",
+          "start_hole": 10,
+          "teetime": "2026-05-07 12:06",
           "wave": "late"
         },
         {
@@ -1963,7 +1963,7 @@
           "course_num": 872,
           "round_num": 2,
           "start_hole": 1,
-          "teetime": "2026-05-08 10:45",
+          "teetime": "2026-05-08 11:00",
           "wave": "early"
         }
       ],
@@ -1977,7 +1977,7 @@
       "owgr_rank": 13,
       "player_name": "Straka, Sepp",
       "player_num": 49960,
-      "pre_tourn_pageviews": 1815,
+      "pre_tourn_pageviews": 1912,
       "teetimes": [
         {
           "course_code": "",
@@ -1985,7 +1985,7 @@
           "course_num": 872,
           "round_num": 1,
           "start_hole": 1,
-          "teetime": "2026-05-07 13:30",
+          "teetime": "2026-05-07 12:28",
           "wave": "late"
         },
         {
@@ -1993,8 +1993,8 @@
           "course_name": "Quail Hollow Club",
           "course_num": 872,
           "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-08 10:15",
+          "start_hole": 10,
+          "teetime": "2026-05-08 11:22",
           "wave": "early"
         }
       ],
@@ -2008,7 +2008,7 @@
       "owgr_rank": 60,
       "player_name": "Taylor, Nick",
       "player_num": 25493,
-      "pre_tourn_pageviews": 513,
+      "pre_tourn_pageviews": 556,
       "teetimes": [
         {
           "course_code": "",
@@ -2016,17 +2016,17 @@
           "course_num": 872,
           "round_num": 1,
           "start_hole": 1,
-          "teetime": "2026-05-07 12:35",
-          "wave": "late"
+          "teetime": "2026-05-07 11:44",
+          "wave": "early"
         },
         {
           "course_code": "",
           "course_name": "Quail Hollow Club",
           "course_num": 872,
           "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-08 09:20",
-          "wave": "early"
+          "start_hole": 10,
+          "teetime": "2026-05-08 12:50",
+          "wave": "late"
         }
       ],
       "tour_rank": "52"
@@ -2039,7 +2039,7 @@
       "owgr_rank": 75,
       "player_name": "Theegala, Sahith",
       "player_num": 51634,
-      "pre_tourn_pageviews": 841,
+      "pre_tourn_pageviews": 899,
       "teetimes": [
         {
           "course_code": "",
@@ -2047,7 +2047,7 @@
           "course_num": 872,
           "round_num": 1,
           "start_hole": 1,
-          "teetime": "2026-05-07 11:40",
+          "teetime": "2026-05-07 13:01",
           "wave": "late"
         },
         {
@@ -2055,8 +2055,8 @@
           "course_name": "Quail Hollow Club",
           "course_num": 872,
           "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-08 08:25",
+          "start_hole": 10,
+          "teetime": "2026-05-08 11:55",
           "wave": "early"
         }
       ],
@@ -2070,7 +2070,7 @@
       "owgr_rank": 17,
       "player_name": "Thomas, Justin",
       "player_num": 33448,
-      "pre_tourn_pageviews": 1785,
+      "pre_tourn_pageviews": 1892,
       "teetimes": [
         {
           "course_code": "",
@@ -2078,7 +2078,7 @@
           "course_num": 872,
           "round_num": 1,
           "start_hole": 1,
-          "teetime": "2026-05-07 13:20",
+          "teetime": "2026-05-07 12:39",
           "wave": "late"
         },
         {
@@ -2086,8 +2086,8 @@
           "course_name": "Quail Hollow Club",
           "course_num": 872,
           "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-08 10:05",
+          "start_hole": 10,
+          "teetime": "2026-05-08 11:33",
           "wave": "early"
         }
       ],
@@ -2101,16 +2101,16 @@
       "owgr_rank": 112,
       "player_name": "Vegas, Jhonattan",
       "player_num": 27064,
-      "pre_tourn_pageviews": 465,
+      "pre_tourn_pageviews": 496,
       "teetimes": [
         {
           "course_code": "",
           "course_name": "Quail Hollow Club",
           "course_num": 872,
           "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-05-07 08:25",
-          "wave": "early"
+          "start_hole": 10,
+          "teetime": "2026-05-07 13:01",
+          "wave": "late"
         },
         {
           "course_code": "",
@@ -2118,8 +2118,8 @@
           "course_num": 872,
           "round_num": 2,
           "start_hole": 1,
-          "teetime": "2026-05-08 11:40",
-          "wave": "late"
+          "teetime": "2026-05-08 11:55",
+          "wave": "early"
         }
       ],
       "tour_rank": "110"
@@ -2132,7 +2132,7 @@
       "owgr_rank": 69,
       "player_name": "Wallace, Matt",
       "player_num": 48887,
-      "pre_tourn_pageviews": 503,
+      "pre_tourn_pageviews": 537,
       "teetimes": [
         {
           "course_code": "",
@@ -2140,7 +2140,7 @@
           "course_num": 872,
           "round_num": 1,
           "start_hole": 1,
-          "teetime": "2026-05-07 08:35",
+          "teetime": "2026-05-07 11:11",
           "wave": "early"
         },
         {
@@ -2148,8 +2148,8 @@
           "course_name": "Quail Hollow Club",
           "course_num": 872,
           "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-08 11:50",
+          "start_hole": 10,
+          "teetime": "2026-05-08 12:17",
           "wave": "late"
         }
       ],
@@ -2163,16 +2163,16 @@
       "owgr_rank": 47,
       "player_name": "Woodland, Gary",
       "player_num": 31323,
-      "pre_tourn_pageviews": 1839,
+      "pre_tourn_pageviews": 1934,
       "teetimes": [
         {
           "course_code": "",
           "course_name": "Quail Hollow Club",
           "course_num": 872,
           "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-05-07 09:40",
-          "wave": "early"
+          "start_hole": 10,
+          "teetime": "2026-05-07 12:28",
+          "wave": "late"
         },
         {
           "course_code": "",
@@ -2180,8 +2180,8 @@
           "course_num": 872,
           "round_num": 2,
           "start_hole": 1,
-          "teetime": "2026-05-08 12:55",
-          "wave": "late"
+          "teetime": "2026-05-08 11:22",
+          "wave": "early"
         }
       ],
       "tour_rank": "22"
@@ -2194,16 +2194,16 @@
       "owgr_rank": 111,
       "player_name": "Yellamaraju, Sudarshan",
       "player_num": 60386,
-      "pre_tourn_pageviews": 1063,
+      "pre_tourn_pageviews": 1115,
       "teetimes": [
         {
           "course_code": "",
           "course_name": "Quail Hollow Club",
           "course_num": 872,
           "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-05-07 11:30",
-          "wave": "late"
+          "start_hole": 10,
+          "teetime": "2026-05-07 11:00",
+          "wave": "early"
         },
         {
           "course_code": "",
@@ -2211,8 +2211,8 @@
           "course_num": 872,
           "round_num": 2,
           "start_hole": 1,
-          "teetime": "2026-05-08 08:15",
-          "wave": "early"
+          "teetime": "2026-05-08 12:06",
+          "wave": "late"
         }
       ],
       "tour_rank": "36"
@@ -2225,7 +2225,7 @@
       "owgr_rank": 3,
       "player_name": "Young, Cameron",
       "player_num": 57366,
-      "pre_tourn_pageviews": 4252,
+      "pre_tourn_pageviews": 4418,
       "teetimes": [
         {
           "course_code": "",
@@ -2233,7 +2233,7 @@
           "course_num": 872,
           "round_num": 1,
           "start_hole": 1,
-          "teetime": "2026-05-07 13:20",
+          "teetime": "2026-05-07 12:39",
           "wave": "late"
         },
         {
@@ -2241,8 +2241,8 @@
           "course_name": "Quail Hollow Club",
           "course_num": 872,
           "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-08 10:05",
+          "start_hole": 10,
+          "teetime": "2026-05-08 11:33",
           "wave": "early"
         }
       ],
@@ -3963,7 +3963,7 @@
         "dg_id": 18628
       }
     },
-    "last_updated": "2026-05-06T14:05:57.279956-04:00"
+    "last_updated": "2026-05-06T16:13:22.465165-04:00"
   },
   "skill_ratings": {
     "by_player": {
@@ -10058,11 +10058,11 @@
         "player_name": "Martin Trainer"
       }
     },
-    "last_updated": "2026-05-06T14:05:57.279905-04:00"
+    "last_updated": "2026-05-06T16:13:22.465107-04:00"
   },
   "approach_skill": {
     "by_player": {},
-    "last_updated": "2026-05-06T14:05:57.279941-04:00"
+    "last_updated": "2026-05-06T16:13:22.465145-04:00"
   },
   "course_history": {
     "by_player": {}
@@ -10268,7 +10268,7 @@
     "prior_year_summary_text": "═══════════════════════════════════════════════════════════════\nPRIOR YEAR COURSE BREAKDOWN (structural only — player notes discarded)\n⚠️  PRIOR YEAR CONTENT: Course structure only. All player-specific notes are from last year and have been discarded. Do not use for current player assessment.\n═══════════════════════════════════════════════════════════════\nPlayer-specific paragraphs discarded: 2"
   },
   "analysis": {
-    "briefing_paragraph": "Harbour Town is one of the most honest course-fit tests on the Tour calendar, and I genuinely look forward to it every year because the pretenders get exposed fast. This is a TIGHT, COMPRESSED-distance track where the premium is almost entirely on accuracy off the tee, approach play into small, firm greens, and short game when you inevitably miss. ARG is the dominant stat here — not raw ball-striking, not distance, not even pure SG:APP in isolation. It's the combination of finding fairways, controlling trajectory and angle into elevated or guarded greens, and scrambling when the angle punishes you. Historical driving accuracy at Harbour Town runs around 68% — well above tour average — which means bombers who sacrifice accuracy are actively penalized, not just neutral. Distance multiplier is COMPRESSED, meaning long hitters get essentially no structural edge. The rough penalty is HIGH and the angle penalty is HIGH — miss the fairway here and you're not just in a bad lie, you're staring at a completely different shot shape requirement. Course management is a real differentiator. This is one of the few events where I actually upgrade the smart, shorter, accurate players and fade the distance guys who can't hit fairways. Webb Simpson famously dominated this venue for years — the archetype is clear. Weather data is not yet in, but wind relevance at Harbour Town is MODERATE. It's a coastal track on Hilton Head and can absolutely get breezy — any sustained wind tightens the course even further and adds another layer to the approach premium. No weather numbers yet, so I'll hold full wind reads for the midweek update. A few player narratives worth flagging now: Collin Morikawa is the first name I'm writing on the card conceptually — EXTRA CONFIRM PLUS at approach-dominant accuracy courses, full stop, and this is one of the best examples of that archetype on the schedule. I need to confirm his recent form and health before committing, but course fit is as strong as it gets. Matt Fitzpatrick is another name who should show up well here — accuracy driver, elite iron play, exactly the profile Harbour Town rewards. On the fallen star watch, Viktor Hovland's EXTRA CONFIRM status triggers at 40/1+ and I need to check his current form — if the ball-striking has stabilized at all, Harbour Town could be a bounce-back spot given the reduced distance penalty. The field notes are relatively clean: this is a signature event so it draws well, but the TIGHT course will naturally eliminate a chunk of the field by Round 2. No designated-event red flags jumping out. Stat data came in very thin this week — only 2/50 players matched — so I'm working heavily from framework designations, course fit, and career profiles. That's noted prominently and will be resolved when full odds and data arrive Monday. ---\n\n[Odds note Mon 10:11PM ET] I'm seeing an empty current rankings array `[]` fed in as my pre-odds analysis. **I have no prior course/form analysis to layer odds onto.** This means I'm working without the foundational ball-striking profiles, recent form windows, course-fit assessments, and SG breakdowns that the framework requires before odds even enter the conversation.\n\n**What I can do here:** Give you the odds structure analysis, flag pricing anomalies, and identify where the market is likely soft — but I want to be transparent that any \"value\" calls below are based on general Harbour Town knowledge and these players' publicly known profiles, NOT a completed framework analysis. The full bet card should be treated as directional, not final, until the form/course analysis is run and merged.\n\n**Scheffler at +380 (20.8% implied)** is doing heavy lifting at the top. That's a steep chalk price for a field with genuine contenders. The book is essentially saying 1-in-5 chance for the world #1, which historically at Harbour Town is aggressive — this course has bitten Scheffler before, it rewards precision and local knowledge over raw dominance.\n\n[Odds note Mon 10:34AM ET] > **CRITICAL NOTE:** I'm flagging immediately that my current rankings list came through empty `[]`. I'm going to build the value analysis from the odds snapshot and my framework principles, but I want to be transparent — I don't have the pre-odds course/form tier rankings loaded in this session. I'll work from what the odds are telling me and apply the framework, but **flag this to yourself**: you'll want to cross-reference my value calls against your form notes before pulling the trigger. Everything below is odds-layer analysis grounded in framework principles.\n\n**1. Bryson DeChambeau at +1000 (9.1% implied)**\nBryson is a LIV player. He does not have Heritage eligibility in 2026 under current tour structure unless there's been a policy change I need to flag. Either this is a stale line, a book error, or eligibility rules have shifted. **Do not bet until confirmed eligible.**\n\n**2. Jon Rahm at +1200 (7.7% implied)**\nSame LIV concern. Rahm left for LIV — if he's on this board legitimately, flag it. Could be a cross-market error. Worth verifying before treating as actionable.\n\n[Odds note Wed 08:04PM ET] > **⚠️ CRITICAL SYSTEM NOTE**\n> The \"Current Rankings\" input came through **empty** — no pre-built course/form rankings were passed into this session. I'm working from my trained framework knowledge of Harbour Town and 2026 form through late April, but I'm flagging this hard: **the odds layer is only as good as the course/form layer beneath it.** If you ran a separate analysis session, cross-reference before placing anything.\n\n- **Precision iron play is non-negotiable.** Small greens, tight Bermuda, tree-lined corridors. APP is king here.\n- **Distance is neutral to slightly negative.** Bombers who can't shape shots get exposed.\n- **Putting on Bermuda** matters more here than at most non-major venues. Can't completely dismiss it.\n- **The field is strong** (post-Masters hangover gone, FedEx points push). Depth pricing will be compressed.\n- **Recent form window:** Last 6-8 weeks only. Anyone leaning on 2024 Heritage results as primary evidence is a trap.\n\nI'm building my own probability estimates from the framework and comparing against market implied prob. Positive gap = value. Negative gap = fade territory.\n\n[Odds note Mon 10:34AM ET] I'm being asked to layer odds onto current rankings, but the rankings array is **empty** — `[]`. No prior course/form analysis was passed into this session. I don't have the pre-built rankings to layer against.\n\n**I will not fabricate a prior analysis.** That would violate the core framework principle: *articles are inputs, framework makes decisions* — and I can't pretend I already did work I didn't do.\n\n**Option A — Full Analysis From Scratch**\nGive me the course/form data you have (recent SG splits, Heritage history, current form notes) and I'll build the complete framework analysis + odds layer in one pass.",
+    "briefing_paragraph": "Harbour Town is one of the most honest course-fit tests on the Tour calendar, and I genuinely look forward to it every year because the pretenders get exposed fast. This is a TIGHT, COMPRESSED-distance track where the premium is almost entirely on accuracy off the tee, approach play into small, firm greens, and short game when you inevitably miss. ARG is the dominant stat here — not raw ball-striking, not distance, not even pure SG:APP in isolation. It's the combination of finding fairways, controlling trajectory and angle into elevated or guarded greens, and scrambling when the angle punishes you. Historical driving accuracy at Harbour Town runs around 68% — well above tour average — which means bombers who sacrifice accuracy are actively penalized, not just neutral. Distance multiplier is COMPRESSED, meaning long hitters get essentially no structural edge. The rough penalty is HIGH and the angle penalty is HIGH — miss the fairway here and you're not just in a bad lie, you're staring at a completely different shot shape requirement. Course management is a real differentiator. This is one of the few events where I actually upgrade the smart, shorter, accurate players and fade the distance guys who can't hit fairways. Webb Simpson famously dominated this venue for years — the archetype is clear. Weather data is not yet in, but wind relevance at Harbour Town is MODERATE. It's a coastal track on Hilton Head and can absolutely get breezy — any sustained wind tightens the course even further and adds another layer to the approach premium. No weather numbers yet, so I'll hold full wind reads for the midweek update. A few player narratives worth flagging now: Collin Morikawa is the first name I'm writing on the card conceptually — EXTRA CONFIRM PLUS at approach-dominant accuracy courses, full stop, and this is one of the best examples of that archetype on the schedule. I need to confirm his recent form and health before committing, but course fit is as strong as it gets. Matt Fitzpatrick is another name who should show up well here — accuracy driver, elite iron play, exactly the profile Harbour Town rewards. On the fallen star watch, Viktor Hovland's EXTRA CONFIRM status triggers at 40/1+ and I need to check his current form — if the ball-striking has stabilized at all, Harbour Town could be a bounce-back spot given the reduced distance penalty. The field notes are relatively clean: this is a signature event so it draws well, but the TIGHT course will naturally eliminate a chunk of the field by Round 2. No designated-event red flags jumping out. Stat data came in very thin this week — only 2/50 players matched — so I'm working heavily from framework designations, course fit, and career profiles. That's noted prominently and will be resolved when full odds and data arrive Monday. ---\n\n[Odds note Mon 10:11PM ET] I'm seeing an empty current rankings array `[]` fed in as my pre-odds analysis. **I have no prior course/form analysis to layer odds onto.** This means I'm working without the foundational ball-striking profiles, recent form windows, course-fit assessments, and SG breakdowns that the framework requires before odds even enter the conversation.\n\n**What I can do here:** Give you the odds structure analysis, flag pricing anomalies, and identify where the market is likely soft — but I want to be transparent that any \"value\" calls below are based on general Harbour Town knowledge and these players' publicly known profiles, NOT a completed framework analysis. The full bet card should be treated as directional, not final, until the form/course analysis is run and merged.\n\n**Scheffler at +380 (20.8% implied)** is doing heavy lifting at the top. That's a steep chalk price for a field with genuine contenders. The book is essentially saying 1-in-5 chance for the world #1, which historically at Harbour Town is aggressive — this course has bitten Scheffler before, it rewards precision and local knowledge over raw dominance.\n\n[Odds note Mon 10:34AM ET] > **CRITICAL NOTE:** I'm flagging immediately that my current rankings list came through empty `[]`. I'm going to build the value analysis from the odds snapshot and my framework principles, but I want to be transparent — I don't have the pre-odds course/form tier rankings loaded in this session. I'll work from what the odds are telling me and apply the framework, but **flag this to yourself**: you'll want to cross-reference my value calls against your form notes before pulling the trigger. Everything below is odds-layer analysis grounded in framework principles.\n\n**1. Bryson DeChambeau at +1000 (9.1% implied)**\nBryson is a LIV player. He does not have Heritage eligibility in 2026 under current tour structure unless there's been a policy change I need to flag. Either this is a stale line, a book error, or eligibility rules have shifted. **Do not bet until confirmed eligible.**\n\n**2. Jon Rahm at +1200 (7.7% implied)**\nSame LIV concern. Rahm left for LIV — if he's on this board legitimately, flag it. Could be a cross-market error. Worth verifying before treating as actionable.\n\n[Odds note Wed 08:04PM ET] > **⚠️ CRITICAL SYSTEM NOTE**\n> The \"Current Rankings\" input came through **empty** — no pre-built course/form rankings were passed into this session. I'm working from my trained framework knowledge of Harbour Town and 2026 form through late April, but I'm flagging this hard: **the odds layer is only as good as the course/form layer beneath it.** If you ran a separate analysis session, cross-reference before placing anything.\n\n- **Precision iron play is non-negotiable.** Small greens, tight Bermuda, tree-lined corridors. APP is king here.\n- **Distance is neutral to slightly negative.** Bombers who can't shape shots get exposed.\n- **Putting on Bermuda** matters more here than at most non-major venues. Can't completely dismiss it.\n- **The field is strong** (post-Masters hangover gone, FedEx points push). Depth pricing will be compressed.\n- **Recent form window:** Last 6-8 weeks only. Anyone leaning on 2024 Heritage results as primary evidence is a trap.\n\nI'm building my own probability estimates from the framework and comparing against market implied prob. Positive gap = value. Negative gap = fade territory.\n\n[Odds note Mon 10:34AM ET] I'm being asked to layer odds onto current rankings, but the rankings array is **empty** — `[]`. No prior course/form analysis was passed into this session. I don't have the pre-built rankings to layer against.\n\n**I will not fabricate a prior analysis.** That would violate the core framework principle: *articles are inputs, framework makes decisions* — and I can't pretend I already did work I didn't do.\n\n**Option A — Full Analysis From Scratch**\nGive me the course/form data you have (recent SG splits, Heritage history, current form notes) and I'll build the complete framework analysis + odds layer in one pass.\n\n[Odds note Wed 08:14PM ET] > **⚠️ CRITICAL SYSTEM FLAG**\n>\n> My current rankings list came through **empty** — the \"CURRENT RANKINGS\" field was blank (`[]`). That means I'm working odds against the full field without a pre-built course/form tier list anchoring this analysis.\n>\n> I'm flagging this hard because my framework is explicit: **odds layer ON TOP of analysis, not in place of it.** What I can do right now is run the odds-side framework — identify pricing anomalies, flag market traps, build a preliminary value map — but the final bet card needs to be cross-referenced against the form/course fit work before any money moves.\n>\n> **Do not bet from this sheet alone. Treat this as the odds audit, not the completed card.**\n\n**Total implied probability of top 50 listed:** Roughly 105-107% — which tells me the book's vig is moderate, concentrated at the top. That's normal for a non-major with a clear favorite. The vig compression at the short end (Scheffler, Rory) is aggressive.\n\n**Market narrative:** The book is treating this as a two-man market at the top with a steep cliff after. Scheffler at +380 implies roughly 20.8% — that's a massive number for a 72-man (ish) invitational field even for the world's best player. Rory at +650 implies 13.3%. Together those two eat up **34% of all implied probability**. That's where the market is leaning hard, and that's where I need to be most skeptical.",
     "overall_ranking": [],
     "value_ranking": [
       {
@@ -10566,24 +10566,132 @@
       "C": [],
       "FADE": [
         {
-          "player": "Xander at 16/1",
-          "reason": "solid Harbour Town history, but need recent SG to confirm"
+          "player": "Brooks Koepka (+3300 / 2.9% implied)",
+          "reason": ""
         },
         {
-          "player": "Which option do you want to run? Drop the data and we build this properly.",
+          "player": "Viktor Hovland (+3500 / 2.8% implied)",
+          "reason": ""
+        },
+        {
+          "player": "Tyrrell Hatton (+3500 / 2.8% implied)",
+          "reason": ""
+        },
+        {
+          "player": "Justin Rose (+3500 / 2.8% implied)",
+          "reason": ""
+        },
+        {
+          "player": "Joaquin Niemann (+3500 / 2.8% implied)",
+          "reason": ""
+        },
+        {
+          "player": "Christopher Gotterup (+4000 / 2.4% implied)",
+          "reason": ""
+        },
+        {
+          "player": "Patrick Reed (+4000 / 2.4% implied)",
+          "reason": ""
+        },
+        {
+          "player": "Hideki Matsuyama (+4000 / 2.4% implied)",
+          "reason": ""
+        },
+        {
+          "player": "Sepp Straka (+7000 / 1.4% implied)",
+          "reason": ""
+        },
+        {
+          "player": "Russell Henley (+7000 / 1.4% implied)",
+          "reason": ""
+        },
+        {
+          "player": "Wyndham Clark (+8000 / 1.2% implied)",
+          "reason": ""
+        },
+        {
+          "player": "Tony Finau (+8000 / 1.2% implied)",
+          "reason": ""
+        },
+        {
+          "player": "Si Woo Kim (+8000 / 1.2% implied)",
+          "reason": ""
+        },
+        {
+          "player": "Sam Burns (+8000 / 1.2% implied)",
+          "reason": ""
+        },
+        {
+          "player": "Maverick McNealy (+8000 / 1.2% implied)",
+          "reason": ""
+        },
+        {
+          "player": "Jason Day (+8000 / 1.2% implied)",
+          "reason": ""
+        },
+        {
+          "player": "Jake Knapp (+8000 / 1.2% implied)",
+          "reason": ""
+        },
+        {
+          "player": "JJ Spaun (+8000 / 1.2% implied)",
+          "reason": ""
+        },
+        {
+          "player": "Harris English (+8000 / 1.2% implied)",
+          "reason": ""
+        },
+        {
+          "player": "Daniel Berger (+8000 / 1.2% implied)",
+          "reason": ""
+        },
+        {
+          "player": "Min Woo Lee (+9000 / 1.1% implied)",
+          "reason": ""
+        },
+        {
+          "player": "Max Homa (+9000 / 1.1% implied)",
+          "reason": ""
+        },
+        {
+          "player": "Cameron Smith (+10000 / 1.0% implied)",
+          "reason": ""
+        },
+        {
+          "player": "Jacob Bridgeman (+10000 / 1.0% implied)",
+          "reason": ""
+        },
+        {
+          "player": "David Puig (+10000 / 1.0% implied)",
+          "reason": ""
+        },
+        {
+          "player": "Will Zalatoris (+11000 / 0.9% implied)",
+          "reason": ""
+        },
+        {
+          "player": "Keegan Bradley (+11000 / 0.9% implied)",
+          "reason": ""
+        },
+        {
+          "player": "Byeong-Hun An (+12000 / 0.8% implied)",
+          "reason": ""
+        },
+        {
+          "player": "An has quietly had some solid results. +12000 is deep dart territory",
           "reason": ""
         }
       ]
     },
     "player_notes": {},
-    "last_updated": "2026-05-04T06:34:39.851639-04:00"
+    "last_updated": "2026-05-06T16:14:51.826302-04:00"
   },
   "bet_card": {
     "outrights": [],
     "positions": [],
     "frl": [],
     "hard_fades": [],
-    "last_updated": "2026-04-29T16:04:04.397525-04:00"
+    "last_updated": "2026-05-06T16:14:51.827006-04:00"
   },
   "pool": {
     "event_name": "RBC Heritage",
@@ -10641,7 +10749,8 @@
       "No DG odds returned at 2026-05-05T02:37:17.330837-04:00",
       "No DG odds returned at 2026-05-05T14:04:05.444725-04:00",
       "No DG odds returned at 2026-05-06T03:43:38.111775-04:00",
-      "No DG odds returned at 2026-05-06T14:05:57.402544-04:00"
+      "No DG odds returned at 2026-05-06T14:05:57.402544-04:00",
+      "No DG odds returned at 2026-05-06T16:13:22.607220-04:00"
     ],
     "analysis_uncertainties": [
       "[Claude] > ⚠️ **CRITICAL DATA FLAG — READ BEFORE ANYTHING ELSE**",
@@ -11628,7 +11737,116 @@
       "[Claude] - Scheffler at 4/1 — fair chalk, never great value but never a true fade either",
       "[Claude] - Rory at 13/2 — post-Masters momentum could be real, but also classic market overreaction",
       "[Claude] - Xander at 16/1 — solid Harbour Town history, but need recent SG to confirm",
-      "[Claude] **Which option do you want to run?** Drop the data and we build this properly."
+      "[Claude] **Which option do you want to run?** Drop the data and we build this properly.",
+      "[Claude] > **⚠️ CRITICAL SYSTEM FLAG**",
+      "[Claude] > My current rankings list came through **empty** — the \"CURRENT RANKINGS\" field was blank (`[]`). That means I'm working odds against the full field without a pre-built course/form tier list anchoring this analysis.",
+      "[Claude] > I'm flagging this hard because my framework is explicit: **odds layer ON TOP of analysis, not in place of it.** What I can do right now is run the odds-side framework — identify pricing anomalies, flag market traps, build a preliminary value map — but the final bet card needs to be cross-referenced against the form/course fit work before any money moves.",
+      "[Claude] > **Do not bet from this sheet alone. Treat this as the odds audit, not the completed card.**",
+      "[Claude] ## SECTION 1 — MARKET STRUCTURE OVERVIEW",
+      "[Claude] First thing I always do: read the market before reading individual prices.",
+      "[Claude] **Total implied probability of top 50 listed:** Roughly 105-107% — which tells me the book's vig is moderate, concentrated at the top. That's normal for a non-major with a clear favorite. The vig compression at the short end (Scheffler, Rory) is aggressive.",
+      "[Claude] **Market narrative:** The book is treating this as a two-man market at the top with a steep cliff after. Scheffler at +380 implies roughly 20.8% — that's a massive number for a 72-man (ish) invitational field even for the world's best player. Rory at +650 implies 13.3%. Together those two eat up **34% of all implied probability**. That's where the market is leaning hard, and that's where I need to be most skeptical.",
+      "[Claude] **Invitational field effect:** Heritage is a limited field (roughly 80 players). Implied probabilities are naturally higher than full-field events. +3300 (Brooks) implying 2.94% in a ~80 man field isn't as generous as it looks. Need to keep that in mind when evaluating mid-tier pricing.",
+      "[Claude] ## SECTION 2 — INDIVIDUAL ODDS AUDIT",
+      "[Claude] Working through the board systematically. This is where I identify market traps and genuine value windows.",
+      "[Claude] ### TIER 1 — THE TOP OF THE MARKET",
+      "[Claude] **Scottie Scheffler (+380 / 20.8% implied)**",
+      "[Claude] Even in an invitational, +380 on any golfer is a compressed number. The market is pricing this like he's a near-lock to contend, which recent form probably justifies. But 20.8% in ANY golf tournament is historically rich for outrights. The only question is whether course fit and current trajectory make him worth it at this number. Without my form sheet, I can't confirm — but my prior is that I almost never back the chalk at this price regardless of name. The book is making their margin here. **This is where the public money goes. This is where I typically don't.**",
+      "[Claude] **Rory McIlroy (+650 / 13.3% implied)**",
+      "[Claude] +650 is actually a relatively fair-to-generous number depending on form. Harbour Town is a ball-striker's course with some putting demand — Rory's profile fits reasonably well historically. But 13.3% implied means he needs to win more than 1 in 8 times here to be +EV. That's a high bar. Need form confirmation. Flag for watchlist, not a confident value play at this price.",
+      "[Claude] **Market trap check on Scheffler/Rory:** Combined 34% of field probability. If either is mid-form or playing a tune-up round before something bigger, these prices are brutal. Always check motivation at invitational events.",
+      "[Claude] **Bryson DeChambeau (+1000 / 9.1% implied)**",
+      "[Claude] LIV designation. +1000 in a non-major invitational feels about right for a LIV player with limited recent data. The market can't fully price him because the data is thin. Could be value, could be noise. Without form data I'm not touching this with confidence.",
+      "[Claude] **Jon Rahm (+1200 / 7.7% implied)**",
+      "[Claude] Same LIV designation flag. +1200 is interesting — Rahm's ball-striking profile historically fits tighter, more technical courses. But LIV form data issues are real. Need recent SG data. Flagged as potential value zone but unconfirmed.",
+      "[Claude] ### TIER 2 — THE INTERESTING ZONE (where I usually live)",
+      "[Claude] **Xander Schauffele (+1600 / 5.9% implied)**",
+      "[Claude] +1600 on Xander at Harbour Town. My initial reaction: this might be fair or slightly over-priced depending on recent form. Harbour Town rewards precision, and Xander's profile is a precision player. But 5.9% implied in an invitational field... I need to see his recent APP numbers before getting excited.",
+      "[Claude] **Tommy Fleetwood (+1800 / 5.3% implied)**",
+      "[Claude] Fleetwood at Harbour Town is a profile I genuinely like. He's an elite ball-striker, course suits his low-flight game, and he's historically performed well at courses that demand shot-shaping. +1800 in an invitational field is potentially generous if his recent form is there. **One to watch closely.**",
+      "[Claude] **Ludvig Åberg (+1800 / 5.3% implied)**",
+      "[Claude] Same price as Fleetwood. Åberg's ball-striking profile is elite and fits this course type. The question is always putting — if he's showing any recent improvement there, +1800 in this field structure is potentially underpriced. **One to watch closely.**",
+      "[Claude] **Collin Morikawa (+2200 / 4.4% implied)**",
+      "[Claude] Now we're getting somewhere. Morikawa at Harbour Town feels like a course-fit match. He's a precision ball-striker, loves tight fairways, relies on approach play. +2200 in an invitational — this is the price window where I start paying attention seriously. **Flagged as potential primary value candidate.**",
+      "[Claude] **Cameron Young (+2200 / 4.4% implied)**",
+      "[Claude] Same price as Morikawa. Young's driving profile is intriguing here — he hits it long and has shown flashes of elite ball-striking. But he's also had consistency questions. Need recent form context badly here. Watching.",
+      "[Claude] ### TIER 3 — THE SECONDARY VALUE ZONE",
+      "[Claude] **Justin Thomas (+2500 / 3.9% implied)**",
+      "[Claude] Price trigger check: I had JT flagged as a trigger at 40/1. **He's currently at +2500 (25/1) — does NOT hit the 40/1 trigger.** This is actually a compressed number for JT right now. Unless his recent form is exceptional, this feels like a fade at +2500. The market may be over-respecting the name. Career average trap risk is HIGH with JT — need to confirm recent window SG, not career.",
+      "[Claude] **Brooks Koepka (+3300 / 2.9% implied)**",
+      "[Claude] LIV designation. +3300 in an invitational. Koepka's profile doesn't scream Harbour Town — he's a power player who generally excels at majors. Harbour Town is not his sandbox. This feels like a reputation price, not a course-fit price. **Likely a fade.**",
+      "[Claude] **Viktor Hovland (+3500 / 2.8% implied)**",
+      "[Claude] Price trigger check: I had Hovland flagged at 40/1. **He's at +3500 (35/1) — close but does not technically hit the 40/1 trigger.** However, 35/1 is close enough to warrant a serious look. Hovland's ball-striking profile is legitimate. If recent form is pointing in the right direction, this is in the conversation. **Near-trigger. Needs form confirmation to pull.**",
+      "[Claude] **Tyrrell Hatton (+3500 / 2.8% implied)**",
+      "[Claude] LIV designation. Hatton's game profile — low flight, shot-shaper — is actually a nice Harbour Town fit. +3500 with LIV data limitations is genuinely uncertain. Could be value, hard to confirm.",
+      "[Claude] **Justin Rose (+3500 / 2.8% implied)**",
+      "[Claude] Rose at Harbour Town. This is a heritage fit — Rose has historically played this style of course well. But age and form trajectory matter. +3500 is generous if he's sharp, but this is a name-driven price with significant form uncertainty. **Needs recent form check badly.**",
+      "[Claude] **Joaquin Niemann (+3500 / 2.8% implied)**",
+      "[Claude] LIV designation. Niemann's ball-striking is elite when healthy. +3500 in this field is interesting from a pure talent standpoint. Data limitations as always with LIV.",
+      "[Claude] **Christopher Gotterup (+4000 / 2.4% implied)**",
+      "[Claude] Gotterup has been building steadily. His ball-striking profile has improved. +4000 in an invitational field is the kind of number I want to explore. **Potential value play if form confirms.**",
+      "[Claude] **Patrick Reed (+4000 / 2.4% implied)**",
+      "[Claude] LIV designation. Reed's Harbour Town history matters — he's played this course type well before. But LIV data gaps and general form uncertainty make this speculative.",
+      "[Claude] **Hideki Matsuyama (+4000 / 2.4% implied)**",
+      "[Claude] Hideki's iron play is elite when dialed in. Harbour Town can suit precision iron players. +4000 is worth a look depending on form trajectory. **Watching.**",
+      "[Claude] ### TIER 4 — THE DEEP VALUE HUNT",
+      "[Claude] **Patrick Cantlay (+4500 / 2.2% implied)**",
+      "[Claude] Cantlay at Harbour Town. His profile — elite approach player, methodical, doesn't make mistakes — fits this course extremely well on paper. +4500 in an invitational is potentially generous. **This is a name that jumps out at me for value investigation.**",
+      "[Claude] **Matthew Fitzpatrick (+4500 / 2.2% implied)**",
+      "[Claude] Fitzpatrick's profile is a Harbour Town match in terms of style — precise, doesn't overpower courses, relies on approach play and course management. +4500 feels like it might be underpriced if his recent form is showing. **Strong candidate.**",
+      "[Claude] **Ben Griffin (+5000 / 2.0% implied)**",
+      "[Claude] Griffin has been one of the sneakier ball-strikers on tour recently. +5000 in an invitational — if his recent SG APP and OTT numbers are solid, this is the kind of play my framework loves. Local knowledge/comfort factor at Southeast courses potentially relevant. **High interest. Needs form confirmation.**",
+      "[Claude] **Jordan Spieth (+5000 / 2.0% implied)**",
+      "[Claude] Spieth at Harbour Town is interesting because of his history of playing well at courses that require creativity and touch. The concern is his ball-striking has been erratic — if the putter is carrying, he can contend anywhere, but that's volatile. +5000 is the price where his upside starts to make sense as a speculative play. **Watching but not leading with.**",
+      "[Claude] **Shane Lowry (+6000 / 1.6% implied)**",
+      "[Claude] Lowry's profile doesn't immediately scream Harbour Town fit to me. He's a grinder who can navigate conditions, but his ball-flight and power profile aren't ideal for this kind of precision layout. +6000 feels about right or maybe slightly generous.",
+      "[Claude] **Corey Conners (+6000 / 1.6% implied)**",
+      "[Claude] Conners is one of the most underrated ball-strikers on tour. +6000 at a precision ball-striker's course is interesting. His putting has always been the question mark. If he's showing any putting improvement in the recent window, +6000 here is genuinely mispriced. **Flagged.**",
+      "[Claude] **Robert MacIntyre (+6600 / 1.5% implied)**",
+      "[Claude] MacIntyre's form has been building. His ball-striking profile fits technical courses. +6600 in an invitational is potentially generous. **Worth examining.**",
+      "[Claude] **Sungjae Im (+7000 / 1.4% implied)**",
+      "[Claude] Sungjae is a volume player who puts in the work at courses he knows. His consistency is real even if wins are rare. +7000 feels about right — not screaming value but not a fade either.",
+      "[Claude] **Sepp Straka (+7000 / 1.4% implied)**",
+      "[Claude] Price trigger check: I had Straka flagged at 45/1. **He's currently at +7000 (70/1) — this BLOWS PAST the trigger.** If Straka's recent form is showing the ball-striking metrics I'd want to see for Harbour Town, +7000 is a genuine value play. This is the clearest price trigger I can confirm right now. **TRIGGER HIT. Needs immediate form confirmation to activate.**",
+      "[Claude] **Russell Henley (+7000 / 1.4% implied)**",
+      "[Claude] Henley's game profile — precise, reliable iron player, handles technical courses well — fits Harbour Town. +7000 in an invitational field is a price I like conceptually. **Strong interest.**",
+      "[Claude] **Wyndham Clark (+8000 / 1.2% implied)**",
+      "[Claude] Clark's distance profile doesn't immediately fit the tight, precision nature of Harbour Town. +8000 feels about right or maybe slightly generous given course fit concerns.",
+      "[Claude] **Tony Finau (+8000 / 1.2% implied)**",
+      "[Claude] Finau is a classic \"round 1 and 2 disappears in round 3 and 4\" player at precision courses. +8000 feels right, maybe slightly rich for his profile here.",
+      "[Claude] **Si Woo Kim (+8000 / 1.2% implied)**",
+      "[Claude] Si Woo Kim at Harbour Town — he's actually had some moments at this style of course. +8000 in an invitational. Not a primary target but interesting at this price.",
+      "[Claude] **Sam Burns (+8000 / 1.2% implied)**",
+      "[Claude] Burns knows how to win on the PGA Tour and his ball-striking has generally been solid. +8000 is interesting depending on recent form trajectory. **Watching.**",
+      "[Claude] **Maverick McNealy (+8000 / 1.2% implied)**",
+      "[Claude] McNealy is one of the most underrated precision players on tour. His profile fits Harbour Town very well — he doesn't overpower courses, relies on accuracy and approach play. +8000 in an invitational is potentially mispriced. **Flagged.**",
+      "[Claude] **Jason Day (+8000 / 1.2% implied)**",
+      "[Claude] Day's best golf was at precision courses and he showed flashes recently of recapturing some of that form. +8000 is interesting if the form metrics are pointing up.",
+      "[Claude] **Jake Knapp (+8000 / 1.2% implied)**",
+      "[Claude] Knapp is a developing player with raw talent. +8000 in an invitational is the price where his ceiling makes the bet possible but his floor is concerning. Speculative.",
+      "[Claude] **JJ Spaun (+8000 / 1.2% implied)**",
+      "[Claude] Spaun has had some solid runs. Not a primary target for me at this price without strong form data.",
+      "[Claude] **Harris English (+8000 / 1.2% implied)**",
+      "[Claude] English's return and form trajectory matters a lot here. At his best, he can contend anywhere. +8000 could be value if he's genuinely healthy and sharp. **Needs health/form flag check.**",
+      "[Claude] **Daniel Berger (+8000 / 1.2% implied)**",
+      "[Claude] Berger returning from injury — always a question mark. The talent is real but the return trajectory is what matters. +8000 reflects the uncertainty.",
+      "[Claude] **Min Woo Lee (+9000 / 1.1% implied)**",
+      "[Claude] Min Woo's ball-striking has been developing well. +9000 in an invitational — if the metrics are pointing up, this is the kind of price that can deliver.",
+      "[Claude] **Max Homa (+9000 / 1.1% implied)**",
+      "[Claude] Homa at Harbour Town. His California roots and approach-play reliance fit precision courses. Recent form has been a question — but +9000 in an invitational on a player with genuine course fit is worth examining. **Flagged.**",
+      "[Claude] **Cameron Smith (+10000 / 1.0% implied)**",
+      "[Claude] LIV designation. Smith's short game profile fits any course with premium around-the-green demands. +10000 with LIV data uncertainty is speculative.",
+      "[Claude] **Jacob Bridgeman (+10000 / 1.0% implied)**",
+      "[Claude] Bridgeman at 100/1 in an invitational. Young player, developing, speculative territory.",
+      "[Claude] **David Puig (+10000 / 1.0% implied)**",
+      "[Claude] LIV designation. +10000 is the dart-throw tier for LIV players without reliable recent data.",
+      "[Claude] **Will Zalatoris (+11000 / 0.9% implied)**",
+      "[Claude] If Zalatoris is healthy and back to his best ball-striking, +11000 in an invitational is genuinely interesting. His approach play profile is elite when dialed in. **Health flag critical.**",
+      "[Claude] **Keegan Bradley (+11000 / 0.9% implied)**",
+      "[Claude] Bradley as a captain/veteran. +11000 is a long shot that would require significant form uptick.",
+      "[Claude] **Byeong-Hun An (+12000 / 0.8% implied)**",
+      "[Claude] An has quietly had some solid results. +12000 is deep dart territory",
+      "Final run: no outrights on bet card — manual review needed"
     ],
     "manual_interventions": [],
     "article_log": [
@@ -11987,6 +12205,13 @@
     {
       "time": "2026-05-06T14:05:57.403439-04:00",
       "run_type": "manual",
+      "status": "complete",
+      "field_size": 72,
+      "odds_players": 113
+    },
+    {
+      "time": "2026-05-06T16:14:51.827029-04:00",
+      "run_type": "wednesday_4pm",
       "status": "complete",
       "field_size": 72,
       "odds_players": 113
