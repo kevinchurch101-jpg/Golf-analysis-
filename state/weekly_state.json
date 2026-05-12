@@ -24,8 +24,27 @@
       "owgr_rank": 15,
       "player_name": "Aberg, Ludvig",
       "player_num": 52955,
-      "pre_tourn_pageviews": 2997,
-      "teetimes": [],
+      "pre_tourn_pageviews": 3858,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-05-14 08:18",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-15 13:43",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "9"
     },
     {
@@ -36,8 +55,27 @@
       "owgr_rank": 107,
       "player_name": "Ayora, Angel",
       "player_num": 64052,
-      "pre_tourn_pageviews": 377,
-      "teetimes": [],
+      "pre_tourn_pageviews": 523,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-05-14 09:02",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-15 14:27",
+          "wave": "late"
+        }
+      ],
       "tour_rank": null
     },
     {
@@ -48,8 +86,27 @@
       "owgr_rank": null,
       "player_name": "Berg, Derek",
       "player_num": 39464,
-      "pre_tourn_pageviews": 58,
-      "teetimes": [],
+      "pre_tourn_pageviews": 76,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-05-14 08:07",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-15 13:32",
+          "wave": "late"
+        }
+      ],
       "tour_rank": null
     },
     {
@@ -60,8 +117,27 @@
       "owgr_rank": 42,
       "player_name": "Berger, Daniel",
       "player_num": 40026,
-      "pre_tourn_pageviews": 515,
-      "teetimes": [],
+      "pre_tourn_pageviews": 706,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-05-14 13:21",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-05-15 07:56",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "36"
     },
     {
@@ -72,8 +148,27 @@
       "owgr_rank": 92,
       "player_name": "Bezuidenhout, Christiaan",
       "player_num": 45522,
-      "pre_tourn_pageviews": 478,
-      "teetimes": [],
+      "pre_tourn_pageviews": 600,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-05-14 13:38",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-15 08:13",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "89"
     },
     {
@@ -84,8 +179,27 @@
       "owgr_rank": 23,
       "player_name": "Bhatia, Akshay",
       "player_num": 56630,
-      "pre_tourn_pageviews": 1232,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1645,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-05-14 12:37",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-05-15 07:12",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "8"
     },
     {
@@ -96,8 +210,27 @@
       "owgr_rank": null,
       "player_name": "Bide, Francisco",
       "player_num": 36964,
-      "pre_tourn_pageviews": 74,
-      "teetimes": [],
+      "pre_tourn_pageviews": 85,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-05-14 06:56",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-05-15 12:21",
+          "wave": "late"
+        }
+      ],
       "tour_rank": null
     },
     {
@@ -108,8 +241,27 @@
       "owgr_rank": 112,
       "player_name": "Blanchet, Chandler",
       "player_num": 54788,
-      "pre_tourn_pageviews": 191,
-      "teetimes": [],
+      "pre_tourn_pageviews": 262,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-05-14 14:16",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-05-15 08:51",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "81"
     },
     {
@@ -120,8 +272,27 @@
       "owgr_rank": null,
       "player_name": "Block, Michael",
       "player_num": 22764,
-      "pre_tourn_pageviews": 354,
-      "teetimes": [],
+      "pre_tourn_pageviews": 501,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-05-14 12:10",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-15 06:45",
+          "wave": "early"
+        }
+      ],
       "tour_rank": null
     },
     {
@@ -132,8 +303,27 @@
       "owgr_rank": 32,
       "player_name": "Bradley, Keegan",
       "player_num": 33141,
-      "pre_tourn_pageviews": 1271,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1710,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-05-14 13:54",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-05-15 08:29",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "72"
     },
     {
@@ -144,8 +334,27 @@
       "owgr_rank": 52,
       "player_name": "Brennan, Michael",
       "player_num": 61522,
-      "pre_tourn_pageviews": 422,
-      "teetimes": [],
+      "pre_tourn_pageviews": 575,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-05-14 07:18",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-05-15 12:43",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "123"
     },
     {
@@ -156,8 +365,27 @@
       "owgr_rank": 19,
       "player_name": "Bridgeman, Jacob",
       "player_num": 60004,
-      "pre_tourn_pageviews": 1179,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1591,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-05-14 08:02",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-05-15 13:27",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "5"
     },
     {
@@ -168,8 +396,27 @@
       "owgr_rank": 102,
       "player_name": "Brown, Dan",
       "player_num": 57259,
-      "pre_tourn_pageviews": 153,
-      "teetimes": [],
+      "pre_tourn_pageviews": 192,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-05-14 07:51",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-05-15 13:16",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "130"
     },
     {
@@ -180,8 +427,27 @@
       "owgr_rank": 35,
       "player_name": "Burns, Sam",
       "player_num": 47504,
-      "pre_tourn_pageviews": 1616,
-      "teetimes": [],
+      "pre_tourn_pageviews": 2277,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-05-14 07:34",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-15 12:59",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "30"
     },
     {
@@ -192,8 +458,27 @@
       "owgr_rank": 104,
       "player_name": "Campbell, Brian",
       "player_num": 46443,
-      "pre_tourn_pageviews": 161,
-      "teetimes": [],
+      "pre_tourn_pageviews": 217,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-05-14 13:38",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-15 08:13",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "140"
     },
     {
@@ -204,8 +489,27 @@
       "owgr_rank": 30,
       "player_name": "Cantlay, Patrick",
       "player_num": 35450,
-      "pre_tourn_pageviews": 2499,
-      "teetimes": [],
+      "pre_tourn_pageviews": 3296,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-05-14 07:56",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-15 13:21",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "34"
     },
     {
@@ -216,8 +520,27 @@
       "owgr_rank": 90,
       "player_name": "Castillo, Ricky",
       "player_num": 59440,
-      "pre_tourn_pageviews": 231,
-      "teetimes": [],
+      "pre_tourn_pageviews": 308,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-05-14 12:37",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-05-15 07:12",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "48"
     },
     {
@@ -228,8 +551,27 @@
       "owgr_rank": 66,
       "player_name": "Cauley, Bud",
       "player_num": 34021,
-      "pre_tourn_pageviews": 404,
-      "teetimes": [],
+      "pre_tourn_pageviews": 556,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-05-14 08:02",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-05-15 13:27",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "54"
     },
     {
@@ -240,8 +582,27 @@
       "owgr_rank": null,
       "player_name": "Cink, Stewart",
       "player_num": 20229,
-      "pre_tourn_pageviews": 322,
-      "teetimes": [],
+      "pre_tourn_pageviews": 408,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-05-14 12:48",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-05-15 07:23",
+          "wave": "early"
+        }
+      ],
       "tour_rank": null
     },
     {
@@ -252,8 +613,27 @@
       "owgr_rank": 71,
       "player_name": "Clark, Wyndham",
       "player_num": 51766,
-      "pre_tourn_pageviews": 635,
-      "teetimes": [],
+      "pre_tourn_pageviews": 896,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-05-14 07:45",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-15 13:10",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "79"
     },
     {
@@ -264,8 +644,27 @@
       "owgr_rank": null,
       "player_name": "Collet, Tyler",
       "player_num": 59570,
-      "pre_tourn_pageviews": 42,
-      "teetimes": [],
+      "pre_tourn_pageviews": 54,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-05-14 08:57",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-05-15 14:22",
+          "wave": "late"
+        }
+      ],
       "tour_rank": null
     },
     {
@@ -276,8 +675,27 @@
       "owgr_rank": 50,
       "player_name": "Conners, Corey",
       "player_num": 39997,
-      "pre_tourn_pageviews": 776,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1105,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-05-14 13:21",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-05-15 07:56",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "70"
     },
     {
@@ -288,8 +706,27 @@
       "owgr_rank": 55,
       "player_name": "Coody, Pierceson",
       "player_num": 59836,
-      "pre_tourn_pageviews": 441,
-      "teetimes": [],
+      "pre_tourn_pageviews": 596,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-05-14 13:27",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-15 08:02",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "41"
     },
     {
@@ -300,8 +737,27 @@
       "owgr_rank": 41,
       "player_name": "Day, Jason",
       "player_num": 28089,
-      "pre_tourn_pageviews": 752,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1034,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-05-14 07:34",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-15 12:59",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "51"
     },
     {
@@ -312,8 +768,27 @@
       "owgr_rank": 28,
       "player_name": "DeChambeau, Bryson",
       "player_num": 47959,
-      "pre_tourn_pageviews": 2484,
-      "teetimes": [],
+      "pre_tourn_pageviews": 3214,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-05-14 08:18",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-15 13:43",
+          "wave": "late"
+        }
+      ],
       "tour_rank": null
     },
     {
@@ -324,8 +799,27 @@
       "owgr_rank": 61,
       "player_name": "Detry, Thomas",
       "player_num": 33653,
-      "pre_tourn_pageviews": 1281,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1714,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-05-14 08:24",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-05-15 13:49",
+          "wave": "late"
+        }
+      ],
       "tour_rank": null
     },
     {
@@ -336,8 +830,27 @@
       "owgr_rank": null,
       "player_name": "Donald, Luke",
       "player_num": 23983,
-      "pre_tourn_pageviews": 126,
-      "teetimes": [],
+      "pre_tourn_pageviews": 172,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-05-14 12:48",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-05-15 07:23",
+          "wave": "early"
+        }
+      ],
       "tour_rank": null
     },
     {
@@ -348,8 +861,27 @@
       "owgr_rank": null,
       "player_name": "Droemer, Jesse",
       "player_num": 54954,
-      "pre_tourn_pageviews": 80,
-      "teetimes": [],
+      "pre_tourn_pageviews": 99,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-05-14 12:48",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-05-15 07:23",
+          "wave": "early"
+        }
+      ],
       "tour_rank": null
     },
     {
@@ -360,8 +892,27 @@
       "owgr_rank": null,
       "player_name": "Dufner, Jason",
       "player_num": 25686,
-      "pre_tourn_pageviews": 163,
-      "teetimes": [],
+      "pre_tourn_pageviews": 202,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-05-14 13:05",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-15 07:40",
+          "wave": "early"
+        }
+      ],
       "tour_rank": null
     },
     {
@@ -372,8 +923,27 @@
       "owgr_rank": 48,
       "player_name": "Echavarria, Nico",
       "player_num": 51349,
-      "pre_tourn_pageviews": 222,
-      "teetimes": [],
+      "pre_tourn_pageviews": 298,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-05-14 12:26",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-05-15 07:01",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "31"
     },
     {
@@ -384,8 +954,27 @@
       "owgr_rank": 21,
       "player_name": "English, Harris",
       "player_num": 34099,
-      "pre_tourn_pageviews": 1126,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1580,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-05-14 07:51",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-05-15 13:16",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "37"
     },
     {
@@ -396,8 +985,27 @@
       "owgr_rank": null,
       "player_name": "Fisher, Bryce",
       "player_num": 27484,
-      "pre_tourn_pageviews": 45,
-      "teetimes": [],
+      "pre_tourn_pageviews": 63,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-05-14 07:12",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-15 12:37",
+          "wave": "late"
+        }
+      ],
       "tour_rank": null
     },
     {
@@ -408,8 +1016,27 @@
       "owgr_rank": 134,
       "player_name": "Fisk, Steven",
       "player_num": 57123,
-      "pre_tourn_pageviews": 166,
-      "teetimes": [],
+      "pre_tourn_pageviews": 224,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-05-14 12:21",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-15 06:56",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "112"
     },
     {
@@ -420,8 +1047,27 @@
       "owgr_rank": 83,
       "player_name": "Fitzpatrick, Alex",
       "player_num": 55721,
-      "pre_tourn_pageviews": 1785,
-      "teetimes": [],
+      "pre_tourn_pageviews": 2235,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-05-14 06:45",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-05-15 12:10",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "22"
     },
     {
@@ -432,8 +1078,27 @@
       "owgr_rank": 4,
       "player_name": "Fitzpatrick, Matt",
       "player_num": 40098,
-      "pre_tourn_pageviews": 1937,
-      "teetimes": [],
+      "pre_tourn_pageviews": 2525,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-05-14 14:05",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-05-15 08:40",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "3"
     },
     {
@@ -444,8 +1109,27 @@
       "owgr_rank": 6,
       "player_name": "Fleetwood, Tommy",
       "player_num": 30911,
-      "pre_tourn_pageviews": 2161,
-      "teetimes": [],
+      "pre_tourn_pageviews": 2742,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-05-14 13:43",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-05-15 08:18",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "11"
     },
     {
@@ -456,8 +1140,27 @@
       "owgr_rank": 37,
       "player_name": "Fowler, Rickie",
       "player_num": 32102,
-      "pre_tourn_pageviews": 3965,
-      "teetimes": [],
+      "pre_tourn_pageviews": 5072,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-05-14 08:18",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-15 13:43",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "17"
     },
     {
@@ -468,8 +1171,27 @@
       "owgr_rank": 56,
       "player_name": "Fox, Ryan",
       "player_num": 29936,
-      "pre_tourn_pageviews": 379,
-      "teetimes": [],
+      "pre_tourn_pageviews": 521,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-05-14 08:35",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-05-15 14:00",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "61"
     },
     {
@@ -480,8 +1202,27 @@
       "owgr_rank": null,
       "player_name": "Gabriele, Chris",
       "player_num": 70407,
-      "pre_tourn_pageviews": 50,
-      "teetimes": [],
+      "pre_tourn_pageviews": 69,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-05-14 07:01",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-15 12:26",
+          "wave": "late"
+        }
+      ],
       "tour_rank": null
     },
     {
@@ -492,8 +1233,27 @@
       "owgr_rank": null,
       "player_name": "Geddes, Mark",
       "player_num": 49893,
-      "pre_tourn_pageviews": 68,
-      "teetimes": [],
+      "pre_tourn_pageviews": 81,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-05-14 12:21",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-15 06:56",
+          "wave": "early"
+        }
+      ],
       "tour_rank": null
     },
     {
@@ -504,8 +1264,27 @@
       "owgr_rank": 36,
       "player_name": "Gerard, Ryan",
       "player_num": 59018,
-      "pre_tourn_pageviews": 506,
-      "teetimes": [],
+      "pre_tourn_pageviews": 711,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-05-14 06:56",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-05-15 12:21",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "29"
     },
     {
@@ -516,8 +1295,27 @@
       "owgr_rank": 93,
       "player_name": "Glover, Lucas",
       "player_num": 25900,
-      "pre_tourn_pageviews": 279,
-      "teetimes": [],
+      "pre_tourn_pageviews": 355,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-05-14 07:40",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-05-15 13:05",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "109"
     },
     {
@@ -528,8 +1326,27 @@
       "owgr_rank": 10,
       "player_name": "Gotterup, Chris",
       "player_num": 59095,
-      "pre_tourn_pageviews": 2048,
-      "teetimes": [],
+      "pre_tourn_pageviews": 2867,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-05-14 13:43",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-05-15 08:18",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "6"
     },
     {
@@ -540,8 +1357,27 @@
       "owgr_rank": 70,
       "player_name": "Greyserman, Max",
       "player_num": 51977,
-      "pre_tourn_pageviews": 368,
-      "teetimes": [],
+      "pre_tourn_pageviews": 507,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-05-14 08:13",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-05-15 13:38",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "116"
     },
     {
@@ -552,8 +1388,27 @@
       "owgr_rank": 14,
       "player_name": "Griffin, Ben",
       "player_num": 54591,
-      "pre_tourn_pageviews": 850,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1166,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-05-14 06:45",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-05-15 12:10",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "39"
     },
     {
@@ -564,8 +1419,27 @@
       "owgr_rank": 115,
       "player_name": "Grillo, Emiliano",
       "player_num": 31646,
-      "pre_tourn_pageviews": 149,
-      "teetimes": [],
+      "pre_tourn_pageviews": 204,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-05-14 13:27",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-15 08:02",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "128"
     },
     {
@@ -576,8 +1450,27 @@
       "owgr_rank": 315,
       "player_name": "Gumberg, Jordan",
       "player_num": 51989,
-      "pre_tourn_pageviews": 98,
-      "teetimes": [],
+      "pre_tourn_pageviews": 116,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-05-14 12:15",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-05-15 06:50",
+          "wave": "early"
+        }
+      ],
       "tour_rank": null
     },
     {
@@ -588,8 +1481,27 @@
       "owgr_rank": 57,
       "player_name": "Hall, Harry",
       "player_num": 57975,
-      "pre_tourn_pageviews": 1037,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1483,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-05-14 06:56",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-05-15 12:21",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "42"
     },
     {
@@ -600,8 +1512,27 @@
       "owgr_rank": 53,
       "player_name": "Harman, Brian",
       "player_num": 27644,
-      "pre_tourn_pageviews": 496,
-      "teetimes": [],
+      "pre_tourn_pageviews": 688,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-05-14 07:45",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-15 13:10",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "65"
     },
     {
@@ -612,8 +1543,27 @@
       "owgr_rank": null,
       "player_name": "Harrington, Padraig",
       "player_num": 20766,
-      "pre_tourn_pageviews": 177,
-      "teetimes": [],
+      "pre_tourn_pageviews": 234,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-05-14 08:24",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-05-15 13:49",
+          "wave": "late"
+        }
+      ],
       "tour_rank": null
     },
     {
@@ -624,8 +1574,27 @@
       "owgr_rank": 26,
       "player_name": "Hatton, Tyrrell",
       "player_num": 34363,
-      "pre_tourn_pageviews": 1802,
-      "teetimes": [],
+      "pre_tourn_pageviews": 2378,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-05-14 08:29",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-15 13:54",
+          "wave": "late"
+        }
+      ],
       "tour_rank": null
     },
     {
@@ -636,8 +1605,27 @@
       "owgr_rank": null,
       "player_name": "Haynes, Zach",
       "player_num": 70406,
-      "pre_tourn_pageviews": 35,
-      "teetimes": [],
+      "pre_tourn_pageviews": 54,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-05-14 14:16",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-05-15 08:51",
+          "wave": "early"
+        }
+      ],
       "tour_rank": null
     },
     {
@@ -648,8 +1636,27 @@
       "owgr_rank": 9,
       "player_name": "Henley, Russell",
       "player_num": 34098,
-      "pre_tourn_pageviews": 1854,
-      "teetimes": [],
+      "pre_tourn_pageviews": 2462,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-05-14 13:10",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-05-15 07:45",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "24"
     },
     {
@@ -660,8 +1667,27 @@
       "owgr_rank": 152,
       "player_name": "Higa, Kazuki",
       "player_num": 35778,
-      "pre_tourn_pageviews": 95,
-      "teetimes": [],
+      "pre_tourn_pageviews": 122,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-05-14 08:35",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-05-15 14:00",
+          "wave": "late"
+        }
+      ],
       "tour_rank": null
     },
     {
@@ -672,8 +1698,27 @@
       "owgr_rank": 85,
       "player_name": "Higgo, Garrick",
       "player_num": 54421,
-      "pre_tourn_pageviews": 156,
-      "teetimes": [],
+      "pre_tourn_pageviews": 205,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-05-14 07:18",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-05-15 12:43",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "173"
     },
     {
@@ -684,8 +1729,27 @@
       "owgr_rank": 151,
       "player_name": "Highsmith, Joe",
       "player_num": 60067,
-      "pre_tourn_pageviews": 164,
-      "teetimes": [],
+      "pre_tourn_pageviews": 226,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-05-14 08:07",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-15 13:32",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "148"
     },
     {
@@ -696,8 +1760,27 @@
       "owgr_rank": 96,
       "player_name": "Hillier, Daniel",
       "player_num": 49813,
-      "pre_tourn_pageviews": 322,
-      "teetimes": [],
+      "pre_tourn_pageviews": 442,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-05-14 08:51",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-15 14:16",
+          "wave": "late"
+        }
+      ],
       "tour_rank": null
     },
     {
@@ -708,8 +1791,27 @@
       "owgr_rank": 59,
       "player_name": "Hisatsune, Ryo",
       "player_num": 51287,
-      "pre_tourn_pageviews": 467,
-      "teetimes": [],
+      "pre_tourn_pageviews": 665,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-05-14 08:46",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-05-15 14:11",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "32"
     },
     {
@@ -720,8 +1822,27 @@
       "owgr_rank": 88,
       "player_name": "Hoey, Rico",
       "player_num": 51696,
-      "pre_tourn_pageviews": 203,
-      "teetimes": [],
+      "pre_tourn_pageviews": 256,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-05-14 07:07",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-05-15 12:32",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "120"
     },
     {
@@ -732,8 +1853,27 @@
       "owgr_rank": 124,
       "player_name": "Hoge, Tom",
       "player_num": 35532,
-      "pre_tourn_pageviews": 167,
-      "teetimes": [],
+      "pre_tourn_pageviews": 268,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-05-14 07:12",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-15 12:37",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "77"
     },
     {
@@ -744,8 +1884,27 @@
       "owgr_rank": 29,
       "player_name": "Hojgaard, Nicolai",
       "player_num": 52453,
-      "pre_tourn_pageviews": 2051,
-      "teetimes": [],
+      "pre_tourn_pageviews": 2780,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-05-14 07:07",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-05-15 12:32",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "15"
     },
     {
@@ -756,8 +1915,27 @@
       "owgr_rank": 64,
       "player_name": "Hojgaard, Rasmus",
       "player_num": 52686,
-      "pre_tourn_pageviews": 604,
-      "teetimes": [],
+      "pre_tourn_pageviews": 832,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-05-14 12:10",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-15 06:45",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "94"
     },
     {
@@ -768,8 +1946,27 @@
       "owgr_rank": 113,
       "player_name": "Holt, Ian",
       "player_num": 54525,
-      "pre_tourn_pageviews": 170,
-      "teetimes": [],
+      "pre_tourn_pageviews": 232,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-05-14 07:23",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-15 12:48",
+          "wave": "late"
+        }
+      ],
       "tour_rank": null
     },
     {
@@ -780,8 +1977,27 @@
       "owgr_rank": 123,
       "player_name": "Homa, Max",
       "player_num": 39977,
-      "pre_tourn_pageviews": 632,
-      "teetimes": [],
+      "pre_tourn_pageviews": 837,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-05-14 12:59",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-05-15 07:34",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "64"
     },
     {
@@ -792,8 +2008,27 @@
       "owgr_rank": 117,
       "player_name": "Horschel, Billy",
       "player_num": 29420,
-      "pre_tourn_pageviews": 383,
-      "teetimes": [],
+      "pre_tourn_pageviews": 507,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-05-14 07:23",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-15 12:48",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "86"
     },
     {
@@ -804,8 +2039,27 @@
       "owgr_rank": 27,
       "player_name": "Hovland, Viktor",
       "player_num": 46717,
-      "pre_tourn_pageviews": 1622,
-      "teetimes": [],
+      "pre_tourn_pageviews": 2152,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-05-14 13:32",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-05-15 08:07",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "59"
     },
     {
@@ -816,8 +2070,27 @@
       "owgr_rank": null,
       "player_name": "Hurt, Austin",
       "player_num": 62845,
-      "pre_tourn_pageviews": 42,
-      "teetimes": [],
+      "pre_tourn_pageviews": 48,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-05-14 12:32",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-15 07:07",
+          "wave": "early"
+        }
+      ],
       "tour_rank": null
     },
     {
@@ -828,8 +2101,27 @@
       "owgr_rank": 67,
       "player_name": "Im, Sungjae",
       "player_num": 39971,
-      "pre_tourn_pageviews": 736,
-      "teetimes": [],
+      "pre_tourn_pageviews": 988,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-05-14 12:32",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-15 07:07",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "56"
     },
     {
@@ -840,8 +2132,27 @@
       "owgr_rank": 100,
       "player_name": "Jaeger, Stephan",
       "player_num": 36799,
-      "pre_tourn_pageviews": 297,
-      "teetimes": [],
+      "pre_tourn_pageviews": 403,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-05-14 07:40",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-05-15 13:05",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "75"
     },
     {
@@ -852,8 +2163,27 @@
       "owgr_rank": 72,
       "player_name": "Jarvis, Casey",
       "player_num": 57688,
-      "pre_tourn_pageviews": 347,
-      "teetimes": [],
+      "pre_tourn_pageviews": 439,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-05-14 12:32",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-15 07:07",
+          "wave": "early"
+        }
+      ],
       "tour_rank": null
     },
     {
@@ -864,8 +2194,27 @@
       "owgr_rank": 471,
       "player_name": "Johnson, Dustin",
       "player_num": 30925,
-      "pre_tourn_pageviews": 404,
-      "teetimes": [],
+      "pre_tourn_pageviews": 549,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-05-14 12:10",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-15 06:45",
+          "wave": "early"
+        }
+      ],
       "tour_rank": null
     },
     {
@@ -876,8 +2225,27 @@
       "owgr_rank": null,
       "player_name": "Jones, Jared",
       "player_num": 58391,
-      "pre_tourn_pageviews": 41,
-      "teetimes": [],
+      "pre_tourn_pageviews": 55,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-05-14 08:46",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-05-15 14:11",
+          "wave": "late"
+        }
+      ],
       "tour_rank": null
     },
     {
@@ -888,8 +2256,27 @@
       "owgr_rank": 192,
       "player_name": "Kaneko, Kota",
       "player_num": 61148,
-      "pre_tourn_pageviews": 117,
-      "teetimes": [],
+      "pre_tourn_pageviews": 156,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-05-14 08:57",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-05-15 14:22",
+          "wave": "late"
+        }
+      ],
       "tour_rank": null
     },
     {
@@ -900,8 +2287,27 @@
       "owgr_rank": null,
       "player_name": "Kartrude, Michael",
       "player_num": 51836,
-      "pre_tourn_pageviews": 37,
-      "teetimes": [],
+      "pre_tourn_pageviews": 42,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-05-14 12:43",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-15 07:18",
+          "wave": "early"
+        }
+      ],
       "tour_rank": null
     },
     {
@@ -912,8 +2318,27 @@
       "owgr_rank": null,
       "player_name": "Kaymer, Martin",
       "player_num": 27408,
-      "pre_tourn_pageviews": 132,
-      "teetimes": [],
+      "pre_tourn_pageviews": 165,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-05-14 12:54",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-15 07:29",
+          "wave": "early"
+        }
+      ],
       "tour_rank": null
     },
     {
@@ -924,8 +2349,27 @@
       "owgr_rank": 74,
       "player_name": "Keefer, Johnny",
       "player_num": 63454,
-      "pre_tourn_pageviews": 254,
-      "teetimes": [],
+      "pre_tourn_pageviews": 332,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-05-14 07:07",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-05-15 12:32",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "82"
     },
     {
@@ -936,8 +2380,27 @@
       "owgr_rank": null,
       "player_name": "Kern, Ben",
       "player_num": 55752,
-      "pre_tourn_pageviews": 49,
-      "teetimes": [],
+      "pre_tourn_pageviews": 64,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-05-14 13:10",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-05-15 07:45",
+          "wave": "early"
+        }
+      ],
       "tour_rank": null
     },
     {
@@ -948,8 +2411,27 @@
       "owgr_rank": 45,
       "player_name": "Kim, Michael",
       "player_num": 39975,
-      "pre_tourn_pageviews": 318,
-      "teetimes": [],
+      "pre_tourn_pageviews": 451,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-05-14 08:46",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-05-15 14:11",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "55"
     },
     {
@@ -960,8 +2442,27 @@
       "owgr_rank": 22,
       "player_name": "Kim, Si Woo",
       "player_num": 37455,
-      "pre_tourn_pageviews": 1508,
-      "teetimes": [],
+      "pre_tourn_pageviews": 2020,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-05-14 08:07",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-15 13:32",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "7"
     },
     {
@@ -972,8 +2473,27 @@
       "owgr_rank": 98,
       "player_name": "Kirk, Chris",
       "player_num": 30926,
-      "pre_tourn_pageviews": 230,
-      "teetimes": [],
+      "pre_tourn_pageviews": 281,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-05-14 08:13",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-05-15 13:38",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "137"
     },
     {
@@ -984,8 +2504,27 @@
       "owgr_rank": 34,
       "player_name": "Kitayama, Kurt",
       "player_num": 48117,
-      "pre_tourn_pageviews": 1155,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1571,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-05-14 12:26",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-05-15 07:01",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "23"
     },
     {
@@ -996,8 +2535,27 @@
       "owgr_rank": 125,
       "player_name": "Koepka, Brooks",
       "player_num": 36689,
-      "pre_tourn_pageviews": 2073,
-      "teetimes": [],
+      "pre_tourn_pageviews": 2687,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-05-14 08:29",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-15 13:54",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "66"
     },
     {
@@ -1008,8 +2566,27 @@
       "owgr_rank": 31,
       "player_name": "Lee, Min Woo",
       "player_num": 37378,
-      "pre_tourn_pageviews": 1451,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1986,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-05-14 07:56",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-15 13:21",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "12"
     },
     {
@@ -1020,8 +2597,27 @@
       "owgr_rank": null,
       "player_name": "Lenahan, Ryan",
       "player_num": 46581,
-      "pre_tourn_pageviews": 35,
-      "teetimes": [],
+      "pre_tourn_pageviews": 39,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-05-14 08:35",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-05-15 14:00",
+          "wave": "late"
+        }
+      ],
       "tour_rank": null
     },
     {
@@ -1032,8 +2628,27 @@
       "owgr_rank": 80,
       "player_name": "Li, Haotong",
       "player_num": 35296,
-      "pre_tourn_pageviews": 371,
-      "teetimes": [],
+      "pre_tourn_pageviews": 483,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-05-14 13:05",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-15 07:40",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "99"
     },
     {
@@ -1044,8 +2659,27 @@
       "owgr_rank": 137,
       "player_name": "Lindberg, Mikael",
       "player_num": 48293,
-      "pre_tourn_pageviews": 421,
-      "teetimes": [],
+      "pre_tourn_pageviews": 564,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-05-14 09:02",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-15 14:27",
+          "wave": "late"
+        }
+      ],
       "tour_rank": null
     },
     {
@@ -1056,8 +2690,27 @@
       "owgr_rank": 91,
       "player_name": "Lipsky, David",
       "player_num": 36326,
-      "pre_tourn_pageviews": 223,
-      "teetimes": [],
+      "pre_tourn_pageviews": 297,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-05-14 12:21",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-15 06:56",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "57"
     },
     {
@@ -1068,8 +2721,27 @@
       "owgr_rank": 38,
       "player_name": "Lowry, Shane",
       "player_num": 33204,
-      "pre_tourn_pageviews": 936,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1255,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-05-14 13:32",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-05-15 08:07",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "45"
     },
     {
@@ -1080,8 +2752,27 @@
       "owgr_rank": 12,
       "player_name": "MacIntyre, Robert",
       "player_num": 52215,
-      "pre_tourn_pageviews": 1194,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1573,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-05-14 13:43",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-05-15 08:18",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "27"
     },
     {
@@ -1092,8 +2783,27 @@
       "owgr_rank": 17,
       "player_name": "Matsuyama, Hideki",
       "player_num": 32839,
-      "pre_tourn_pageviews": 1083,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1454,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-05-14 12:59",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-05-15 07:34",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "26"
     },
     {
@@ -1104,8 +2814,27 @@
       "owgr_rank": 99,
       "player_name": "McCarthy, Denny",
       "player_num": 47993,
-      "pre_tourn_pageviews": 350,
-      "teetimes": [],
+      "pre_tourn_pageviews": 471,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-05-14 06:50",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-15 12:15",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "96"
     },
     {
@@ -1116,8 +2845,27 @@
       "owgr_rank": 43,
       "player_name": "McCarty, Matt",
       "player_num": 59141,
-      "pre_tourn_pageviews": 1198,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1608,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-05-14 07:29",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-05-15 12:54",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "28"
     },
     {
@@ -1128,8 +2876,27 @@
       "owgr_rank": null,
       "player_name": "McClure, Paul",
       "player_num": 58597,
-      "pre_tourn_pageviews": 35,
-      "teetimes": [],
+      "pre_tourn_pageviews": 51,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-05-14 09:02",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-15 14:27",
+          "wave": "late"
+        }
+      ],
       "tour_rank": null
     },
     {
@@ -1140,8 +2907,27 @@
       "owgr_rank": 80,
       "player_name": "McGreevy, Max",
       "player_num": 51950,
-      "pre_tourn_pageviews": 184,
-      "teetimes": [],
+      "pre_tourn_pageviews": 236,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-05-14 08:51",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-15 14:16",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "114"
     },
     {
@@ -1152,8 +2938,27 @@
       "owgr_rank": 2,
       "player_name": "McIlroy, Rory",
       "player_num": 28237,
-      "pre_tourn_pageviews": 2651,
-      "teetimes": [],
+      "pre_tourn_pageviews": 3529,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-05-14 08:40",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-15 14:05",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "10"
     },
     {
@@ -1164,8 +2969,27 @@
       "owgr_rank": 108,
       "player_name": "McKibbin, Tom",
       "player_num": 50823,
-      "pre_tourn_pageviews": 327,
-      "teetimes": [],
+      "pre_tourn_pageviews": 414,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-05-14 07:40",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-05-15 13:05",
+          "wave": "late"
+        }
+      ],
       "tour_rank": null
     },
     {
@@ -1176,8 +3000,27 @@
       "owgr_rank": 33,
       "player_name": "McNealy, Maverick",
       "player_num": 46442,
-      "pre_tourn_pageviews": 834,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1161,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-05-14 08:24",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-05-15 13:49",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "44"
     },
     {
@@ -1188,8 +3031,27 @@
       "owgr_rank": null,
       "player_name": "Micheel, Shaun",
       "player_num": 6515,
-      "pre_tourn_pageviews": 108,
-      "teetimes": [],
+      "pre_tourn_pageviews": 136,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-05-14 07:18",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-05-15 12:43",
+          "wave": "late"
+        }
+      ],
       "tour_rank": null
     },
     {
@@ -1200,8 +3062,27 @@
       "owgr_rank": 109,
       "player_name": "Mitchell, Keith",
       "player_num": 39546,
-      "pre_tourn_pageviews": 419,
-      "teetimes": [],
+      "pre_tourn_pageviews": 559,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-05-14 07:23",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-15 12:48",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "71"
     },
     {
@@ -1212,8 +3093,27 @@
       "owgr_rank": 5,
       "player_name": "Morikawa, Collin",
       "player_num": 50525,
-      "pre_tourn_pageviews": 1991,
-      "teetimes": [],
+      "pre_tourn_pageviews": 2584,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-05-14 13:32",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-05-15 08:07",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "4"
     },
     {
@@ -1224,8 +3124,27 @@
       "owgr_rank": 132,
       "player_name": "Mouw, William",
       "player_num": 63121,
-      "pre_tourn_pageviews": 188,
-      "teetimes": [],
+      "pre_tourn_pageviews": 249,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-05-14 07:01",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-15 12:26",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "107"
     },
     {
@@ -1236,8 +3155,27 @@
       "owgr_rank": 77,
       "player_name": "Neergaard-Petersen, Rasmus",
       "player_num": 52689,
-      "pre_tourn_pageviews": 270,
-      "teetimes": [],
+      "pre_tourn_pageviews": 349,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-05-14 13:16",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-15 07:51",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "126"
     },
     {
@@ -1248,8 +3186,27 @@
       "owgr_rank": 167,
       "player_name": "Niemann, Joaquin",
       "player_num": 45486,
-      "pre_tourn_pageviews": 1105,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1456,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-05-14 07:12",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-15 12:37",
+          "wave": "late"
+        }
+      ],
       "tour_rank": null
     },
     {
@@ -1260,8 +3217,27 @@
       "owgr_rank": 18,
       "player_name": "Noren, Alex",
       "player_num": 27349,
-      "pre_tourn_pageviews": 855,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1130,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-05-14 08:02",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-05-15 13:27",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "46"
     },
     {
@@ -1272,8 +3248,27 @@
       "owgr_rank": 54,
       "player_name": "Novak, Andrew",
       "player_num": 51997,
-      "pre_tourn_pageviews": 311,
-      "teetimes": [],
+      "pre_tourn_pageviews": 421,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-05-14 12:15",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-05-15 06:50",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "67"
     },
     {
@@ -1284,8 +3279,27 @@
       "owgr_rank": 87,
       "player_name": "Parry, John",
       "player_num": 28723,
-      "pre_tourn_pageviews": 250,
-      "teetimes": [],
+      "pre_tourn_pageviews": 338,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-05-14 12:15",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-05-15 06:50",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "85"
     },
     {
@@ -1296,8 +3310,27 @@
       "owgr_rank": 86,
       "player_name": "Pendrith, Taylor",
       "player_num": 40250,
-      "pre_tourn_pageviews": 357,
-      "teetimes": [],
+      "pre_tourn_pageviews": 482,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-05-14 07:01",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-15 12:26",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "92"
     },
     {
@@ -1308,8 +3341,27 @@
       "owgr_rank": 40,
       "player_name": "Penge, Marco",
       "player_num": 51003,
-      "pre_tourn_pageviews": 504,
-      "teetimes": [],
+      "pre_tourn_pageviews": 697,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-05-14 13:49",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-15 08:24",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "78"
     },
     {
@@ -1320,8 +3372,27 @@
       "owgr_rank": null,
       "player_name": "Polland, Ben",
       "player_num": 47567,
-      "pre_tourn_pageviews": 61,
-      "teetimes": [],
+      "pre_tourn_pageviews": 88,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-05-14 12:26",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-05-15 07:01",
+          "wave": "early"
+        }
+      ],
       "tour_rank": null
     },
     {
@@ -1332,8 +3403,27 @@
       "owgr_rank": 79,
       "player_name": "Poston, J.T.",
       "player_num": 49771,
-      "pre_tourn_pageviews": 307,
-      "teetimes": [],
+      "pre_tourn_pageviews": 407,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-05-14 13:10",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-05-15 07:45",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "113"
     },
     {
@@ -1344,8 +3434,27 @@
       "owgr_rank": 75,
       "player_name": "Potgieter, Aldrich",
       "player_num": 63343,
-      "pre_tourn_pageviews": 416,
-      "teetimes": [],
+      "pre_tourn_pageviews": 541,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-05-14 06:50",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-15 12:15",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "50"
     },
     {
@@ -1356,8 +3465,27 @@
       "owgr_rank": 62,
       "player_name": "Puig, David",
       "player_num": 61193,
-      "pre_tourn_pageviews": 1158,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1527,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-05-14 06:50",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-15 12:15",
+          "wave": "late"
+        }
+      ],
       "tour_rank": null
     },
     {
@@ -1368,8 +3496,27 @@
       "owgr_rank": 82,
       "player_name": "Putnam, Andrew",
       "player_num": 34256,
-      "pre_tourn_pageviews": 423,
-      "teetimes": [],
+      "pre_tourn_pageviews": 559,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-05-14 12:43",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-15 07:18",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "52"
     },
     {
@@ -1380,8 +3527,27 @@
       "owgr_rank": 20,
       "player_name": "Rahm, Jon",
       "player_num": 46970,
-      "pre_tourn_pageviews": 2938,
-      "teetimes": [],
+      "pre_tourn_pageviews": 3841,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-05-14 08:40",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-15 14:05",
+          "wave": "late"
+        }
+      ],
       "tour_rank": null
     },
     {
@@ -1392,8 +3558,27 @@
       "owgr_rank": 44,
       "player_name": "Rai, Aaron",
       "player_num": 46414,
-      "pre_tourn_pageviews": 592,
-      "teetimes": [],
+      "pre_tourn_pageviews": 789,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-05-14 14:00",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-15 08:35",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "108"
     },
     {
@@ -1404,8 +3589,27 @@
       "owgr_rank": 24,
       "player_name": "Reed, Patrick",
       "player_num": 34360,
-      "pre_tourn_pageviews": 1602,
-      "teetimes": [],
+      "pre_tourn_pageviews": 2171,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-05-14 13:27",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-15 08:02",
+          "wave": "early"
+        }
+      ],
       "tour_rank": null
     },
     {
@@ -1416,8 +3620,27 @@
       "owgr_rank": 25,
       "player_name": "Reitan, Kristoffer",
       "player_num": 49855,
-      "pre_tourn_pageviews": 2231,
-      "teetimes": [],
+      "pre_tourn_pageviews": 2701,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-05-14 08:13",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-05-15 13:38",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "13"
     },
     {
@@ -1428,8 +3651,27 @@
       "owgr_rank": 141,
       "player_name": "Riley, Davis",
       "player_num": 47995,
-      "pre_tourn_pageviews": 241,
-      "teetimes": [],
+      "pre_tourn_pageviews": 353,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-05-14 12:54",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-15 07:29",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "124"
     },
     {
@@ -1440,8 +3682,27 @@
       "owgr_rank": 73,
       "player_name": "Rodgers, Patrick",
       "player_num": 36699,
-      "pre_tourn_pageviews": 260,
-      "teetimes": [],
+      "pre_tourn_pageviews": 344,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-05-14 13:49",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-15 08:24",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "43"
     },
     {
@@ -1452,8 +3713,27 @@
       "owgr_rank": 7,
       "player_name": "Rose, Justin",
       "player_num": 22405,
-      "pre_tourn_pageviews": 1708,
-      "teetimes": [],
+      "pre_tourn_pageviews": 2216,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-05-14 14:05",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-05-15 08:40",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "20"
     },
     {
@@ -1464,8 +3744,27 @@
       "owgr_rank": 101,
       "player_name": "Saddier, Adrien",
       "player_num": 34371,
-      "pre_tourn_pageviews": 109,
-      "teetimes": [],
+      "pre_tourn_pageviews": 143,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-05-14 07:51",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-05-15 13:16",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "177"
     },
     {
@@ -1476,8 +3775,27 @@
       "owgr_rank": null,
       "player_name": "Sapp, Garrett",
       "player_num": 32467,
-      "pre_tourn_pageviews": 77,
-      "teetimes": [],
+      "pre_tourn_pageviews": 97,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-05-14 14:11",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-15 08:46",
+          "wave": "early"
+        }
+      ],
       "tour_rank": null
     },
     {
@@ -1488,8 +3806,27 @@
       "owgr_rank": 65,
       "player_name": "Schaper, Jayden",
       "player_num": 57737,
-      "pre_tourn_pageviews": 385,
-      "teetimes": [],
+      "pre_tourn_pageviews": 509,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-05-14 14:11",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-15 08:46",
+          "wave": "early"
+        }
+      ],
       "tour_rank": null
     },
     {
@@ -1500,8 +3837,27 @@
       "owgr_rank": 11,
       "player_name": "Schauffele, Xander",
       "player_num": 48081,
-      "pre_tourn_pageviews": 2345,
-      "teetimes": [],
+      "pre_tourn_pageviews": 3120,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-05-14 08:29",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-15 13:54",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "16"
     },
     {
@@ -1512,8 +3868,27 @@
       "owgr_rank": 1,
       "player_name": "Scheffler, Scottie",
       "player_num": 46046,
-      "pre_tourn_pageviews": 2708,
-      "teetimes": [],
+      "pre_tourn_pageviews": 3539,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-05-14 14:05",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-05-15 08:40",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "2"
     },
     {
@@ -1524,8 +3899,27 @@
       "owgr_rank": 155,
       "player_name": "Schenk, Adam",
       "player_num": 47347,
-      "pre_tourn_pageviews": 112,
-      "teetimes": [],
+      "pre_tourn_pageviews": 147,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-05-14 13:38",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-15 08:13",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "133"
     },
     {
@@ -1536,8 +3930,27 @@
       "owgr_rank": 97,
       "player_name": "Schmid, Matti",
       "player_num": 48867,
-      "pre_tourn_pageviews": 179,
-      "teetimes": [],
+      "pre_tourn_pageviews": 242,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-05-14 14:22",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-15 08:57",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "84"
     },
     {
@@ -1548,8 +3961,27 @@
       "owgr_rank": 46,
       "player_name": "Scott, Adam",
       "player_num": 24502,
-      "pre_tourn_pageviews": 1696,
-      "teetimes": [],
+      "pre_tourn_pageviews": 2262,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-05-14 13:21",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-05-15 07:56",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "19"
     },
     {
@@ -1560,8 +3992,27 @@
       "owgr_rank": null,
       "player_name": "Shattuck, Braden",
       "player_num": 63181,
-      "pre_tourn_pageviews": 66,
-      "teetimes": [],
+      "pre_tourn_pageviews": 88,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-05-14 06:45",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-05-15 12:10",
+          "wave": "late"
+        }
+      ],
       "tour_rank": null
     },
     {
@@ -1572,8 +4023,27 @@
       "owgr_rank": 78,
       "player_name": "Smalley, Alex",
       "player_num": 46340,
-      "pre_tourn_pageviews": 1231,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1651,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-05-14 14:16",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-05-15 08:51",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "35"
     },
     {
@@ -1584,8 +4054,27 @@
       "owgr_rank": 239,
       "player_name": "Smith, Cameron",
       "player_num": 35891,
-      "pre_tourn_pageviews": 654,
-      "teetimes": [],
+      "pre_tourn_pageviews": 889,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-05-14 07:45",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-15 13:10",
+          "wave": "late"
+        }
+      ],
       "tour_rank": null
     },
     {
@@ -1596,8 +4085,27 @@
       "owgr_rank": 68,
       "player_name": "Smith, Jordan",
       "player_num": 46464,
-      "pre_tourn_pageviews": 398,
-      "teetimes": [],
+      "pre_tourn_pageviews": 502,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-05-14 13:16",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-15 07:51",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "60"
     },
     {
@@ -1608,8 +4116,27 @@
       "owgr_rank": 84,
       "player_name": "Smotherman, Austin",
       "player_num": 50095,
-      "pre_tourn_pageviews": 377,
-      "teetimes": [],
+      "pre_tourn_pageviews": 502,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-05-14 14:22",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-15 08:57",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "53"
     },
     {
@@ -1620,8 +4147,27 @@
       "owgr_rank": 94,
       "player_name": "Smylie, Elvis",
       "player_num": 54185,
-      "pre_tourn_pageviews": 208,
-      "teetimes": [],
+      "pre_tourn_pageviews": 269,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-05-14 12:54",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-15 07:29",
+          "wave": "early"
+        }
+      ],
       "tour_rank": null
     },
     {
@@ -1632,8 +4178,27 @@
       "owgr_rank": 145,
       "player_name": "Smyth, Trav",
       "player_num": 47078,
-      "pre_tourn_pageviews": 119,
-      "teetimes": [],
+      "pre_tourn_pageviews": 152,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-05-14 14:00",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-15 08:35",
+          "wave": "early"
+        }
+      ],
       "tour_rank": null
     },
     {
@@ -1644,8 +4209,27 @@
       "owgr_rank": 131,
       "player_name": "Snedeker, Brandt",
       "player_num": 27649,
-      "pre_tourn_pageviews": 686,
-      "teetimes": [],
+      "pre_tourn_pageviews": 822,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-05-14 08:57",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-05-15 14:22",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "63"
     },
     {
@@ -1656,8 +4240,27 @@
       "owgr_rank": 8,
       "player_name": "Spaun, J.J.",
       "player_num": 39324,
-      "pre_tourn_pageviews": 2100,
-      "teetimes": [],
+      "pre_tourn_pageviews": 2675,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-05-14 12:59",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-05-15 07:34",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "18"
     },
     {
@@ -1668,8 +4271,27 @@
       "owgr_rank": 51,
       "player_name": "Spieth, Jordan",
       "player_num": 34046,
-      "pre_tourn_pageviews": 2269,
-      "teetimes": [],
+      "pre_tourn_pageviews": 2926,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-05-14 08:40",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-15 14:05",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "40"
     },
     {
@@ -1680,8 +4302,27 @@
       "owgr_rank": 49,
       "player_name": "Stevens, Sam",
       "player_num": 55893,
-      "pre_tourn_pageviews": 405,
-      "teetimes": [],
+      "pre_tourn_pageviews": 560,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-05-14 14:11",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-15 08:46",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "49"
     },
     {
@@ -1692,8 +4333,27 @@
       "owgr_rank": 13,
       "player_name": "Straka, Sepp",
       "player_num": 49960,
-      "pre_tourn_pageviews": 1236,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1667,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-05-14 13:49",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-15 08:24",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "14"
     },
     {
@@ -1704,8 +4364,27 @@
       "owgr_rank": 106,
       "player_name": "Sullivan, Andy",
       "player_num": 35314,
-      "pre_tourn_pageviews": 147,
-      "teetimes": [],
+      "pre_tourn_pageviews": 187,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-05-14 14:27",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-05-15 09:02",
+          "wave": "early"
+        }
+      ],
       "tour_rank": null
     },
     {
@@ -1716,8 +4395,27 @@
       "owgr_rank": 58,
       "player_name": "Taylor, Nick",
       "player_num": 25493,
-      "pre_tourn_pageviews": 890,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1122,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-05-14 13:16",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-15 07:51",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "47"
     },
     {
@@ -1728,8 +4426,27 @@
       "owgr_rank": 76,
       "player_name": "Theegala, Sahith",
       "player_num": 51634,
-      "pre_tourn_pageviews": 594,
-      "teetimes": [],
+      "pre_tourn_pageviews": 804,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-05-14 07:56",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-15 13:21",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "33"
     },
     {
@@ -1740,8 +4457,27 @@
       "owgr_rank": 16,
       "player_name": "Thomas, Justin",
       "player_num": 33448,
-      "pre_tourn_pageviews": 1709,
-      "teetimes": [],
+      "pre_tourn_pageviews": 2277,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-05-14 13:54",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-05-15 08:29",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "58"
     },
     {
@@ -1752,8 +4488,27 @@
       "owgr_rank": 63,
       "player_name": "Thorbjornsen, Michael",
       "player_num": 57364,
-      "pre_tourn_pageviews": 700,
-      "teetimes": [],
+      "pre_tourn_pageviews": 979,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-05-14 12:37",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-05-15 07:12",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "62"
     },
     {
@@ -1764,8 +4519,27 @@
       "owgr_rank": 60,
       "player_name": "Valimaki, Sami",
       "player_num": 52666,
-      "pre_tourn_pageviews": 244,
-      "teetimes": [],
+      "pre_tourn_pageviews": 300,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-05-14 14:00",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-15 08:35",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "127"
     },
     {
@@ -1776,8 +4550,27 @@
       "owgr_rank": 126,
       "player_name": "Vegas, Jhonattan",
       "player_num": 27064,
-      "pre_tourn_pageviews": 205,
-      "teetimes": [],
+      "pre_tourn_pageviews": 270,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-05-14 07:29",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-05-15 12:54",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "117"
     },
     {
@@ -1788,8 +4581,27 @@
       "owgr_rank": null,
       "player_name": "Vermeer, Ryan",
       "player_num": 24964,
-      "pre_tourn_pageviews": 59,
-      "teetimes": [],
+      "pre_tourn_pageviews": 67,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-05-14 08:51",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-15 14:16",
+          "wave": "late"
+        }
+      ],
       "tour_rank": null
     },
     {
@@ -1800,8 +4612,27 @@
       "owgr_rank": null,
       "player_name": "Walker, Jimmy",
       "player_num": 25632,
-      "pre_tourn_pageviews": 175,
-      "teetimes": [],
+      "pre_tourn_pageviews": 227,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-05-14 13:05",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-15 07:40",
+          "wave": "early"
+        }
+      ],
       "tour_rank": null
     },
     {
@@ -1812,8 +4643,27 @@
       "owgr_rank": 69,
       "player_name": "Wallace, Matt",
       "player_num": 48887,
-      "pre_tourn_pageviews": 355,
-      "teetimes": [],
+      "pre_tourn_pageviews": 491,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-05-14 12:43",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-15 07:18",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "68"
     },
     {
@@ -1824,8 +4674,27 @@
       "owgr_rank": 203,
       "player_name": "Wiesberger, Bernd",
       "player_num": 29454,
-      "pre_tourn_pageviews": 292,
-      "teetimes": [],
+      "pre_tourn_pageviews": 379,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-05-14 14:27",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-05-15 09:02",
+          "wave": "early"
+        }
+      ],
       "tour_rank": null
     },
     {
@@ -1836,8 +4705,27 @@
       "owgr_rank": null,
       "player_name": "Wiseman, Timothy",
       "player_num": 55417,
-      "pre_tourn_pageviews": 59,
-      "teetimes": [],
+      "pre_tourn_pageviews": 78,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-05-14 14:22",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-15 08:57",
+          "wave": "early"
+        }
+      ],
       "tour_rank": null
     },
     {
@@ -1848,8 +4736,27 @@
       "owgr_rank": 47,
       "player_name": "Woodland, Gary",
       "player_num": 31323,
-      "pre_tourn_pageviews": 1229,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1639,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-05-14 07:34",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-05-15 12:59",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "25"
     },
     {
@@ -1860,8 +4767,27 @@
       "owgr_rank": null,
       "player_name": "Yang, Y.E.",
       "player_num": 24663,
-      "pre_tourn_pageviews": 160,
-      "teetimes": [],
+      "pre_tourn_pageviews": 192,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-05-14 07:29",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-05-15 12:54",
+          "wave": "late"
+        }
+      ],
       "tour_rank": null
     },
     {
@@ -1872,8 +4798,27 @@
       "owgr_rank": 105,
       "player_name": "Yellamaraju, Sudarshan",
       "player_num": 60386,
-      "pre_tourn_pageviews": 824,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1083,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-05-14 14:27",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-05-15 09:02",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "38"
     },
     {
@@ -1884,8 +4829,27 @@
       "owgr_rank": 3,
       "player_name": "Young, Cameron",
       "player_num": 57366,
-      "pre_tourn_pageviews": 2690,
-      "teetimes": [],
+      "pre_tourn_pageviews": 3447,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-05-14 13:54",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "Aronimink Golf Club",
+          "course_num": 773,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-05-15 08:29",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "1"
     }
   ],
@@ -3027,1187 +5991,1171 @@
   "dg_predictions": {
     "by_player": {
       "Scottie Scheffler": {
-        "win": 0.138083333333333,
-        "top_5": 0.382112672558923,
-        "top_10": 0.53410822991823,
-        "top_20": 0.699480338272838,
-        "make_cut": 0.918683333333333,
+        "win": 0.133266666666667,
+        "top_5": 0.370953921957672,
+        "top_10": 0.521687439990565,
+        "top_20": 0.685670224312724,
+        "make_cut": 0.911983333333333,
         "dg_id": 18417
       },
       "Rory Mcilroy": {
-        "win": 0.0755166666666667,
-        "top_5": 0.25487343975469,
-        "top_10": 0.390101053761054,
-        "top_20": 0.562515469923595,
-        "make_cut": 0.866333333333333,
+        "win": 0.07985,
+        "top_5": 0.264188056156806,
+        "top_10": 0.401145529493655,
+        "top_20": 0.571621806563534,
+        "make_cut": 0.871233333333333,
         "dg_id": 10091
       },
       "Jon Rahm": {
-        "win": 0.05965,
-        "top_5": 0.222062388167388,
-        "top_10": 0.357129803761054,
-        "top_20": 0.534304776034151,
-        "make_cut": 0.861333333333333,
+        "win": 0.062,
+        "top_5": 0.223965701058201,
+        "top_10": 0.359797714738965,
+        "top_20": 0.536191626350229,
+        "make_cut": 0.868266666666667,
         "dg_id": 19195
       },
-      "Cameron Young": {
-        "win": 0.0585833333333333,
-        "top_5": 0.211632031625782,
-        "top_10": 0.337616493506494,
-        "top_20": 0.506679958444333,
-        "make_cut": 0.845416666666667,
-        "dg_id": 26651
-      },
       "Xander Schauffele": {
-        "win": 0.0514166666666667,
-        "top_5": 0.196509974146224,
-        "top_10": 0.321446367012617,
-        "top_20": 0.490828192763119,
-        "make_cut": 0.83865,
+        "win": 0.0558,
+        "top_5": 0.204212962962963,
+        "top_10": 0.330637311392311,
+        "top_20": 0.502017222638473,
+        "make_cut": 0.8459,
         "dg_id": 19895
       },
+      "Cameron Young": {
+        "win": 0.05355,
+        "top_5": 0.200062282347282,
+        "top_10": 0.324256722952973,
+        "top_20": 0.495026135947386,
+        "make_cut": 0.833716666666667,
+        "dg_id": 26651
+      },
       "Ludvig Aberg": {
-        "win": 0.0414833333333333,
-        "top_5": 0.165690840548341,
-        "top_10": 0.277514418359418,
-        "top_20": 0.438416302701928,
-        "make_cut": 0.812316666666667,
+        "win": 0.0407,
+        "top_5": 0.166440899470899,
+        "top_10": 0.279524106379731,
+        "top_20": 0.441830939930168,
+        "make_cut": 0.8198,
         "dg_id": 23950
       },
-      "Matt Fitzpatrick": {
-        "win": 0.0309166666666667,
-        "top_5": 0.141576984126984,
-        "top_10": 0.252273527537278,
-        "top_20": 0.419534520942021,
-        "make_cut": 0.814983333333333,
-        "dg_id": 17646
-      },
       "Bryson Dechambeau": {
-        "win": 0.0299333333333333,
-        "top_5": 0.12543,
-        "top_10": 0.221659446941947,
-        "top_20": 0.368609946627447,
-        "make_cut": 0.771283333333333,
+        "win": 0.0306,
+        "top_5": 0.130227023809524,
+        "top_10": 0.22551574032449,
+        "top_20": 0.375129746919747,
+        "make_cut": 0.777983333333333,
         "dg_id": 19841
       },
+      "Matt Fitzpatrick": {
+        "win": 0.0303166666666667,
+        "top_5": 0.134232718253968,
+        "top_10": 0.240354992692493,
+        "top_20": 0.403926326266326,
+        "make_cut": 0.801533333333333,
+        "dg_id": 17646
+      },
       "Tommy Fleetwood": {
-        "win": 0.0220666666666667,
-        "top_5": 0.108021197089947,
-        "top_10": 0.204584072779073,
-        "top_20": 0.360235256572132,
-        "make_cut": 0.786083333333333,
+        "win": 0.01995,
+        "top_5": 0.102645820707071,
+        "top_10": 0.195388674843675,
+        "top_20": 0.348226520077145,
+        "make_cut": 0.7735,
         "dg_id": 12294
       },
-      "Patrick Cantlay": {
-        "win": 0.0181,
-        "top_5": 0.0934455224867725,
-        "top_10": 0.182494764263514,
-        "top_20": 0.332734933376808,
-        "make_cut": 0.769283333333333,
-        "dg_id": 15466
-      },
       "Min Woo Lee": {
-        "win": 0.01795,
-        "top_5": 0.0917287632275132,
-        "top_10": 0.1717216503404,
-        "top_20": 0.311732008061383,
-        "make_cut": 0.748566666666667,
+        "win": 0.0197166666666667,
+        "top_5": 0.0951747558922559,
+        "top_10": 0.177446866651867,
+        "top_20": 0.319465712458837,
+        "make_cut": 0.7523,
         "dg_id": 16841
       },
-      "Chris Gotterup": {
-        "win": 0.01565,
-        "top_5": 0.0783080886243386,
-        "top_10": 0.15150967009842,
-        "top_20": 0.278810444694195,
-        "make_cut": 0.722683333333333,
-        "dg_id": 27774
+      "Patrick Cantlay": {
+        "win": 0.0191166666666667,
+        "top_5": 0.0984942394179894,
+        "top_10": 0.187824162827913,
+        "top_20": 0.338612303460428,
+        "make_cut": 0.777566666666667,
+        "dg_id": 15466
       },
       "Nicolai Hojgaard": {
-        "win": 0.01535,
-        "top_5": 0.0800285714285714,
-        "top_10": 0.156010514069264,
-        "top_20": 0.286719676002102,
-        "make_cut": 0.731666666666667,
+        "win": 0.0158,
+        "top_5": 0.0824776587301587,
+        "top_10": 0.160806902634403,
+        "top_20": 0.297857069365819,
+        "make_cut": 0.740316666666667,
         "dg_id": 23602
       },
-      "Adam Scott": {
-        "win": 0.0136666666666667,
-        "top_5": 0.0759883796296296,
-        "top_10": 0.150922175093425,
-        "top_20": 0.285008753561254,
-        "make_cut": 0.73105,
-        "dg_id": 6430
-      },
-      "Rickie Fowler": {
-        "win": 0.0136333333333333,
-        "top_5": 0.0738030164742665,
-        "top_10": 0.147770644910645,
-        "top_20": 0.278166167721168,
-        "make_cut": 0.731383333333333,
-        "dg_id": 12965
+      "Chris Gotterup": {
+        "win": 0.01355,
+        "top_5": 0.0729887566137566,
+        "top_10": 0.143433491970992,
+        "top_20": 0.268159610366485,
+        "make_cut": 0.704683333333333,
+        "dg_id": 27774
       },
       "Sam Burns": {
-        "win": 0.0136333333333333,
-        "top_5": 0.0729545965608466,
-        "top_10": 0.142347562113812,
-        "top_20": 0.268511062918563,
-        "make_cut": 0.714516666666667,
+        "win": 0.0134,
+        "top_5": 0.0741030423280423,
+        "top_10": 0.147606539085914,
+        "top_20": 0.276396287670663,
+        "make_cut": 0.728116666666667,
         "dg_id": 19483
       },
       "Collin Morikawa": {
-        "win": 0.01305,
-        "top_5": 0.0754547823472824,
-        "top_10": 0.149315873524624,
-        "top_20": 0.285533350422725,
-        "make_cut": 0.736866666666667,
+        "win": 0.013,
+        "top_5": 0.0720595773208273,
+        "top_10": 0.144827174075924,
+        "top_20": 0.277848602614706,
+        "make_cut": 0.725083333333333,
         "dg_id": 22085
       },
+      "Rickie Fowler": {
+        "win": 0.0129,
+        "top_5": 0.0779737770562771,
+        "top_10": 0.155537213943464,
+        "top_20": 0.289775449041699,
+        "make_cut": 0.7407,
+        "dg_id": 12965
+      },
+      "Adam Scott": {
+        "win": 0.0127833333333333,
+        "top_5": 0.0742883537758538,
+        "top_10": 0.147402981486106,
+        "top_20": 0.279570325484701,
+        "make_cut": 0.724533333333333,
+        "dg_id": 6430
+      },
       "Si Woo Kim": {
-        "win": 0.0126666666666667,
-        "top_5": 0.0707037433862434,
-        "top_10": 0.144658609446109,
-        "top_20": 0.283336563258365,
-        "make_cut": 0.74235,
+        "win": 0.0124833333333333,
+        "top_5": 0.0735846164021164,
+        "top_10": 0.150177695082695,
+        "top_20": 0.289928098604827,
+        "make_cut": 0.748766666666667,
         "dg_id": 14609
       },
-      "J.J. Spaun": {
-        "win": 0.0121166666666667,
-        "top_5": 0.0689821963684464,
-        "top_10": 0.141783568792319,
-        "top_20": 0.274587222476598,
-        "make_cut": 0.729666666666667,
-        "dg_id": 17536
-      },
       "Viktor Hovland": {
-        "win": 0.0119333333333333,
-        "top_5": 0.0685620304232804,
-        "top_10": 0.140439757834758,
-        "top_20": 0.272326361555112,
-        "make_cut": 0.7218,
+        "win": 0.0122333333333333,
+        "top_5": 0.0659654034391534,
+        "top_10": 0.134801158933659,
+        "top_20": 0.260340869362119,
+        "make_cut": 0.713866666666667,
         "dg_id": 18841
       },
-      "Russell Henley": {
-        "win": 0.0118333333333333,
-        "top_5": 0.0660862037037037,
-        "top_10": 0.136908588032338,
-        "top_20": 0.268563339468266,
-        "make_cut": 0.73335,
-        "dg_id": 14578
-      },
-      "Robert Macintyre": {
-        "win": 0.0115833333333333,
-        "top_5": 0.0692940277777778,
-        "top_10": 0.1412885503848,
-        "top_20": 0.275667869190994,
-        "make_cut": 0.733883333333333,
-        "dg_id": 23323
-      },
-      "Kurt Kitayama": {
-        "win": 0.0114333333333333,
-        "top_5": 0.0614342664742665,
-        "top_10": 0.123919458041958,
-        "top_20": 0.241348588448588,
-        "make_cut": 0.697233333333333,
-        "dg_id": 21891
-      },
       "Maverick Mcnealy": {
-        "win": 0.0105166666666667,
-        "top_5": 0.0642166005291005,
-        "top_10": 0.129599420995671,
-        "top_20": 0.251764317811818,
-        "make_cut": 0.7078,
+        "win": 0.0121166666666667,
+        "top_5": 0.0658936309523809,
+        "top_10": 0.132470238095238,
+        "top_20": 0.256201726930477,
+        "make_cut": 0.713933333333333,
         "dg_id": 18634
       },
+      "J.J. Spaun": {
+        "win": 0.0120666666666667,
+        "top_5": 0.0688965746753247,
+        "top_10": 0.13975957972583,
+        "top_20": 0.268602860865986,
+        "make_cut": 0.721116666666667,
+        "dg_id": 17536
+      },
+      "Robert Macintyre": {
+        "win": 0.0109,
+        "top_5": 0.0654781884319384,
+        "top_10": 0.136818000749251,
+        "top_20": 0.266440616952492,
+        "make_cut": 0.72025,
+        "dg_id": 23323
+      },
+      "Russell Henley": {
+        "win": 0.0107166666666667,
+        "top_5": 0.0638785317460318,
+        "top_10": 0.131791193667444,
+        "top_20": 0.262799212916713,
+        "make_cut": 0.722166666666667,
+        "dg_id": 14578
+      },
+      "Kurt Kitayama": {
+        "win": 0.0106333333333333,
+        "top_5": 0.0627724278499279,
+        "top_10": 0.125968269369519,
+        "top_20": 0.242881546139046,
+        "make_cut": 0.693716666666667,
+        "dg_id": 21891
+      },
       "Brooks Koepka": {
-        "win": 0.0103166666666667,
-        "top_5": 0.0592991335978836,
-        "top_10": 0.118962014189514,
-        "top_20": 0.233915718170718,
-        "make_cut": 0.686583333333333,
+        "win": 0.0105833333333333,
+        "top_5": 0.0624246103896104,
+        "top_10": 0.123689703167203,
+        "top_20": 0.239719143796019,
+        "make_cut": 0.695083333333333,
         "dg_id": 16243
       },
       "Justin Thomas": {
-        "win": 0.0101333333333333,
-        "top_5": 0.0584319648869649,
-        "top_10": 0.118869721019721,
-        "top_20": 0.234190050505051,
-        "make_cut": 0.684066666666667,
+        "win": 0.0099166666666666,
+        "top_5": 0.0558814814814815,
+        "top_10": 0.113304509333259,
+        "top_20": 0.222888776015651,
+        "make_cut": 0.671683333333333,
         "dg_id": 14139
       },
-      "Justin Rose": {
-        "win": 0.00995,
-        "top_5": 0.053932870971621,
-        "top_10": 0.112839845848596,
-        "top_20": 0.221767905295957,
-        "make_cut": 0.676366666666667,
-        "dg_id": 6093
-      },
-      "Jordan Spieth": {
-        "win": 0.00945,
-        "top_5": 0.0569793584656085,
-        "top_10": 0.118005748926999,
-        "top_20": 0.235994083046583,
-        "make_cut": 0.699666666666667,
-        "dg_id": 14636
-      },
-      "Hideki Matsuyama": {
-        "win": 0.0094166666666666,
-        "top_5": 0.0558750006012506,
-        "top_10": 0.117478333934584,
-        "top_20": 0.237606776540453,
-        "make_cut": 0.70205,
-        "dg_id": 13562
-      },
       "Tyrrell Hatton": {
-        "win": 0.0090833333333333,
-        "top_5": 0.0525825793650794,
-        "top_10": 0.112129531024531,
-        "top_20": 0.226605728391978,
-        "make_cut": 0.6849,
+        "win": 0.0098,
+        "top_5": 0.0552335323472823,
+        "top_10": 0.115861856800607,
+        "top_20": 0.230333258315758,
+        "make_cut": 0.6964,
         "dg_id": 14796
       },
+      "Jordan Spieth": {
+        "win": 0.0095,
+        "top_5": 0.0582807010582011,
+        "top_10": 0.121007380004255,
+        "top_20": 0.241644616263366,
+        "make_cut": 0.707766666666667,
+        "dg_id": 14636
+      },
+      "Justin Rose": {
+        "win": 0.00905,
+        "top_5": 0.0518513822751323,
+        "top_10": 0.106108728354978,
+        "top_20": 0.212593206492581,
+        "make_cut": 0.66495,
+        "dg_id": 6093
+      },
+      "Hideki Matsuyama": {
+        "win": 0.0085333333333333,
+        "top_5": 0.054534332010582,
+        "top_10": 0.116469104922855,
+        "top_20": 0.23470505952381,
+        "make_cut": 0.695033333333333,
+        "dg_id": 13562
+      },
+      "David Puig": {
+        "win": 0.00775,
+        "top_5": 0.0481570701058201,
+        "top_10": 0.101997373922374,
+        "top_20": 0.207477202797203,
+        "make_cut": 0.66815,
+        "dg_id": 28984
+      },
       "Thomas Detry": {
-        "win": 0.00755,
-        "top_5": 0.0469079431216931,
-        "top_10": 0.101765722286972,
-        "top_20": 0.212514277557954,
-        "make_cut": 0.6785,
+        "win": 0.0075833333333333,
+        "top_5": 0.0488049206349206,
+        "top_10": 0.104820679181929,
+        "top_20": 0.216376092842343,
+        "make_cut": 0.68745,
         "dg_id": 14181
       },
       "Joaquin Niemann": {
-        "win": 0.0075333333333333,
-        "top_5": 0.0450163756613757,
-        "top_10": 0.0983152730602731,
-        "top_20": 0.202602012062012,
-        "make_cut": 0.656866666666667,
+        "win": 0.0075,
+        "top_5": 0.0470954431216931,
+        "top_10": 0.101302442464942,
+        "top_20": 0.206822703014578,
+        "make_cut": 0.669316666666667,
         "dg_id": 18079
       },
-      "Keegan Bradley": {
-        "win": 0.0074,
-        "top_5": 0.046512414021164,
-        "top_10": 0.101623785612536,
-        "top_20": 0.210030835137085,
-        "make_cut": 0.67005,
-        "dg_id": 13872
-      },
-      "David Puig": {
-        "win": 0.0072666666666666,
-        "top_5": 0.0454625925925926,
-        "top_10": 0.0958780707718208,
-        "top_20": 0.198901853956229,
-        "make_cut": 0.6531,
-        "dg_id": 28984
-      },
-      "Patrick Reed": {
-        "win": 0.00725,
-        "top_5": 0.0499930489417989,
-        "top_10": 0.108191029341029,
-        "top_20": 0.229509388158138,
-        "make_cut": 0.700016666666667,
-        "dg_id": 14838
-      },
-      "Alex Smalley": {
-        "win": 0.0069333333333333,
-        "top_5": 0.0400334259259259,
-        "top_10": 0.0885777244514745,
-        "top_20": 0.18719706895637,
-        "make_cut": 0.652866666666667,
-        "dg_id": 18474
-      },
-      "Sepp Straka": {
-        "win": 0.0062333333333333,
-        "top_5": 0.0407268326118326,
-        "top_10": 0.0882007471232471,
-        "top_20": 0.185298799880675,
-        "make_cut": 0.646316666666667,
-        "dg_id": 17511
-      },
-      "Harris English": {
-        "win": 0.0061833333333333,
-        "top_5": 0.0428985984848485,
-        "top_10": 0.0944845999370999,
-        "top_20": 0.203327044182669,
-        "make_cut": 0.6816,
-        "dg_id": 14577
-      },
-      "Jacob Bridgeman": {
-        "win": 0.00575,
-        "top_5": 0.0377920238095238,
-        "top_10": 0.084109351019351,
-        "top_20": 0.182831502277679,
-        "make_cut": 0.649316666666667,
-        "dg_id": 29433
-      },
       "Kristoffer Reitan": {
-        "win": 0.0056833333333333,
-        "top_5": 0.039794246031746,
-        "top_10": 0.0868853426665927,
-        "top_20": 0.184185169281971,
-        "make_cut": 0.640666666666667,
+        "win": 0.0072333333333333,
+        "top_5": 0.0419965476190476,
+        "top_10": 0.0892919684944685,
+        "top_20": 0.18652412450975,
+        "make_cut": 0.6536,
         "dg_id": 21407
       },
+      "Patrick Reed": {
+        "win": 0.0070666666666666,
+        "top_5": 0.0479009259259259,
+        "top_10": 0.104676017223517,
+        "top_20": 0.221530764318742,
+        "make_cut": 0.6887,
+        "dg_id": 14838
+      },
+      "Keegan Bradley": {
+        "win": 0.007,
+        "top_5": 0.0431326791726792,
+        "top_10": 0.0948762644300144,
+        "top_20": 0.201082899461649,
+        "make_cut": 0.659833333333333,
+        "dg_id": 13872
+      },
       "Ben Griffin": {
-        "win": 0.0056333333333333,
-        "top_5": 0.0421043981481481,
-        "top_10": 0.0948968530543531,
-        "top_20": 0.20290357970733,
-        "make_cut": 0.685483333333333,
+        "win": 0.00695,
+        "top_5": 0.045856078042328,
+        "top_10": 0.101907342657343,
+        "top_20": 0.215016791287416,
+        "make_cut": 0.69955,
         "dg_id": 24968
       },
-      "Alex Noren": {
-        "win": 0.0056166666666666,
-        "top_5": 0.0387025330687831,
-        "top_10": 0.084433080993081,
-        "top_20": 0.185436357485107,
-        "make_cut": 0.6604,
-        "dg_id": 10419
-      },
-      "Gary Woodland": {
-        "win": 0.0055166666666666,
-        "top_5": 0.0372969246031746,
-        "top_10": 0.0811421067821068,
-        "top_20": 0.173546541583417,
-        "make_cut": 0.63315,
-        "dg_id": 12577
+      "Harris English": {
+        "win": 0.0068833333333333,
+        "top_5": 0.0446310852573353,
+        "top_10": 0.0985061439486439,
+        "top_20": 0.210186033887137,
+        "make_cut": 0.692716666666667,
+        "dg_id": 14577
       },
       "Harry Hall": {
-        "win": 0.0054833333333333,
-        "top_5": 0.0387638624338624,
-        "top_10": 0.0886815416065416,
-        "top_20": 0.195885998075998,
-        "make_cut": 0.67035,
+        "win": 0.0060833333333333,
+        "top_5": 0.0416848082010582,
+        "top_10": 0.0926679513773264,
+        "top_20": 0.201046529419654,
+        "make_cut": 0.683583333333333,
         "dg_id": 27194
       },
+      "Gary Woodland": {
+        "win": 0.0059,
+        "top_5": 0.0376164820827321,
+        "top_10": 0.0832680442011692,
+        "top_20": 0.178424022528398,
+        "make_cut": 0.6427,
+        "dg_id": 12577
+      },
       "Akshay Bhatia": {
-        "win": 0.0054333333333333,
-        "top_5": 0.0381162301587302,
-        "top_10": 0.0866941784604285,
-        "top_20": 0.184793647833648,
-        "make_cut": 0.654683333333333,
+        "win": 0.0055333333333333,
+        "top_5": 0.0371815079365079,
+        "top_10": 0.0834266379453879,
+        "top_20": 0.18109968956969,
+        "make_cut": 0.649116666666667,
         "dg_id": 26096
       },
-      "Shane Lowry": {
-        "win": 0.0048833333333333,
-        "top_5": 0.0361609926647427,
-        "top_10": 0.0832018205868206,
-        "top_20": 0.181594507529508,
-        "make_cut": 0.65525,
-        "dg_id": 13900
+      "Jacob Bridgeman": {
+        "win": 0.0053833333333333,
+        "top_5": 0.038061917989418,
+        "top_10": 0.0862956316831317,
+        "top_20": 0.185792798567174,
+        "make_cut": 0.6602,
+        "dg_id": 29433
       },
-      "Pierceson Coody": {
-        "win": 0.0046166666666666,
-        "top_5": 0.0292634595959596,
-        "top_10": 0.0674775943963444,
-        "top_20": 0.151796862935539,
-        "make_cut": 0.616033333333333,
-        "dg_id": 28309
+      "Sepp Straka": {
+        "win": 0.0053666666666666,
+        "top_5": 0.0372493915343915,
+        "top_10": 0.0823487743506494,
+        "top_20": 0.175363744334369,
+        "make_cut": 0.631133333333333,
+        "dg_id": 17511
+      },
+      "Alex Noren": {
+        "win": 0.0052166666666666,
+        "top_5": 0.0378378174603175,
+        "top_10": 0.0875506806156806,
+        "top_20": 0.192799847596576,
+        "make_cut": 0.672183333333333,
+        "dg_id": 10419
+      },
+      "Alex Smalley": {
+        "win": 0.0051833333333333,
+        "top_5": 0.0358703439153439,
+        "top_10": 0.0829612136243386,
+        "top_20": 0.18003243467181,
+        "make_cut": 0.640566666666667,
+        "dg_id": 18474
       },
       "Jason Day": {
-        "win": 0.0043333333333333,
-        "top_5": 0.0326420767195767,
-        "top_10": 0.0732043984718985,
-        "top_20": 0.163426804861805,
-        "make_cut": 0.625983333333333,
+        "win": 0.0049833333333333,
+        "top_5": 0.0344238293650794,
+        "top_10": 0.077829445045695,
+        "top_20": 0.170253047868526,
+        "make_cut": 0.64085,
         "dg_id": 9771
       },
-      "Matt Mccarty": {
-        "win": 0.0039333333333333,
-        "top_5": 0.0277151058201058,
-        "top_10": 0.0661526503126503,
-        "top_20": 0.156202364487364,
-        "make_cut": 0.627216666666667,
-        "dg_id": 28635
-      },
-      "Michael Thorbjornsen": {
-        "win": 0.0038833333333333,
-        "top_5": 0.0276564622414622,
-        "top_10": 0.0637157876382876,
-        "top_20": 0.14232976033226,
-        "make_cut": 0.6008,
-        "dg_id": 26649
+      "Shane Lowry": {
+        "win": 0.0048166666666666,
+        "top_5": 0.0349943584656085,
+        "top_10": 0.0798310251322751,
+        "top_20": 0.177046288156288,
+        "make_cut": 0.6422,
+        "dg_id": 13900
       },
       "Alex Fitzpatrick": {
-        "win": 0.0038166666666666,
-        "top_5": 0.0298315542328042,
-        "top_10": 0.0697277514615015,
-        "top_20": 0.157813958911459,
-        "make_cut": 0.6327,
+        "win": 0.0044166666666666,
+        "top_5": 0.0305605291005291,
+        "top_10": 0.0724259184334184,
+        "top_20": 0.167353951812077,
+        "make_cut": 0.645833333333333,
         "dg_id": 25362
       },
+      "Pierceson Coody": {
+        "win": 0.00415,
+        "top_5": 0.0276622486772487,
+        "top_10": 0.0633572522847523,
+        "top_20": 0.145523725603101,
+        "make_cut": 0.601016666666667,
+        "dg_id": 28309
+      },
+      "Matt Mccarty": {
+        "win": 0.0041,
+        "top_5": 0.0303139285714286,
+        "top_10": 0.0703681409331409,
+        "top_20": 0.159889505818256,
+        "make_cut": 0.638233333333333,
+        "dg_id": 28635
+      },
       "Ryan Gerard": {
-        "win": 0.0035666666666666,
-        "top_5": 0.027333835978836,
-        "top_10": 0.0667598831261331,
-        "top_20": 0.153462056145108,
-        "make_cut": 0.6221,
+        "win": 0.00405,
+        "top_5": 0.0297605555555556,
+        "top_10": 0.0690288274457024,
+        "top_20": 0.158524457972583,
+        "make_cut": 0.639316666666667,
         "dg_id": 29767
       },
+      "Michael Thorbjornsen": {
+        "win": 0.004,
+        "top_5": 0.0282156150793651,
+        "top_10": 0.0644994317256817,
+        "top_20": 0.144478967328967,
+        "make_cut": 0.598766666666667,
+        "dg_id": 26649
+      },
       "Wyndham Clark": {
-        "win": 0.0033666666666666,
-        "top_5": 0.0244792195767196,
-        "top_10": 0.0565979190716691,
-        "top_20": 0.131924882971059,
-        "make_cut": 0.588,
+        "win": 0.0037166666666666,
+        "top_5": 0.0254546560846561,
+        "top_10": 0.0593964774577275,
+        "top_20": 0.137349527532653,
+        "make_cut": 0.596833333333333,
         "dg_id": 23604
       },
-      "Corey Conners": {
-        "win": 0.0033166666666666,
-        "top_5": 0.0247652843915344,
-        "top_10": 0.0566712910700411,
-        "top_20": 0.135558311179561,
-        "make_cut": 0.6026,
-        "dg_id": 17576
-      },
       "Keith Mitchell": {
-        "win": 0.0033,
-        "top_5": 0.0256920965608466,
-        "top_10": 0.0599136537999038,
-        "top_20": 0.137311999736375,
-        "make_cut": 0.5963,
+        "win": 0.0036833333333333,
+        "top_5": 0.0272452447089947,
+        "top_10": 0.0630970689033189,
+        "top_20": 0.143666771238021,
+        "make_cut": 0.606066666666667,
         "dg_id": 17365
       },
-      "Nick Taylor": {
-        "win": 0.00325,
-        "top_5": 0.0232915674603175,
-        "top_10": 0.0571192305379805,
-        "top_20": 0.139017952047952,
-        "make_cut": 0.618466666666667,
-        "dg_id": 13126
-      },
       "Sahith Theegala": {
-        "win": 0.00325,
-        "top_5": 0.0253265542328042,
-        "top_10": 0.0600190458152958,
-        "top_20": 0.137601985838236,
-        "make_cut": 0.594483333333333,
+        "win": 0.0033833333333333,
+        "top_5": 0.0251335515873016,
+        "top_10": 0.0607414297739298,
+        "top_20": 0.14081815506253,
+        "make_cut": 0.603833333333333,
         "dg_id": 23014
       },
       "Sam Stevens": {
-        "win": 0.0031833333333333,
-        "top_5": 0.0244800727513228,
-        "top_10": 0.0601598292448292,
-        "top_20": 0.141483738830614,
-        "make_cut": 0.613366666666667,
+        "win": 0.0032833333333333,
+        "top_5": 0.0231662764550265,
+        "top_10": 0.0571946021571022,
+        "top_20": 0.134706510734636,
+        "make_cut": 0.592366666666667,
         "dg_id": 25569
       },
-      "Rasmus Hojgaard": {
-        "win": 0.00315,
-        "top_5": 0.0236209193121693,
-        "top_10": 0.0561957413419913,
-        "top_20": 0.130539900839901,
-        "make_cut": 0.5816,
-        "dg_id": 23838
-      },
       "Ryo Hisatsune": {
-        "win": 0.0031166666666666,
-        "top_5": 0.0231940343915344,
-        "top_10": 0.05544528998779,
-        "top_20": 0.133125366970992,
-        "make_cut": 0.599566666666667,
+        "win": 0.00305,
+        "top_5": 0.024401832010582,
+        "top_10": 0.0594862524050024,
+        "top_20": 0.140458065221815,
+        "make_cut": 0.611633333333333,
         "dg_id": 22760
       },
-      "Jordan Smith": {
-        "win": 0.0030166666666666,
-        "top_5": 0.0227736044973545,
-        "top_10": 0.0554333327320827,
-        "top_20": 0.130115935314685,
-        "make_cut": 0.591866666666667,
-        "dg_id": 18586
+      "Rasmus Hojgaard": {
+        "win": 0.00295,
+        "top_5": 0.0244323412698413,
+        "top_10": 0.0563190671828172,
+        "top_20": 0.130926486684612,
+        "make_cut": 0.579583333333333,
+        "dg_id": 23838
       },
       "Bud Cauley": {
-        "win": 0.00275,
-        "top_5": 0.0225750330687831,
-        "top_10": 0.0547649855699856,
-        "top_20": 0.131022138278388,
-        "make_cut": 0.594933333333333,
+        "win": 0.0029166666666666,
+        "top_5": 0.0243760251322751,
+        "top_10": 0.0573804865504866,
+        "top_20": 0.135236334915085,
+        "make_cut": 0.605133333333333,
         "dg_id": 14502
       },
-      "Ryan Fox": {
-        "win": 0.0024166666666666,
-        "top_5": 0.0192282738095238,
-        "top_10": 0.0483206028231028,
-        "top_20": 0.116968974081474,
-        "make_cut": 0.568983333333333,
-        "dg_id": 11889
+      "Jordan Smith": {
+        "win": 0.0029,
+        "top_5": 0.0216601124338624,
+        "top_10": 0.0524945546583047,
+        "top_20": 0.123969393846894,
+        "make_cut": 0.579633333333333,
+        "dg_id": 18586
       },
-      "Sungjae Im": {
-        "win": 0.0024166666666666,
-        "top_5": 0.0197386441798942,
-        "top_10": 0.047640943963444,
-        "top_20": 0.116406962481962,
-        "make_cut": 0.57465,
-        "dg_id": 17488
+      "Corey Conners": {
+        "win": 0.0028166666666666,
+        "top_5": 0.0222362566137566,
+        "top_10": 0.0544086753524253,
+        "top_20": 0.127692564380064,
+        "make_cut": 0.580483333333333,
+        "dg_id": 17576
+      },
+      "Nick Taylor": {
+        "win": 0.00275,
+        "top_5": 0.0220365873015873,
+        "top_10": 0.0545477765290265,
+        "top_20": 0.134172688792689,
+        "make_cut": 0.607083333333333,
+        "dg_id": 13126
       },
       "Taylor Pendrith": {
-        "win": 0.0024166666666666,
-        "top_5": 0.0201733862433862,
-        "top_10": 0.0479850553150553,
-        "top_20": 0.117494813526615,
-        "make_cut": 0.56765,
+        "win": 0.0026,
+        "top_5": 0.0200818849206349,
+        "top_10": 0.0503996571946572,
+        "top_20": 0.122486195748696,
+        "make_cut": 0.5836,
         "dg_id": 17780
       },
-      "Brian Harman": {
-        "win": 0.0023333333333333,
-        "top_5": 0.0184096494708995,
-        "top_10": 0.0477666139416139,
-        "top_20": 0.118472927720428,
-        "make_cut": 0.580866666666667,
-        "dg_id": 8825
-      },
       "Sudarshan Yellamaraju": {
-        "win": 0.0023333333333333,
-        "top_5": 0.0208544246031746,
-        "top_10": 0.0500602477152477,
-        "top_20": 0.120738204441256,
-        "make_cut": 0.574,
+        "win": 0.0025333333333333,
+        "top_5": 0.0189193915343915,
+        "top_10": 0.0462798520923521,
+        "top_20": 0.113190788794539,
+        "make_cut": 0.553216666666667,
         "dg_id": 29925
       },
-      "Matt Wallace": {
-        "win": 0.0023,
-        "top_5": 0.0188392923280423,
-        "top_10": 0.046527405002405,
-        "top_20": 0.115004675139675,
-        "make_cut": 0.576,
-        "dg_id": 20706
-      },
-      "Andrew Novak": {
-        "win": 0.0022166666666666,
-        "top_5": 0.0176486904761905,
-        "top_10": 0.0421873478835979,
-        "top_20": 0.104532817090317,
-        "make_cut": 0.54835,
-        "dg_id": 23475
-      },
-      "Daniel Berger": {
-        "win": 0.0021333333333333,
-        "top_5": 0.0178590806878307,
-        "top_10": 0.0462527807840308,
-        "top_20": 0.114156400913901,
-        "make_cut": 0.568333333333333,
-        "dg_id": 17606
-      },
-      "Daniel Hillier": {
-        "win": 0.0020666666666666,
-        "top_5": 0.0170889748677249,
-        "top_10": 0.0422861772486772,
-        "top_20": 0.10400682007807,
-        "make_cut": 0.554183333333333,
-        "dg_id": 21362
-      },
-      "Ricky Castillo": {
-        "win": 0.00205,
-        "top_5": 0.0168956084656085,
-        "top_10": 0.0422351503126503,
-        "top_20": 0.104437668812669,
-        "make_cut": 0.547466666666667,
-        "dg_id": 27819
+      "Ryan Fox": {
+        "win": 0.0025,
+        "top_5": 0.0199681752044252,
+        "top_10": 0.049280315980316,
+        "top_20": 0.120109014596515,
+        "make_cut": 0.581033333333333,
+        "dg_id": 11889
       },
       "J.T. Poston": {
-        "win": 0.00205,
-        "top_5": 0.0181071957671958,
-        "top_10": 0.046414997964998,
-        "top_20": 0.11596601479539,
-        "make_cut": 0.58045,
+        "win": 0.0024333333333333,
+        "top_5": 0.0172311375661376,
+        "top_10": 0.0437941907166907,
+        "top_20": 0.11162229702215,
+        "make_cut": 0.571516666666667,
         "dg_id": 21554
       },
       "Michael Brennan": {
-        "win": 0.0020333333333333,
-        "top_5": 0.0162726322751323,
-        "top_10": 0.0403561934824435,
-        "top_20": 0.0982994275631776,
-        "make_cut": 0.532733333333333,
+        "win": 0.0024166666666666,
+        "top_5": 0.0178275733525734,
+        "top_10": 0.0425058501452251,
+        "top_20": 0.103349645308395,
+        "make_cut": 0.54645,
         "dg_id": 29197
       },
-      "Marco Penge": {
-        "win": 0.0020333333333333,
-        "top_5": 0.0158632076719577,
-        "top_10": 0.0386588331113331,
-        "top_20": 0.0944513218494469,
-        "make_cut": 0.523233333333333,
-        "dg_id": 22465
+      "Sungjae Im": {
+        "win": 0.0023833333333333,
+        "top_5": 0.0194257942520443,
+        "top_10": 0.0473101638176638,
+        "top_20": 0.117173570378423,
+        "make_cut": 0.56925,
+        "dg_id": 17488
       },
-      "Max Homa": {
-        "win": 0.0020166666666666,
-        "top_5": 0.0156708134920635,
-        "top_10": 0.0387243157768158,
-        "top_20": 0.096039086954712,
-        "make_cut": 0.531416666666667,
-        "dg_id": 17538
-      },
-      "Aaron Rai": {
-        "win": 0.0019333333333333,
-        "top_5": 0.0180578637566138,
-        "top_10": 0.0476423166185666,
-        "top_20": 0.119210512311762,
-        "make_cut": 0.58795,
-        "dg_id": 18554
+      "Brian Harman": {
+        "win": 0.0023,
+        "top_5": 0.0195348617123617,
+        "top_10": 0.0484596085396085,
+        "top_20": 0.121248068297443,
+        "make_cut": 0.591583333333333,
+        "dg_id": 8825
       },
       "Angel Ayora": {
-        "win": 0.00185,
-        "top_5": 0.0163361574074074,
-        "top_10": 0.0411723046860547,
-        "top_20": 0.101886008621009,
-        "make_cut": 0.550316666666667,
+        "win": 0.00215,
+        "top_5": 0.0175748082010582,
+        "top_10": 0.0434033252395752,
+        "top_20": 0.107562183973434,
+        "make_cut": 0.561033333333333,
         "dg_id": 30445
+      },
+      "Andrew Novak": {
+        "win": 0.0021166666666666,
+        "top_5": 0.0168115806878307,
+        "top_10": 0.0424596682484183,
+        "top_20": 0.102964341630592,
+        "make_cut": 0.546616666666667,
+        "dg_id": 23475
+      },
+      "Jayden Schaper": {
+        "win": 0.0020666666666666,
+        "top_5": 0.015393869047619,
+        "top_10": 0.0397833807165057,
+        "top_20": 0.102932701673327,
+        "make_cut": 0.55285,
+        "dg_id": 26991
+      },
+      "Daniel Hillier": {
+        "win": 0.0020666666666666,
+        "top_5": 0.0163187896825397,
+        "top_10": 0.0423315965053465,
+        "top_20": 0.108338731800607,
+        "make_cut": 0.564316666666667,
+        "dg_id": 21362
+      },
+      "Ricky Castillo": {
+        "win": 0.0020333333333333,
+        "top_5": 0.0164579166666667,
+        "top_10": 0.0407140697034447,
+        "top_20": 0.10166872500185,
+        "make_cut": 0.544066666666667,
+        "dg_id": 27819
+      },
+      "Aaron Rai": {
+        "win": 0.0020333333333333,
+        "top_5": 0.0170855098605099,
+        "top_10": 0.0442489906852407,
+        "top_20": 0.113653827977578,
+        "make_cut": 0.572383333333333,
+        "dg_id": 18554
+      },
+      "Matt Wallace": {
+        "win": 0.002,
+        "top_5": 0.0173989748677249,
+        "top_10": 0.0445728897953898,
+        "top_20": 0.110638082496207,
+        "make_cut": 0.568766666666667,
+        "dg_id": 20706
+      },
+      "Max Homa": {
+        "win": 0.00195,
+        "top_5": 0.0149207738095238,
+        "top_10": 0.0372718855218855,
+        "top_20": 0.0938599242424242,
+        "make_cut": 0.524116666666667,
+        "dg_id": 17538
+      },
+      "Daniel Berger": {
+        "win": 0.0018833333333333,
+        "top_5": 0.0172398346560847,
+        "top_10": 0.0426312638287638,
+        "top_20": 0.10898593036593,
+        "make_cut": 0.5527,
+        "dg_id": 17606
+      },
+      "Dustin Johnson": {
+        "win": 0.0018833333333333,
+        "top_5": 0.0151716071428571,
+        "top_10": 0.0368202062289562,
+        "top_20": 0.0895641603766604,
+        "make_cut": 0.512966666666667,
+        "dg_id": 12422
+      },
+      "Denny Mccarthy": {
+        "win": 0.0018833333333333,
+        "top_5": 0.0140859193121693,
+        "top_10": 0.0367105074555075,
+        "top_20": 0.0968936906149406,
+        "make_cut": 0.56455,
+        "dg_id": 19870
       },
       "Tom Mckibbin": {
         "win": 0.0018333333333333,
-        "top_5": 0.0163393386243386,
-        "top_10": 0.0416776653439153,
-        "top_20": 0.104728242428867,
-        "make_cut": 0.561433333333333,
+        "top_5": 0.0161005092592593,
+        "top_10": 0.0427244235856736,
+        "top_20": 0.108724367197345,
+        "make_cut": 0.57305,
         "dg_id": 22322
       },
-      "Dustin Johnson": {
-        "win": 0.0018,
-        "top_5": 0.0137961772486772,
-        "top_10": 0.0347739979002479,
-        "top_20": 0.0888803805453805,
-        "make_cut": 0.517366666666667,
-        "dg_id": 12422
-      },
-      "Aldrich Potgieter": {
-        "win": 0.0017166666666666,
-        "top_5": 0.012951130952381,
-        "top_10": 0.0314902489177489,
-        "top_20": 0.0766083202445702,
-        "make_cut": 0.4836,
-        "dg_id": 27900
-      },
-      "Patrick Rodgers": {
-        "win": 0.0016333333333333,
-        "top_5": 0.0125461838624339,
-        "top_10": 0.0323170743145743,
-        "top_20": 0.0836151866951132,
-        "make_cut": 0.523833333333333,
-        "dg_id": 16283
-      },
-      "Jayden Schaper": {
-        "win": 0.0016,
-        "top_5": 0.0162352579365079,
-        "top_10": 0.0419727747715248,
-        "top_20": 0.107760427859178,
-        "make_cut": 0.571466666666667,
-        "dg_id": 26991
-      },
-      "Christiaan Bezuidenhout": {
-        "win": 0.0015833333333333,
-        "top_5": 0.0144505158730159,
-        "top_10": 0.0381113191438191,
-        "top_20": 0.102602040235092,
-        "make_cut": 0.568633333333333,
-        "dg_id": 18103
+      "Marco Penge": {
+        "win": 0.00175,
+        "top_5": 0.014804503968254,
+        "top_10": 0.0360055683205683,
+        "top_20": 0.0881522926379176,
+        "make_cut": 0.50635,
+        "dg_id": 22465
       },
       "Max Greyserman": {
-        "win": 0.0015833333333333,
-        "top_5": 0.0138075529100529,
-        "top_10": 0.0351557287157287,
-        "top_20": 0.0899549642024642,
-        "make_cut": 0.517766666666667,
+        "win": 0.00175,
+        "top_5": 0.0148108399470899,
+        "top_10": 0.036560496031746,
+        "top_20": 0.092413547008547,
+        "make_cut": 0.527,
         "dg_id": 23465
       },
+      "Aldrich Potgieter": {
+        "win": 0.0017,
+        "top_5": 0.0123932341269841,
+        "top_10": 0.0311380922318422,
+        "top_20": 0.0782201165963666,
+        "make_cut": 0.495683333333333,
+        "dg_id": 27900
+      },
       "Michael Kim": {
-        "win": 0.0015666666666666,
-        "top_5": 0.0133489087301587,
-        "top_10": 0.0349431405168905,
-        "top_20": 0.0912849904262404,
-        "make_cut": 0.533933333333333,
+        "win": 0.00165,
+        "top_5": 0.0135892791005291,
+        "top_10": 0.0359780166592667,
+        "top_20": 0.0929932902976653,
+        "make_cut": 0.543833333333333,
         "dg_id": 17543
       },
-      "Rico Hoey": {
-        "win": 0.0015166666666666,
-        "top_5": 0.011948664021164,
-        "top_10": 0.0319618067580568,
-        "top_20": 0.0836792016779517,
-        "make_cut": 0.508716666666667,
-        "dg_id": 23504
-      },
-      "Stewart Cink": {
-        "win": 0.0015,
-        "top_5": 0.012014880952381,
-        "top_10": 0.0319561050986051,
-        "top_20": 0.0849485603748104,
-        "make_cut": 0.5185,
-        "dg_id": 5665
-      },
-      "Mikael Lindberg": {
-        "win": 0.0013,
-        "top_5": 0.0114921626984127,
-        "top_10": 0.0300734992784993,
-        "top_20": 0.0761623828023828,
-        "make_cut": 0.4898,
-        "dg_id": 20084
-      },
       "Haotong Li": {
-        "win": 0.00125,
-        "top_5": 0.0126714424001924,
-        "top_10": 0.03280722000222,
-        "top_20": 0.0835458594877345,
-        "make_cut": 0.510066666666667,
+        "win": 0.0015,
+        "top_5": 0.0114493915343915,
+        "top_10": 0.0305769264069264,
+        "top_20": 0.0793922957135457,
+        "make_cut": 0.49985,
         "dg_id": 15310
       },
-      "Steven Fisk": {
+      "Rico Hoey": {
+        "win": 0.00145,
+        "top_5": 0.0133302717652718,
+        "top_10": 0.0337324470899471,
+        "top_20": 0.0858326006632257,
+        "make_cut": 0.5264,
+        "dg_id": 23504
+      },
+      "Mikael Lindberg": {
+        "win": 0.0014166666666666,
+        "top_5": 0.0124906944444444,
+        "top_10": 0.0314880862193362,
+        "top_20": 0.0802688803326303,
+        "make_cut": 0.502866666666667,
+        "dg_id": 20084
+      },
+      "Christiaan Bezuidenhout": {
+        "win": 0.0012833333333333,
+        "top_5": 0.0140845568783069,
+        "top_10": 0.0371247057109557,
+        "top_20": 0.0982814547027047,
+        "make_cut": 0.553833333333333,
+        "dg_id": 18103
+      },
+      "Stewart Cink": {
         "win": 0.0012333333333333,
-        "top_5": 0.0099963365800865,
-        "top_10": 0.0258067394179894,
-        "top_20": 0.0718796194546195,
-        "make_cut": 0.49695,
+        "top_5": 0.0129701851851852,
+        "top_10": 0.0326325823713324,
+        "top_20": 0.0842485367641618,
+        "make_cut": 0.50985,
+        "dg_id": 5665
+      },
+      "William Mouw": {
+        "win": 0.0012166666666666,
+        "top_5": 0.0092618915343915,
+        "top_10": 0.0241038443963444,
+        "top_20": 0.0680958043345543,
+        "make_cut": 0.4837,
+        "dg_id": 29770
+      },
+      "Steven Fisk": {
+        "win": 0.0012,
+        "top_5": 0.0097197222222222,
+        "top_10": 0.0270425612813113,
+        "top_20": 0.0724585376102655,
+        "make_cut": 0.492516666666667,
         "dg_id": 26657
       },
-      "Denny Mccarthy": {
-        "win": 0.0012166666666666,
-        "top_5": 0.0126682605820106,
-        "top_10": 0.0348273599086099,
-        "top_20": 0.0915780742174492,
-        "make_cut": 0.543183333333333,
-        "dg_id": 19870
+      "Patrick Rodgers": {
+        "win": 0.0011666666666666,
+        "top_5": 0.0114622288359788,
+        "top_10": 0.0304116426166426,
+        "top_20": 0.081050244015244,
+        "make_cut": 0.506633333333333,
+        "dg_id": 16283
       },
       "Rasmus Neergaard-Petersen": {
-        "win": 0.00115,
-        "top_5": 0.0100983531746032,
-        "top_10": 0.0266732605820106,
-        "top_20": 0.0751617239010989,
-        "make_cut": 0.50045,
+        "win": 0.0011166666666666,
+        "top_5": 0.0095223478835978,
+        "top_10": 0.0252818598531099,
+        "top_20": 0.0692740249470029,
+        "make_cut": 0.48425,
         "dg_id": 23841
       },
+      "Cameron Smith": {
+        "win": 0.0010666666666666,
+        "top_5": 0.0087355026455026,
+        "top_10": 0.0235395346320346,
+        "top_20": 0.067653940989566,
+        "make_cut": 0.485583333333333,
+        "dg_id": 15856
+      },
       "Andrew Putnam": {
-        "win": 0.0010833333333333,
-        "top_5": 0.0114552645502646,
-        "top_10": 0.0328240594128094,
-        "top_20": 0.0903464159220409,
-        "make_cut": 0.558683333333333,
+        "win": 0.00105,
+        "top_5": 0.0118119047619048,
+        "top_10": 0.0327389826839827,
+        "top_20": 0.0896480880693381,
+        "make_cut": 0.546766666666667,
         "dg_id": 14704
       },
       "Casey Jarvis": {
-        "win": 0.0010833333333333,
-        "top_5": 0.0092578968253968,
-        "top_10": 0.0261711802549303,
-        "top_20": 0.0722609114959115,
-        "make_cut": 0.50205,
+        "win": 0.001,
+        "top_5": 0.0093808928571428,
+        "top_10": 0.0256924755337255,
+        "top_20": 0.0711907342194842,
+        "make_cut": 0.492816666666667,
         "dg_id": 26947
       },
-      "John Parry": {
-        "win": 0.0009666666666666,
-        "top_5": 0.0095034788359788,
-        "top_10": 0.0275888311688312,
-        "top_20": 0.0784786738955489,
-        "make_cut": 0.52045,
-        "dg_id": 13764
-      },
-      "Johnny Keefer": {
+      "Billy Horschel": {
         "win": 0.0009333333333333,
-        "top_5": 0.007791369047619,
-        "top_10": 0.0200981120731121,
-        "top_20": 0.0570901351888852,
-        "make_cut": 0.454433333333333,
-        "dg_id": 32457
+        "top_5": 0.0065768518518518,
+        "top_10": 0.0190707102157102,
+        "top_20": 0.0546783194120694,
+        "make_cut": 0.451,
+        "dg_id": 11276
       },
       "Max Mcgreevy": {
         "win": 0.0009333333333333,
-        "top_5": 0.0081087698412698,
-        "top_10": 0.0243339528064528,
-        "top_20": 0.0690241757779258,
-        "make_cut": 0.50095,
+        "top_5": 0.0096430555555555,
+        "top_10": 0.0258991272847523,
+        "top_20": 0.0720561455211455,
+        "make_cut": 0.512133333333333,
         "dg_id": 23505
       },
-      "Matti Schmid": {
-        "win": 0.0009166666666666,
-        "top_5": 0.0089738293650793,
-        "top_10": 0.0243631565656566,
-        "top_20": 0.0649361227198727,
-        "make_cut": 0.468416666666667,
-        "dg_id": 20722
+      "Johnny Keefer": {
+        "win": 0.0009,
+        "top_5": 0.0080498611111111,
+        "top_10": 0.0223522757335257,
+        "top_20": 0.0603658553714804,
+        "make_cut": 0.46735,
+        "dg_id": 32457
+      },
+      "John Parry": {
+        "win": 0.0008666666666666,
+        "top_5": 0.0094113756613756,
+        "top_10": 0.0283012912087912,
+        "top_20": 0.0773950746013246,
+        "make_cut": 0.51965,
+        "dg_id": 13764
       },
       "Austin Smotherman": {
-        "win": 0.0008833333333333,
-        "top_5": 0.0096427116402116,
-        "top_10": 0.0261006691919192,
-        "top_20": 0.0712626233026233,
-        "make_cut": 0.48805,
+        "win": 0.00085,
+        "top_5": 0.0089300992063492,
+        "top_10": 0.0237209193121693,
+        "top_20": 0.0668672219215969,
+        "make_cut": 0.467216666666667,
         "dg_id": 22985
       },
-      "William Mouw": {
-        "win": 0.0008166666666666,
-        "top_5": 0.0087877122414622,
-        "top_10": 0.0240581054593555,
-        "top_20": 0.0643162861675362,
-        "make_cut": 0.4695,
-        "dg_id": 29770
-      },
-      "Cameron Smith": {
-        "win": 0.0008,
-        "top_5": 0.0083935648148148,
-        "top_10": 0.023760762987013,
-        "top_20": 0.0649998285510786,
-        "make_cut": 0.47625,
-        "dg_id": 15856
-      },
-      "Stephan Jaeger": {
-        "win": 0.0006833333333333,
-        "top_5": 0.0071409523809523,
-        "top_10": 0.0211160024235024,
-        "top_20": 0.0614381123968624,
-        "make_cut": 0.464883333333333,
-        "dg_id": 16394
+      "Matti Schmid": {
+        "win": 0.00085,
+        "top_5": 0.0080083802308802,
+        "top_10": 0.0219950697450697,
+        "top_20": 0.0598615398721649,
+        "make_cut": 0.448916666666667,
+        "dg_id": 20722
       },
       "Chris Kirk": {
-        "win": 0.0006833333333333,
-        "top_5": 0.007405238095238,
-        "top_10": 0.0202092748917749,
-        "top_20": 0.0592586397398897,
-        "make_cut": 0.463533333333333,
+        "win": 0.0008333333333333,
+        "top_5": 0.0077748875661375,
+        "top_10": 0.0214209902597403,
+        "top_20": 0.0610471875809376,
+        "make_cut": 0.476966666666667,
         "dg_id": 12423
       },
-      "Bernd Wiesberger": {
-        "win": 0.0006333333333333,
-        "top_5": 0.0062680952380952,
-        "top_10": 0.0184942947330447,
-        "top_20": 0.0541654426129426,
-        "make_cut": 0.4607,
-        "dg_id": 9531
-      },
-      "Nico Echavarria": {
-        "win": 0.0006166666666666,
-        "top_5": 0.0057598544973545,
-        "top_10": 0.0161292875180375,
-        "top_20": 0.046712066035816,
-        "make_cut": 0.4313,
-        "dg_id": 22833
-      },
-      "Sami Valimaki": {
-        "win": 0.0006,
-        "top_5": 0.0063703968253968,
-        "top_10": 0.0172058483645984,
-        "top_20": 0.0499023743386243,
-        "make_cut": 0.439183333333333,
-        "dg_id": 23816
-      },
-      "Billy Horschel": {
-        "win": 0.0005666666666666,
-        "top_5": 0.005569451058201,
-        "top_10": 0.017063673039923,
-        "top_20": 0.0502374643874644,
-        "make_cut": 0.439483333333333,
-        "dg_id": 11276
-      },
-      "Jhonattan Vegas": {
-        "win": 0.00055,
-        "top_5": 0.0038982738095238,
-        "top_10": 0.0123323214285714,
-        "top_20": 0.0391494036056536,
-        "make_cut": 0.394683333333333,
-        "dg_id": 13508
-      },
-      "Ian Holt": {
-        "win": 0.0004833333333333,
-        "top_5": 0.0054854563492063,
-        "top_10": 0.0161171055796056,
-        "top_20": 0.0460162007205757,
-        "make_cut": 0.422983333333333,
-        "dg_id": 25036
-      },
-      "Brandt Snedeker": {
-        "win": 0.0004666666666666,
-        "top_5": 0.0044260582010582,
-        "top_10": 0.0139357407407407,
-        "top_20": 0.0440928750878751,
-        "make_cut": 0.432166666666667,
-        "dg_id": 8820
-      },
-      "Garrick Higgo": {
-        "win": 0.00045,
-        "top_5": 0.0048074007936507,
-        "top_10": 0.0140840758778259,
-        "top_20": 0.0418105065998816,
-        "make_cut": 0.406566666666667,
-        "dg_id": 24342
-      },
-      "Lucas Glover": {
-        "win": 0.0003833333333333,
-        "top_5": 0.0037949007936507,
-        "top_10": 0.0117992532467532,
-        "top_20": 0.0374895585433085,
-        "make_cut": 0.412933333333333,
-        "dg_id": 7399
-      },
-      "Adrien Saddier": {
-        "win": 0.0003666666666666,
-        "top_5": 0.0040341666666666,
-        "top_10": 0.0116690367965368,
-        "top_20": 0.0348125640794391,
-        "make_cut": 0.3899,
-        "dg_id": 14792
+      "Stephan Jaeger": {
+        "win": 0.0008166666666666,
+        "top_5": 0.0079627380952381,
+        "top_10": 0.021751455026455,
+        "top_20": 0.0601445877270877,
+        "make_cut": 0.4705,
+        "dg_id": 16394
       },
       "Dan Brown": {
-        "win": 0.0003666666666666,
-        "top_5": 0.0046738888888888,
-        "top_10": 0.0137074621212121,
-        "top_20": 0.0399210106560107,
-        "make_cut": 0.403333333333333,
+        "win": 0.0006166666666666,
+        "top_5": 0.0047994576719576,
+        "top_10": 0.0138147817460317,
+        "top_20": 0.0414129606042106,
+        "make_cut": 0.418,
         "dg_id": 20766
       },
-      "Elvis Smylie": {
-        "win": 0.0003166666666666,
-        "top_5": 0.0027975793650793,
-        "top_10": 0.0085060882635882,
-        "top_20": 0.0285756145243645,
-        "make_cut": 0.364416666666667,
-        "dg_id": 24200
+      "Nico Echavarria": {
+        "win": 0.0006,
+        "top_5": 0.0057109788359788,
+        "top_10": 0.0161924506512006,
+        "top_20": 0.0471105138516168,
+        "make_cut": 0.425066666666667,
+        "dg_id": 22833
+      },
+      "Garrick Higgo": {
+        "win": 0.0006,
+        "top_5": 0.0051001256613756,
+        "top_10": 0.0152012555962556,
+        "top_20": 0.0438434491434491,
+        "make_cut": 0.411866666666667,
+        "dg_id": 24342
+      },
+      "Ian Holt": {
+        "win": 0.0005666666666666,
+        "top_5": 0.0058966137566137,
+        "top_10": 0.0163349771062271,
+        "top_20": 0.0478811848105598,
+        "make_cut": 0.43755,
+        "dg_id": 25036
+      },
+      "Bernd Wiesberger": {
+        "win": 0.00055,
+        "top_5": 0.005187791005291,
+        "top_10": 0.0161102008177008,
+        "top_20": 0.0495058560883561,
+        "make_cut": 0.438483333333333,
+        "dg_id": 9531
+      },
+      "Jhonattan Vegas": {
+        "win": 0.00045,
+        "top_5": 0.0050373412698412,
+        "top_10": 0.0136542406204906,
+        "top_20": 0.0405192033796813,
+        "make_cut": 0.405966666666667,
+        "dg_id": 13508
+      },
+      "Lucas Glover": {
+        "win": 0.0004166666666666,
+        "top_5": 0.004004074074074,
+        "top_10": 0.0123682282994783,
+        "top_20": 0.039559522977023,
+        "make_cut": 0.429266666666667,
+        "dg_id": 7399
+      },
+      "Sami Valimaki": {
+        "win": 0.0003666666666666,
+        "top_5": 0.0050142328042328,
+        "top_10": 0.0151352916065416,
+        "top_20": 0.0444596512746513,
+        "make_cut": 0.4174,
+        "dg_id": 23816
+      },
+      "Adrien Saddier": {
+        "win": 0.0003333333333333,
+        "top_5": 0.0040328439153439,
+        "top_10": 0.0121858757446257,
+        "top_20": 0.0378899833037333,
+        "make_cut": 0.400133333333333,
+        "dg_id": 14792
       },
       "David Lipsky": {
-        "win": 0.00025,
-        "top_5": 0.003819365079365,
-        "top_10": 0.0118879683742184,
-        "top_20": 0.0366563424538425,
-        "make_cut": 0.40495,
+        "win": 0.0003333333333333,
+        "top_5": 0.0033588558201058,
+        "top_10": 0.0111245793095793,
+        "top_20": 0.0362219233544234,
+        "make_cut": 0.402833333333333,
         "dg_id": 15980
       },
-      "Emiliano Grillo": {
-        "win": 0.0002333333333333,
-        "top_5": 0.0026058796296296,
-        "top_10": 0.0086269642857142,
-        "top_20": 0.029329244967995,
-        "make_cut": 0.382616666666667,
-        "dg_id": 12808
-      },
-      "Joe Highsmith": {
-        "win": 0.0002166666666666,
-        "top_5": 0.0019169841269841,
-        "top_10": 0.0060512608225108,
-        "top_20": 0.0207570422170422,
-        "make_cut": 0.327383333333333,
-        "dg_id": 28469
+      "Brandt Snedeker": {
+        "win": 0.0003166666666666,
+        "top_5": 0.0047011111111111,
+        "top_10": 0.0139930778018278,
+        "top_20": 0.042868171990047,
+        "make_cut": 0.441333333333333,
+        "dg_id": 8820
       },
       "Chandler Blanchet": {
-        "win": 0.0001833333333333,
-        "top_5": 0.0030922089947089,
-        "top_10": 0.0099250811688311,
-        "top_20": 0.0333217993117993,
-        "make_cut": 0.391583333333333,
+        "win": 0.0002833333333333,
+        "top_5": 0.0028625793650793,
+        "top_10": 0.0094183796296296,
+        "top_20": 0.0308464011220261,
+        "make_cut": 0.3725,
         "dg_id": 24956
       },
       "Adam Schenk": {
-        "win": 0.0001833333333333,
-        "top_5": 0.0019512962962963,
-        "top_10": 0.0058407281144781,
-        "top_20": 0.0194423193704444,
-        "make_cut": 0.31135,
+        "win": 0.0002166666666666,
+        "top_5": 0.0020935846560846,
+        "top_10": 0.0064586784511784,
+        "top_20": 0.0201456512006512,
+        "make_cut": 0.300783333333333,
         "dg_id": 19477
       },
-      "Trav Smyth": {
-        "win": 0.0001666666666666,
-        "top_5": 0.0011490277777777,
-        "top_10": 0.004074531024531,
-        "top_20": 0.0144244708994709,
-        "make_cut": 0.28125,
-        "dg_id": 19232
+      "Elvis Smylie": {
+        "win": 0.0002166666666666,
+        "top_5": 0.0031333862433862,
+        "top_10": 0.0096041266835016,
+        "top_20": 0.0297203859933639,
+        "make_cut": 0.355833333333333,
+        "dg_id": 24200
+      },
+      "Emiliano Grillo": {
+        "win": 0.0002,
+        "top_5": 0.0026114285714285,
+        "top_10": 0.0084268602693602,
+        "top_20": 0.0288499533799534,
+        "make_cut": 0.367366666666667,
+        "dg_id": 12808
+      },
+      "Tom Hoge": {
+        "win": 0.0001833333333333,
+        "top_5": 0.0018927380952381,
+        "top_10": 0.0068244246031746,
+        "top_20": 0.0232533456127206,
+        "make_cut": 0.344616666666667,
+        "dg_id": 15575
       },
       "Kota Kaneko": {
         "win": 0.0001333333333333,
-        "top_5": 0.0017184457671957,
-        "top_10": 0.0059932016594516,
-        "top_20": 0.0214326572039072,
-        "make_cut": 0.355683333333333,
+        "top_5": 0.0015056547619047,
+        "top_10": 0.0056590079365079,
+        "top_20": 0.0227013277463277,
+        "make_cut": 0.369533333333333,
         "dg_id": 28268
       },
-      "Tom Hoge": {
-        "win": 0.0001333333333333,
-        "top_5": 0.0023127579365079,
-        "top_10": 0.0065695508658008,
-        "top_20": 0.0215688042975543,
-        "make_cut": 0.3286,
-        "dg_id": 15575
-      },
-      "Davis Riley": {
+      "Trav Smyth": {
         "win": 0.0001166666666666,
-        "top_5": 0.0020764285714285,
-        "top_10": 0.0060841095478595,
-        "top_20": 0.0200112954637955,
-        "make_cut": 0.303216666666667,
-        "dg_id": 19872
+        "top_5": 0.0010983068783068,
+        "top_10": 0.0037278373015873,
+        "top_20": 0.0134178174603175,
+        "make_cut": 0.267433333333333,
+        "dg_id": 19232
       },
       "Brian Campbell": {
         "win": 8.33333333333333e-05,
-        "top_5": 0.0013829761904761,
-        "top_10": 0.0045920701058201,
-        "top_20": 0.0166018124468124,
-        "make_cut": 0.312933333333333,
+        "top_5": 0.0010923148148148,
+        "top_10": 0.0036819715007215,
+        "top_20": 0.0151752511377511,
+        "make_cut": 0.297216666666667,
         "dg_id": 18628
+      },
+      "Joe Highsmith": {
+        "win": 6.66666666666667e-05,
+        "top_5": 0.0020655489417989,
+        "top_10": 0.0069577122414622,
+        "top_20": 0.023009265965516,
+        "make_cut": 0.3369,
+        "dg_id": 28469
+      },
+      "Davis Riley": {
+        "win": 6.66666666666667e-05,
+        "top_5": 0.0019699603174603,
+        "top_10": 0.0059070304232804,
+        "top_20": 0.018810358021608,
+        "make_cut": 0.293266666666667,
+        "dg_id": 19872
       },
       "Andy Sullivan": {
         "win": 6.66666666666667e-05,
-        "top_5": 0.0014355555555555,
-        "top_10": 0.0044118183668183,
-        "top_20": 0.0158216634291634,
-        "make_cut": 0.3068,
+        "top_5": 0.0013092592592592,
+        "top_10": 0.0038002314814814,
+        "top_20": 0.0148654009416509,
+        "make_cut": 0.288716666666667,
         "dg_id": 15326
       },
-      "Jordan Gumberg": {
-        "win": 6.66666666666667e-05,
-        "top_5": 0.000425873015873,
-        "top_10": 0.0014180297017797,
-        "top_20": 0.005668792087542,
-        "make_cut": 0.19745,
-        "dg_id": 23892
+      "Kazuki Higa": {
+        "win": 3.33333333333333e-05,
+        "top_5": 0.0003372222222222,
+        "top_10": 0.0013121236171236,
+        "top_20": 0.0054633676046176,
+        "make_cut": 0.213316666666667,
+        "dg_id": 15756
+      },
+      "Jason Dufner": {
+        "win": 3.33333333333333e-05,
+        "top_5": 0.0001527777777777,
+        "top_10": 0.0006628571428571,
+        "top_20": 0.0028205979668479,
+        "make_cut": 0.143683333333333,
+        "dg_id": 7301
       },
       "Padraig Harrington": {
         "win": 3.33333333333333e-05,
-        "top_5": 0.0005303439153439,
-        "top_10": 0.0018735846560846,
-        "top_20": 0.0069083736171236,
-        "make_cut": 0.225166666666667,
+        "top_5": 0.000467037037037,
+        "top_10": 0.001812533068783,
+        "top_20": 0.0076283692002442,
+        "make_cut": 0.2373,
         "dg_id": 5716
       },
-      "Martin Kaymer": {
-        "win": 3.33333333333333e-05,
-        "top_5": 0.0008886111111111,
-        "top_10": 0.0030142063492063,
-        "top_20": 0.0121077091889592,
-        "make_cut": 0.268166666666667,
-        "dg_id": 8117
+      "Ben Kern": {
+        "win": 1.66666666666667e-05,
+        "top_5": 0.0001603174603174,
+        "top_10": 0.0005523809523809,
+        "top_20": 0.0023653896103896,
+        "make_cut": 0.118266666666667,
+        "dg_id": 25439
       },
       "Jared Jones": {
         "win": 1.66666666666667e-05,
-        "top_5": 0.0001222222222222,
-        "top_10": 0.0004835515873015,
-        "top_20": 0.0018092568542568,
-        "make_cut": 0.09545,
+        "top_5": 0.0002341666666666,
+        "top_10": 0.0005491071428571,
+        "top_20": 0.0018816005291005,
+        "make_cut": 0.0998833333333333,
         "dg_id": 29501
       },
-      "Ryan Lenahan": {
+      "Ben Polland": {
         "win": 1.66666666666667e-05,
-        "top_5": 1.66666666666667e-05,
-        "top_10": 4.11111111111111e-05,
-        "top_20": 0.0001252976190476,
-        "make_cut": 0.0233,
-        "dg_id": 18711
+        "top_5": 0.0001180555555555,
+        "top_10": 0.0003466666666666,
+        "top_20": 0.0012318037518037,
+        "make_cut": 0.08415,
+        "dg_id": 20344
       },
-      "Derek Berg": {
+      "Martin Kaymer": {
         "win": 1.66666666666667e-05,
-        "top_5": 0.0002358333333333,
-        "top_10": 0.0008645238095238,
-        "top_20": 0.003514757094757,
-        "make_cut": 0.136183333333333,
-        "dg_id": 17617
+        "top_5": 0.0009077777777777,
+        "top_10": 0.0033116536241536,
+        "top_20": 0.0115754519323269,
+        "make_cut": 0.258866666666667,
+        "dg_id": 8117
       },
-      "Y.E. Yang": {
+      "Jimmy Walker": {
         "win": 1.66666666666667e-05,
-        "top_5": 0.0002816666666666,
-        "top_10": 0.0010243518518518,
-        "top_20": 0.0038088335738335,
-        "make_cut": 0.16185,
-        "dg_id": 6629
+        "top_5": 7.86111111111111e-05,
+        "top_10": 0.0004251124338624,
+        "top_20": 0.001609457070707,
+        "make_cut": 0.110866666666667,
+        "dg_id": 7293
       },
-      "Kazuki Higa": {
-        "win": 1.66666666666667e-05,
-        "top_5": 0.0003222222222222,
-        "top_10": 0.0010967592592592,
-        "top_20": 0.0047638468013468,
-        "make_cut": 0.2055,
-        "dg_id": 15756
+      "Austin Hurt": {
+        "win": 0.0,
+        "top_5": 0.0,
+        "top_10": 4.03703703703704e-05,
+        "top_20": 0.0002687301587301,
+        "make_cut": 0.0368833333333333,
+        "dg_id": 29498
       },
-      "Ryan Vermeer": {
-        "win": 1.66666666666667e-05,
-        "top_5": 0.000105,
-        "top_10": 0.0002615674603174,
-        "top_20": 0.0010774741462241,
-        "make_cut": 0.0716833333333333,
-        "dg_id": 7326
-      },
-      "Jason Dufner": {
-        "win": 1.66666666666667e-05,
-        "top_5": 0.000185,
-        "top_10": 0.000773115079365,
-        "top_20": 0.0031716209716209,
-        "make_cut": 0.1486,
-        "dg_id": 7301
+      "Braden Shattuck": {
+        "win": 0.0,
+        "top_5": 0.0,
+        "top_10": 0.0001329761904761,
+        "top_20": 0.000774246031746,
+        "make_cut": 0.06325,
+        "dg_id": 31027
       },
       "Bryce Fisher": {
         "win": 0.0,
         "top_5": 0.0,
-        "top_10": 3.88888888888889e-05,
-        "top_20": 0.0001755466755466,
-        "make_cut": 0.03125,
+        "top_10": 6.80555555555556e-05,
+        "top_20": 0.000236841029341,
+        "make_cut": 0.0341,
         "dg_id": 10027484
+      },
+      "Paul Mcclure": {
+        "win": 0.0,
+        "top_5": 0.0,
+        "top_10": 1.66666666666667e-05,
+        "top_20": 0.0001889285714285,
+        "make_cut": 0.0357,
+        "dg_id": 10058597
       },
       "Zach Haynes": {
         "win": 0.0,
         "top_5": 0.0,
         "top_10": 1.66666666666667e-05,
-        "top_20": 0.0001854395141895,
-        "make_cut": 0.0306333333333333,
+        "top_20": 8.54166666666667e-05,
+        "make_cut": 0.0283666666666667,
         "dg_id": 10070406
-      },
-      "Austin Hurt": {
-        "win": 0.0,
-        "top_5": 1.5e-05,
-        "top_10": 8.70833333333333e-05,
-        "top_20": 0.0003164417989417,
-        "make_cut": 0.0353833333333333,
-        "dg_id": 29498
-      },
-      "Braden Shattuck": {
-        "win": 0.0,
-        "top_5": 6.80555555555556e-05,
-        "top_10": 0.000145992063492,
-        "top_20": 0.0006906812169312,
-        "make_cut": 0.05905,
-        "dg_id": 31027
-      },
-      "Paul Mcclure": {
-        "win": 0.0,
-        "top_5": 1.66666666666667e-05,
-        "top_10": 4.28571428571428e-05,
-        "top_20": 0.000145119047619,
-        "make_cut": 0.0325166666666667,
-        "dg_id": 10058597
       },
       "Luke Donald": {
         "win": 0.0,
-        "top_5": 0.0001225,
-        "top_10": 0.0005575396825396,
-        "top_20": 0.0026383314833314,
-        "make_cut": 0.134116666666667,
+        "top_5": 7.94444444444444e-05,
+        "top_10": 0.0006465277777777,
+        "top_20": 0.0024399951899951,
+        "make_cut": 0.129233333333333,
         "dg_id": 4163
       },
       "Tyler Collet": {
         "win": 0.0,
-        "top_5": 0.0001097222222222,
-        "top_10": 0.0002641666666666,
-        "top_20": 0.0010435119047619,
-        "make_cut": 0.0869,
+        "top_5": 2.36111111111111e-05,
+        "top_10": 0.0002312896825396,
+        "top_20": 0.0010216152828652,
+        "make_cut": 0.0935666666666667,
         "dg_id": 28077
-      },
-      "Ben Kern": {
-        "win": 0.0,
-        "top_5": 8.48809523809524e-05,
-        "top_10": 0.0006473015873015,
-        "top_20": 0.0026376022126022,
-        "make_cut": 0.121716666666667,
-        "dg_id": 25439
       },
       "Timothy Wiseman": {
         "win": 0.0,
         "top_5": 0.0,
         "top_10": 0.0,
         "top_20": 0.0,
-        "make_cut": 0.00235,
+        "make_cut": 0.0021666666666666,
         "dg_id": 25085
       },
       "Jesse Droemer": {
         "win": 0.0,
         "top_5": 0.0,
-        "top_10": 0.0,
-        "top_20": 3.57142857142857e-05,
-        "make_cut": 0.0229833333333333,
+        "top_10": 4.76190476190476e-06,
+        "top_20": 4.44444444444445e-05,
+        "make_cut": 0.0208666666666667,
         "dg_id": 24584
+      },
+      "Jordan Gumberg": {
+        "win": 0.0,
+        "top_5": 0.0003474206349206,
+        "top_10": 0.0012166203703703,
+        "top_20": 0.0053962772412772,
+        "make_cut": 0.19715,
+        "dg_id": 23892
       },
       "Michael Kartrude": {
         "win": 0.0,
-        "top_5": 1.22222222222222e-05,
-        "top_10": 0.0001425,
-        "top_20": 0.0007302314814814,
-        "make_cut": 0.0600166666666667,
+        "top_5": 0.0,
+        "top_10": 4.57264957264957e-05,
+        "top_20": 0.0003379319291819,
+        "make_cut": 0.05775,
         "dg_id": 23469
       },
       "Mark Geddes": {
@@ -4215,67 +7163,83 @@
         "top_5": 0.0,
         "top_10": 0.0,
         "top_20": 0.0,
-        "make_cut": 0.0041833333333333,
+        "make_cut": 0.0046333333333333,
         "dg_id": 21886
-      },
-      "Ben Polland": {
-        "win": 0.0,
-        "top_5": 0.0001263888888888,
-        "top_10": 0.0003374007936507,
-        "top_20": 0.0014498725348725,
-        "make_cut": 0.0877333333333333,
-        "dg_id": 20344
       },
       "Shaun Micheel": {
         "win": 0.0,
         "top_5": 0.0,
-        "top_10": 0.0,
-        "top_20": 0.0,
-        "make_cut": 0.0177833333333333,
+        "top_10": 2.38095238095238e-06,
+        "top_20": 2.77777777777778e-05,
+        "make_cut": 0.0198166666666667,
         "dg_id": 4377
+      },
+      "Ryan Lenahan": {
+        "win": 0.0,
+        "top_5": 0.0,
+        "top_10": 0.0,
+        "top_20": 8.63095238095238e-05,
+        "make_cut": 0.02485,
+        "dg_id": 18711
+      },
+      "Derek Berg": {
+        "win": 0.0,
+        "top_5": 0.0002575,
+        "top_10": 0.0008896759259259,
+        "top_20": 0.003415324074074,
+        "make_cut": 0.143183333333333,
+        "dg_id": 17617
       },
       "Francisco Bide": {
         "win": 0.0,
         "top_5": 0.0,
         "top_10": 0.0,
         "top_20": 0.0,
-        "make_cut": 0.0030166666666666,
+        "make_cut": 0.0029833333333333,
         "dg_id": 16776
       },
       "Garrett Sapp": {
         "win": 0.0,
         "top_5": 0.0,
         "top_10": 0.0,
-        "top_20": 3.33333333333333e-05,
-        "make_cut": 0.0056,
+        "top_20": 0.0,
+        "make_cut": 0.0051,
         "dg_id": 13196
       },
       "Michael Block": {
         "win": 0.0,
-        "top_5": 1.66666666666667e-05,
-        "top_10": 3.33333333333333e-05,
-        "top_20": 0.0001005555555555,
-        "make_cut": 0.0381833333333333,
+        "top_5": 0.0,
+        "top_10": 3.47222222222222e-05,
+        "top_20": 0.0001865909090909,
+        "make_cut": 0.0368833333333333,
         "dg_id": 12333
       },
-      "Jimmy Walker": {
+      "Ryan Vermeer": {
         "win": 0.0,
-        "top_5": 0.0001486111111111,
-        "top_10": 0.0004358002645502,
-        "top_20": 0.0017830928330928,
-        "make_cut": 0.115033333333333,
-        "dg_id": 7293
+        "top_5": 7.36111111111111e-05,
+        "top_10": 0.000207242063492,
+        "top_20": 0.0008918861231361,
+        "make_cut": 0.0760833333333333,
+        "dg_id": 7326
+      },
+      "Y.E. Yang": {
+        "win": 0.0,
+        "top_5": 0.0002280555555555,
+        "top_10": 0.0008678835978835,
+        "top_20": 0.0031385912698412,
+        "make_cut": 0.1688,
+        "dg_id": 6629
       },
       "Chris Gabriele": {
         "win": 0.0,
-        "top_5": 2.5e-05,
-        "top_10": 4.58333333333333e-05,
-        "top_20": 0.0001632082732082,
-        "make_cut": 0.0311833333333333,
+        "top_5": 1.66666666666667e-05,
+        "top_10": 3.86904761904762e-05,
+        "top_20": 0.0002118849206349,
+        "make_cut": 0.03425,
         "dg_id": 10070407
       }
     },
-    "last_updated": "2026-05-12T11:57:58.195238-04:00"
+    "last_updated": "2026-05-12T19:08:19.854357-04:00"
   },
   "skill_ratings": {
     "by_player": {
@@ -10356,11 +13320,11 @@
         "player_name": "Martin Trainer"
       }
     },
-    "last_updated": "2026-05-12T11:57:58.195179-04:00"
+    "last_updated": "2026-05-12T19:08:19.854270-04:00"
   },
   "approach_skill": {
     "by_player": {},
-    "last_updated": "2026-05-12T11:57:58.195215-04:00"
+    "last_updated": "2026-05-12T19:08:19.854311-04:00"
   },
   "course_history": {
     "by_player": {}
@@ -10605,22 +13569,22 @@
     "overall_ranking": [],
     "value_ranking": [
       {
-        "player": "Rickie Fowler",
-        "odds": "+17000",
-        "edge": 0.0078,
-        "note": "DG: 1.4% | Market: 0.6% | Edge: +0.8%"
-      },
-      {
         "player": "Min Woo Lee",
         "odds": "+9000",
-        "edge": 0.007,
-        "note": "DG: 1.8% | Market: 1.1% | Edge: +0.7%"
+        "edge": 0.0087,
+        "note": "DG: 2.0% | Market: 1.1% | Edge: +0.9%"
+      },
+      {
+        "player": "Rickie Fowler",
+        "odds": "+17000",
+        "edge": 0.0071,
+        "note": "DG: 1.3% | Market: 0.6% | Edge: +0.7%"
       },
       {
         "player": "Adam Scott",
         "odds": "+12000",
-        "edge": 0.0054,
-        "note": "DG: 1.4% | Market: 0.8% | Edge: +0.5%"
+        "edge": 0.0045,
+        "note": "DG: 1.3% | Market: 0.8% | Edge: +0.4%"
       },
       {
         "player": "Thomas Detry",
@@ -10631,14 +13595,14 @@
       {
         "player": "Matt Mccarty",
         "odds": "+40000",
-        "edge": 0.0014,
-        "note": "DG: 0.4% | Market: 0.2% | Edge: +0.1%"
+        "edge": 0.0016,
+        "note": "DG: 0.4% | Market: 0.2% | Edge: +0.2%"
       },
       {
         "player": "Sam Burns",
         "odds": "+8000",
-        "edge": 0.0013,
-        "note": "DG: 1.4% | Market: 1.2% | Edge: +0.1%"
+        "edge": 0.0011,
+        "note": "DG: 1.3% | Market: 1.2% | Edge: +0.1%"
       },
       {
         "player": "Ryo Hisatsune",
@@ -10649,20 +13613,32 @@
       {
         "player": "Si Woo Kim",
         "odds": "+8000",
-        "edge": 0.0004,
-        "note": "DG: 1.3% | Market: 1.2% | Edge: +0.0%"
+        "edge": 0.0002,
+        "note": "DG: 1.2% | Market: 1.2% | Edge: +0.0%"
       },
       {
-        "player": "Nick Taylor",
-        "odds": "+30000",
-        "edge": -0.0001,
-        "note": "DG: 0.3% | Market: 0.3% | Edge: +-0.0%"
+        "player": "Maverick Mcnealy",
+        "odds": "+8000",
+        "edge": -0.0002,
+        "note": "DG: 1.2% | Market: 1.2% | Edge: +-0.0%"
+      },
+      {
+        "player": "Harry Hall",
+        "odds": "+15000",
+        "edge": -0.0005,
+        "note": "DG: 0.6% | Market: 0.7% | Edge: +-0.1%"
       },
       {
         "player": "Matt Wallace",
         "odds": "+40000",
-        "edge": -0.0002,
-        "note": "DG: 0.2% | Market: 0.2% | Edge: +-0.0%"
+        "edge": -0.0005,
+        "note": "DG: 0.2% | Market: 0.2% | Edge: +-0.1%"
+      },
+      {
+        "player": "Nick Taylor",
+        "odds": "+30000",
+        "edge": -0.0006,
+        "note": "DG: 0.3% | Market: 0.3% | Edge: +-0.1%"
       },
       {
         "player": "Padraig Harrington",
@@ -10678,18 +13654,6 @@
       },
       {
         "player": "Martin Kaymer",
-        "odds": "+100000",
-        "edge": -0.001,
-        "note": "DG: 0.0% | Market: 0.1% | Edge: +-0.1%"
-      },
-      {
-        "player": "Jimmy Walker",
-        "odds": "+100000",
-        "edge": -0.001,
-        "note": "DG: 0.0% | Market: 0.1% | Edge: +-0.1%"
-      },
-      {
-        "player": "Jason Dufner",
         "odds": "+100000",
         "edge": -0.001,
         "note": "DG: 0.0% | Market: 0.1% | Edge: +-0.1%"
@@ -11089,7 +14053,8 @@
       "No DG odds returned at 2026-05-11T08:34:50.162741-04:00",
       "No DG odds returned at 2026-05-11T12:26:34.448641-04:00",
       "No DG odds returned at 2026-05-11T19:57:22.251461-04:00",
-      "No DG odds returned at 2026-05-12T11:57:58.321413-04:00"
+      "No DG odds returned at 2026-05-12T11:57:58.321413-04:00",
+      "No DG odds returned at 2026-05-12T19:08:19.952213-04:00"
     ],
     "analysis_uncertainties": [
       "[Claude] > ⚠️ **CRITICAL DATA FLAG — READ BEFORE ANYTHING ELSE**",
@@ -12621,6 +15586,13 @@
     },
     {
       "time": "2026-05-12T11:57:58.322336-04:00",
+      "run_type": "manual",
+      "status": "complete",
+      "field_size": 156,
+      "odds_players": 113
+    },
+    {
+      "time": "2026-05-12T19:08:19.953422-04:00",
       "run_type": "manual",
       "status": "complete",
       "field_size": 156,
