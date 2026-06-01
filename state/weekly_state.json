@@ -24,90 +24,21 @@
       "owgr_rank": 13,
       "player_name": "Aberg, Ludvig",
       "player_num": 52955,
-      "pre_tourn_pageviews": 2504,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-05-28 12:24",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-05-29 07:44",
-          "wave": "early"
-        }
-      ],
+      "pre_tourn_pageviews": 82,
+      "teetimes": [],
       "tour_rank": "6"
     },
     {
       "am": 0,
       "country": "USA",
-      "dg_id": 19846,
-      "dg_rank": 94,
-      "owgr_rank": 159,
-      "player_name": "Bauchou, Zach",
-      "player_num": 48001,
-      "pre_tourn_pageviews": 1245,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-05-28 13:08",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-05-29 08:28",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "77"
-    },
-    {
-      "am": 0,
-      "country": "RSA",
-      "dg_id": 18103,
-      "dg_rank": 59,
-      "owgr_rank": 91,
-      "player_name": "Bezuidenhout, Christiaan",
-      "player_num": 45522,
-      "pre_tourn_pageviews": 1457,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-05-28 07:00",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-29 11:40",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "89"
+      "dg_id": 17606,
+      "dg_rank": 56,
+      "owgr_rank": 43,
+      "player_name": "Berger, Daniel",
+      "player_num": 40026,
+      "pre_tourn_pageviews": 18,
+      "teetimes": [],
+      "tour_rank": "42"
     },
     {
       "am": 0,
@@ -117,90 +48,9 @@
       "owgr_rank": 26,
       "player_name": "Bhatia, Akshay",
       "player_num": 56630,
-      "pre_tourn_pageviews": 2477,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-05-28 12:35",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-05-29 07:55",
-          "wave": "early"
-        }
-      ],
+      "pre_tourn_pageviews": 27,
+      "teetimes": [],
       "tour_rank": "10"
-    },
-    {
-      "am": 0,
-      "country": "USA",
-      "dg_id": 17639,
-      "dg_rank": 161,
-      "owgr_rank": 199,
-      "player_name": "Blair, Zac",
-      "player_num": 40058,
-      "pre_tourn_pageviews": 377,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-05-28 07:00",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-05-29 11:40",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "165"
-    },
-    {
-      "am": 0,
-      "country": "USA",
-      "dg_id": 24956,
-      "dg_rank": 177,
-      "owgr_rank": 110,
-      "player_name": "Blanchet, Chandler",
-      "player_num": 54788,
-      "pre_tourn_pageviews": 377,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-05-28 13:08",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-05-29 08:28",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "84"
     },
     {
       "am": 0,
@@ -210,90 +60,33 @@
       "owgr_rank": 35,
       "player_name": "Bradley, Keegan",
       "player_num": 33141,
-      "pre_tourn_pageviews": 1372,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-05-28 07:44",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-29 12:24",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "82"
+      "pre_tourn_pageviews": 22,
+      "teetimes": [],
+      "tour_rank": "84"
     },
     {
       "am": 0,
       "country": "USA",
-      "dg_id": 29197,
-      "dg_rank": 122,
-      "owgr_rank": 60,
-      "player_name": "Brennan, Michael",
-      "player_num": 61522,
-      "pre_tourn_pageviews": 442,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-05-28 12:35",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-29 07:55",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "125"
+      "dg_id": 29433,
+      "dg_rank": 46,
+      "owgr_rank": 24,
+      "player_name": "Bridgeman, Jacob",
+      "player_num": 60004,
+      "pre_tourn_pageviews": 19,
+      "teetimes": [],
+      "tour_rank": "8"
     },
     {
       "am": 0,
-      "country": "ENG",
-      "dg_id": 20766,
-      "dg_rank": 169,
-      "owgr_rank": 109,
-      "player_name": "Brown, Dan",
-      "player_num": 57259,
-      "pre_tourn_pageviews": 313,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-05-28 13:30",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-05-29 08:50",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "132"
+      "country": "USA",
+      "dg_id": 19483,
+      "dg_rank": 13,
+      "owgr_rank": 36,
+      "player_name": "Burns, Sam",
+      "player_num": 47504,
+      "pre_tourn_pageviews": 21,
+      "teetimes": [],
+      "tour_rank": "34"
     },
     {
       "am": 0,
@@ -303,121 +96,45 @@
       "owgr_rank": 111,
       "player_name": "Campbell, Brian",
       "player_num": 46443,
-      "pre_tourn_pageviews": 429,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-05-28 08:06",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-05-29 12:46",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "144"
+      "pre_tourn_pageviews": 15,
+      "teetimes": [],
+      "tour_rank": "150"
     },
     {
       "am": 0,
       "country": "USA",
-      "dg_id": 27819,
-      "dg_rank": 113,
-      "owgr_rank": 93,
-      "player_name": "Castillo, Ricky",
-      "player_num": 59440,
-      "pre_tourn_pageviews": 415,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-05-28 07:33",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-29 12:13",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "54"
+      "dg_id": 15466,
+      "dg_rank": 11,
+      "owgr_rank": 33,
+      "player_name": "Cantlay, Patrick",
+      "player_num": 35450,
+      "pre_tourn_pageviews": 43,
+      "teetimes": [],
+      "tour_rank": "39"
     },
     {
       "am": 0,
       "country": "USA",
-      "dg_id": 30620,
-      "dg_rank": 328,
-      "owgr_rank": 294,
-      "player_name": "Chatfield, Davis",
-      "player_num": 59006,
-      "pre_tourn_pageviews": 174,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-05-28 08:50",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-29 13:30",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "172"
+      "dg_id": 14502,
+      "dg_rank": 61,
+      "owgr_rank": 67,
+      "player_name": "Cauley, Bud",
+      "player_num": 34021,
+      "pre_tourn_pageviews": 13,
+      "teetimes": [],
+      "tour_rank": "60"
     },
     {
       "am": 0,
       "country": "USA",
-      "dg_id": 32330,
-      "dg_rank": 300,
-      "owgr_rank": 238,
-      "player_name": "Clanton, Luke",
-      "player_num": 66743,
-      "pre_tourn_pageviews": 526,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-05-28 08:50",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-05-29 13:30",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "137"
+      "dg_id": 23604,
+      "dg_rank": 40,
+      "owgr_rank": 44,
+      "player_name": "Clark, Wyndham",
+      "player_num": 51766,
+      "pre_tourn_pageviews": 18,
+      "teetimes": [],
+      "tour_rank": "37"
     },
     {
       "am": 0,
@@ -427,28 +144,21 @@
       "owgr_rank": 117,
       "player_name": "Cole, Eric",
       "player_num": 47591,
-      "pre_tourn_pageviews": 1292,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-05-28 11:51",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-29 07:11",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "81"
+      "pre_tourn_pageviews": 31,
+      "teetimes": [],
+      "tour_rank": "45"
+    },
+    {
+      "am": 0,
+      "country": "CAN",
+      "dg_id": 17576,
+      "dg_rank": 48,
+      "owgr_rank": 53,
+      "player_name": "Conners, Corey",
+      "player_num": 39997,
+      "pre_tourn_pageviews": 26,
+      "teetimes": [],
+      "tour_rank": "82"
     },
     {
       "am": 0,
@@ -458,214 +168,21 @@
       "owgr_rank": 56,
       "player_name": "Coody, Pierceson",
       "player_num": 59836,
-      "pre_tourn_pageviews": 1520,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-05-28 08:28",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-05-29 13:08",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "44"
-    },
-    {
-      "am": 0,
-      "country": "USA",
-      "dg_id": 27780,
-      "dg_rank": 210,
-      "owgr_rank": 209,
-      "player_name": "Crowe, Trace",
-      "player_num": 52514,
-      "pre_tourn_pageviews": 227,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-05-28 08:50",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-29 13:30",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "143"
-    },
-    {
-      "am": 0,
-      "country": "USA",
-      "dg_id": 14509,
-      "dg_rank": 249,
-      "owgr_rank": 202,
-      "player_name": "Dahmen, Joel",
-      "player_num": 34076,
-      "pre_tourn_pageviews": 272,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-05-28 11:51",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-05-29 07:11",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "106"
+      "pre_tourn_pageviews": 13,
+      "teetimes": [],
+      "tour_rank": "43"
     },
     {
       "am": 0,
       "country": "AUS",
-      "dg_id": 17786,
-      "dg_rank": null,
-      "owgr_rank": 262,
-      "player_name": "Davis, Cam",
-      "player_num": 45157,
-      "pre_tourn_pageviews": 198,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-05-28 07:44",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-05-29 12:24",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "197"
-    },
-    {
-      "am": 0,
-      "country": "CHN",
-      "dg_id": 16757,
-      "dg_rank": 135,
-      "owgr_rank": 187,
-      "player_name": "Dou, Zecheng",
-      "player_num": 37338,
-      "pre_tourn_pageviews": 332,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-05-28 13:08",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-29 08:28",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "104"
-    },
-    {
-      "am": 0,
-      "country": "BEL",
-      "dg_id": 22002,
-      "dg_rank": 116,
-      "owgr_rank": 161,
-      "player_name": "Dumont De Chassart, Adrien",
-      "player_num": 50497,
-      "pre_tourn_pageviews": 442,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-05-28 08:50",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-29 13:30",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "95"
-    },
-    {
-      "am": 0,
-      "country": "USA",
-      "dg_id": 28270,
-      "dg_rank": 339,
-      "owgr_rank": 308,
-      "player_name": "Dunlap, Nick",
-      "player_num": 59866,
-      "pre_tourn_pageviews": 292,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-05-28 07:00",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-29 11:40",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "171"
+      "dg_id": 9771,
+      "dg_rank": 53,
+      "owgr_rank": 42,
+      "player_name": "Day, Jason",
+      "player_num": 28089,
+      "pre_tourn_pageviews": 17,
+      "teetimes": [],
+      "tour_rank": "59"
     },
     {
       "am": 0,
@@ -675,90 +192,21 @@
       "owgr_rank": 51,
       "player_name": "Echavarria, Nico",
       "player_num": 51349,
-      "pre_tourn_pageviews": 574,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-05-28 07:33",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-29 12:13",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "35"
+      "pre_tourn_pageviews": 16,
+      "teetimes": [],
+      "tour_rank": "32"
     },
     {
       "am": 0,
       "country": "USA",
-      "dg_id": 26653,
-      "dg_rank": 108,
-      "owgr_rank": 171,
-      "player_name": "Eckroat, Austin",
-      "player_num": 57362,
-      "pre_tourn_pageviews": 1008,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-05-28 08:28",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-05-29 13:08",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "99"
-    },
-    {
-      "am": 0,
-      "country": "CAN",
-      "dg_id": 21883,
-      "dg_rank": 203,
-      "owgr_rank": 212,
-      "player_name": "Ewart, A.J.",
-      "player_num": 50286,
-      "pre_tourn_pageviews": 455,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-05-28 13:30",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-05-29 08:50",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "85"
+      "dg_id": 14577,
+      "dg_rank": 22,
+      "owgr_rank": 22,
+      "player_name": "English, Harris",
+      "player_num": 34099,
+      "pre_tourn_pageviews": 12,
+      "teetimes": [],
+      "tour_rank": "40"
     },
     {
       "am": 0,
@@ -768,90 +216,45 @@
       "owgr_rank": 103,
       "player_name": "Finau, Tony",
       "player_num": 29725,
-      "pre_tourn_pageviews": 1899,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-05-28 12:35",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-05-29 07:55",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "75"
+      "pre_tourn_pageviews": 20,
+      "teetimes": [],
+      "tour_rank": "78"
     },
     {
       "am": 0,
-      "country": "USA",
-      "dg_id": 25094,
-      "dg_rank": 222,
-      "owgr_rank": 196,
-      "player_name": "Fishburn, Patrick",
-      "player_num": 54576,
-      "pre_tourn_pageviews": 128,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-05-28 12:57",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-29 08:17",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "163"
+      "country": "ENG",
+      "dg_id": 25362,
+      "dg_rank": 54,
+      "owgr_rank": 82,
+      "player_name": "Fitzpatrick, Alex",
+      "player_num": 55721,
+      "pre_tourn_pageviews": 20,
+      "teetimes": [],
+      "tour_rank": "28"
     },
     {
       "am": 0,
-      "country": "USA",
-      "dg_id": 26657,
-      "dg_rank": 132,
-      "owgr_rank": 132,
-      "player_name": "Fisk, Steven",
-      "player_num": 57123,
-      "pre_tourn_pageviews": 389,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-05-28 07:44",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-05-29 12:24",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "101"
+      "country": "ENG",
+      "dg_id": 17646,
+      "dg_rank": 6,
+      "owgr_rank": 4,
+      "player_name": "Fitzpatrick, Matt",
+      "player_num": 40098,
+      "pre_tourn_pageviews": 51,
+      "teetimes": [],
+      "tour_rank": "3"
+    },
+    {
+      "am": 0,
+      "country": "ENG",
+      "dg_id": 12294,
+      "dg_rank": 8,
+      "owgr_rank": 7,
+      "player_name": "Fleetwood, Tommy",
+      "player_num": 30911,
+      "pre_tourn_pageviews": 46,
+      "teetimes": [],
+      "tour_rank": "15"
     },
     {
       "am": 0,
@@ -861,59 +264,21 @@
       "owgr_rank": 38,
       "player_name": "Fowler, Rickie",
       "player_num": 32102,
-      "pre_tourn_pageviews": 4254,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-05-28 12:13",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-05-29 07:33",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "19"
+      "pre_tourn_pageviews": 30,
+      "teetimes": [],
+      "tour_rank": "21"
     },
     {
       "am": 0,
-      "country": "USA",
-      "dg_id": 11451,
-      "dg_rank": 363,
-      "owgr_rank": 407,
-      "player_name": "Garnett, Brice",
-      "player_num": 29535,
-      "pre_tourn_pageviews": 159,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-05-28 08:28",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-29 13:08",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "157"
+      "country": "NZL",
+      "dg_id": 11889,
+      "dg_rank": 69,
+      "owgr_rank": 57,
+      "player_name": "Fox, Ryan",
+      "player_num": 29936,
+      "pre_tourn_pageviews": 15,
+      "teetimes": [],
+      "tour_rank": "67"
     },
     {
       "am": 0,
@@ -923,59 +288,9 @@
       "owgr_rank": 37,
       "player_name": "Gerard, Ryan",
       "player_num": 59018,
-      "pre_tourn_pageviews": 1135,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-05-28 07:44",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-29 12:24",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "32"
-    },
-    {
-      "am": 0,
-      "country": "USA",
-      "dg_id": 24550,
-      "dg_rank": 111,
-      "owgr_rank": 185,
-      "player_name": "Ghim, Doug",
-      "player_num": 52375,
-      "pre_tourn_pageviews": 745,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-05-28 12:02",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-05-29 07:22",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "112"
+      "pre_tourn_pageviews": 26,
+      "teetimes": [],
+      "tour_rank": "30"
     },
     {
       "am": 0,
@@ -985,59 +300,21 @@
       "owgr_rank": 98,
       "player_name": "Glover, Lucas",
       "player_num": 25900,
-      "pre_tourn_pageviews": 723,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-05-28 12:24",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-29 07:44",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "116"
+      "pre_tourn_pageviews": 13,
+      "teetimes": [],
+      "tour_rank": "121"
     },
     {
       "am": 0,
       "country": "USA",
-      "dg_id": 23465,
-      "dg_rank": 71,
-      "owgr_rank": 62,
-      "player_name": "Greyserman, Max",
-      "player_num": 51977,
-      "pre_tourn_pageviews": 1847,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-05-28 12:46",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-29 08:06",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "78"
+      "dg_id": 27774,
+      "dg_rank": 14,
+      "owgr_rank": 10,
+      "player_name": "Gotterup, Chris",
+      "player_num": 59095,
+      "pre_tourn_pageviews": 31,
+      "teetimes": [],
+      "tour_rank": "7"
     },
     {
       "am": 0,
@@ -1047,90 +324,9 @@
       "owgr_rank": 17,
       "player_name": "Griffin, Ben",
       "player_num": 54591,
-      "pre_tourn_pageviews": 2941,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-05-28 12:13",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-05-29 07:33",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "36"
-    },
-    {
-      "am": 0,
-      "country": "USA",
-      "dg_id": 15330,
-      "dg_rank": 206,
-      "owgr_rank": 217,
-      "player_name": "Griffin, Lanto",
-      "player_num": 35310,
-      "pre_tourn_pageviews": 184,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-05-28 07:11",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-29 11:51",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "156"
-    },
-    {
-      "am": 0,
-      "country": "ARG",
-      "dg_id": 12808,
-      "dg_rank": 207,
-      "owgr_rank": 115,
-      "player_name": "Grillo, Emiliano",
-      "player_num": 31646,
-      "pre_tourn_pageviews": 1177,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-05-28 08:17",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-05-29 12:57",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "124"
+      "pre_tourn_pageviews": 47,
+      "teetimes": [],
+      "tour_rank": "29"
     },
     {
       "am": 0,
@@ -1140,90 +336,9 @@
       "owgr_rank": 63,
       "player_name": "Hall, Harry",
       "player_num": 57975,
-      "pre_tourn_pageviews": 2134,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-05-28 07:33",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-29 12:13",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "47"
-    },
-    {
-      "am": 1,
-      "country": "SWE",
-      "dg_id": 27646,
-      "dg_rank": null,
-      "owgr_rank": null,
-      "player_name": "Hansson, Albert",
-      "player_num": 59326,
-      "pre_tourn_pageviews": 112,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-05-28 13:30",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-05-29 08:50",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": null
-    },
-    {
-      "am": 0,
-      "country": "USA",
-      "dg_id": 19865,
-      "dg_rank": 371,
-      "owgr_rank": null,
-      "player_name": "Hardy, Nick",
-      "player_num": 47988,
-      "pre_tourn_pageviews": 240,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-05-28 07:00",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-05-29 11:40",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "189"
+      "pre_tourn_pageviews": 14,
+      "teetimes": [],
+      "tour_rank": "48"
     },
     {
       "am": 0,
@@ -1233,28 +348,9 @@
       "owgr_rank": 55,
       "player_name": "Harman, Brian",
       "player_num": 27644,
-      "pre_tourn_pageviews": 1847,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-05-28 07:44",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-29 12:24",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "73"
+      "pre_tourn_pageviews": 20,
+      "teetimes": [],
+      "tour_rank": "69"
     },
     {
       "am": 0,
@@ -1264,121 +360,9 @@
       "owgr_rank": 12,
       "player_name": "Henley, Russell",
       "player_num": 34098,
-      "pre_tourn_pageviews": 2566,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-05-28 08:06",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-29 12:46",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "26"
-    },
-    {
-      "am": 0,
-      "country": "RSA",
-      "dg_id": 24342,
-      "dg_rank": 205,
-      "owgr_rank": 90,
-      "player_name": "Higgo, Garrick",
-      "player_num": 54421,
-      "pre_tourn_pageviews": 408,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-05-28 07:55",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-05-29 12:35",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "152"
-    },
-    {
-      "am": 0,
-      "country": "USA",
-      "dg_id": 28469,
-      "dg_rank": 464,
-      "owgr_rank": 160,
-      "player_name": "Highsmith, Joe",
-      "player_num": 60067,
-      "pre_tourn_pageviews": 173,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-05-28 07:33",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-05-29 12:13",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "155"
-    },
-    {
-      "am": 0,
-      "country": "JPN",
-      "dg_id": 20954,
-      "dg_rank": 316,
-      "owgr_rank": 245,
-      "player_name": "Hirata, Kensei",
-      "player_num": 49120,
-      "pre_tourn_pageviews": 338,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-05-28 13:19",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-29 08:39",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "142"
+      "pre_tourn_pageviews": 109,
+      "teetimes": [],
+      "tour_rank": "11"
     },
     {
       "am": 0,
@@ -1388,121 +372,9 @@
       "owgr_rank": 59,
       "player_name": "Hisatsune, Ryo",
       "player_num": 51287,
-      "pre_tourn_pageviews": 2141,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-05-28 11:40",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-05-29 07:00",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "33"
-    },
-    {
-      "am": 0,
-      "country": "USA",
-      "dg_id": 25157,
-      "dg_rank": 166,
-      "owgr_rank": 153,
-      "player_name": "Hodges, Lee",
-      "player_num": 54628,
-      "pre_tourn_pageviews": 610,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-05-28 12:57",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-29 08:17",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "117"
-    },
-    {
-      "am": 0,
-      "country": "PHI",
-      "dg_id": 23504,
-      "dg_rank": 105,
-      "owgr_rank": 83,
-      "player_name": "Hoey, Rico",
-      "player_num": 51696,
-      "pre_tourn_pageviews": 501,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-05-28 12:02",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-05-29 07:22",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "108"
-    },
-    {
-      "am": 0,
-      "country": "USA",
-      "dg_id": 5768,
-      "dg_rank": 387,
-      "owgr_rank": 458,
-      "player_name": "Hoffman, Charley",
-      "player_num": 12716,
-      "pre_tourn_pageviews": 179,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-05-28 11:51",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-29 07:11",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "200"
+      "pre_tourn_pageviews": 13,
+      "teetimes": [],
+      "tour_rank": "35"
     },
     {
       "am": 0,
@@ -1512,90 +384,21 @@
       "owgr_rank": 100,
       "player_name": "Hoge, Tom",
       "player_num": 35532,
-      "pre_tourn_pageviews": 1251,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-05-28 12:13",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-05-29 07:33",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "68"
+      "pre_tourn_pageviews": 16,
+      "teetimes": [],
+      "tour_rank": "72"
     },
     {
       "am": 0,
       "country": "DEN",
-      "dg_id": 23838,
-      "dg_rank": 91,
-      "owgr_rank": 70,
-      "player_name": "Hojgaard, Rasmus",
-      "player_num": 52686,
-      "pre_tourn_pageviews": 495,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-05-28 07:11",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-29 11:51",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "96"
-    },
-    {
-      "am": 0,
-      "country": "USA",
-      "dg_id": 17538,
-      "dg_rank": 118,
-      "owgr_rank": 123,
-      "player_name": "Homa, Max",
-      "player_num": 39977,
-      "pre_tourn_pageviews": 678,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-05-28 07:11",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-29 11:51",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "74"
+      "dg_id": 23602,
+      "dg_rank": 21,
+      "owgr_rank": 28,
+      "player_name": "Hojgaard, Nicolai",
+      "player_num": 52453,
+      "pre_tourn_pageviews": 25,
+      "teetimes": [],
+      "tour_rank": "18"
     },
     {
       "am": 0,
@@ -1605,90 +408,9 @@
       "owgr_rank": 130,
       "player_name": "Horschel, Billy",
       "player_num": 29420,
-      "pre_tourn_pageviews": 381,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-05-28 12:24",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-29 07:44",
-          "wave": "early"
-        }
-      ],
+      "pre_tourn_pageviews": 27,
+      "teetimes": [],
       "tour_rank": "94"
-    },
-    {
-      "am": 0,
-      "country": "USA",
-      "dg_id": 15470,
-      "dg_rank": 144,
-      "owgr_rank": 151,
-      "player_name": "Hossler, Beau",
-      "player_num": 35461,
-      "pre_tourn_pageviews": 387,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-05-28 11:51",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-05-29 07:11",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "109"
-    },
-    {
-      "am": 1,
-      "country": "USA",
-      "dg_id": 33759,
-      "dg_rank": null,
-      "owgr_rank": null,
-      "player_name": "Howell, Mason",
-      "player_num": 68607,
-      "pre_tourn_pageviews": 179,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-05-28 13:30",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-29 08:50",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": null
     },
     {
       "am": 0,
@@ -1698,59 +420,9 @@
       "owgr_rank": 114,
       "player_name": "Hubbard, Mark",
       "player_num": 36801,
-      "pre_tourn_pageviews": 904,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-05-28 12:46",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-29 08:06",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "90"
-    },
-    {
-      "am": 0,
-      "country": "CAN",
-      "dg_id": 15556,
-      "dg_rank": 162,
-      "owgr_rank": 152,
-      "player_name": "Hughes, Mackenzie",
-      "player_num": 35506,
-      "pre_tourn_pageviews": 374,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-05-28 07:22",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-29 12:02",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "135"
+      "pre_tourn_pageviews": 9,
+      "teetimes": [],
+      "tour_rank": "92"
     },
     {
       "am": 0,
@@ -1760,152 +432,9 @@
       "owgr_rank": 68,
       "player_name": "Im, Sungjae",
       "player_num": 39971,
-      "pre_tourn_pageviews": 2139,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-05-28 08:06",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-29 12:46",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "55"
-    },
-    {
-      "am": 0,
-      "country": "GER",
-      "dg_id": 16394,
-      "dg_rank": 89,
-      "owgr_rank": 84,
-      "player_name": "Jaeger, Stephan",
-      "player_num": 36799,
-      "pre_tourn_pageviews": 993,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-05-28 12:13",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-29 07:33",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "67"
-    },
-    {
-      "am": 0,
-      "country": "JPN",
-      "dg_id": 19729,
-      "dg_rank": 198,
-      "owgr_rank": 145,
-      "player_name": "Kanaya, Takumi",
-      "player_num": 47917,
-      "pre_tourn_pageviews": 303,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-05-28 11:40",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-29 07:00",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "133"
-    },
-    {
-      "am": 0,
-      "country": "USA",
-      "dg_id": 21889,
-      "dg_rank": 366,
-      "owgr_rank": 258,
-      "player_name": "Kang, Jeffrey",
-      "player_num": 47393,
-      "pre_tourn_pageviews": 108,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-05-28 13:30",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-29 08:50",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "146"
-    },
-    {
-      "am": 0,
-      "country": "USA",
-      "dg_id": 32457,
-      "dg_rank": 147,
-      "owgr_rank": 74,
-      "player_name": "Keefer, Johnny",
-      "player_num": 63454,
-      "pre_tourn_pageviews": 738,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-05-28 12:57",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-05-29 08:17",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "79"
+      "pre_tourn_pageviews": 19,
+      "teetimes": [],
+      "tour_rank": "57"
     },
     {
       "am": 0,
@@ -1915,183 +444,45 @@
       "owgr_rank": 48,
       "player_name": "Kim, Michael",
       "player_num": 39975,
-      "pre_tourn_pageviews": 1370,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-05-28 12:46",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-05-29 08:06",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "60"
+      "pre_tourn_pageviews": 13,
+      "teetimes": [],
+      "tour_rank": "58"
     },
     {
       "am": 0,
       "country": "KOR",
-      "dg_id": 24766,
-      "dg_rank": 119,
-      "owgr_rank": 144,
-      "player_name": "Kim, Tom",
-      "player_num": 55182,
-      "pre_tourn_pageviews": 1583,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-05-28 12:02",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-29 07:22",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "110"
+      "dg_id": 14609,
+      "dg_rank": 9,
+      "owgr_rank": 19,
+      "player_name": "Kim, Si Woo",
+      "player_num": 37455,
+      "pre_tourn_pageviews": 45,
+      "teetimes": [],
+      "tour_rank": "5"
     },
     {
       "am": 0,
       "country": "USA",
-      "dg_id": 12423,
-      "dg_rank": 83,
-      "owgr_rank": 96,
-      "player_name": "Kirk, Chris",
-      "player_num": 30926,
-      "pre_tourn_pageviews": 926,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-05-28 07:44",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-05-29 12:24",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "126"
+      "dg_id": 21891,
+      "dg_rank": 28,
+      "owgr_rank": 29,
+      "player_name": "Kitayama, Kurt",
+      "player_num": 48117,
+      "pre_tourn_pageviews": 15,
+      "teetimes": [],
+      "tour_rank": "22"
     },
     {
       "am": 0,
       "country": "USA",
-      "dg_id": 11328,
-      "dg_rank": null,
-      "owgr_rank": null,
-      "player_name": "Kisner, Kevin",
-      "player_num": 29478,
-      "pre_tourn_pageviews": 367,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-05-28 07:00",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-29 11:40",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": null
-    },
-    {
-      "am": 0,
-      "country": "USA",
-      "dg_id": 13470,
-      "dg_rank": 392,
-      "owgr_rank": 320,
-      "player_name": "Kizzire, Patton",
-      "player_num": 32757,
-      "pre_tourn_pageviews": 169,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-05-28 07:22",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-29 12:02",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "140"
-    },
-    {
-      "am": 0,
-      "country": "USA",
-      "dg_id": 16395,
-      "dg_rank": 214,
-      "owgr_rank": 292,
-      "player_name": "Kohles, Ben",
-      "player_num": 36884,
-      "pre_tourn_pageviews": 235,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-05-28 12:02",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-05-29 07:22",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "166"
+      "dg_id": 19396,
+      "dg_rank": 17,
+      "owgr_rank": 39,
+      "player_name": "Knapp, Jake",
+      "player_num": 47420,
+      "pre_tourn_pageviews": 21,
+      "teetimes": [],
+      "tour_rank": "24"
     },
     {
       "am": 0,
@@ -2101,152 +492,33 @@
       "owgr_rank": 189,
       "player_name": "Kuchar, Matt",
       "player_num": 23108,
-      "pre_tourn_pageviews": 335,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-05-28 12:24",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-29 07:44",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "179"
+      "pre_tourn_pageviews": 17,
+      "teetimes": [],
+      "tour_rank": "155"
     },
     {
       "am": 0,
-      "country": "RSA",
-      "dg_id": 24343,
-      "dg_rank": 369,
-      "owgr_rank": 233,
-      "player_name": "Lamprecht, Christo",
-      "player_num": 54422,
-      "pre_tourn_pageviews": 145,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-05-28 13:19",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-29 08:39",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "182"
+      "country": "AUS",
+      "dg_id": 16841,
+      "dg_rank": 18,
+      "owgr_rank": 30,
+      "player_name": "Lee, Min Woo",
+      "player_num": 37378,
+      "pre_tourn_pageviews": 17,
+      "teetimes": [],
+      "tour_rank": "14"
     },
     {
       "am": 0,
-      "country": "USA",
-      "dg_id": 21943,
-      "dg_rank": 236,
-      "owgr_rank": 221,
-      "player_name": "Lebioda, Hank",
-      "player_num": 49766,
-      "pre_tourn_pageviews": 203,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-05-28 08:17",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-29 12:57",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "123"
-    },
-    {
-      "am": 0,
-      "country": "CHN",
-      "dg_id": 15310,
-      "dg_rank": 121,
-      "owgr_rank": 80,
-      "player_name": "Li, Haotong",
-      "player_num": 35296,
-      "pre_tourn_pageviews": 439,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-05-28 13:19",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-05-29 08:39",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "97"
-    },
-    {
-      "am": 0,
-      "country": "USA",
-      "dg_id": 15980,
-      "dg_rank": 165,
-      "owgr_rank": 97,
-      "player_name": "Lipsky, David",
-      "player_num": 36326,
-      "pre_tourn_pageviews": 627,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-05-28 08:17",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-29 12:57",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "61"
+      "country": "IRL",
+      "dg_id": 13900,
+      "dg_rank": 29,
+      "owgr_rank": 40,
+      "player_name": "Lowry, Shane",
+      "player_num": 33204,
+      "pre_tourn_pageviews": 23,
+      "teetimes": [],
+      "tour_rank": "52"
     },
     {
       "am": 0,
@@ -2256,59 +528,9 @@
       "owgr_rank": 15,
       "player_name": "MacIntyre, Robert",
       "player_num": 52215,
-      "pre_tourn_pageviews": 1998,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-05-28 07:55",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-29 12:35",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "29"
-    },
-    {
-      "am": 0,
-      "country": "USA",
-      "dg_id": 14007,
-      "dg_rank": 440,
-      "owgr_rank": 454,
-      "player_name": "Martin, Ben",
-      "player_num": 33413,
-      "pre_tourn_pageviews": 173,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-05-28 07:22",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-05-29 12:02",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "145"
+      "pre_tourn_pageviews": 18,
+      "teetimes": [],
+      "tour_rank": "31"
     },
     {
       "am": 0,
@@ -2318,28 +540,21 @@
       "owgr_rank": 20,
       "player_name": "Matsuyama, Hideki",
       "player_num": 32839,
-      "pre_tourn_pageviews": 2074,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-05-28 07:55",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-29 12:35",
-          "wave": "late"
-        }
-      ],
+      "pre_tourn_pageviews": 32,
+      "teetimes": [],
       "tour_rank": "27"
+    },
+    {
+      "am": 0,
+      "country": "USA",
+      "dg_id": 19870,
+      "dg_rank": 72,
+      "owgr_rank": 99,
+      "player_name": "McCarthy, Denny",
+      "player_num": 47993,
+      "pre_tourn_pageviews": 19,
+      "teetimes": [],
+      "tour_rank": "103"
     },
     {
       "am": 0,
@@ -2349,59 +564,33 @@
       "owgr_rank": 49,
       "player_name": "McCarty, Matt",
       "player_num": 59141,
-      "pre_tourn_pageviews": 1489,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-05-28 12:35",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-29 07:55",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "30"
+      "pre_tourn_pageviews": 11,
+      "teetimes": [],
+      "tour_rank": "33"
+    },
+    {
+      "am": 0,
+      "country": "NIR",
+      "dg_id": 10091,
+      "dg_rank": 3,
+      "owgr_rank": 2,
+      "player_name": "McIlroy, Rory",
+      "player_num": 28237,
+      "pre_tourn_pageviews": 43,
+      "teetimes": [],
+      "tour_rank": "9"
     },
     {
       "am": 0,
       "country": "USA",
-      "dg_id": 23505,
-      "dg_rank": 110,
-      "owgr_rank": 88,
-      "player_name": "McGreevy, Max",
-      "player_num": 51950,
-      "pre_tourn_pageviews": 530,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-05-28 07:11",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-05-29 11:51",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "120"
+      "dg_id": 18634,
+      "dg_rank": 16,
+      "owgr_rank": 34,
+      "player_name": "McNealy, Maverick",
+      "player_num": 46442,
+      "pre_tourn_pageviews": 27,
+      "teetimes": [],
+      "tour_rank": "47"
     },
     {
       "am": 0,
@@ -2411,183 +600,21 @@
       "owgr_rank": 108,
       "player_name": "Meissner, Mac",
       "player_num": 59143,
-      "pre_tourn_pageviews": 1723,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-05-28 08:28",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-05-29 13:08",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "93"
+      "pre_tourn_pageviews": 16,
+      "teetimes": [],
+      "tour_rank": "75"
     },
     {
       "am": 0,
-      "country": "USA",
-      "dg_id": 17365,
-      "dg_rank": 47,
-      "owgr_rank": 95,
-      "player_name": "Mitchell, Keith",
-      "player_num": 39546,
-      "pre_tourn_pageviews": 1260,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-05-28 12:57",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-05-29 08:17",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "62"
-    },
-    {
-      "am": 0,
-      "country": "USA",
-      "dg_id": 21944,
-      "dg_rank": 114,
-      "owgr_rank": 140,
-      "player_name": "Moore, Taylor",
-      "player_num": 49947,
-      "pre_tourn_pageviews": 696,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-05-28 12:46",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-05-29 08:06",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "71"
-    },
-    {
-      "am": 0,
-      "country": "USA",
-      "dg_id": 29770,
-      "dg_rank": 148,
-      "owgr_rank": 136,
-      "player_name": "Mouw, William",
-      "player_num": 63121,
-      "pre_tourn_pageviews": 330,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-05-28 08:06",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-05-29 12:46",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "111"
-    },
-    {
-      "am": 0,
-      "country": "JPN",
-      "dg_id": 21074,
-      "dg_rank": 221,
-      "owgr_rank": 138,
-      "player_name": "Nakajima, Keita",
-      "player_num": 49228,
-      "pre_tourn_pageviews": 225,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-05-28 08:39",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-05-29 13:19",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "175"
-    },
-    {
-      "am": 0,
-      "country": "DEN",
-      "dg_id": 23841,
-      "dg_rank": 120,
-      "owgr_rank": 78,
-      "player_name": "Neergaard-Petersen, Rasmus",
-      "player_num": 52689,
-      "pre_tourn_pageviews": 469,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-05-28 13:08",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-05-29 08:28",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "119"
+      "country": "SWE",
+      "dg_id": 10419,
+      "dg_rank": 24,
+      "owgr_rank": 21,
+      "player_name": "Noren, Alex",
+      "player_num": 27349,
+      "pre_tourn_pageviews": 11,
+      "teetimes": [],
+      "tour_rank": "49"
     },
     {
       "am": 0,
@@ -2597,245 +624,21 @@
       "owgr_rank": 54,
       "player_name": "Novak, Andrew",
       "player_num": 51997,
-      "pre_tourn_pageviews": 1603,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-05-28 07:33",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-05-29 12:13",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "69"
+      "pre_tourn_pageviews": 14,
+      "teetimes": [],
+      "tour_rank": "74"
     },
     {
       "am": 0,
-      "country": "SWE",
-      "dg_id": 25475,
-      "dg_rank": 270,
-      "owgr_rank": 250,
-      "player_name": "Nyholm, Pontus",
-      "player_num": 55851,
-      "pre_tourn_pageviews": 202,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-05-28 13:08",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-29 08:28",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "121"
-    },
-    {
-      "am": 0,
-      "country": "DEN",
-      "dg_id": 13412,
-      "dg_rank": 88,
-      "owgr_rank": 121,
-      "player_name": "Olesen, Thorbjorn",
-      "player_num": 33968,
-      "pre_tourn_pageviews": 569,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-05-28 07:22",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-29 12:02",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "149"
-    },
-    {
-      "am": 0,
-      "country": "USA",
-      "dg_id": 7820,
-      "dg_rank": null,
-      "owgr_rank": null,
-      "player_name": "Palmer, Ryan",
-      "player_num": 23320,
-      "pre_tourn_pageviews": 143,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-05-28 11:51",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-05-29 07:11",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": null
-    },
-    {
-      "am": 0,
-      "country": "ENG",
-      "dg_id": 13764,
-      "dg_rank": 96,
-      "owgr_rank": 86,
-      "player_name": "Parry, John",
-      "player_num": 28723,
-      "pre_tourn_pageviews": 651,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-05-28 08:50",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-05-29 13:30",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "88"
-    },
-    {
-      "am": 0,
-      "country": "FRA",
-      "dg_id": 19960,
-      "dg_rank": 201,
-      "owgr_rank": 260,
-      "player_name": "Pavon, Matthieu",
-      "player_num": 48153,
-      "pre_tourn_pageviews": 313,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-05-28 11:40",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-29 07:00",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "102"
-    },
-    {
-      "am": 0,
-      "country": "USA",
-      "dg_id": 16341,
-      "dg_rank": 220,
-      "owgr_rank": 226,
-      "player_name": "Peterson, Paul",
-      "player_num": 36824,
-      "pre_tourn_pageviews": 501,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-05-28 08:39",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-29 13:19",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "139"
-    },
-    {
-      "am": 0,
-      "country": "USA",
-      "dg_id": 27164,
-      "dg_rank": 284,
-      "owgr_rank": 174,
-      "player_name": "Phillips, Chandler",
-      "player_num": 57900,
-      "pre_tourn_pageviews": 205,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-05-28 11:40",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-05-29 07:00",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "122"
+      "country": "CAN",
+      "dg_id": 17780,
+      "dg_rank": 90,
+      "owgr_rank": 87,
+      "player_name": "Pendrith, Taylor",
+      "player_num": 40250,
+      "pre_tourn_pageviews": 11,
+      "teetimes": [],
+      "tour_rank": "95"
     },
     {
       "am": 0,
@@ -2845,152 +648,33 @@
       "owgr_rank": 85,
       "player_name": "Poston, J.T.",
       "player_num": 49771,
-      "pre_tourn_pageviews": 961,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-05-28 08:06",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-05-29 12:46",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "118"
+      "pre_tourn_pageviews": 9,
+      "teetimes": [],
+      "tour_rank": "114"
     },
     {
       "am": 0,
-      "country": "IRL",
-      "dg_id": 10104,
-      "dg_rank": 137,
-      "owgr_rank": 184,
-      "player_name": "Power, Seamus",
-      "player_num": 28252,
-      "pre_tourn_pageviews": 450,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-05-28 12:02",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-29 07:22",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "100"
+      "country": "ENG",
+      "dg_id": 18554,
+      "dg_rank": 43,
+      "owgr_rank": 14,
+      "player_name": "Rai, Aaron",
+      "player_num": 46414,
+      "pre_tourn_pageviews": 26,
+      "teetimes": [],
+      "tour_rank": "26"
     },
     {
       "am": 0,
-      "country": "USA",
-      "dg_id": 14704,
-      "dg_rank": 66,
-      "owgr_rank": 81,
-      "player_name": "Putnam, Andrew",
-      "player_num": 34256,
-      "pre_tourn_pageviews": 1532,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-05-28 08:17",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-29 12:57",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "58"
-    },
-    {
-      "am": 0,
-      "country": "USA",
-      "dg_id": 19840,
-      "dg_rank": 146,
-      "owgr_rank": 163,
-      "player_name": "Ramey, Chad",
-      "player_num": 47983,
-      "pre_tourn_pageviews": 283,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-05-28 07:22",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-05-29 12:02",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "105"
-    },
-    {
-      "am": 0,
-      "country": "USA",
-      "dg_id": 19872,
-      "dg_rank": 473,
-      "owgr_rank": 154,
-      "player_name": "Riley, Davis",
-      "player_num": 47995,
-      "pre_tourn_pageviews": 832,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-05-28 07:33",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-05-29 12:13",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "130"
+      "country": "NOR",
+      "dg_id": 21407,
+      "dg_rank": 41,
+      "owgr_rank": 25,
+      "player_name": "Reitan, Kristoffer",
+      "player_num": 49855,
+      "pre_tourn_pageviews": 17,
+      "teetimes": [],
+      "tour_rank": "16"
     },
     {
       "am": 0,
@@ -3000,276 +684,57 @@
       "owgr_rank": 77,
       "player_name": "Rodgers, Patrick",
       "player_num": 36699,
-      "pre_tourn_pageviews": 700,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-05-28 12:57",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-05-29 08:17",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "45"
-    },
-    {
-      "am": 0,
-      "country": "USA",
-      "dg_id": 18424,
-      "dg_rank": 133,
-      "owgr_rank": 125,
-      "player_name": "Roy, Kevin",
-      "player_num": 39335,
-      "pre_tourn_pageviews": 302,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-05-28 11:40",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-05-29 07:00",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "83"
-    },
-    {
-      "am": 0,
-      "country": "COL",
-      "dg_id": 16591,
-      "dg_rank": 449,
-      "owgr_rank": null,
-      "player_name": "Rozo, Marcelo",
-      "player_num": 37076,
-      "pre_tourn_pageviews": 115,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-05-28 13:30",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-29 08:50",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "193"
-    },
-    {
-      "am": 0,
-      "country": "USA",
-      "dg_id": 16715,
-      "dg_rank": 141,
-      "owgr_rank": 211,
-      "player_name": "Ryder, Sam",
-      "player_num": 37275,
-      "pre_tourn_pageviews": 522,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-05-28 08:17",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-05-29 12:57",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "127"
-    },
-    {
-      "am": 0,
-      "country": "FRA",
-      "dg_id": 14792,
-      "dg_rank": 235,
-      "owgr_rank": 106,
-      "player_name": "Saddier, Adrien",
-      "player_num": 34371,
-      "pre_tourn_pageviews": 177,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-05-28 13:08",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-29 08:28",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "173"
-    },
-    {
-      "am": 0,
-      "country": "USA",
-      "dg_id": 19477,
-      "dg_rank": 443,
-      "owgr_rank": 164,
-      "player_name": "Schenk, Adam",
-      "player_num": 47347,
-      "pre_tourn_pageviews": 201,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-05-28 07:55",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-05-29 12:35",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "136"
-    },
-    {
-      "am": 0,
-      "country": "USA",
-      "dg_id": 32055,
-      "dg_rank": 263,
-      "owgr_rank": 182,
-      "player_name": "Shipley, Neal",
-      "player_num": 63807,
-      "pre_tourn_pageviews": 212,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-05-28 08:39",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-29 13:19",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "181"
-    },
-    {
-      "am": 0,
-      "country": "USA",
-      "dg_id": 11049,
-      "dg_rank": 187,
-      "owgr_rank": 441,
-      "player_name": "Simpson, Webb",
-      "player_num": 29221,
-      "pre_tourn_pageviews": 294,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-05-28 12:13",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-29 07:33",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "160"
+      "pre_tourn_pageviews": 9,
+      "teetimes": [],
+      "tour_rank": "46"
     },
     {
       "am": 0,
       "country": "ENG",
-      "dg_id": 10873,
-      "dg_rank": 239,
-      "owgr_rank": 268,
-      "player_name": "Skinns, David",
-      "player_num": 27139,
-      "pre_tourn_pageviews": 197,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-05-28 08:39",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-05-29 13:19",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "148"
+      "dg_id": 6093,
+      "dg_rank": 30,
+      "owgr_rank": 5,
+      "player_name": "Rose, Justin",
+      "player_num": 22405,
+      "pre_tourn_pageviews": 30,
+      "teetimes": [],
+      "tour_rank": "17"
+    },
+    {
+      "am": 0,
+      "country": "USA",
+      "dg_id": 19895,
+      "dg_rank": 7,
+      "owgr_rank": 8,
+      "player_name": "Schauffele, Xander",
+      "player_num": 48081,
+      "pre_tourn_pageviews": 44,
+      "teetimes": [],
+      "tour_rank": "12"
+    },
+    {
+      "am": 0,
+      "country": "USA",
+      "dg_id": 18417,
+      "dg_rank": 1,
+      "owgr_rank": 1,
+      "player_name": "Scheffler, Scottie",
+      "player_num": 46046,
+      "pre_tourn_pageviews": 55,
+      "teetimes": [],
+      "tour_rank": "1"
+    },
+    {
+      "am": 0,
+      "country": "AUS",
+      "dg_id": 6430,
+      "dg_rank": 27,
+      "owgr_rank": 50,
+      "player_name": "Scott, Adam",
+      "player_num": 24502,
+      "pre_tourn_pageviews": 26,
+      "teetimes": [],
+      "tour_rank": "23"
     },
     {
       "am": 0,
@@ -3279,90 +744,9 @@
       "owgr_rank": 41,
       "player_name": "Smalley, Alex",
       "player_num": 46340,
-      "pre_tourn_pageviews": 2857,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-05-28 07:55",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-29 12:35",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "15"
-    },
-    {
-      "am": 0,
-      "country": "ENG",
-      "dg_id": 18586,
-      "dg_rank": 106,
-      "owgr_rank": 72,
-      "player_name": "Smith, Jordan",
-      "player_num": 46464,
-      "pre_tourn_pageviews": 516,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-05-28 08:28",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-29 13:08",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "66"
-    },
-    {
-      "am": 0,
-      "country": "USA",
-      "dg_id": 22985,
-      "dg_rank": 139,
-      "owgr_rank": 89,
-      "player_name": "Smotherman, Austin",
-      "player_num": 50095,
-      "pre_tourn_pageviews": 661,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-05-28 11:40",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-29 07:00",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "59"
+      "pre_tourn_pageviews": 45,
+      "teetimes": [],
+      "tour_rank": "13"
     },
     {
       "am": 0,
@@ -3372,28 +756,9 @@
       "owgr_rank": 133,
       "player_name": "Snedeker, Brandt",
       "player_num": 27649,
-      "pre_tourn_pageviews": 559,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-05-28 12:35",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-05-29 07:55",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "72"
+      "pre_tourn_pageviews": 18,
+      "teetimes": [],
+      "tour_rank": "71"
     },
     {
       "am": 0,
@@ -3403,90 +768,21 @@
       "owgr_rank": 9,
       "player_name": "Spaun, J.J.",
       "player_num": 39324,
-      "pre_tourn_pageviews": 3123,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-05-28 12:24",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-05-29 07:44",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "21"
+      "pre_tourn_pageviews": 33,
+      "teetimes": [],
+      "tour_rank": "20"
     },
     {
       "am": 0,
       "country": "USA",
-      "dg_id": 21995,
-      "dg_rank": 208,
-      "owgr_rank": 259,
-      "player_name": "Springer, Hayden",
-      "player_num": 50484,
-      "pre_tourn_pageviews": 269,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-05-28 13:19",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-05-29 08:39",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "114"
-    },
-    {
-      "am": 0,
-      "country": "USA",
-      "dg_id": 23048,
-      "dg_rank": 411,
-      "owgr_rank": null,
-      "player_name": "Stanger, Jimmy",
-      "player_num": 51600,
-      "pre_tourn_pageviews": 157,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-05-28 13:19",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-05-29 08:39",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "151"
+      "dg_id": 14636,
+      "dg_rank": 36,
+      "owgr_rank": 46,
+      "player_name": "Spieth, Jordan",
+      "player_num": 34046,
+      "pre_tourn_pageviews": 39,
+      "teetimes": [],
+      "tour_rank": "41"
     },
     {
       "am": 0,
@@ -3496,121 +792,33 @@
       "owgr_rank": 52,
       "player_name": "Stevens, Sam",
       "player_num": 55893,
-      "pre_tourn_pageviews": 843,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-05-28 12:57",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-29 08:17",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "52"
+      "pre_tourn_pageviews": 20,
+      "teetimes": [],
+      "tour_rank": "53"
     },
     {
       "am": 0,
-      "country": "USA",
-      "dg_id": 8480,
-      "dg_rank": 351,
-      "owgr_rank": 425,
-      "player_name": "Streelman, Kevin",
-      "player_num": 27214,
-      "pre_tourn_pageviews": 205,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-05-28 12:46",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-29 08:06",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "150"
-    },
-    {
-      "am": 0,
-      "country": "USA",
-      "dg_id": 29279,
-      "dg_rank": 186,
-      "owgr_rank": 166,
-      "player_name": "Suber, Jackson",
-      "player_num": 60019,
-      "pre_tourn_pageviews": 1076,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-05-28 08:39",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-05-29 13:19",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "103"
+      "country": "AUT",
+      "dg_id": 17511,
+      "dg_rank": 45,
+      "owgr_rank": 18,
+      "player_name": "Straka, Sepp",
+      "player_num": 49960,
+      "pre_tourn_pageviews": 39,
+      "teetimes": [],
+      "tour_rank": "19"
     },
     {
       "am": 0,
       "country": "CAN",
-      "dg_id": 13997,
-      "dg_rank": 216,
-      "owgr_rank": 403,
-      "player_name": "Svensson, Adam",
-      "player_num": 40115,
-      "pre_tourn_pageviews": 431,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-05-28 08:17",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-05-29 12:57",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "161"
+      "dg_id": 13126,
+      "dg_rank": 37,
+      "owgr_rank": 61,
+      "player_name": "Taylor, Nick",
+      "player_num": 25493,
+      "pre_tourn_pageviews": 28,
+      "teetimes": [],
+      "tour_rank": "50"
     },
     {
       "am": 0,
@@ -3620,28 +828,9 @@
       "owgr_rank": 79,
       "player_name": "Theegala, Sahith",
       "player_num": 51634,
-      "pre_tourn_pageviews": 1017,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-05-28 12:46",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-05-29 08:06",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "37"
+      "pre_tourn_pageviews": 22,
+      "teetimes": [],
+      "tour_rank": "38"
     },
     {
       "am": 0,
@@ -3651,338 +840,21 @@
       "owgr_rank": 16,
       "player_name": "Thomas, Justin",
       "player_num": 33448,
-      "pre_tourn_pageviews": 3640,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-05-28 08:06",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-29 12:46",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "38"
+      "pre_tourn_pageviews": 35,
+      "teetimes": [],
+      "tour_rank": "36"
     },
     {
       "am": 0,
-      "country": "USA",
-      "dg_id": 27364,
-      "dg_rank": 84,
-      "owgr_rank": 137,
-      "player_name": "Thompson, Davis",
-      "player_num": 58168,
-      "pre_tourn_pageviews": 824,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-05-28 12:35",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-29 07:55",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "87"
-    },
-    {
-      "am": 0,
-      "country": "USA",
-      "dg_id": 26649,
-      "dg_rank": 87,
-      "owgr_rank": 75,
-      "player_name": "Thorbjornsen, Michael",
-      "player_num": 57364,
-      "pre_tourn_pageviews": 863,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-05-28 07:00",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-05-29 11:40",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "70"
-    },
-    {
-      "am": 0,
-      "country": "ARG",
-      "dg_id": 17032,
-      "dg_rank": null,
-      "owgr_rank": 344,
-      "player_name": "Tosti, Alejandro",
-      "player_num": 38991,
-      "pre_tourn_pageviews": 179,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-05-28 08:50",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-05-29 13:30",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "184"
-    },
-    {
-      "am": 0,
-      "country": "RSA",
-      "dg_id": 17550,
-      "dg_rank": 229,
-      "owgr_rank": 175,
-      "player_name": "Van Rooyen, Erik",
-      "player_num": 40006,
-      "pre_tourn_pageviews": 340,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-05-28 12:02",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-29 07:22",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "147"
-    },
-    {
-      "am": 0,
-      "country": "USA",
-      "dg_id": 25319,
-      "dg_rank": 287,
-      "owgr_rank": 275,
-      "player_name": "VanDerLaan, John",
-      "player_num": 55573,
-      "pre_tourn_pageviews": 131,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-05-28 08:39",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-29 13:19",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "164"
-    },
-    {
-      "am": 0,
-      "country": "NOR",
-      "dg_id": 15651,
-      "dg_rank": 183,
-      "owgr_rank": 276,
-      "player_name": "Ventura, Kris",
-      "player_num": 35658,
-      "pre_tourn_pageviews": 265,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-05-28 13:19",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-29 08:39",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "113"
-    },
-    {
-      "am": 0,
-      "country": "AUS",
-      "dg_id": 24304,
-      "dg_rank": 181,
-      "owgr_rank": 176,
-      "player_name": "Vilips, Karl",
-      "player_num": 54304,
-      "pre_tourn_pageviews": 620,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-05-28 12:13",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-29 07:33",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "107"
-    },
-    {
-      "am": 0,
-      "country": "COL",
-      "dg_id": 9171,
-      "dg_rank": 393,
-      "owgr_rank": 453,
-      "player_name": "Villegas, Camilo",
-      "player_num": 27770,
-      "pre_tourn_pageviews": 200,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-05-28 11:51",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-29 07:11",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "185"
-    },
-    {
-      "am": 0,
-      "country": "USA",
-      "dg_id": 25003,
-      "dg_rank": 336,
-      "owgr_rank": 230,
-      "player_name": "Walker, Danny",
-      "player_num": 54607,
-      "pre_tourn_pageviews": 162,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-05-28 07:11",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-05-29 11:51",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "138"
-    },
-    {
-      "am": 0,
-      "country": "USA",
-      "dg_id": 25908,
-      "dg_rank": 140,
-      "owgr_rank": 150,
-      "player_name": "Whaley, Vince",
-      "player_num": 51894,
-      "pre_tourn_pageviews": 336,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-05-28 07:11",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-05-29 11:51",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "159"
+      "country": "VEN",
+      "dg_id": 13508,
+      "dg_rank": 202,
+      "owgr_rank": 131,
+      "player_name": "Vegas, Jhonattan",
+      "player_num": 27064,
+      "pre_tourn_pageviews": 4,
+      "teetimes": [],
+      "tour_rank": "122"
     },
     {
       "am": 0,
@@ -3992,121 +864,21 @@
       "owgr_rank": 47,
       "player_name": "Woodland, Gary",
       "player_num": 31323,
-      "pre_tourn_pageviews": 1429,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-05-28 12:24",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-05-29 07:44",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "28"
+      "pre_tourn_pageviews": 22,
+      "teetimes": [],
+      "tour_rank": "25"
     },
     {
       "am": 0,
       "country": "USA",
-      "dg_id": 25002,
-      "dg_rank": 259,
-      "owgr_rank": 370,
-      "player_name": "Wu, Dylan",
-      "player_num": 54783,
-      "pre_tourn_pageviews": 142,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-05-28 08:28",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-05-29 13:08",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "153"
-    },
-    {
-      "am": 0,
-      "country": "CAN",
-      "dg_id": 29925,
-      "dg_rank": 93,
-      "owgr_rank": 107,
-      "player_name": "Yellamaraju, Sudarshan",
-      "player_num": 60386,
-      "pre_tourn_pageviews": 1113,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-05-28 07:22",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-05-29 12:02",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "43"
-    },
-    {
-      "am": 0,
-      "country": "TPE",
-      "dg_id": 17881,
-      "dg_rank": 163,
-      "owgr_rank": 122,
-      "player_name": "Yu, Kevin",
-      "player_num": 45242,
-      "pre_tourn_pageviews": 236,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-05-28 07:55",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "Colonial Country Club",
-          "course_num": 21,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-05-29 12:35",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "131"
+      "dg_id": 26651,
+      "dg_rank": 4,
+      "owgr_rank": 3,
+      "player_name": "Young, Cameron",
+      "player_num": 57366,
+      "pre_tourn_pageviews": 42,
+      "teetimes": [],
+      "tour_rank": "2"
     }
   ],
   "odds": {
@@ -6303,7 +3075,7 @@
         "dg_id": 27646
       }
     },
-    "last_updated": "2026-05-27T18:04:01.068461-04:00"
+    "last_updated": "2026-06-01T04:39:02.780081-04:00"
   },
   "skill_ratings": {
     "by_player": {
@@ -12398,11 +9170,11 @@
         "player_name": "Martin Trainer"
       }
     },
-    "last_updated": "2026-05-27T18:04:01.068388-04:00"
+    "last_updated": "2026-06-01T04:39:02.780026-04:00"
   },
   "approach_skill": {
     "by_player": {},
-    "last_updated": "2026-05-27T18:04:01.068425-04:00"
+    "last_updated": "2026-06-01T04:39:02.780061-04:00"
   },
   "course_history": {
     "by_player": {}
@@ -13125,7 +9897,8 @@
       "No DG odds returned at 2026-05-26T19:14:45.355190-04:00",
       "No DG odds returned at 2026-05-27T12:34:20.023789-04:00",
       "No DG odds returned at 2026-05-27T13:54:16.540697-04:00",
-      "No DG odds returned at 2026-05-27T18:04:01.293237-04:00"
+      "No DG odds returned at 2026-05-27T18:04:01.293237-04:00",
+      "No DG odds returned at 2026-06-01T04:39:02.866483-04:00"
     ],
     "analysis_uncertainties": [
       "[Claude] > ⚠️ **CRITICAL DATA FLAG — READ BEFORE ANYTHING ELSE**",
@@ -14926,6 +11699,13 @@
       "run_type": "manual",
       "status": "complete",
       "field_size": 132,
+      "odds_players": 113
+    },
+    {
+      "time": "2026-06-01T04:39:02.867340-04:00",
+      "run_type": "manual",
+      "status": "complete",
+      "field_size": 72,
       "odds_players": 113
     }
   ]
