@@ -3963,7 +3963,7 @@
         "dg_id": 18628
       }
     },
-    "last_updated": "2026-06-03T13:58:23.344231-04:00"
+    "last_updated": "2026-06-03T14:40:43.448447-04:00"
   },
   "skill_ratings": {
     "by_player": {
@@ -10086,11 +10086,11 @@
         "player_name": "Daniel Gavins"
       }
     },
-    "last_updated": "2026-06-03T13:58:23.344170-04:00"
+    "last_updated": "2026-06-03T14:40:43.448368-04:00"
   },
   "approach_skill": {
     "by_player": {},
-    "last_updated": "2026-06-03T13:58:23.344208-04:00"
+    "last_updated": "2026-06-03T14:40:43.448408-04:00"
   },
   "course_history": {
     "by_player": {}
@@ -10820,7 +10820,8 @@
       "No DG odds returned at 2026-06-01T20:12:31.927943-04:00",
       "No DG odds returned at 2026-06-02T13:51:52.684688-04:00",
       "No DG odds returned at 2026-06-02T19:52:59.092661-04:00",
-      "No DG odds returned at 2026-06-03T13:58:23.411725-04:00"
+      "No DG odds returned at 2026-06-03T13:58:23.411725-04:00",
+      "No DG odds returned at 2026-06-03T14:40:43.542316-04:00"
     ],
     "analysis_uncertainties": [
       "[Claude] > ⚠️ **CRITICAL DATA FLAG — READ BEFORE ANYTHING ELSE**",
@@ -12667,6 +12668,13 @@
     },
     {
       "time": "2026-06-03T13:58:23.412745-04:00",
+      "run_type": "manual",
+      "status": "complete",
+      "field_size": 72,
+      "odds_players": 113
+    },
+    {
+      "time": "2026-06-03T14:40:43.543213-04:00",
       "run_type": "manual",
       "status": "complete",
       "field_size": 72,
