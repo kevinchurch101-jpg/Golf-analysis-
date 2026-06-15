@@ -18,158 +18,75 @@
   "field": [
     {
       "am": 0,
-      "country": "CAN",
-      "dg_id": 26617,
+      "country": "SWE",
+      "dg_id": 23950,
+      "dg_rank": 7,
+      "owgr_rank": 14,
+      "player_name": "Aberg, Ludvig",
+      "player_num": 52955,
+      "pre_tourn_pageviews": 60,
+      "teetimes": [],
+      "tour_rank": "6"
+    },
+    {
+      "am": 1,
+      "country": "ISL",
+      "dg_id": 30036877,
       "dg_rank": null,
       "owgr_rank": null,
-      "player_name": "Anderson, Matthew",
-      "player_num": 57321,
-      "pre_tourn_pageviews": 172,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-06-11 14:27",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-06-12 09:12",
-          "wave": "early"
-        }
-      ],
+      "player_name": "Arni Sveinsson, Gunnlaugur",
+      "player_num": 70694,
+      "pre_tourn_pageviews": 7,
+      "teetimes": [],
       "tour_rank": null
     },
     {
       "am": 0,
       "country": "USA",
-      "dg_id": 19846,
-      "dg_rank": 82,
-      "owgr_rank": 155,
-      "player_name": "Bauchou, Zach",
-      "player_num": 48001,
-      "pre_tourn_pageviews": 1257,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-06-11 08:39",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-06-12 13:54",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "80"
-    },
-    {
-      "am": 0,
-      "country": "CAN",
-      "dg_id": 9457,
-      "dg_rank": null,
-      "owgr_rank": null,
-      "player_name": "Benson, Yohann",
-      "player_num": 30637,
-      "pre_tourn_pageviews": 109,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-06-11 08:50",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-06-12 14:05",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": null
-    },
-    {
-      "am": 0,
-      "country": "RSA",
-      "dg_id": 18103,
-      "dg_rank": 58,
-      "owgr_rank": 96,
-      "player_name": "Bezuidenhout, Christiaan",
-      "player_num": 45522,
-      "pre_tourn_pageviews": 567,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-06-11 12:26",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-06-12 07:11",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "89"
+      "dg_id": 17606,
+      "dg_rank": 69,
+      "owgr_rank": 46,
+      "player_name": "Berger, Daniel",
+      "player_num": 40026,
+      "pre_tourn_pageviews": 23,
+      "teetimes": [],
+      "tour_rank": "48"
     },
     {
       "am": 0,
       "country": "USA",
-      "dg_id": 24956,
-      "dg_rank": 161,
-      "owgr_rank": 111,
-      "player_name": "Blanchet, Chandler",
-      "player_num": 54788,
-      "pre_tourn_pageviews": 386,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-06-11 13:54",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-06-12 08:39",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "87"
+      "dg_id": 26096,
+      "dg_rank": 43,
+      "owgr_rank": 28,
+      "player_name": "Bhatia, Akshay",
+      "player_num": 56630,
+      "pre_tourn_pageviews": 31,
+      "teetimes": [],
+      "tour_rank": "12"
+    },
+    {
+      "am": 0,
+      "country": "USA",
+      "dg_id": 17639,
+      "dg_rank": 169,
+      "owgr_rank": 206,
+      "player_name": "Blair, Zac",
+      "player_num": 40058,
+      "pre_tourn_pageviews": 11,
+      "teetimes": [],
+      "tour_rank": "169"
+    },
+    {
+      "am": 0,
+      "country": "USA",
+      "dg_id": 13872,
+      "dg_rank": 40,
+      "owgr_rank": 38,
+      "player_name": "Bradley, Keegan",
+      "player_num": 33141,
+      "pre_tourn_pageviews": 30,
+      "teetimes": [],
+      "tour_rank": "79"
     },
     {
       "am": 0,
@@ -179,28 +96,9 @@
       "owgr_rank": 55,
       "player_name": "Brennan, Michael",
       "player_num": 61522,
-      "pre_tourn_pageviews": 1488,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-06-11 07:33",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-06-12 12:48",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "100"
+      "pre_tourn_pageviews": 21,
+      "teetimes": [],
+      "tour_rank": "105"
     },
     {
       "am": 0,
@@ -210,59 +108,9 @@
       "owgr_rank": 27,
       "player_name": "Bridgeman, Jacob",
       "player_num": 60004,
-      "pre_tourn_pageviews": 1477,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-06-11 08:06",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-06-12 13:21",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "9"
-    },
-    {
-      "am": 0,
-      "country": "ENG",
-      "dg_id": 20766,
-      "dg_rank": 197,
-      "owgr_rank": 115,
-      "player_name": "Brown, Dan",
-      "player_num": 57259,
-      "pre_tourn_pageviews": 271,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-06-11 08:39",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-06-12 13:54",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "133"
+      "pre_tourn_pageviews": 37,
+      "teetimes": [],
+      "tour_rank": "8"
     },
     {
       "am": 0,
@@ -272,121 +120,33 @@
       "owgr_rank": 29,
       "player_name": "Burns, Sam",
       "player_num": 47504,
-      "pre_tourn_pageviews": 3563,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-06-11 12:59",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-06-12 07:44",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "23"
+      "pre_tourn_pageviews": 93,
+      "teetimes": [],
+      "tour_rank": "22"
+    },
+    {
+      "am": 0,
+      "country": "ENG",
+      "dg_id": 14795,
+      "dg_rank": 241,
+      "owgr_rank": 148,
+      "player_name": "Canter, Laurie",
+      "player_num": 34362,
+      "pre_tourn_pageviews": 11,
+      "teetimes": [],
+      "tour_rank": null
     },
     {
       "am": 0,
       "country": "USA",
-      "dg_id": 18628,
-      "dg_rank": 348,
-      "owgr_rank": 124,
-      "player_name": "Campbell, Brian",
-      "player_num": 46443,
-      "pre_tourn_pageviews": 245,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-06-11 12:48",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-06-12 07:33",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "151"
-    },
-    {
-      "am": 0,
-      "country": "PUR",
-      "dg_id": 12909,
-      "dg_rank": null,
-      "owgr_rank": null,
-      "player_name": "Campos, Rafael",
-      "player_num": 32070,
-      "pre_tourn_pageviews": 136,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-06-11 07:22",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-06-12 12:37",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "177"
-    },
-    {
-      "am": 0,
-      "country": "USA",
-      "dg_id": 27819,
-      "dg_rank": 107,
-      "owgr_rank": 97,
-      "player_name": "Castillo, Ricky",
-      "player_num": 59440,
-      "pre_tourn_pageviews": 439,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-06-11 08:06",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-06-12 13:21",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "58"
+      "dg_id": 15466,
+      "dg_rank": 12,
+      "owgr_rank": 34,
+      "player_name": "Cantlay, Patrick",
+      "player_num": 35450,
+      "pre_tourn_pageviews": 55,
+      "teetimes": [],
+      "tour_rank": "41"
     },
     {
       "am": 0,
@@ -396,90 +156,21 @@
       "owgr_rank": 68,
       "player_name": "Cauley, Bud",
       "player_num": 34021,
-      "pre_tourn_pageviews": 1250,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-06-11 08:17",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-06-12 13:32",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "55"
+      "pre_tourn_pageviews": 151,
+      "teetimes": [],
+      "tour_rank": "28"
     },
     {
       "am": 0,
-      "country": "USA",
-      "dg_id": 30620,
-      "dg_rank": 339,
-      "owgr_rank": 309,
-      "player_name": "Chatfield, Davis",
-      "player_num": 59006,
-      "pre_tourn_pageviews": 137,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-06-11 14:05",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-06-12 08:50",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "175"
-    },
-    {
-      "am": 0,
-      "country": "USA",
-      "dg_id": 32330,
-      "dg_rank": 277,
-      "owgr_rank": 249,
-      "player_name": "Clanton, Luke",
-      "player_num": 66743,
-      "pre_tourn_pageviews": 625,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-06-11 08:50",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-06-12 14:05",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "138"
+      "country": "ITA",
+      "dg_id": 23549,
+      "dg_rank": null,
+      "owgr_rank": 431,
+      "player_name": "Celli, Filippo",
+      "player_num": 52444,
+      "pre_tourn_pageviews": 5,
+      "teetimes": [],
+      "tour_rank": null
     },
     {
       "am": 0,
@@ -489,59 +180,21 @@
       "owgr_rank": 37,
       "player_name": "Clark, Wyndham",
       "player_num": 51766,
-      "pre_tourn_pageviews": 3371,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-06-11 12:59",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-06-12 07:44",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "21"
+      "pre_tourn_pageviews": 63,
+      "teetimes": [],
+      "tour_rank": "18"
     },
     {
-      "am": 0,
+      "am": 1,
       "country": "USA",
-      "dg_id": 21756,
-      "dg_rank": 36,
-      "owgr_rank": 63,
-      "player_name": "Cole, Eric",
-      "player_num": 47591,
-      "pre_tourn_pageviews": 2081,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-06-11 12:37",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-06-12 07:22",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "37"
+      "dg_id": 34994,
+      "dg_rank": null,
+      "owgr_rank": null,
+      "player_name": "Coleman, Hamilton",
+      "player_num": 70178,
+      "pre_tourn_pageviews": 3,
+      "teetimes": [],
+      "tour_rank": null
     },
     {
       "am": 0,
@@ -551,214 +204,93 @@
       "owgr_rank": 54,
       "player_name": "Conners, Corey",
       "player_num": 39997,
-      "pre_tourn_pageviews": 1530,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-06-11 07:44",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-06-12 12:59",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "83"
+      "pre_tourn_pageviews": 19,
+      "teetimes": [],
+      "tour_rank": "84"
     },
     {
       "am": 0,
       "country": "USA",
-      "dg_id": 11441,
-      "dg_rank": null,
-      "owgr_rank": null,
-      "player_name": "Covello, Vince",
-      "player_num": 32982,
-      "pre_tourn_pageviews": 125,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-06-11 14:05",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-06-12 08:50",
-          "wave": "early"
-        }
-      ],
+      "dg_id": 28309,
+      "dg_rank": 73,
+      "owgr_rank": 57,
+      "player_name": "Coody, Pierceson",
+      "player_num": 59836,
+      "pre_tourn_pageviews": 17,
+      "teetimes": [],
+      "tour_rank": "49"
+    },
+    {
+      "am": 0,
+      "country": "FRA",
+      "dg_id": 20727,
+      "dg_rank": 159,
+      "owgr_rank": 215,
+      "player_name": "Coussaud, Ugo",
+      "player_num": 48936,
+      "pre_tourn_pageviews": 15,
+      "teetimes": [],
       "tour_rank": null
     },
     {
-      "am": 0,
+      "am": 1,
       "country": "USA",
-      "dg_id": 27780,
-      "dg_rank": 221,
-      "owgr_rank": 225,
-      "player_name": "Crowe, Trace",
-      "player_num": 52514,
-      "pre_tourn_pageviews": 198,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-06-11 13:54",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-06-12 08:39",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "149"
-    },
-    {
-      "am": 0,
-      "country": "USA",
-      "dg_id": 14509,
-      "dg_rank": 218,
-      "owgr_rank": 203,
-      "player_name": "Dahmen, Joel",
-      "player_num": 34076,
-      "pre_tourn_pageviews": 257,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-06-11 13:21",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-06-12 08:06",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "108"
+      "dg_id": 30035557,
+      "dg_rank": 474,
+      "owgr_rank": null,
+      "player_name": "Cowan, Ryder",
+      "player_num": 70695,
+      "pre_tourn_pageviews": 16,
+      "teetimes": [],
+      "tour_rank": null
     },
     {
       "am": 0,
       "country": "AUS",
-      "dg_id": 17786,
-      "dg_rank": null,
-      "owgr_rank": 295,
-      "player_name": "Davis, Cam",
-      "player_num": 45157,
-      "pre_tourn_pageviews": 227,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-06-11 12:48",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-06-12 07:33",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "197"
+      "dg_id": 9771,
+      "dg_rank": 59,
+      "owgr_rank": 45,
+      "player_name": "Day, Jason",
+      "player_num": 28089,
+      "pre_tourn_pageviews": 26,
+      "teetimes": [],
+      "tour_rank": "63"
     },
     {
       "am": 0,
-      "country": "CAN",
-      "dg_id": 31347,
-      "dg_rank": null,
-      "owgr_rank": null,
-      "player_name": "Desmarchais, Laurent",
-      "player_num": 59338,
-      "pre_tourn_pageviews": 190,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-06-11 08:39",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-06-12 13:54",
-          "wave": "late"
-        }
-      ],
+      "country": "USA",
+      "dg_id": 19841,
+      "dg_rank": 20,
+      "owgr_rank": 30,
+      "player_name": "DeChambeau, Bryson",
+      "player_num": 47959,
+      "pre_tourn_pageviews": 50,
+      "teetimes": [],
       "tour_rank": null
     },
     {
       "am": 0,
-      "country": "CHN",
-      "dg_id": 16757,
-      "dg_rank": 141,
-      "owgr_rank": 189,
-      "player_name": "Dou, Zecheng",
-      "player_num": 37338,
-      "pre_tourn_pageviews": 306,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-06-11 09:01",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-06-12 14:16",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "109"
+      "country": "USA",
+      "dg_id": 29347,
+      "dg_rank": 129,
+      "owgr_rank": 233,
+      "player_name": "Dossey, Cooper",
+      "player_num": 58600,
+      "pre_tourn_pageviews": 14,
+      "teetimes": [],
+      "tour_rank": null
+    },
+    {
+      "am": 0,
+      "country": "RSA",
+      "dg_id": 19421,
+      "dg_rank": 171,
+      "owgr_rank": 183,
+      "player_name": "Du Plessis, Hennie",
+      "player_num": 47497,
+      "pre_tourn_pageviews": 22,
+      "teetimes": [],
+      "tour_rank": null
     },
     {
       "am": 0,
@@ -768,214 +300,45 @@
       "owgr_rank": 166,
       "player_name": "Dumont De Chassart, Adrien",
       "player_num": 50497,
-      "pre_tourn_pageviews": 404,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-06-11 14:05",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-06-12 08:50",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "99"
+      "pre_tourn_pageviews": 15,
+      "teetimes": [],
+      "tour_rank": "103"
+    },
+    {
+      "am": 0,
+      "country": "COL",
+      "dg_id": 22833,
+      "dg_rank": 121,
+      "owgr_rank": 49,
+      "player_name": "Echavarria, Nico",
+      "player_num": 51349,
+      "pre_tourn_pageviews": 19,
+      "teetimes": [],
+      "tour_rank": "36"
     },
     {
       "am": 0,
       "country": "USA",
-      "dg_id": 28270,
-      "dg_rank": 314,
-      "owgr_rank": 330,
-      "player_name": "Dunlap, Nick",
-      "player_num": 59866,
-      "pre_tourn_pageviews": 268,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-06-11 12:37",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-06-12 07:22",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "170"
+      "dg_id": 14577,
+      "dg_rank": 18,
+      "owgr_rank": 22,
+      "player_name": "English, Harris",
+      "player_num": 34099,
+      "pre_tourn_pageviews": 40,
+      "teetimes": [],
+      "tour_rank": "42"
     },
     {
-      "am": 0,
+      "am": 1,
       "country": "USA",
-      "dg_id": 26653,
-      "dg_rank": 123,
-      "owgr_rank": 175,
-      "player_name": "Eckroat, Austin",
-      "player_num": 57362,
-      "pre_tourn_pageviews": 764,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-06-11 13:32",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-06-12 08:17",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "102"
-    },
-    {
-      "am": 0,
-      "country": "CAN",
-      "dg_id": 21883,
-      "dg_rank": 163,
-      "owgr_rank": 192,
-      "player_name": "Ewart, A.J.",
-      "player_num": 50286,
-      "pre_tourn_pageviews": 790,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-06-11 08:50",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-06-12 14:05",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "85"
-    },
-    {
-      "am": 0,
-      "country": "USA",
-      "dg_id": 11676,
-      "dg_rank": 105,
-      "owgr_rank": 111,
-      "player_name": "Finau, Tony",
-      "player_num": 29725,
-      "pre_tourn_pageviews": 1277,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-06-11 07:33",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-06-12 12:48",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "76"
-    },
-    {
-      "am": 0,
-      "country": "USA",
-      "dg_id": 25094,
-      "dg_rank": 204,
-      "owgr_rank": 205,
-      "player_name": "Fishburn, Patrick",
-      "player_num": 54576,
-      "pre_tourn_pageviews": 235,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-06-11 14:16",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-06-12 09:01",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "163"
-    },
-    {
-      "am": 0,
-      "country": "USA",
-      "dg_id": 26657,
-      "dg_rank": 94,
-      "owgr_rank": 118,
-      "player_name": "Fisk, Steven",
-      "player_num": 57123,
-      "pre_tourn_pageviews": 678,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-06-11 12:59",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-06-12 07:44",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "88"
+      "dg_id": 34025,
+      "dg_rank": null,
+      "owgr_rank": null,
+      "player_name": "Fang, Ethan",
+      "player_num": 68932,
+      "pre_tourn_pageviews": 6,
+      "teetimes": [],
+      "tour_rank": null
     },
     {
       "am": 0,
@@ -985,28 +348,9 @@
       "owgr_rank": 73,
       "player_name": "Fitzpatrick, Alex",
       "player_num": 55721,
-      "pre_tourn_pageviews": 2796,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-06-11 13:10",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-06-12 07:55",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "20"
+      "pre_tourn_pageviews": 45,
+      "teetimes": [],
+      "tour_rank": "19"
     },
     {
       "am": 0,
@@ -1016,28 +360,9 @@
       "owgr_rank": 4,
       "player_name": "Fitzpatrick, Matt",
       "player_num": 40098,
-      "pre_tourn_pageviews": 1909,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-06-11 07:55",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-06-12 13:10",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "3"
+      "pre_tourn_pageviews": 153,
+      "teetimes": [],
+      "tour_rank": "1"
     },
     {
       "am": 0,
@@ -1047,28 +372,33 @@
       "owgr_rank": 7,
       "player_name": "Fleetwood, Tommy",
       "player_num": 30911,
-      "pre_tourn_pageviews": 2635,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-06-11 07:44",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-06-12 12:59",
-          "wave": "late"
-        }
-      ],
+      "pre_tourn_pageviews": 81,
+      "teetimes": [],
       "tour_rank": "10"
+    },
+    {
+      "am": 1,
+      "country": "USA",
+      "dg_id": 30042928,
+      "dg_rank": null,
+      "owgr_rank": null,
+      "player_name": "Fleming, Marek",
+      "player_num": 70698,
+      "pre_tourn_pageviews": 4,
+      "teetimes": [],
+      "tour_rank": null
+    },
+    {
+      "am": 0,
+      "country": "USA",
+      "dg_id": 12965,
+      "dg_rank": 50,
+      "owgr_rank": 41,
+      "player_name": "Fowler, Rickie",
+      "player_num": 32102,
+      "pre_tourn_pageviews": 33,
+      "teetimes": [],
+      "tour_rank": "27"
     },
     {
       "am": 0,
@@ -1078,121 +408,33 @@
       "owgr_rank": 60,
       "player_name": "Fox, Ryan",
       "player_num": 29936,
-      "pre_tourn_pageviews": 1988,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-06-11 12:48",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-06-12 07:33",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "64"
+      "pre_tourn_pageviews": 36,
+      "teetimes": [],
+      "tour_rank": "59"
     },
     {
       "am": 0,
       "country": "USA",
-      "dg_id": 11451,
-      "dg_rank": 291,
-      "owgr_rank": 368,
-      "player_name": "Garnett, Brice",
-      "player_num": 29535,
-      "pre_tourn_pageviews": 137,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-06-11 08:28",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-06-12 13:43",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "139"
+      "dg_id": 29767,
+      "dg_rank": 29,
+      "owgr_rank": 23,
+      "player_name": "Gerard, Ryan",
+      "player_num": 59018,
+      "pre_tourn_pageviews": 53,
+      "teetimes": [],
+      "tour_rank": "16"
     },
     {
       "am": 0,
       "country": "USA",
-      "dg_id": 24550,
-      "dg_rank": 96,
-      "owgr_rank": 181,
-      "player_name": "Ghim, Doug",
-      "player_num": 52375,
-      "pre_tourn_pageviews": 660,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-06-11 13:32",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-06-12 08:17",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "105"
-    },
-    {
-      "am": 0,
-      "country": "USA",
-      "dg_id": 7399,
-      "dg_rank": 154,
-      "owgr_rank": 106,
-      "player_name": "Glover, Lucas",
-      "player_num": 25900,
-      "pre_tourn_pageviews": 329,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-06-11 08:06",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-06-12 13:21",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "113"
+      "dg_id": 27774,
+      "dg_rank": 17,
+      "owgr_rank": 11,
+      "player_name": "Gotterup, Chris",
+      "player_num": 59095,
+      "pre_tourn_pageviews": 85,
+      "teetimes": [],
+      "tour_rank": "9"
     },
     {
       "am": 0,
@@ -1202,59 +444,21 @@
       "owgr_rank": 67,
       "player_name": "Greyserman, Max",
       "player_num": 51977,
-      "pre_tourn_pageviews": 1356,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-06-11 08:17",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-06-12 13:32",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "84"
+      "pre_tourn_pageviews": 16,
+      "teetimes": [],
+      "tour_rank": "85"
     },
     {
       "am": 0,
       "country": "USA",
-      "dg_id": 15330,
-      "dg_rank": 182,
-      "owgr_rank": 214,
-      "player_name": "Griffin, Lanto",
-      "player_num": 35310,
-      "pre_tourn_pageviews": 272,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-06-11 08:17",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-06-12 13:32",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "147"
+      "dg_id": 24968,
+      "dg_rank": 25,
+      "owgr_rank": 15,
+      "player_name": "Griffin, Ben",
+      "player_num": 54591,
+      "pre_tourn_pageviews": 42,
+      "teetimes": [],
+      "tour_rank": "35"
     },
     {
       "am": 0,
@@ -1264,59 +468,9 @@
       "owgr_rank": 120,
       "player_name": "Grillo, Emiliano",
       "player_num": 31646,
-      "pre_tourn_pageviews": 625,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-06-11 12:15",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-06-12 07:00",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "125"
-    },
-    {
-      "am": 0,
-      "country": "CAN",
-      "dg_id": 13965,
-      "dg_rank": 254,
-      "owgr_rank": 265,
-      "player_name": "Hadwin, Adam",
-      "player_num": 33399,
-      "pre_tourn_pageviews": 453,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-06-11 12:26",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-06-12 07:11",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "180"
+      "pre_tourn_pageviews": 24,
+      "teetimes": [],
+      "tour_rank": "123"
     },
     {
       "am": 0,
@@ -1326,28 +480,57 @@
       "owgr_rank": 66,
       "player_name": "Hall, Harry",
       "player_num": 57975,
-      "pre_tourn_pageviews": 1087,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-06-11 13:10",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-06-12 07:55",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "49"
+      "pre_tourn_pageviews": 16,
+      "teetimes": [],
+      "tour_rank": "50"
+    },
+    {
+      "am": 0,
+      "country": "USA",
+      "dg_id": 19864,
+      "dg_rank": 257,
+      "owgr_rank": 359,
+      "player_name": "Hammer, Cole",
+      "player_num": 47987,
+      "pre_tourn_pageviews": 25,
+      "teetimes": [],
+      "tour_rank": null
+    },
+    {
+      "am": 1,
+      "country": "USA",
+      "dg_id": 30042170,
+      "dg_rank": null,
+      "owgr_rank": null,
+      "player_name": "Harber, Vaughn",
+      "player_num": 70693,
+      "pre_tourn_pageviews": 7,
+      "teetimes": [],
+      "tour_rank": null
+    },
+    {
+      "am": 0,
+      "country": "USA",
+      "dg_id": 19865,
+      "dg_rank": 380,
+      "owgr_rank": null,
+      "player_name": "Hardy, Nick",
+      "player_num": 47988,
+      "pre_tourn_pageviews": 14,
+      "teetimes": [],
+      "tour_rank": "189"
+    },
+    {
+      "am": 0,
+      "country": "USA",
+      "dg_id": 8825,
+      "dg_rank": 64,
+      "owgr_rank": 59,
+      "player_name": "Harman, Brian",
+      "player_num": 27644,
+      "pre_tourn_pageviews": 30,
+      "teetimes": [],
+      "tour_rank": "74"
     },
     {
       "am": 0,
@@ -1357,245 +540,105 @@
       "owgr_rank": null,
       "player_name": "Harrington, Padraig",
       "player_num": 20766,
-      "pre_tourn_pageviews": 438,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-06-11 12:15",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-06-12 07:00",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "165"
+      "pre_tourn_pageviews": 16,
+      "teetimes": [],
+      "tour_rank": "166"
     },
     {
       "am": 0,
-      "country": "RSA",
-      "dg_id": 24342,
-      "dg_rank": 180,
-      "owgr_rank": 92,
-      "player_name": "Higgo, Garrick",
-      "player_num": 54421,
-      "pre_tourn_pageviews": 467,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-06-11 07:33",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-06-12 12:48",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "142"
+      "country": "ENG",
+      "dg_id": 14796,
+      "dg_rank": 39,
+      "owgr_rank": 21,
+      "player_name": "Hatton, Tyrrell",
+      "player_num": 34363,
+      "pre_tourn_pageviews": 70,
+      "teetimes": [],
+      "tour_rank": null
     },
     {
       "am": 0,
       "country": "USA",
-      "dg_id": 28469,
-      "dg_rank": 476,
-      "owgr_rank": 170,
-      "player_name": "Highsmith, Joe",
-      "player_num": 60067,
-      "pre_tourn_pageviews": 183,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-06-11 08:06",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-06-12 13:21",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "159"
+      "dg_id": 14578,
+      "dg_rank": 8,
+      "owgr_rank": 5,
+      "player_name": "Henley, Russell",
+      "player_num": 34098,
+      "pre_tourn_pageviews": 77,
+      "teetimes": [],
+      "tour_rank": "11"
+    },
+    {
+      "am": 0,
+      "country": "AUS",
+      "dg_id": 17064,
+      "dg_rank": 101,
+      "owgr_rank": 89,
+      "player_name": "Herbert, Lucas",
+      "player_num": 39058,
+      "pre_tourn_pageviews": 17,
+      "teetimes": [],
+      "tour_rank": null
+    },
+    {
+      "am": 1,
+      "country": "USA",
+      "dg_id": 35015,
+      "dg_rank": null,
+      "owgr_rank": null,
+      "player_name": "Herrington, Jackson",
+      "player_num": 70148,
+      "pre_tourn_pageviews": 7,
+      "teetimes": [],
+      "tour_rank": null
+    },
+    {
+      "am": 0,
+      "country": "ESP",
+      "dg_id": 24127,
+      "dg_rank": null,
+      "owgr_rank": 316,
+      "player_name": "Hidalgo Portillo, Angel",
+      "player_num": 64594,
+      "pre_tourn_pageviews": 4,
+      "teetimes": [],
+      "tour_rank": null
+    },
+    {
+      "am": 0,
+      "country": "USA",
+      "dg_id": 33442,
+      "dg_rank": null,
+      "owgr_rank": null,
+      "player_name": "Higgins, Robbie",
+      "player_num": 65460,
+      "pre_tourn_pageviews": 5,
+      "teetimes": [],
+      "tour_rank": null
+    },
+    {
+      "am": 0,
+      "country": "USA",
+      "dg_id": 14140,
+      "dg_rank": 438,
+      "owgr_rank": 356,
+      "player_name": "Higgs, Harry",
+      "player_num": 33597,
+      "pre_tourn_pageviews": 16,
+      "teetimes": [],
+      "tour_rank": null
     },
     {
       "am": 0,
       "country": "JPN",
-      "dg_id": 20954,
-      "dg_rank": 328,
-      "owgr_rank": 264,
-      "player_name": "Hirata, Kensei",
-      "player_num": 49120,
-      "pre_tourn_pageviews": 155,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-06-11 08:50",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-06-12 14:05",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "146"
-    },
-    {
-      "am": 0,
-      "country": "USA",
-      "dg_id": 25157,
-      "dg_rank": 150,
-      "owgr_rank": 154,
-      "player_name": "Hodges, Lee",
-      "player_num": 54628,
-      "pre_tourn_pageviews": 549,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-06-11 08:28",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-06-12 13:43",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "114"
-    },
-    {
-      "am": 0,
-      "country": "PHI",
-      "dg_id": 23504,
-      "dg_rank": 89,
-      "owgr_rank": 88,
-      "player_name": "Hoey, Rico",
-      "player_num": 51696,
-      "pre_tourn_pageviews": 644,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-06-11 12:37",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-06-12 07:22",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "98"
-    },
-    {
-      "am": 0,
-      "country": "USA",
-      "dg_id": 5768,
-      "dg_rank": 398,
-      "owgr_rank": 482,
-      "player_name": "Hoffman, Charley",
-      "player_num": 12716,
-      "pre_tourn_pageviews": 187,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-06-11 07:44",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-06-12 12:59",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "200"
-    },
-    {
-      "am": 0,
-      "country": "USA",
-      "dg_id": 15575,
-      "dg_rank": 207,
-      "owgr_rank": 107,
-      "player_name": "Hoge, Tom",
-      "player_num": 35532,
-      "pre_tourn_pageviews": 547,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-06-11 12:37",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-06-12 07:22",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "70"
+      "dg_id": 22760,
+      "dg_rank": 102,
+      "owgr_rank": 61,
+      "player_name": "Hisatsune, Ryo",
+      "player_num": 51287,
+      "pre_tourn_pageviews": 28,
+      "teetimes": [],
+      "tour_rank": "40"
     },
     {
       "am": 0,
@@ -1605,59 +648,33 @@
       "owgr_rank": 32,
       "player_name": "Hojgaard, Nicolai",
       "player_num": 52453,
-      "pre_tourn_pageviews": 1907,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-06-11 13:21",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-06-12 08:06",
-          "wave": "early"
-        }
-      ],
+      "pre_tourn_pageviews": 27,
+      "teetimes": [],
       "tour_rank": "24"
     },
     {
       "am": 0,
       "country": "USA",
-      "dg_id": 17538,
-      "dg_rank": 97,
-      "owgr_rank": 117,
-      "player_name": "Homa, Max",
-      "player_num": 39977,
-      "pre_tourn_pageviews": 946,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-06-11 12:59",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-06-12 07:44",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "73"
+      "dg_id": 7959,
+      "dg_rank": null,
+      "owgr_rank": null,
+      "player_name": "Holmes, J.B.",
+      "player_num": 27141,
+      "pre_tourn_pageviews": 13,
+      "teetimes": [],
+      "tour_rank": null
+    },
+    {
+      "am": 1,
+      "country": "USA",
+      "dg_id": 35014,
+      "dg_rank": null,
+      "owgr_rank": null,
+      "player_name": "Holtz, Brandon",
+      "player_num": 70147,
+      "pre_tourn_pageviews": 3,
+      "teetimes": [],
+      "tour_rank": null
     },
     {
       "am": 0,
@@ -1667,59 +684,9 @@
       "owgr_rank": 146,
       "player_name": "Horschel, Billy",
       "player_num": 29420,
-      "pre_tourn_pageviews": 467,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-06-11 07:55",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-06-12 13:10",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "96"
-    },
-    {
-      "am": 0,
-      "country": "USA",
-      "dg_id": 15470,
-      "dg_rank": 147,
-      "owgr_rank": 160,
-      "player_name": "Hossler, Beau",
-      "player_num": 35461,
-      "pre_tourn_pageviews": 319,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-06-11 08:28",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-06-12 13:43",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "115"
+      "pre_tourn_pageviews": 21,
+      "teetimes": [],
+      "tour_rank": "88"
     },
     {
       "am": 0,
@@ -1729,121 +696,33 @@
       "owgr_rank": 33,
       "player_name": "Hovland, Viktor",
       "player_num": 46717,
-      "pre_tourn_pageviews": 1516,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-06-11 07:55",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-06-12 13:10",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "71"
+      "pre_tourn_pageviews": 102,
+      "teetimes": [],
+      "tour_rank": "53"
     },
     {
-      "am": 0,
+      "am": 1,
       "country": "USA",
-      "dg_id": 16333,
-      "dg_rank": 177,
-      "owgr_rank": 119,
-      "player_name": "Hubbard, Mark",
-      "player_num": 36801,
-      "pre_tourn_pageviews": 502,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-06-11 13:21",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-06-12 08:06",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "94"
+      "dg_id": 33759,
+      "dg_rank": null,
+      "owgr_rank": null,
+      "player_name": "Howell, Mason",
+      "player_num": 68607,
+      "pre_tourn_pageviews": 5,
+      "teetimes": [],
+      "tour_rank": null
     },
     {
       "am": 0,
-      "country": "CAN",
-      "dg_id": 15556,
-      "dg_rank": 118,
-      "owgr_rank": 133,
-      "player_name": "Hughes, Mackenzie",
-      "player_num": 35506,
-      "pre_tourn_pageviews": 830,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-06-11 12:26",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-06-12 07:11",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "117"
-    },
-    {
-      "am": 0,
-      "country": "GER",
-      "dg_id": 16394,
-      "dg_rank": 111,
-      "owgr_rank": 95,
-      "player_name": "Jaeger, Stephan",
-      "player_num": 36799,
-      "pre_tourn_pageviews": 695,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-06-11 08:06",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-06-12 13:21",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "74"
+      "country": "KOR",
+      "dg_id": 17488,
+      "dg_rank": 100,
+      "owgr_rank": 72,
+      "player_name": "Im, Sungjae",
+      "player_num": 39971,
+      "pre_tourn_pageviews": 25,
+      "teetimes": [],
+      "tour_rank": "57"
     },
     {
       "am": 0,
@@ -1853,90 +732,33 @@
       "owgr_rank": null,
       "player_name": "James, Ben",
       "player_num": 57869,
-      "pre_tourn_pageviews": 742,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-06-11 13:43",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-06-12 08:28",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": null
-    },
-    {
-      "am": 0,
-      "country": "JPN",
-      "dg_id": 19729,
-      "dg_rank": 184,
-      "owgr_rank": 156,
-      "player_name": "Kanaya, Takumi",
-      "player_num": 47917,
-      "pre_tourn_pageviews": 190,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-06-11 07:22",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-06-12 12:37",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "134"
+      "pre_tourn_pageviews": 18,
+      "teetimes": [],
+      "tour_rank": "T200"
     },
     {
       "am": 0,
       "country": "USA",
-      "dg_id": 21889,
-      "dg_rank": 322,
-      "owgr_rank": 259,
-      "player_name": "Kang, Jeffrey",
-      "player_num": 47393,
-      "pre_tourn_pageviews": 110,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-06-11 14:16",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-06-12 09:01",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "143"
+      "dg_id": 12422,
+      "dg_rank": 76,
+      "owgr_rank": 242,
+      "player_name": "Johnson, Dustin",
+      "player_num": 30925,
+      "pre_tourn_pageviews": 50,
+      "teetimes": [],
+      "tour_rank": null
+    },
+    {
+      "am": 0,
+      "country": "ENG",
+      "dg_id": 25601,
+      "dg_rank": 226,
+      "owgr_rank": 273,
+      "player_name": "Jordan, Matthew",
+      "player_num": 55955,
+      "pre_tourn_pageviews": 13,
+      "teetimes": [],
+      "tour_rank": null
     },
     {
       "am": 0,
@@ -1946,28 +768,45 @@
       "owgr_rank": 77,
       "player_name": "Keefer, Johnny",
       "player_num": 63454,
-      "pre_tourn_pageviews": 1025,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-06-11 13:21",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-06-12 08:06",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "82"
+      "pre_tourn_pageviews": 19,
+      "teetimes": [],
+      "tour_rank": "81"
+    },
+    {
+      "am": 0,
+      "country": "USA",
+      "dg_id": 17543,
+      "dg_rank": 66,
+      "owgr_rank": 48,
+      "player_name": "Kim, Michael",
+      "player_num": 39975,
+      "pre_tourn_pageviews": 19,
+      "teetimes": [],
+      "tour_rank": "62"
+    },
+    {
+      "am": 0,
+      "country": "KOR",
+      "dg_id": 14609,
+      "dg_rank": 10,
+      "owgr_rank": 18,
+      "player_name": "Kim, Si Woo",
+      "player_num": 37455,
+      "pre_tourn_pageviews": 58,
+      "teetimes": [],
+      "tour_rank": "4"
+    },
+    {
+      "am": 0,
+      "country": "USA",
+      "dg_id": 18349,
+      "dg_rank": null,
+      "owgr_rank": null,
+      "player_name": "Kim, T.K.",
+      "player_num": 46155,
+      "pre_tourn_pageviews": 10,
+      "teetimes": [],
+      "tour_rank": null
     },
     {
       "am": 0,
@@ -1977,28 +816,21 @@
       "owgr_rank": 152,
       "player_name": "Kim, Tom",
       "player_num": 55182,
-      "pre_tourn_pageviews": 1057,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-06-11 13:32",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-06-12 08:17",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "111"
+      "pre_tourn_pageviews": 24,
+      "teetimes": [],
+      "tour_rank": "98"
+    },
+    {
+      "am": 0,
+      "country": "ENG",
+      "dg_id": 18027,
+      "dg_rank": 175,
+      "owgr_rank": 213,
+      "player_name": "Kimsey, Nathan",
+      "player_num": 45426,
+      "pre_tourn_pageviews": 12,
+      "teetimes": [],
+      "tour_rank": null
     },
     {
       "am": 0,
@@ -2008,59 +840,33 @@
       "owgr_rank": 104,
       "player_name": "Kirk, Chris",
       "player_num": 30926,
-      "pre_tourn_pageviews": 535,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-06-11 07:55",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-06-12 13:10",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "128"
+      "pre_tourn_pageviews": 17,
+      "teetimes": [],
+      "tour_rank": "133"
     },
     {
       "am": 0,
       "country": "USA",
-      "dg_id": 13470,
-      "dg_rank": 435,
-      "owgr_rank": 344,
-      "player_name": "Kizzire, Patton",
-      "player_num": 32757,
-      "pre_tourn_pageviews": 129,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-06-11 13:32",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-06-12 08:17",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "144"
+      "dg_id": 21891,
+      "dg_rank": 26,
+      "owgr_rank": 31,
+      "player_name": "Kitayama, Kurt",
+      "player_num": 48117,
+      "pre_tourn_pageviews": 38,
+      "teetimes": [],
+      "tour_rank": "26"
+    },
+    {
+      "am": 0,
+      "country": "USA",
+      "dg_id": 19396,
+      "dg_rank": 23,
+      "owgr_rank": 42,
+      "player_name": "Knapp, Jake",
+      "player_num": 47420,
+      "pre_tourn_pageviews": 26,
+      "teetimes": [],
+      "tour_rank": "31"
     },
     {
       "am": 0,
@@ -2070,214 +876,93 @@
       "owgr_rank": 109,
       "player_name": "Koepka, Brooks",
       "player_num": 36689,
-      "pre_tourn_pageviews": 2232,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-06-11 12:48",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-06-12 07:33",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "69"
-    },
-    {
-      "am": 0,
-      "country": "RSA",
-      "dg_id": 24343,
-      "dg_rank": 375,
-      "owgr_rank": 253,
-      "player_name": "Lamprecht, Christo",
-      "player_num": 54422,
-      "pre_tourn_pageviews": 200,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-06-11 14:16",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-06-12 09:01",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "182"
+      "pre_tourn_pageviews": 63,
+      "teetimes": [],
+      "tour_rank": "71"
     },
     {
       "am": 0,
       "country": "USA",
-      "dg_id": 21943,
-      "dg_rank": 246,
-      "owgr_rank": 229,
-      "player_name": "Lebioda, Hank",
-      "player_num": 49766,
-      "pre_tourn_pageviews": 173,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-06-11 07:11",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-06-12 12:26",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "126"
+      "dg_id": 16395,
+      "dg_rank": 158,
+      "owgr_rank": 191,
+      "player_name": "Kohles, Ben",
+      "player_num": 36884,
+      "pre_tourn_pageviews": 13,
+      "teetimes": [],
+      "tour_rank": "159"
+    },
+    {
+      "am": 0,
+      "country": "USA",
+      "dg_id": 32319,
+      "dg_rank": 52,
+      "owgr_rank": 254,
+      "player_name": "Koivun, Jackson",
+      "player_num": 66701,
+      "pre_tourn_pageviews": 57,
+      "teetimes": [],
+      "tour_rank": null
     },
     {
       "am": 1,
-      "country": "CAN",
-      "dg_id": 30040252,
+      "country": "USA",
+      "dg_id": 30039832,
       "dg_rank": null,
       "owgr_rank": null,
-      "player_name": "Lew, Dawson",
-      "player_num": 70574,
-      "pre_tourn_pageviews": 99,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-06-11 13:54",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-06-12 08:39",
-          "wave": "early"
-        }
-      ],
+      "player_name": "Kyes, Chase",
+      "player_num": 70692,
+      "pre_tourn_pageviews": 4,
+      "teetimes": [],
       "tour_rank": null
     },
     {
       "am": 0,
-      "country": "CHN",
-      "dg_id": 15310,
-      "dg_rank": 135,
-      "owgr_rank": 90,
-      "player_name": "Li, Haotong",
-      "player_num": 35296,
-      "pre_tourn_pageviews": 487,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-06-11 13:54",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-06-12 08:39",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "103"
+      "country": "USA",
+      "dg_id": 35062,
+      "dg_rank": null,
+      "owgr_rank": null,
+      "player_name": "Leach, Greyson",
+      "player_num": 67358,
+      "pre_tourn_pageviews": 5,
+      "teetimes": [],
+      "tour_rank": null
+    },
+    {
+      "am": 1,
+      "country": "USA",
+      "dg_id": 33756,
+      "dg_rank": null,
+      "owgr_rank": null,
+      "player_name": "Lee, Bryan",
+      "player_num": 68608,
+      "pre_tourn_pageviews": 20,
+      "teetimes": [],
+      "tour_rank": null
+    },
+    {
+      "am": 1,
+      "country": "USA",
+      "dg_id": 30035245,
+      "dg_rank": null,
+      "owgr_rank": null,
+      "player_name": "Lee, Eric",
+      "player_num": 70734,
+      "pre_tourn_pageviews": 6,
+      "teetimes": [],
+      "tour_rank": null
     },
     {
       "am": 0,
-      "country": "USA",
-      "dg_id": 15980,
-      "dg_rank": 196,
-      "owgr_rank": 102,
-      "player_name": "Lipsky, David",
-      "player_num": 36326,
-      "pre_tourn_pageviews": 327,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-06-11 13:32",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-06-12 08:17",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "66"
-    },
-    {
-      "am": 0,
-      "country": "USA",
-      "dg_id": 17723,
-      "dg_rank": 332,
-      "owgr_rank": 246,
-      "player_name": "Lower, Justin",
-      "player_num": 40162,
-      "pre_tourn_pageviews": 192,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-06-11 07:11",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-06-12 12:26",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "173"
+      "country": "AUS",
+      "dg_id": 16841,
+      "dg_rank": 30,
+      "owgr_rank": 36,
+      "player_name": "Lee, Min Woo",
+      "player_num": 37378,
+      "pre_tourn_pageviews": 44,
+      "teetimes": [],
+      "tour_rank": "20"
     },
     {
       "am": 0,
@@ -2287,28 +972,9 @@
       "owgr_rank": 43,
       "player_name": "Lowry, Shane",
       "player_num": 33204,
-      "pre_tourn_pageviews": 1676,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-06-11 13:10",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-06-12 07:55",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "51"
+      "pre_tourn_pageviews": 39,
+      "teetimes": [],
+      "tour_rank": "52"
     },
     {
       "am": 0,
@@ -2318,182 +984,44 @@
       "owgr_rank": 17,
       "player_name": "MacIntyre, Robert",
       "player_num": 52215,
-      "pre_tourn_pageviews": 1444,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-06-11 13:10",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-06-12 07:55",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "35"
+      "pre_tourn_pageviews": 62,
+      "teetimes": [],
+      "tour_rank": "34"
+    },
+    {
+      "am": 0,
+      "country": "JPN",
+      "dg_id": 13562,
+      "dg_rank": 33,
+      "owgr_rank": 25,
+      "player_name": "Matsuyama, Hideki",
+      "player_num": 32839,
+      "pre_tourn_pageviews": 42,
+      "teetimes": [],
+      "tour_rank": "32"
     },
     {
       "am": 0,
       "country": "USA",
-      "dg_id": 14926,
-      "dg_rank": 303,
-      "owgr_rank": null,
-      "player_name": "Malnati, Peter",
-      "player_num": 34466,
-      "pre_tourn_pageviews": 148,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-06-11 07:22",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-06-12 12:37",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "158"
+      "dg_id": 28635,
+      "dg_rank": 62,
+      "owgr_rank": 52,
+      "player_name": "McCarty, Matt",
+      "player_num": 59141,
+      "pre_tourn_pageviews": 23,
+      "teetimes": [],
+      "tour_rank": "39"
     },
     {
       "am": 0,
-      "country": "USA",
-      "dg_id": 14007,
-      "dg_rank": null,
-      "owgr_rank": 459,
-      "player_name": "Martin, Ben",
-      "player_num": 33413,
-      "pre_tourn_pageviews": 138,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-06-11 12:26",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-06-12 07:11",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "152"
-    },
-    {
-      "am": 1,
-      "country": "CAN",
-      "dg_id": 32259,
-      "dg_rank": null,
+      "country": "NIR",
+      "dg_id": 7548,
+      "dg_rank": 411,
       "owgr_rank": null,
-      "player_name": "Matthews, Justin",
-      "player_num": 66562,
-      "pre_tourn_pageviews": 99,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-06-11 13:54",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-06-12 08:39",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": null
-    },
-    {
-      "am": 0,
-      "country": "USA",
-      "dg_id": 19870,
-      "dg_rank": 67,
-      "owgr_rank": 103,
-      "player_name": "McCarthy, Denny",
-      "player_num": 47993,
-      "pre_tourn_pageviews": 614,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-06-11 08:17",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-06-12 13:32",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "97"
-    },
-    {
-      "am": 1,
-      "country": "CAN",
-      "dg_id": 32260,
-      "dg_rank": null,
-      "owgr_rank": null,
-      "player_name": "McCulloch, Ashton",
-      "player_num": 59409,
-      "pre_tourn_pageviews": 94,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-06-11 09:01",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-06-12 14:16",
-          "wave": "late"
-        }
-      ],
+      "player_name": "McDowell, Graeme",
+      "player_num": 25572,
+      "pre_tourn_pageviews": 11,
+      "teetimes": [],
       "tour_rank": null
     },
     {
@@ -2504,59 +1032,33 @@
       "owgr_rank": 98,
       "player_name": "McGreevy, Max",
       "player_num": 51950,
-      "pre_tourn_pageviews": 537,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-06-11 07:22",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-06-12 12:37",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "116"
+      "pre_tourn_pageviews": 21,
+      "teetimes": [],
+      "tour_rank": "117"
+    },
+    {
+      "am": 0,
+      "country": "NIR",
+      "dg_id": 10091,
+      "dg_rank": 2,
+      "owgr_rank": 2,
+      "player_name": "McIlroy, Rory",
+      "player_num": 28237,
+      "pre_tourn_pageviews": 71,
+      "teetimes": [],
+      "tour_rank": "7"
     },
     {
       "am": 0,
       "country": "USA",
-      "dg_id": 28159,
-      "dg_rank": 55,
-      "owgr_rank": 86,
-      "player_name": "Meissner, Mac",
-      "player_num": 59143,
-      "pre_tourn_pageviews": 1094,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-06-11 07:00",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-06-12 12:15",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "75"
+      "dg_id": 18634,
+      "dg_rank": 14,
+      "owgr_rank": 35,
+      "player_name": "McNealy, Maverick",
+      "player_num": 46442,
+      "pre_tourn_pageviews": 45,
+      "teetimes": [],
+      "tour_rank": "46"
     },
     {
       "am": 0,
@@ -2566,59 +1068,21 @@
       "owgr_rank": 100,
       "player_name": "Mitchell, Keith",
       "player_num": 39546,
-      "pre_tourn_pageviews": 1163,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-06-11 07:00",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-06-12 12:15",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "67"
+      "pre_tourn_pageviews": 19,
+      "teetimes": [],
+      "tour_rank": "66"
     },
     {
       "am": 0,
       "country": "USA",
-      "dg_id": 21944,
-      "dg_rank": 115,
-      "owgr_rank": 145,
-      "player_name": "Moore, Taylor",
-      "player_num": 49947,
-      "pre_tourn_pageviews": 701,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-06-11 08:17",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-06-12 13:32",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "78"
+      "dg_id": 25442,
+      "dg_rank": 290,
+      "owgr_rank": 219,
+      "player_name": "Montgomery, Taylor",
+      "player_num": 55789,
+      "pre_tourn_pageviews": 14,
+      "teetimes": [],
+      "tour_rank": null
     },
     {
       "am": 0,
@@ -2628,27 +1092,8 @@
       "owgr_rank": 10,
       "player_name": "Morikawa, Collin",
       "player_num": 50525,
-      "pre_tourn_pageviews": 1555,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-06-11 07:33",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-06-12 12:48",
-          "wave": "late"
-        }
-      ],
+      "pre_tourn_pageviews": 69,
+      "teetimes": [],
       "tour_rank": "5"
     },
     {
@@ -2659,120 +1104,32 @@
       "owgr_rank": 138,
       "player_name": "Mouw, William",
       "player_num": 63121,
-      "pre_tourn_pageviews": 483,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-06-11 07:44",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-06-12 12:59",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "118"
+      "pre_tourn_pageviews": 12,
+      "teetimes": [],
+      "tour_rank": "107"
     },
     {
       "am": 0,
-      "country": "JPN",
-      "dg_id": 21074,
-      "dg_rank": 191,
-      "owgr_rank": 136,
-      "player_name": "Nakajima, Keita",
-      "player_num": 49228,
-      "pre_tourn_pageviews": 320,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-06-11 13:54",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-06-12 08:39",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "157"
+      "country": "USA",
+      "dg_id": 27598,
+      "dg_rank": 337,
+      "owgr_rank": 289,
+      "player_name": "Nicholas, James",
+      "player_num": 58188,
+      "pre_tourn_pageviews": 10,
+      "teetimes": [],
+      "tour_rank": null
     },
     {
       "am": 0,
-      "country": "DEN",
-      "dg_id": 23841,
-      "dg_rank": 116,
-      "owgr_rank": 82,
-      "player_name": "Neergaard-Petersen, Rasmus",
-      "player_num": 52689,
-      "pre_tourn_pageviews": 580,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-06-11 14:05",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-06-12 08:50",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "119"
-    },
-    {
-      "am": 0,
-      "country": "CAN",
-      "dg_id": 16492,
-      "dg_rank": null,
-      "owgr_rank": 461,
-      "player_name": "Nesbitt, Drew",
-      "player_num": 45729,
-      "pre_tourn_pageviews": 104,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-06-11 14:16",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-06-12 09:01",
-          "wave": "early"
-        }
-      ],
+      "country": "CHI",
+      "dg_id": 18079,
+      "dg_rank": 53,
+      "owgr_rank": 79,
+      "player_name": "Niemann, Joaquin",
+      "player_num": 45486,
+      "pre_tourn_pageviews": 38,
+      "teetimes": [],
       "tour_rank": null
     },
     {
@@ -2783,152 +1140,81 @@
       "owgr_rank": 20,
       "player_name": "Noren, Alex",
       "player_num": 27349,
-      "pre_tourn_pageviews": 2000,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-06-11 12:48",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-06-12 07:33",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "43"
+      "pre_tourn_pageviews": 45,
+      "teetimes": [],
+      "tour_rank": "45"
     },
     {
       "am": 0,
-      "country": "SWE",
-      "dg_id": 25475,
-      "dg_rank": 275,
-      "owgr_rank": 258,
-      "player_name": "Nyholm, Pontus",
-      "player_num": 55851,
-      "pre_tourn_pageviews": 238,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-06-11 09:01",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-06-12 14:16",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "123"
-    },
-    {
-      "am": 0,
-      "country": "AUS",
-      "dg_id": 30717,
-      "dg_rank": null,
-      "owgr_rank": null,
-      "player_name": "O'Donovan, Declan",
-      "player_num": 64526,
-      "pre_tourn_pageviews": 159,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-06-11 13:43",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-06-12 08:28",
-          "wave": "early"
-        }
-      ],
+      "country": "DEN",
+      "dg_id": 15676,
+      "dg_rank": 350,
+      "owgr_rank": 270,
+      "player_name": "Norgaard, Niklas",
+      "player_num": 35706,
+      "pre_tourn_pageviews": 11,
+      "teetimes": [],
       "tour_rank": null
     },
     {
       "am": 0,
       "country": "USA",
-      "dg_id": 7626,
+      "dg_id": 23475,
+      "dg_rank": 87,
+      "owgr_rank": 58,
+      "player_name": "Novak, Andrew",
+      "player_num": 51997,
+      "pre_tourn_pageviews": 14,
+      "teetimes": [],
+      "tour_rank": "78"
+    },
+    {
+      "am": 0,
+      "country": "JPN",
+      "dg_id": 20761,
       "dg_rank": null,
-      "owgr_rank": null,
-      "player_name": "O'Hair, Sean",
-      "player_num": 24140,
-      "pre_tourn_pageviews": 114,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-06-11 14:16",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-06-12 09:01",
-          "wave": "early"
-        }
-      ],
+      "owgr_rank": 386,
+      "player_name": "Oiwa, Ryuichi",
+      "player_num": 48933,
+      "pre_tourn_pageviews": 5,
+      "teetimes": [],
       "tour_rank": null
     },
     {
       "am": 0,
-      "country": "DEN",
-      "dg_id": 13412,
-      "dg_rank": 99,
-      "owgr_rank": 128,
-      "player_name": "Olesen, Thorbjorn",
-      "player_num": 33968,
-      "pre_tourn_pageviews": 526,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-06-11 08:28",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-06-12 13:43",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "153"
+      "country": "JPN",
+      "dg_id": 25263,
+      "dg_rank": null,
+      "owgr_rank": null,
+      "player_name": "Onishi, Kaito",
+      "player_num": 55623,
+      "pre_tourn_pageviews": 9,
+      "teetimes": [],
+      "tour_rank": null
+    },
+    {
+      "am": 1,
+      "country": "USA",
+      "dg_id": 35389,
+      "dg_rank": null,
+      "owgr_rank": null,
+      "player_name": "Ormond, Jackson",
+      "player_num": 70296,
+      "pre_tourn_pageviews": 5,
+      "teetimes": [],
+      "tour_rank": null
+    },
+    {
+      "am": 0,
+      "country": "MEX",
+      "dg_id": 14735,
+      "dg_rank": 136,
+      "owgr_rank": 185,
+      "player_name": "Ortiz, Carlos",
+      "player_num": 33667,
+      "pre_tourn_pageviews": 14,
+      "teetimes": [],
+      "tour_rank": null
     },
     {
       "am": 0,
@@ -2938,121 +1224,21 @@
       "owgr_rank": 99,
       "player_name": "Parry, John",
       "player_num": 28723,
-      "pre_tourn_pageviews": 370,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-06-11 13:43",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-06-12 08:28",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "93"
-    },
-    {
-      "am": 0,
-      "country": "FRA",
-      "dg_id": 19960,
-      "dg_rank": 202,
-      "owgr_rank": 279,
-      "player_name": "Pavon, Matthieu",
-      "player_num": 48153,
-      "pre_tourn_pageviews": 233,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-06-11 08:28",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-06-12 13:43",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "106"
-    },
-    {
-      "am": 0,
-      "country": "CAN",
-      "dg_id": 17780,
-      "dg_rank": 93,
-      "owgr_rank": 94,
-      "player_name": "Pendrith, Taylor",
-      "player_num": 40250,
-      "pre_tourn_pageviews": 1132,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-06-11 08:06",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-06-12 13:21",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "92"
+      "pre_tourn_pageviews": 10,
+      "teetimes": [],
+      "tour_rank": "96"
     },
     {
       "am": 0,
       "country": "USA",
-      "dg_id": 16341,
-      "dg_rank": 224,
-      "owgr_rank": 240,
-      "player_name": "Peterson, Paul",
-      "player_num": 36824,
-      "pre_tourn_pageviews": 159,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-06-11 14:16",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-06-12 09:01",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "141"
+      "dg_id": 33952,
+      "dg_rank": null,
+      "owgr_rank": null,
+      "player_name": "Peacock, Jake",
+      "player_num": 66035,
+      "pre_tourn_pageviews": 7,
+      "teetimes": [],
+      "tour_rank": null
     },
     {
       "am": 0,
@@ -3062,90 +1248,57 @@
       "owgr_rank": 178,
       "player_name": "Phillips, Chandler",
       "player_num": 57900,
-      "pre_tourn_pageviews": 145,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-06-11 12:37",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-06-12 07:22",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "124"
+      "pre_tourn_pageviews": 9,
+      "teetimes": [],
+      "tour_rank": "112"
     },
     {
       "am": 0,
-      "country": "RSA",
-      "dg_id": 27900,
-      "dg_rank": 149,
-      "owgr_rank": 80,
-      "player_name": "Potgieter, Aldrich",
-      "player_num": 63343,
-      "pre_tourn_pageviews": 1341,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-06-11 13:10",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-06-12 07:55",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "60"
+      "country": "USA",
+      "dg_id": 21554,
+      "dg_rank": 46,
+      "owgr_rank": 39,
+      "player_name": "Poston, J.T.",
+      "player_num": 49771,
+      "pre_tourn_pageviews": 21,
+      "teetimes": [],
+      "tour_rank": "33"
+    },
+    {
+      "am": 1,
+      "country": "USA",
+      "dg_id": 33280,
+      "dg_rank": null,
+      "owgr_rank": null,
+      "player_name": "Puebla, Giuseppe",
+      "player_num": 68009,
+      "pre_tourn_pageviews": 4,
+      "teetimes": [],
+      "tour_rank": null
     },
     {
       "am": 0,
-      "country": "IRL",
-      "dg_id": 10104,
-      "dg_rank": 134,
-      "owgr_rank": 187,
-      "player_name": "Power, Seamus",
-      "player_num": 28252,
-      "pre_tourn_pageviews": 325,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-06-11 12:15",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-06-12 07:00",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "104"
+      "country": "ESP",
+      "dg_id": 28984,
+      "dg_rank": 44,
+      "owgr_rank": 56,
+      "player_name": "Puig, David",
+      "player_num": 61193,
+      "pre_tourn_pageviews": 24,
+      "teetimes": [],
+      "tour_rank": null
+    },
+    {
+      "am": 1,
+      "country": "ARG",
+      "dg_id": 35013,
+      "dg_rank": null,
+      "owgr_rank": null,
+      "player_name": "Pulcini, Mateo",
+      "player_num": 70145,
+      "pre_tourn_pageviews": 6,
+      "teetimes": [],
+      "tour_rank": null
     },
     {
       "am": 0,
@@ -3155,28 +1308,21 @@
       "owgr_rank": 84,
       "player_name": "Putnam, Andrew",
       "player_num": 34256,
-      "pre_tourn_pageviews": 1190,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-06-11 12:26",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-06-12 07:11",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "57"
+      "pre_tourn_pageviews": 33,
+      "teetimes": [],
+      "tour_rank": "61"
+    },
+    {
+      "am": 0,
+      "country": "ESP",
+      "dg_id": 19195,
+      "dg_rank": 3,
+      "owgr_rank": 8,
+      "player_name": "Rahm, Jon",
+      "player_num": 46970,
+      "pre_tourn_pageviews": 90,
+      "teetimes": [],
+      "tour_rank": null
     },
     {
       "am": 0,
@@ -3186,59 +1332,33 @@
       "owgr_rank": 13,
       "player_name": "Rai, Aaron",
       "player_num": 46414,
-      "pre_tourn_pageviews": 1989,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-06-11 07:33",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-06-12 12:48",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "28"
+      "pre_tourn_pageviews": 34,
+      "teetimes": [],
+      "tour_rank": "29"
     },
     {
       "am": 0,
       "country": "USA",
-      "dg_id": 19840,
-      "dg_rank": 142,
-      "owgr_rank": 168,
-      "player_name": "Ramey, Chad",
-      "player_num": 47983,
-      "pre_tourn_pageviews": 212,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-06-11 12:15",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-06-12 07:00",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "110"
+      "dg_id": 14838,
+      "dg_rank": 35,
+      "owgr_rank": 26,
+      "player_name": "Reed, Patrick",
+      "player_num": 34360,
+      "pre_tourn_pageviews": 81,
+      "teetimes": [],
+      "tour_rank": null
+    },
+    {
+      "am": 1,
+      "country": "USA",
+      "dg_id": 30039012,
+      "dg_rank": null,
+      "owgr_rank": null,
+      "player_name": "Reilly, Logan",
+      "player_num": 70696,
+      "pre_tourn_pageviews": 5,
+      "teetimes": [],
+      "tour_rank": null
     },
     {
       "am": 0,
@@ -3248,59 +1368,45 @@
       "owgr_rank": 24,
       "player_name": "Reitan, Kristoffer",
       "player_num": 49855,
-      "pre_tourn_pageviews": 3460,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-06-11 12:59",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-06-12 07:44",
-          "wave": "early"
-        }
-      ],
+      "pre_tourn_pageviews": 43,
+      "teetimes": [],
       "tour_rank": "13"
     },
     {
       "am": 0,
+      "country": "ESP",
+      "dg_id": 31235,
+      "dg_rank": null,
+      "owgr_rank": 348,
+      "player_name": "Repetto Taylor, Rocco Paolo",
+      "player_num": 65229,
+      "pre_tourn_pageviews": 7,
+      "teetimes": [],
+      "tour_rank": null
+    },
+    {
+      "am": 1,
       "country": "USA",
-      "dg_id": 19872,
-      "dg_rank": 461,
-      "owgr_rank": 162,
-      "player_name": "Riley, Davis",
-      "player_num": 47995,
-      "pre_tourn_pageviews": 225,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-06-11 13:21",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-06-12 08:06",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "132"
+      "dg_id": 30039992,
+      "dg_rank": null,
+      "owgr_rank": null,
+      "player_name": "Robles, Matt",
+      "player_num": 70730,
+      "pre_tourn_pageviews": 5,
+      "teetimes": [],
+      "tour_rank": null
+    },
+    {
+      "am": 0,
+      "country": "USA",
+      "dg_id": 16283,
+      "dg_rank": 124,
+      "owgr_rank": 81,
+      "player_name": "Rodgers, Patrick",
+      "player_num": 36699,
+      "pre_tourn_pageviews": 18,
+      "teetimes": [],
+      "tour_rank": "51"
     },
     {
       "am": 0,
@@ -3310,27 +1416,8 @@
       "owgr_rank": 6,
       "player_name": "Rose, Justin",
       "player_num": 22405,
-      "pre_tourn_pageviews": 2171,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-06-11 07:33",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-06-12 12:48",
-          "wave": "late"
-        }
-      ],
+      "pre_tourn_pageviews": 51,
+      "teetimes": [],
       "tour_rank": "17"
     },
     {
@@ -3341,28 +1428,9 @@
       "owgr_rank": 131,
       "player_name": "Roy, Kevin",
       "player_num": 39335,
-      "pre_tourn_pageviews": 555,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-06-11 07:00",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-06-12 12:15",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "86"
+      "pre_tourn_pageviews": 18,
+      "teetimes": [],
+      "tour_rank": "87"
     },
     {
       "am": 0,
@@ -3372,152 +1440,81 @@
       "owgr_rank": null,
       "player_name": "Rozo, Marcelo",
       "player_num": 37076,
-      "pre_tourn_pageviews": 198,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-06-11 13:43",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-06-12 08:28",
-          "wave": "early"
-        }
-      ],
+      "pre_tourn_pageviews": 9,
+      "teetimes": [],
       "tour_rank": "193"
     },
     {
-      "am": 0,
+      "am": 1,
       "country": "USA",
-      "dg_id": 16715,
-      "dg_rank": 146,
-      "owgr_rank": 226,
-      "player_name": "Ryder, Sam",
-      "player_num": 37275,
-      "pre_tourn_pageviews": 370,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-06-11 07:22",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-06-12 12:37",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "129"
-    },
-    {
-      "am": 0,
-      "country": "USA",
-      "dg_id": 35395,
-      "dg_rank": null,
+      "dg_id": 32064,
+      "dg_rank": 281,
       "owgr_rank": null,
-      "player_name": "Sanderson, Calen",
-      "player_num": 69319,
-      "pre_tourn_pageviews": 79,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-06-11 09:01",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-06-12 14:16",
-          "wave": "late"
-        }
-      ],
+      "player_name": "Russell, Miles",
+      "player_num": 66290,
+      "pre_tourn_pageviews": 19,
+      "teetimes": [],
       "tour_rank": null
     },
     {
       "am": 0,
-      "country": "CAN",
-      "dg_id": 25289,
-      "dg_rank": null,
-      "owgr_rank": 483,
-      "player_name": "Savoie, Joey",
-      "player_num": 55592,
-      "pre_tourn_pageviews": 124,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-06-11 08:50",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-06-12 14:05",
-          "wave": "late"
-        }
-      ],
+      "country": "FRA",
+      "dg_id": 14792,
+      "dg_rank": 206,
+      "owgr_rank": 113,
+      "player_name": "Saddier, Adrien",
+      "player_num": 34371,
+      "pre_tourn_pageviews": 5,
+      "teetimes": [],
+      "tour_rank": "168"
+    },
+    {
+      "am": 0,
+      "country": "JPN",
+      "dg_id": 14371,
+      "dg_rank": 323,
+      "owgr_rank": 398,
+      "player_name": "Sato, Taihei",
+      "player_num": 33908,
+      "pre_tourn_pageviews": 8,
+      "teetimes": [],
+      "tour_rank": null
+    },
+    {
+      "am": 0,
+      "country": "RSA",
+      "dg_id": 26991,
+      "dg_rank": 74,
+      "owgr_rank": 69,
+      "player_name": "Schaper, Jayden",
+      "player_num": 57737,
+      "pre_tourn_pageviews": 18,
+      "teetimes": [],
       "tour_rank": null
     },
     {
       "am": 0,
       "country": "USA",
-      "dg_id": 19477,
-      "dg_rank": 442,
-      "owgr_rank": 165,
-      "player_name": "Schenk, Adam",
-      "player_num": 47347,
-      "pre_tourn_pageviews": 149,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-06-11 13:10",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-06-12 07:55",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "137"
+      "dg_id": 19895,
+      "dg_rank": 6,
+      "owgr_rank": 12,
+      "player_name": "Schauffele, Xander",
+      "player_num": 48081,
+      "pre_tourn_pageviews": 80,
+      "teetimes": [],
+      "tour_rank": "14"
+    },
+    {
+      "am": 0,
+      "country": "USA",
+      "dg_id": 18417,
+      "dg_rank": 1,
+      "owgr_rank": 1,
+      "player_name": "Scheffler, Scottie",
+      "player_num": 46046,
+      "pre_tourn_pageviews": 77,
+      "teetimes": [],
+      "tour_rank": "2"
     },
     {
       "am": 0,
@@ -3527,28 +1524,45 @@
       "owgr_rank": 70,
       "player_name": "Schmid, Matti",
       "player_num": 48867,
-      "pre_tourn_pageviews": 705,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-06-11 07:00",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-06-12 12:15",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "53"
+      "pre_tourn_pageviews": 20,
+      "teetimes": [],
+      "tour_rank": "56"
+    },
+    {
+      "am": 1,
+      "country": "USA",
+      "dg_id": 30039809,
+      "dg_rank": null,
+      "owgr_rank": null,
+      "player_name": "Schoenberger, Jack",
+      "player_num": 69864,
+      "pre_tourn_pageviews": 23,
+      "teetimes": [],
+      "tour_rank": null
+    },
+    {
+      "am": 0,
+      "country": "AUS",
+      "dg_id": 6430,
+      "dg_rank": 21,
+      "owgr_rank": 50,
+      "player_name": "Scott, Adam",
+      "player_num": 24502,
+      "pre_tourn_pageviews": 38,
+      "teetimes": [],
+      "tour_rank": "25"
+    },
+    {
+      "am": 0,
+      "country": "USA",
+      "dg_id": 21901,
+      "dg_rank": null,
+      "owgr_rank": null,
+      "player_name": "Shah, Manav",
+      "player_num": 47687,
+      "pre_tourn_pageviews": 7,
+      "teetimes": [],
+      "tour_rank": null
     },
     {
       "am": 0,
@@ -3558,59 +1572,9 @@
       "owgr_rank": 190,
       "player_name": "Shipley, Neal",
       "player_num": 63807,
-      "pre_tourn_pageviews": 435,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-06-11 13:43",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-06-12 08:28",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "181"
-    },
-    {
-      "am": 0,
-      "country": "CAN",
-      "dg_id": 29702,
-      "dg_rank": null,
-      "owgr_rank": null,
-      "player_name": "Sihota, Jeevan",
-      "player_num": 62811,
-      "pre_tourn_pageviews": 108,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-06-11 14:05",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-06-12 08:50",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": null
+      "pre_tourn_pageviews": 16,
+      "teetimes": [],
+      "tour_rank": "182"
     },
     {
       "am": 0,
@@ -3620,183 +1584,69 @@
       "owgr_rank": 263,
       "player_name": "Silverman, Ben",
       "player_num": 39327,
-      "pre_tourn_pageviews": 521,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-06-11 07:00",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-06-12 12:15",
-          "wave": "late"
-        }
-      ],
+      "pre_tourn_pageviews": 11,
+      "teetimes": [],
       "tour_rank": "145"
     },
     {
       "am": 0,
-      "country": "ENG",
-      "dg_id": 10873,
-      "dg_rank": 262,
-      "owgr_rank": 283,
-      "player_name": "Skinns, David",
-      "player_num": 27139,
-      "pre_tourn_pageviews": 277,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-06-11 08:39",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-06-12 13:54",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "154"
+      "country": "USA",
+      "dg_id": 18474,
+      "dg_rank": 37,
+      "owgr_rank": 40,
+      "player_name": "Smalley, Alex",
+      "player_num": 46340,
+      "pre_tourn_pageviews": 39,
+      "teetimes": [],
+      "tour_rank": "15"
     },
     {
       "am": 0,
-      "country": "CAN",
-      "dg_id": 14050,
-      "dg_rank": 335,
-      "owgr_rank": 402,
-      "player_name": "Sloan, Roger",
-      "player_num": 33486,
-      "pre_tourn_pageviews": 183,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-06-11 07:11",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-06-12 12:26",
-          "wave": "late"
-        }
-      ],
+      "country": "AUS",
+      "dg_id": 15856,
+      "dg_rank": 90,
+      "owgr_rank": 132,
+      "player_name": "Smith, Cameron",
+      "player_num": 35891,
+      "pre_tourn_pageviews": 56,
+      "teetimes": [],
       "tour_rank": null
     },
     {
       "am": 0,
-      "country": "ENG",
-      "dg_id": 18586,
-      "dg_rank": 84,
-      "owgr_rank": 71,
-      "player_name": "Smith, Jordan",
-      "player_num": 46464,
-      "pre_tourn_pageviews": 886,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-06-11 13:32",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-06-12 08:17",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "63"
+      "country": "USA",
+      "dg_id": 30528,
+      "dg_rank": null,
+      "owgr_rank": null,
+      "player_name": "Sollon, Jake",
+      "player_num": 60879,
+      "pre_tourn_pageviews": 2,
+      "teetimes": [],
+      "tour_rank": null
     },
     {
       "am": 0,
       "country": "USA",
-      "dg_id": 22985,
-      "dg_rank": 130,
-      "owgr_rank": 93,
-      "player_name": "Smotherman, Austin",
-      "player_num": 50095,
-      "pre_tourn_pageviews": 625,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-06-11 07:11",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-06-12 12:26",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "62"
+      "dg_id": 17536,
+      "dg_rank": 13,
+      "owgr_rank": 9,
+      "player_name": "Spaun, J.J.",
+      "player_num": 39324,
+      "pre_tourn_pageviews": 67,
+      "teetimes": [],
+      "tour_rank": "21"
     },
     {
       "am": 0,
       "country": "USA",
-      "dg_id": 21995,
-      "dg_rank": 219,
-      "owgr_rank": 274,
-      "player_name": "Springer, Hayden",
-      "player_num": 50484,
-      "pre_tourn_pageviews": 249,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-06-11 08:50",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-06-12 14:05",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "121"
+      "dg_id": 14636,
+      "dg_rank": 41,
+      "owgr_rank": 51,
+      "player_name": "Spieth, Jordan",
+      "player_num": 34046,
+      "pre_tourn_pageviews": 45,
+      "teetimes": [],
+      "tour_rank": "47"
     },
     {
       "am": 0,
@@ -3806,28 +1656,45 @@
       "owgr_rank": null,
       "player_name": "Stanger, Jimmy",
       "player_num": 51600,
-      "pre_tourn_pageviews": 164,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-06-11 09:01",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-06-12 14:16",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "155"
+      "pre_tourn_pageviews": 28,
+      "teetimes": [],
+      "tour_rank": "119"
+    },
+    {
+      "am": 0,
+      "country": "USA",
+      "dg_id": 25569,
+      "dg_rank": 95,
+      "owgr_rank": 53,
+      "player_name": "Stevens, Sam",
+      "player_num": 55893,
+      "pre_tourn_pageviews": 19,
+      "teetimes": [],
+      "tour_rank": "60"
+    },
+    {
+      "am": 1,
+      "country": "USA",
+      "dg_id": 32089,
+      "dg_rank": 170,
+      "owgr_rank": null,
+      "player_name": "Stout, Preston",
+      "player_num": 66416,
+      "pre_tourn_pageviews": 16,
+      "teetimes": [],
+      "tour_rank": null
+    },
+    {
+      "am": 0,
+      "country": "AUT",
+      "dg_id": 17511,
+      "dg_rank": 51,
+      "owgr_rank": 19,
+      "player_name": "Straka, Sepp",
+      "player_num": 49960,
+      "pre_tourn_pageviews": 37,
+      "teetimes": [],
+      "tour_rank": "23"
     },
     {
       "am": 0,
@@ -3837,90 +1704,21 @@
       "owgr_rank": 167,
       "player_name": "Suber, Jackson",
       "player_num": 60019,
-      "pre_tourn_pageviews": 1197,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-06-11 13:43",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-06-12 08:28",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "107"
+      "pre_tourn_pageviews": 24,
+      "teetimes": [],
+      "tour_rank": "86"
     },
     {
       "am": 0,
-      "country": "CAN",
-      "dg_id": 13997,
-      "dg_rank": 211,
-      "owgr_rank": 426,
-      "player_name": "Svensson, Adam",
-      "player_num": 40115,
-      "pre_tourn_pageviews": 322,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-06-11 08:28",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-06-12 13:43",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "164"
-    },
-    {
-      "am": 0,
-      "country": "SWE",
-      "dg_id": 26850,
-      "dg_rank": 216,
-      "owgr_rank": 196,
-      "player_name": "Svensson, Jesper",
-      "player_num": 57586,
-      "pre_tourn_pageviews": 526,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-06-11 14:27",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-06-12 09:12",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "136"
+      "country": "USA",
+      "dg_id": 30463,
+      "dg_rank": 255,
+      "owgr_rank": 280,
+      "player_name": "Surratt, Caleb",
+      "player_num": 64054,
+      "pre_tourn_pageviews": 15,
+      "teetimes": [],
+      "tour_rank": null
     },
     {
       "am": 0,
@@ -3930,28 +1728,9 @@
       "owgr_rank": 62,
       "player_name": "Taylor, Nick",
       "player_num": 25493,
-      "pre_tourn_pageviews": 1734,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-06-11 12:48",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-06-12 07:33",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "52"
+      "pre_tourn_pageviews": 37,
+      "teetimes": [],
+      "tour_rank": "55"
     },
     {
       "am": 0,
@@ -3961,28 +1740,21 @@
       "owgr_rank": 83,
       "player_name": "Theegala, Sahith",
       "player_num": 51634,
-      "pre_tourn_pageviews": 950,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-06-11 07:44",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-06-12 12:59",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "42"
+      "pre_tourn_pageviews": 27,
+      "teetimes": [],
+      "tour_rank": "43"
+    },
+    {
+      "am": 0,
+      "country": "USA",
+      "dg_id": 14139,
+      "dg_rank": 19,
+      "owgr_rank": 16,
+      "player_name": "Thomas, Justin",
+      "player_num": 33448,
+      "pre_tourn_pageviews": 52,
+      "teetimes": [],
+      "tour_rank": "37"
     },
     {
       "am": 0,
@@ -3992,59 +1764,21 @@
       "owgr_rank": 134,
       "player_name": "Thompson, Davis",
       "player_num": 58168,
-      "pre_tourn_pageviews": 851,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-06-11 07:55",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-06-12 13:10",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "90"
+      "pre_tourn_pageviews": 13,
+      "teetimes": [],
+      "tour_rank": "89"
     },
     {
       "am": 0,
       "country": "USA",
-      "dg_id": 26649,
-      "dg_rank": 72,
-      "owgr_rank": 74,
-      "player_name": "Thorbjornsen, Michael",
-      "player_num": 57364,
-      "pre_tourn_pageviews": 1385,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-06-11 12:37",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-06-12 07:22",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "65"
+      "dg_id": 26650,
+      "dg_rank": null,
+      "owgr_rank": null,
+      "player_name": "Tibbits, Spencer",
+      "player_num": 57365,
+      "pre_tourn_pageviews": 17,
+      "teetimes": [],
+      "tour_rank": null
     },
     {
       "am": 0,
@@ -4054,400 +1788,57 @@
       "owgr_rank": 377,
       "player_name": "Tosti, Alejandro",
       "player_num": 38991,
-      "pre_tourn_pageviews": 328,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-06-11 14:05",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-06-12 08:50",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "184"
-    },
-    {
-      "am": 0,
-      "country": "RSA",
-      "dg_id": 17550,
-      "dg_rank": 231,
-      "owgr_rank": 180,
-      "player_name": "Van Rooyen, Erik",
-      "player_num": 40006,
-      "pre_tourn_pageviews": 321,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-06-11 12:15",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-06-12 07:00",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "150"
+      "pre_tourn_pageviews": 13,
+      "teetimes": [],
+      "tour_rank": "181"
     },
     {
       "am": 0,
       "country": "USA",
-      "dg_id": 25319,
-      "dg_rank": 285,
-      "owgr_rank": 293,
-      "player_name": "VanDerLaan, John",
-      "player_num": 55573,
-      "pre_tourn_pageviews": 113,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-06-11 14:27",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-06-12 09:12",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "166"
-    },
-    {
-      "am": 0,
-      "country": "VEN",
-      "dg_id": 13508,
-      "dg_rank": 223,
-      "owgr_rank": 144,
-      "player_name": "Vegas, Jhonattan",
-      "player_num": 27064,
-      "pre_tourn_pageviews": 364,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-06-11 12:59",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-06-12 07:44",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "122"
-    },
-    {
-      "am": 0,
-      "country": "NOR",
-      "dg_id": 15651,
-      "dg_rank": 181,
-      "owgr_rank": 298,
-      "player_name": "Ventura, Kris",
-      "player_num": 35658,
-      "pre_tourn_pageviews": 212,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-06-11 09:01",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-06-12 14:16",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "120"
-    },
-    {
-      "am": 0,
-      "country": "AUS",
-      "dg_id": 24304,
-      "dg_rank": 214,
-      "owgr_rank": 188,
-      "player_name": "Vilips, Karl",
-      "player_num": 54304,
-      "pre_tourn_pageviews": 303,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-06-11 07:44",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-06-12 12:59",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "112"
-    },
-    {
-      "am": 0,
-      "country": "COL",
-      "dg_id": 9171,
-      "dg_rank": 390,
-      "owgr_rank": 461,
-      "player_name": "Villegas, Camilo",
-      "player_num": 27770,
-      "pre_tourn_pageviews": 174,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-06-11 08:17",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-06-12 13:32",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "185"
-    },
-    {
-      "am": 0,
-      "country": "USA",
-      "dg_id": 25003,
-      "dg_rank": 334,
-      "owgr_rank": 244,
-      "player_name": "Walker, Danny",
-      "player_num": 54607,
-      "pre_tourn_pageviews": 173,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-06-11 07:11",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-06-12 12:26",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "140"
-    },
-    {
-      "am": 0,
-      "country": "ENG",
-      "dg_id": 20706,
-      "dg_rank": 78,
-      "owgr_rank": 76,
-      "player_name": "Wallace, Matt",
-      "player_num": 48887,
-      "pre_tourn_pageviews": 616,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-06-11 07:22",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-06-12 12:37",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "81"
-    },
-    {
-      "am": 0,
-      "country": "ENG",
-      "dg_id": 12426,
-      "dg_rank": 283,
-      "owgr_rank": 311,
-      "player_name": "Waring, Paul",
-      "player_num": 31113,
-      "pre_tourn_pageviews": 197,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-06-11 08:39",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-06-12 13:54",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "176"
-    },
-    {
-      "am": 0,
-      "country": "CAN",
-      "dg_id": 5513,
-      "dg_rank": null,
-      "owgr_rank": null,
-      "player_name": "Weir, Mike",
-      "player_num": 10423,
-      "pre_tourn_pageviews": 191,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-06-11 12:26",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-06-12 07:11",
-          "wave": "early"
-        }
-      ],
+      "dg_id": 11357,
+      "dg_rank": 292,
+      "owgr_rank": 176,
+      "player_name": "Uihlein, Peter",
+      "player_num": 29484,
+      "pre_tourn_pageviews": 14,
+      "teetimes": [],
       "tour_rank": null
     },
     {
       "am": 0,
       "country": "USA",
-      "dg_id": 25908,
-      "dg_rank": 157,
-      "owgr_rank": 159,
-      "player_name": "Whaley, Vince",
-      "player_num": 51894,
-      "pre_tourn_pageviews": 225,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-06-11 12:15",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-06-12 07:00",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "161"
+      "dg_id": 31955,
+      "dg_rank": 477,
+      "owgr_rank": null,
+      "player_name": "Van Paris, Jackson",
+      "player_num": 57864,
+      "pre_tourn_pageviews": 11,
+      "teetimes": [],
+      "tour_rank": null
     },
     {
       "am": 0,
-      "country": "ENG",
-      "dg_id": 12920,
-      "dg_rank": 359,
-      "owgr_rank": 369,
-      "player_name": "Willett, Danny",
-      "player_num": 32139,
-      "pre_tourn_pageviews": 464,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-06-11 07:11",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-06-12 12:26",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "186"
+      "country": "USA",
+      "dg_id": 12577,
+      "dg_rank": 48,
+      "owgr_rank": 44,
+      "player_name": "Woodland, Gary",
+      "player_num": 31323,
+      "pre_tourn_pageviews": 34,
+      "teetimes": [],
+      "tour_rank": "30"
+    },
+    {
+      "am": 0,
+      "country": "USA",
+      "dg_id": 25213,
+      "dg_rank": null,
+      "owgr_rank": null,
+      "player_name": "Wu, Brandon",
+      "player_num": 52374,
+      "pre_tourn_pageviews": 9,
+      "teetimes": [],
+      "tour_rank": null
     },
     {
       "am": 0,
@@ -4457,28 +1848,9 @@
       "owgr_rank": 395,
       "player_name": "Wu, Dylan",
       "player_num": 54783,
-      "pre_tourn_pageviews": 208,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-06-11 07:00",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-06-12 12:15",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "156"
+      "pre_tourn_pageviews": 13,
+      "teetimes": [],
+      "tour_rank": "158"
     },
     {
       "am": 0,
@@ -4488,89 +1860,32 @@
       "owgr_rank": 110,
       "player_name": "Yellamaraju, Sudarshan",
       "player_num": 60386,
-      "pre_tourn_pageviews": 1147,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-06-11 07:55",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-06-12 13:10",
-          "wave": "late"
-        }
-      ],
-      "tour_rank": "48"
+      "pre_tourn_pageviews": 29,
+      "teetimes": [],
+      "tour_rank": "44"
     },
     {
       "am": 0,
-      "country": "TPE",
-      "dg_id": 17881,
-      "dg_rank": 148,
-      "owgr_rank": 127,
-      "player_name": "Yu, Kevin",
-      "player_num": 45242,
-      "pre_tourn_pageviews": 832,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 1,
-          "teetime": "2026-06-11 13:21",
-          "wave": "late"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 10,
-          "teetime": "2026-06-12 08:06",
-          "wave": "early"
-        }
-      ],
-      "tour_rank": "127"
+      "country": "USA",
+      "dg_id": 26651,
+      "dg_rank": 4,
+      "owgr_rank": 3,
+      "player_name": "Young, Cameron",
+      "player_num": 57366,
+      "pre_tourn_pageviews": 61,
+      "teetimes": [],
+      "tour_rank": "3"
     },
     {
-      "am": 1,
-      "country": "CAN",
-      "dg_id": 30036882,
-      "dg_rank": null,
+      "am": 0,
+      "country": "CHN",
+      "dg_id": 17266,
+      "dg_rank": 386,
       "owgr_rank": null,
-      "player_name": "Zhao, Eric",
-      "player_num": 70674,
-      "pre_tourn_pageviews": 217,
-      "teetimes": [
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 1,
-          "start_hole": 10,
-          "teetime": "2026-06-11 08:39",
-          "wave": "early"
-        },
-        {
-          "course_code": "",
-          "course_name": "TPC Toronto at Osprey Valley (North Course)",
-          "course_num": 935,
-          "round_num": 2,
-          "start_hole": 1,
-          "teetime": "2026-06-12 13:54",
-          "wave": "late"
-        }
-      ],
+      "player_name": "Yuan, Carl",
+      "player_num": 55454,
+      "pre_tourn_pageviews": 11,
+      "teetimes": [],
       "tour_rank": null
     }
   ],
@@ -6888,7 +4203,7 @@
         "dg_id": 30036882
       }
     },
-    "last_updated": "2026-06-10T18:11:59.668300-04:00"
+    "last_updated": "2026-06-15T05:27:43.548316-04:00"
   },
   "skill_ratings": {
     "by_player": {
@@ -13011,11 +10326,11 @@
         "player_name": "Daniel Gavins"
       }
     },
-    "last_updated": "2026-06-10T18:11:59.668245-04:00"
+    "last_updated": "2026-06-15T05:27:43.548268-04:00"
   },
   "approach_skill": {
     "by_player": {},
-    "last_updated": "2026-06-10T18:11:59.668278-04:00"
+    "last_updated": "2026-06-15T05:27:43.548299-04:00"
   },
   "course_history": {
     "by_player": {}
@@ -13756,7 +11071,8 @@
       "No DG odds returned at 2026-06-09T19:21:34.244897-04:00",
       "No DG odds returned at 2026-06-10T12:31:48.853485-04:00",
       "No DG odds returned at 2026-06-10T13:53:25.013851-04:00",
-      "No DG odds returned at 2026-06-10T18:11:59.765670-04:00"
+      "No DG odds returned at 2026-06-10T18:11:59.765670-04:00",
+      "No DG odds returned at 2026-06-15T05:27:43.637287-04:00"
     ],
     "analysis_uncertainties": [
       "[Claude] > ⚠️ **CRITICAL DATA FLAG — READ BEFORE ANYTHING ELSE**",
@@ -15683,6 +12999,13 @@
       "run_type": "manual",
       "status": "complete",
       "field_size": 147,
+      "odds_players": 113
+    },
+    {
+      "time": "2026-06-15T05:27:43.638072-04:00",
+      "run_type": "manual",
+      "status": "complete",
+      "field_size": 156,
       "odds_players": 113
     }
   ]
