@@ -24,8 +24,27 @@
       "owgr_rank": 14,
       "player_name": "Aberg, Ludvig",
       "player_num": 52955,
-      "pre_tourn_pageviews": 1182,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1413,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-06-25 10:00",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-06-26 13:10",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "7"
     },
     {
@@ -36,8 +55,27 @@
       "owgr_rank": 50,
       "player_name": "Berger, Daniel",
       "player_num": 40026,
-      "pre_tourn_pageviews": 421,
-      "teetimes": [],
+      "pre_tourn_pageviews": 529,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-06-25 11:55",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-06-26 08:45",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "51"
     },
     {
@@ -48,8 +86,27 @@
       "owgr_rank": 31,
       "player_name": "Bhatia, Akshay",
       "player_num": 56630,
-      "pre_tourn_pageviews": 891,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1139,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-06-25 12:30",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-06-26 09:15",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "13"
     },
     {
@@ -60,8 +117,27 @@
       "owgr_rank": 38,
       "player_name": "Bradley, Keegan",
       "player_num": 33141,
-      "pre_tourn_pageviews": 2054,
-      "teetimes": [],
+      "pre_tourn_pageviews": 2379,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-06-25 13:45",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-06-26 10:30",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "76"
     },
     {
@@ -72,8 +148,27 @@
       "owgr_rank": 25,
       "player_name": "Bridgeman, Jacob",
       "player_num": 60004,
-      "pre_tourn_pageviews": 629,
-      "teetimes": [],
+      "pre_tourn_pageviews": 815,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-06-25 12:50",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-06-26 09:40",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "9"
     },
     {
@@ -84,8 +179,27 @@
       "owgr_rank": 15,
       "player_name": "Burns, Sam",
       "player_num": 47504,
-      "pre_tourn_pageviews": 1429,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1801,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-06-25 13:55",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-06-26 10:40",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "10"
     },
     {
@@ -96,8 +210,27 @@
       "owgr_rank": 127,
       "player_name": "Campbell, Brian",
       "player_num": 46443,
-      "pre_tourn_pageviews": 202,
-      "teetimes": [],
+      "pre_tourn_pageviews": 279,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-06-25 12:10",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-06-26 08:55",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "157"
     },
     {
@@ -108,8 +241,27 @@
       "owgr_rank": 37,
       "player_name": "Cantlay, Patrick",
       "player_num": 35450,
-      "pre_tourn_pageviews": 1311,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1630,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-06-25 09:25",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-06-26 12:40",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "42"
     },
     {
@@ -120,8 +272,27 @@
       "owgr_rank": 40,
       "player_name": "Cauley, Bud",
       "player_num": 34021,
-      "pre_tourn_pageviews": 455,
-      "teetimes": [],
+      "pre_tourn_pageviews": 586,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-06-25 13:25",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-06-26 10:10",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "31"
     },
     {
@@ -132,8 +303,27 @@
       "owgr_rank": 8,
       "player_name": "Clark, Wyndham",
       "player_num": 51766,
-      "pre_tourn_pageviews": 2507,
-      "teetimes": [],
+      "pre_tourn_pageviews": 2821,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-06-25 14:05",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-06-26 10:55",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "4"
     },
     {
@@ -144,8 +334,27 @@
       "owgr_rank": 66,
       "player_name": "Cole, Eric",
       "player_num": 47591,
-      "pre_tourn_pageviews": 626,
-      "teetimes": [],
+      "pre_tourn_pageviews": 849,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-06-25 08:45",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-06-26 11:55",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "39"
     },
     {
@@ -156,8 +365,27 @@
       "owgr_rank": 55,
       "player_name": "Conners, Corey",
       "player_num": 39997,
-      "pre_tourn_pageviews": 652,
-      "teetimes": [],
+      "pre_tourn_pageviews": 829,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-06-25 13:35",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-06-26 10:20",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "81"
     },
     {
@@ -168,8 +396,27 @@
       "owgr_rank": 47,
       "player_name": "Day, Jason",
       "player_num": 28089,
-      "pre_tourn_pageviews": 285,
-      "teetimes": [],
+      "pre_tourn_pageviews": 378,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-06-25 11:35",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-06-26 08:25",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "65"
     },
     {
@@ -180,8 +427,27 @@
       "owgr_rank": 53,
       "player_name": "Echavarria, Nico",
       "player_num": 51349,
-      "pre_tourn_pageviews": 280,
-      "teetimes": [],
+      "pre_tourn_pageviews": 359,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-06-25 09:50",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-06-26 13:00",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "38"
     },
     {
@@ -192,8 +458,27 @@
       "owgr_rank": 24,
       "player_name": "English, Harris",
       "player_num": 34099,
-      "pre_tourn_pageviews": 839,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1044,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-06-25 13:10",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-06-26 10:00",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "43"
     },
     {
@@ -204,8 +489,27 @@
       "owgr_rank": 110,
       "player_name": "Finau, Tony",
       "player_num": 29725,
-      "pre_tourn_pageviews": 371,
-      "teetimes": [],
+      "pre_tourn_pageviews": 486,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-06-25 09:05",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-06-26 12:20",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "75"
     },
     {
@@ -216,8 +520,27 @@
       "owgr_rank": 67,
       "player_name": "Fitzpatrick, Alex",
       "player_num": 55721,
-      "pre_tourn_pageviews": 1134,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1330,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-06-25 10:10",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-06-26 13:25",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "20"
     },
     {
@@ -228,8 +551,27 @@
       "owgr_rank": 4,
       "player_name": "Fitzpatrick, Matt",
       "player_num": 40098,
-      "pre_tourn_pageviews": 913,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1152,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-06-25 10:40",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-06-26 13:55",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "2"
     },
     {
@@ -240,8 +582,27 @@
       "owgr_rank": 7,
       "player_name": "Fleetwood, Tommy",
       "player_num": 30911,
-      "pre_tourn_pageviews": 1483,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1848,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-06-25 14:05",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-06-26 10:55",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "11"
     },
     {
@@ -252,8 +613,27 @@
       "owgr_rank": 42,
       "player_name": "Fowler, Rickie",
       "player_num": 32102,
-      "pre_tourn_pageviews": 550,
-      "teetimes": [],
+      "pre_tourn_pageviews": 679,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-06-25 11:35",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-06-26 08:25",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "30"
     },
     {
@@ -264,8 +644,27 @@
       "owgr_rank": 54,
       "player_name": "Fox, Ryan",
       "player_num": 29936,
-      "pre_tourn_pageviews": 453,
-      "teetimes": [],
+      "pre_tourn_pageviews": 599,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-06-25 08:15",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-06-26 11:25",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "58"
     },
     {
@@ -276,8 +675,27 @@
       "owgr_rank": 27,
       "player_name": "Gerard, Ryan",
       "player_num": 59018,
-      "pre_tourn_pageviews": 803,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1019,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-06-25 08:55",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-06-26 12:10",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "19"
     },
     {
@@ -288,8 +706,27 @@
       "owgr_rank": 109,
       "player_name": "Glover, Lucas",
       "player_num": 25900,
-      "pre_tourn_pageviews": 342,
-      "teetimes": [],
+      "pre_tourn_pageviews": 442,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-06-25 08:45",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-06-26 11:55",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "122"
     },
     {
@@ -300,8 +737,27 @@
       "owgr_rank": 13,
       "player_name": "Gotterup, Chris",
       "player_num": 59095,
-      "pre_tourn_pageviews": 733,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1216,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-06-25 12:40",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-06-26 09:25",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "12"
     },
     {
@@ -312,8 +768,27 @@
       "owgr_rank": 18,
       "player_name": "Griffin, Ben",
       "player_num": 54591,
-      "pre_tourn_pageviews": 901,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1135,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-06-25 10:00",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-06-26 13:10",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "34"
     },
     {
@@ -324,8 +799,27 @@
       "owgr_rank": 70,
       "player_name": "Hall, Harry",
       "player_num": 57975,
-      "pre_tourn_pageviews": 341,
-      "teetimes": [],
+      "pre_tourn_pageviews": 435,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-06-25 09:40",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-06-26 12:50",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "52"
     },
     {
@@ -336,8 +830,27 @@
       "owgr_rank": 58,
       "player_name": "Harman, Brian",
       "player_num": 27644,
-      "pre_tourn_pageviews": 1420,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1774,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-06-25 11:05",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-06-26 14:15",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "70"
     },
     {
@@ -348,8 +861,27 @@
       "owgr_rank": 5,
       "player_name": "Henley, Russell",
       "player_num": 34098,
-      "pre_tourn_pageviews": 1204,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1476,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-06-25 10:30",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-06-26 13:45",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "15"
     },
     {
@@ -360,8 +892,27 @@
       "owgr_rank": 62,
       "player_name": "Hisatsune, Ryo",
       "player_num": 51287,
-      "pre_tourn_pageviews": 425,
-      "teetimes": [],
+      "pre_tourn_pageviews": 535,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-06-25 12:20",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-06-26 09:05",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "40"
     },
     {
@@ -372,8 +923,27 @@
       "owgr_rank": 112,
       "player_name": "Hoge, Tom",
       "player_num": 35532,
-      "pre_tourn_pageviews": 365,
-      "teetimes": [],
+      "pre_tourn_pageviews": 459,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-06-25 08:25",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-06-26 11:35",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "74"
     },
     {
@@ -384,8 +954,27 @@
       "owgr_rank": 35,
       "player_name": "Hojgaard, Nicolai",
       "player_num": 52453,
-      "pre_tourn_pageviews": 299,
-      "teetimes": [],
+      "pre_tourn_pageviews": 375,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-06-25 08:35",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-06-26 11:45",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "27"
     },
     {
@@ -396,8 +985,27 @@
       "owgr_rank": 30,
       "player_name": "Hovland, Viktor",
       "player_num": 46717,
-      "pre_tourn_pageviews": 1033,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1273,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-06-25 13:25",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-06-26 10:10",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "56"
     },
     {
@@ -408,8 +1016,27 @@
       "owgr_rank": 122,
       "player_name": "Hubbard, Mark",
       "player_num": 36801,
-      "pre_tourn_pageviews": 214,
-      "teetimes": [],
+      "pre_tourn_pageviews": 275,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-06-25 11:15",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-06-26 14:25",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "98"
     },
     {
@@ -420,8 +1047,27 @@
       "owgr_rank": 79,
       "player_name": "Im, Sungjae",
       "player_num": 39971,
-      "pre_tourn_pageviews": 521,
-      "teetimes": [],
+      "pre_tourn_pageviews": 666,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-06-25 12:50",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-06-26 09:40",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "60"
     },
     {
@@ -432,8 +1078,27 @@
       "owgr_rank": null,
       "player_name": "James, Ben",
       "player_num": 57869,
-      "pre_tourn_pageviews": 544,
-      "teetimes": [],
+      "pre_tourn_pageviews": 698,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-06-25 09:05",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-06-26 12:20",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "172"
     },
     {
@@ -444,8 +1109,27 @@
       "owgr_rank": 51,
       "player_name": "Kim, Michael",
       "player_num": 39975,
-      "pre_tourn_pageviews": 268,
-      "teetimes": [],
+      "pre_tourn_pageviews": 349,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-06-25 11:45",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-06-26 08:35",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "62"
     },
     {
@@ -456,8 +1140,27 @@
       "owgr_rank": 21,
       "player_name": "Kim, Si Woo",
       "player_num": 37455,
-      "pre_tourn_pageviews": 1191,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1690,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-06-25 14:25",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-06-26 11:15",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "5"
     },
     {
@@ -468,8 +1171,27 @@
       "owgr_rank": 33,
       "player_name": "Kitayama, Kurt",
       "player_num": 48117,
-      "pre_tourn_pageviews": 544,
-      "teetimes": [],
+      "pre_tourn_pageviews": 686,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-06-25 11:55",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-06-26 08:45",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "28"
     },
     {
@@ -480,8 +1202,27 @@
       "owgr_rank": 44,
       "player_name": "Knapp, Jake",
       "player_num": 47420,
-      "pre_tourn_pageviews": 343,
-      "teetimes": [],
+      "pre_tourn_pageviews": 466,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-06-25 08:55",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-06-26 12:10",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "32"
     },
     {
@@ -492,8 +1233,27 @@
       "owgr_rank": 39,
       "player_name": "Lee, Min Woo",
       "player_num": 37378,
-      "pre_tourn_pageviews": 507,
-      "teetimes": [],
+      "pre_tourn_pageviews": 658,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-06-25 08:35",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-06-26 11:45",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "23"
     },
     {
@@ -504,8 +1264,27 @@
       "owgr_rank": 45,
       "player_name": "Lowry, Shane",
       "player_num": 33204,
-      "pre_tourn_pageviews": 1560,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1710,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-06-25 09:15",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-06-26 12:30",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "54"
     },
     {
@@ -516,8 +1295,27 @@
       "owgr_rank": 19,
       "player_name": "MacIntyre, Robert",
       "player_num": 52215,
-      "pre_tourn_pageviews": 574,
-      "teetimes": [],
+      "pre_tourn_pageviews": 723,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-06-25 09:25",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-06-26 12:40",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "35"
     },
     {
@@ -528,8 +1326,27 @@
       "owgr_rank": 28,
       "player_name": "Matsuyama, Hideki",
       "player_num": 32839,
-      "pre_tourn_pageviews": 783,
-      "teetimes": [],
+      "pre_tourn_pageviews": 985,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-06-25 09:50",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-06-26 13:00",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "33"
     },
     {
@@ -540,8 +1357,27 @@
       "owgr_rank": 103,
       "player_name": "McCarthy, Denny",
       "player_num": 47993,
-      "pre_tourn_pageviews": 369,
-      "teetimes": [],
+      "pre_tourn_pageviews": 475,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-06-25 14:25",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-06-26 11:15",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "99"
     },
     {
@@ -552,8 +1388,27 @@
       "owgr_rank": 56,
       "player_name": "McCarty, Matt",
       "player_num": 59141,
-      "pre_tourn_pageviews": 309,
-      "teetimes": [],
+      "pre_tourn_pageviews": 404,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-06-25 08:15",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-06-26 11:25",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "41"
     },
     {
@@ -564,8 +1419,27 @@
       "owgr_rank": 36,
       "player_name": "McNealy, Maverick",
       "player_num": 46442,
-      "pre_tourn_pageviews": 664,
-      "teetimes": [],
+      "pre_tourn_pageviews": 823,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-06-25 10:20",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-06-26 13:35",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "44"
     },
     {
@@ -576,8 +1450,27 @@
       "owgr_rank": 90,
       "player_name": "Meissner, Mac",
       "player_num": 59143,
-      "pre_tourn_pageviews": 298,
-      "teetimes": [],
+      "pre_tourn_pageviews": 375,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-06-25 14:15",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-06-26 11:05",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "78"
     },
     {
@@ -588,8 +1481,27 @@
       "owgr_rank": 68,
       "player_name": "Mitchell, Keith",
       "player_num": 39546,
-      "pre_tourn_pageviews": 752,
-      "teetimes": [],
+      "pre_tourn_pageviews": 927,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-06-25 12:20",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-06-26 09:05",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "45"
     },
     {
@@ -600,8 +1512,27 @@
       "owgr_rank": 9,
       "player_name": "Morikawa, Collin",
       "player_num": 50525,
-      "pre_tourn_pageviews": 2139,
-      "teetimes": [],
+      "pre_tourn_pageviews": 2498,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-06-25 10:55",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-06-26 14:05",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "6"
     },
     {
@@ -612,8 +1543,27 @@
       "owgr_rank": 23,
       "player_name": "Noren, Alex",
       "player_num": 27349,
-      "pre_tourn_pageviews": 439,
-      "teetimes": [],
+      "pre_tourn_pageviews": 543,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-06-25 11:25",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-06-26 08:15",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "48"
     },
     {
@@ -624,8 +1574,27 @@
       "owgr_rank": 63,
       "player_name": "Novak, Andrew",
       "player_num": 51997,
-      "pre_tourn_pageviews": 310,
-      "teetimes": [],
+      "pre_tourn_pageviews": 409,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-06-25 13:00",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-06-26 09:50",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "80"
     },
     {
@@ -636,8 +1605,27 @@
       "owgr_rank": 93,
       "player_name": "Pendrith, Taylor",
       "player_num": 40250,
-      "pre_tourn_pageviews": 219,
-      "teetimes": [],
+      "pre_tourn_pageviews": 294,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-06-25 12:10",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-06-26 08:55",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "94"
     },
     {
@@ -648,8 +1636,27 @@
       "owgr_rank": 32,
       "player_name": "Poston, J.T.",
       "player_num": 49771,
-      "pre_tourn_pageviews": 1240,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1491,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-06-25 13:00",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-06-26 09:50",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "21"
     },
     {
@@ -660,8 +1667,27 @@
       "owgr_rank": 16,
       "player_name": "Rai, Aaron",
       "player_num": 46414,
-      "pre_tourn_pageviews": 1111,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1385,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-06-25 10:20",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-06-26 13:35",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "25"
     },
     {
@@ -672,8 +1698,27 @@
       "owgr_rank": 26,
       "player_name": "Reitan, Kristoffer",
       "player_num": 49855,
-      "pre_tourn_pageviews": 464,
-      "teetimes": [],
+      "pre_tourn_pageviews": 584,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-06-25 11:05",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-06-26 14:15",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "16"
     },
     {
@@ -684,8 +1729,27 @@
       "owgr_rank": 6,
       "player_name": "Rose, Justin",
       "player_num": 22405,
-      "pre_tourn_pageviews": 1349,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1524,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-06-25 13:35",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-06-26 10:20",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "17"
     },
     {
@@ -696,8 +1760,27 @@
       "owgr_rank": 11,
       "player_name": "Schauffele, Xander",
       "player_num": 48081,
-      "pre_tourn_pageviews": 1165,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1482,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-06-25 10:55",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-06-26 14:05",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "14"
     },
     {
@@ -708,8 +1791,27 @@
       "owgr_rank": 1,
       "player_name": "Scheffler, Scottie",
       "player_num": 46046,
-      "pre_tourn_pageviews": 1838,
-      "teetimes": [],
+      "pre_tourn_pageviews": 2195,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-06-25 13:55",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-06-26 10:40",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "1"
     },
     {
@@ -720,8 +1822,27 @@
       "owgr_rank": 52,
       "player_name": "Scott, Adam",
       "player_num": 24502,
-      "pre_tourn_pageviews": 666,
-      "teetimes": [],
+      "pre_tourn_pageviews": 811,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-06-25 12:30",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-06-26 09:15",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "29"
     },
     {
@@ -732,8 +1853,27 @@
       "owgr_rank": 43,
       "player_name": "Smalley, Alex",
       "player_num": 46340,
-      "pre_tourn_pageviews": 562,
-      "teetimes": [],
+      "pre_tourn_pageviews": 735,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-06-25 11:25",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-06-26 08:15",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "18"
     },
     {
@@ -744,8 +1884,27 @@
       "owgr_rank": 121,
       "player_name": "Snedeker, Brandt",
       "player_num": 27649,
-      "pre_tourn_pageviews": 323,
-      "teetimes": [],
+      "pre_tourn_pageviews": 415,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-06-25 09:40",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-06-26 12:50",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "72"
     },
     {
@@ -756,8 +1915,27 @@
       "owgr_rank": 12,
       "player_name": "Spaun, J.J.",
       "player_num": 39324,
-      "pre_tourn_pageviews": 937,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1194,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-06-25 12:40",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-06-26 09:25",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "24"
     },
     {
@@ -768,8 +1946,27 @@
       "owgr_rank": 49,
       "player_name": "Spieth, Jordan",
       "player_num": 34046,
-      "pre_tourn_pageviews": 799,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1130,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-06-25 13:45",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-06-26 10:30",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "50"
     },
     {
@@ -780,8 +1977,27 @@
       "owgr_rank": 46,
       "player_name": "Stevens, Sam",
       "player_num": 55893,
-      "pre_tourn_pageviews": 373,
-      "teetimes": [],
+      "pre_tourn_pageviews": 476,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-06-25 11:45",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-06-26 08:35",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "47"
     },
     {
@@ -792,8 +2008,27 @@
       "owgr_rank": 22,
       "player_name": "Straka, Sepp",
       "player_num": 49960,
-      "pre_tourn_pageviews": 764,
-      "teetimes": [],
+      "pre_tourn_pageviews": 948,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-06-25 13:10",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-06-26 10:00",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "26"
     },
     {
@@ -804,8 +2039,27 @@
       "owgr_rank": 130,
       "player_name": "Suber, Jackson",
       "player_num": 60019,
-      "pre_tourn_pageviews": 412,
-      "teetimes": [],
+      "pre_tourn_pageviews": 516,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-06-25 08:25",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-06-26 11:35",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "88"
     },
     {
@@ -816,8 +2070,27 @@
       "owgr_rank": 65,
       "player_name": "Taylor, Nick",
       "player_num": 25493,
-      "pre_tourn_pageviews": 396,
-      "teetimes": [],
+      "pre_tourn_pageviews": 507,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-06-25 10:10",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-06-26 13:25",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "59"
     },
     {
@@ -828,8 +2101,27 @@
       "owgr_rank": 73,
       "player_name": "Theegala, Sahith",
       "player_num": 51634,
-      "pre_tourn_pageviews": 720,
-      "teetimes": [],
+      "pre_tourn_pageviews": 893,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-06-25 14:15",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-06-26 11:05",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "37"
     },
     {
@@ -840,8 +2132,27 @@
       "owgr_rank": 17,
       "player_name": "Thomas, Justin",
       "player_num": 33448,
-      "pre_tourn_pageviews": 1920,
-      "teetimes": [],
+      "pre_tourn_pageviews": 2385,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-06-25 10:40",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-06-26 13:55",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "36"
     },
     {
@@ -852,8 +2163,27 @@
       "owgr_rank": 154,
       "player_name": "Vegas, Jhonattan",
       "player_num": 27064,
-      "pre_tourn_pageviews": 125,
-      "teetimes": [],
+      "pre_tourn_pageviews": 153,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-06-25 11:15",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-06-26 14:25",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "127"
     },
     {
@@ -864,8 +2194,27 @@
       "owgr_rank": 41,
       "player_name": "Woodland, Gary",
       "player_num": 31323,
-      "pre_tourn_pageviews": 470,
-      "teetimes": [],
+      "pre_tourn_pageviews": 619,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-06-25 09:15",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-06-26 12:30",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "22"
     },
     {
@@ -876,8 +2225,27 @@
       "owgr_rank": 3,
       "player_name": "Young, Cameron",
       "player_num": 57366,
-      "pre_tourn_pageviews": 809,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1014,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-06-25 10:30",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-06-26 13:45",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "3"
     }
   ],
@@ -2019,583 +3387,583 @@
   "dg_predictions": {
     "by_player": {
       "Scottie Scheffler": {
-        "win": 0.1451,
-        "top_5": 0.40136253968254,
-        "top_10": 0.567331177248677,
-        "top_20": 0.753084856809857,
+        "win": 0.14045,
+        "top_5": 0.388962957551708,
+        "top_10": 0.553639724812225,
+        "top_20": 0.740801692196692,
         "make_cut": 1,
         "dg_id": 18417
       },
-      "Tommy Fleetwood": {
-        "win": 0.0506666666666667,
-        "top_5": 0.206557433862434,
-        "top_10": 0.351104028749029,
-        "top_20": 0.561309492544493,
-        "make_cut": 1,
-        "dg_id": 12294
-      },
       "Xander Schauffele": {
-        "win": 0.0502166666666667,
-        "top_5": 0.193284186507936,
-        "top_10": 0.32618062049062,
-        "top_20": 0.525538576099826,
+        "win": 0.0504166666666667,
+        "top_5": 0.193863994708995,
+        "top_10": 0.327513824740075,
+        "top_20": 0.526196875300625,
         "make_cut": 1,
         "dg_id": 19895
       },
+      "Tommy Fleetwood": {
+        "win": 0.04835,
+        "top_5": 0.195360112433862,
+        "top_10": 0.334762875319125,
+        "top_20": 0.545016785991786,
+        "make_cut": 1,
+        "dg_id": 12294
+      },
       "Ludvig Aberg": {
-        "win": 0.0456833333333333,
-        "top_5": 0.177200436507937,
-        "top_10": 0.303837424242424,
-        "top_20": 0.50300556952307,
+        "win": 0.0459833333333333,
+        "top_5": 0.182485761784512,
+        "top_10": 0.312182745078995,
+        "top_20": 0.51023827006327,
         "make_cut": 1,
         "dg_id": 23950
       },
       "Si Woo Kim": {
-        "win": 0.0372333333333333,
-        "top_5": 0.164382162698413,
-        "top_10": 0.296519394910645,
-        "top_20": 0.503940878473378,
+        "win": 0.03375,
+        "top_5": 0.154673724747475,
+        "top_10": 0.285548533503533,
+        "top_20": 0.491211996637622,
         "make_cut": 1,
         "dg_id": 14609
       },
       "Cameron Young": {
-        "win": 0.0314,
-        "top_5": 0.142643703703704,
-        "top_10": 0.258097706228956,
-        "top_20": 0.448480517399267,
+        "win": 0.0330833333333333,
+        "top_5": 0.145045352332852,
+        "top_10": 0.259097660903911,
+        "top_20": 0.44951666990417,
         "make_cut": 1,
         "dg_id": 26651
       },
       "Matt Fitzpatrick": {
-        "win": 0.0299333333333333,
-        "top_5": 0.145162883597884,
-        "top_10": 0.26830678030303,
-        "top_20": 0.47173743968994,
+        "win": 0.0315333333333333,
+        "top_5": 0.149729022366522,
+        "top_10": 0.274168126086876,
+        "top_20": 0.478164494625745,
         "make_cut": 1,
         "dg_id": 17646
       },
       "Patrick Cantlay": {
-        "win": 0.0292333333333333,
-        "top_5": 0.135746507936508,
-        "top_10": 0.252971868085618,
-        "top_20": 0.44820283004033,
+        "win": 0.0303666666666667,
+        "top_5": 0.143020965608466,
+        "top_10": 0.263664628380878,
+        "top_20": 0.461304128764754,
         "make_cut": 1,
         "dg_id": 15466
       },
-      "Sam Burns": {
-        "win": 0.0282666666666667,
-        "top_5": 0.129355542328042,
-        "top_10": 0.240075028860029,
-        "top_20": 0.429355641673142,
-        "make_cut": 1,
-        "dg_id": 19483
-      },
       "Russell Henley": {
-        "win": 0.0273833333333333,
-        "top_5": 0.135124298941799,
-        "top_10": 0.255879725228475,
-        "top_20": 0.45495604030229,
+        "win": 0.0285666666666667,
+        "top_5": 0.140433088624339,
+        "top_10": 0.257173431475931,
+        "top_20": 0.458794070697821,
         "make_cut": 1,
         "dg_id": 14578
       },
       "Justin Thomas": {
-        "win": 0.0273333333333333,
-        "top_5": 0.125075568783069,
-        "top_10": 0.232655335497835,
-        "top_20": 0.415309552762053,
+        "win": 0.0276166666666667,
+        "top_5": 0.126188247354497,
+        "top_10": 0.233084169256669,
+        "top_20": 0.412064033929034,
         "make_cut": 1,
         "dg_id": 14139
       },
+      "Sam Burns": {
+        "win": 0.0256666666666667,
+        "top_5": 0.122143168590669,
+        "top_10": 0.230836207264957,
+        "top_20": 0.416562822224072,
+        "make_cut": 1,
+        "dg_id": 19483
+      },
       "Collin Morikawa": {
-        "win": 0.0243666666666667,
-        "top_5": 0.118284781746032,
-        "top_10": 0.22725732984608,
-        "top_20": 0.418671212398712,
+        "win": 0.0246,
+        "top_5": 0.121777091149591,
+        "top_10": 0.232087366707367,
+        "top_20": 0.419945701497576,
         "make_cut": 1,
         "dg_id": 22085
       },
       "J.J. Spaun": {
-        "win": 0.0197666666666667,
-        "top_5": 0.104373154761905,
-        "top_10": 0.204532953944204,
-        "top_20": 0.390090741943242,
+        "win": 0.0192,
+        "top_5": 0.103522884800385,
+        "top_10": 0.203837160894661,
+        "top_20": 0.387554445646946,
         "make_cut": 1,
         "dg_id": 17536
       },
       "Viktor Hovland": {
-        "win": 0.0192,
-        "top_5": 0.0972805224867725,
-        "top_10": 0.19259154040404,
-        "top_20": 0.372062131063381,
+        "win": 0.0186833333333333,
+        "top_5": 0.0945871632996633,
+        "top_10": 0.186366158609909,
+        "top_20": 0.361211015142265,
         "make_cut": 1,
         "dg_id": 18841
       },
       "Aaron Rai": {
-        "win": 0.0190166666666667,
-        "top_5": 0.103139722222222,
-        "top_10": 0.206266093073593,
-        "top_20": 0.392658644966145,
+        "win": 0.0186666666666667,
+        "top_5": 0.106602884199134,
+        "top_10": 0.210550393772894,
+        "top_20": 0.401066286051911,
         "make_cut": 1,
         "dg_id": 18554
       },
-      "Wyndham Clark": {
-        "win": 0.0183,
-        "top_5": 0.0951839021164021,
-        "top_10": 0.187637321197321,
-        "top_20": 0.358236011488511,
-        "make_cut": 1,
-        "dg_id": 23604
-      },
       "Kurt Kitayama": {
-        "win": 0.0179833333333333,
-        "top_5": 0.0933452976190476,
-        "top_10": 0.187561548590299,
-        "top_20": 0.356982584868835,
+        "win": 0.0180333333333333,
+        "top_5": 0.096733664021164,
+        "top_10": 0.190075705266955,
+        "top_20": 0.358661990786991,
         "make_cut": 1,
         "dg_id": 21891
       },
-      "Justin Rose": {
-        "win": 0.01655,
-        "top_5": 0.0871281878306878,
-        "top_10": 0.174375631313131,
-        "top_20": 0.338908902347652,
-        "make_cut": 1,
-        "dg_id": 6093
-      },
       "Min Woo Lee": {
-        "win": 0.0159,
-        "top_5": 0.0854107671957672,
-        "top_10": 0.17158068038443,
-        "top_20": 0.336677017288267,
+        "win": 0.0168833333333333,
+        "top_5": 0.0902239959114959,
+        "top_10": 0.182045322640323,
+        "top_20": 0.351685621739372,
         "make_cut": 1,
         "dg_id": 16841
       },
+      "Wyndham Clark": {
+        "win": 0.01675,
+        "top_5": 0.089846369047619,
+        "top_10": 0.177875146057646,
+        "top_20": 0.345681512908388,
+        "make_cut": 1,
+        "dg_id": 23604
+      },
+      "Justin Rose": {
+        "win": 0.0159333333333333,
+        "top_5": 0.0833590211640212,
+        "top_10": 0.16609401034151,
+        "top_20": 0.324388346306471,
+        "make_cut": 1,
+        "dg_id": 6093
+      },
       "Keegan Bradley": {
-        "win": 0.0150333333333333,
-        "top_5": 0.0860221296296296,
-        "top_10": 0.171559777306027,
-        "top_20": 0.342817564518815,
+        "win": 0.0149,
+        "top_5": 0.0831018055555556,
+        "top_10": 0.167455283189033,
+        "top_20": 0.331596463374588,
         "make_cut": 1,
         "dg_id": 13872
       },
-      "Chris Gotterup": {
-        "win": 0.0142333333333333,
-        "top_5": 0.0770217261904762,
-        "top_10": 0.158951158979909,
-        "top_20": 0.317660604996855,
-        "make_cut": 1,
-        "dg_id": 27774
-      },
       "Ben Griffin": {
-        "win": 0.0140666666666667,
-        "top_5": 0.0837759126984127,
-        "top_10": 0.174843894300144,
-        "top_20": 0.353334433390683,
+        "win": 0.0146166666666667,
+        "top_5": 0.0844825,
+        "top_10": 0.177139321188071,
+        "top_20": 0.353625200632701,
         "make_cut": 1,
         "dg_id": 24968
       },
       "Alex Fitzpatrick": {
-        "win": 0.01345,
-        "top_5": 0.0786618716931217,
-        "top_10": 0.166825205026455,
-        "top_20": 0.337702888685389,
+        "win": 0.0142833333333333,
+        "top_5": 0.0823022420634921,
+        "top_10": 0.171229326599327,
+        "top_20": 0.343243239376364,
         "make_cut": 1,
         "dg_id": 25362
       },
+      "Chris Gotterup": {
+        "win": 0.0141666666666667,
+        "top_5": 0.0754300992063492,
+        "top_10": 0.152678976671477,
+        "top_20": 0.30939679024679,
+        "make_cut": 1,
+        "dg_id": 27774
+      },
       "Maverick Mcnealy": {
-        "win": 0.0132166666666667,
-        "top_5": 0.0757122552910053,
-        "top_10": 0.156892316618567,
-        "top_20": 0.31725678996929,
+        "win": 0.0131666666666667,
+        "top_5": 0.0748221626984127,
+        "top_10": 0.158005158683909,
+        "top_20": 0.320800307470307,
         "make_cut": 1,
         "dg_id": 18634
       },
       "Bud Cauley": {
-        "win": 0.0127666666666667,
-        "top_5": 0.0754160978835979,
-        "top_10": 0.157066261423761,
-        "top_20": 0.322038250638251,
+        "win": 0.0124166666666667,
+        "top_5": 0.0707000925925926,
+        "top_10": 0.150027254689755,
+        "top_20": 0.311127331002331,
         "make_cut": 1,
         "dg_id": 14502
       },
-      "J.T. Poston": {
-        "win": 0.0124333333333333,
-        "top_5": 0.0722405886243386,
-        "top_10": 0.153258912337662,
-        "top_20": 0.31617171999297,
+      "Gary Woodland": {
+        "win": 0.0122666666666667,
+        "top_5": 0.0673440277777778,
+        "top_10": 0.141160680800681,
+        "top_20": 0.291129391210641,
         "make_cut": 1,
-        "dg_id": 21554
+        "dg_id": 12577
+      },
+      "Shane Lowry": {
+        "win": 0.0122333333333333,
+        "top_5": 0.0687050529100529,
+        "top_10": 0.146272506012506,
+        "top_20": 0.307418942955193,
+        "make_cut": 1,
+        "dg_id": 13900
+      },
+      "Robert Macintyre": {
+        "win": 0.0117833333333333,
+        "top_5": 0.0668127447089947,
+        "top_10": 0.142503077385577,
+        "top_20": 0.301581451233951,
+        "make_cut": 1,
+        "dg_id": 23323
       },
       "Brian Harman": {
-        "win": 0.0117333333333333,
-        "top_5": 0.0703938624338624,
-        "top_10": 0.151341047748548,
-        "top_20": 0.313214508547009,
+        "win": 0.01165,
+        "top_5": 0.0723602182539683,
+        "top_10": 0.153319318320568,
+        "top_20": 0.316310326432826,
         "make_cut": 1,
         "dg_id": 8825
       },
       "Harris English": {
-        "win": 0.0112,
-        "top_5": 0.0716643716931217,
-        "top_10": 0.154260063131313,
-        "top_20": 0.320893512829763,
+        "win": 0.01135,
+        "top_5": 0.0692579383116883,
+        "top_10": 0.148560966394716,
+        "top_20": 0.317002648393273,
         "make_cut": 1,
         "dg_id": 14577
       },
-      "Shane Lowry": {
-        "win": 0.0110333333333333,
-        "top_5": 0.067973458994709,
-        "top_10": 0.14447711977837,
-        "top_20": 0.300129419053169,
+      "J.T. Poston": {
+        "win": 0.0113333333333333,
+        "top_5": 0.0695454834054834,
+        "top_10": 0.148476053391053,
+        "top_20": 0.309633852073852,
         "make_cut": 1,
-        "dg_id": 13900
+        "dg_id": 21554
       },
       "Adam Scott": {
-        "win": 0.0109166666666667,
-        "top_5": 0.0634478240740741,
-        "top_10": 0.137015427489177,
-        "top_20": 0.288291969280719,
+        "win": 0.0103833333333333,
+        "top_5": 0.0629145839345839,
+        "top_10": 0.134934944684945,
+        "top_20": 0.284892038794539,
         "make_cut": 1,
         "dg_id": 6430
       },
       "Jordan Spieth": {
-        "win": 0.0105166666666667,
-        "top_5": 0.0644768187830688,
-        "top_10": 0.137984902366152,
-        "top_20": 0.294121988289488,
+        "win": 0.01005,
+        "top_5": 0.0612283068783069,
+        "top_10": 0.133726897916898,
+        "top_20": 0.284153192455692,
         "make_cut": 1,
         "dg_id": 14636
       },
-      "Gary Woodland": {
-        "win": 0.0101833333333333,
-        "top_5": 0.0604149404761905,
-        "top_10": 0.131032573722574,
-        "top_20": 0.278337798867799,
-        "make_cut": 1,
-        "dg_id": 12577
-      },
-      "Robert Macintyre": {
-        "win": 0.0100166666666667,
-        "top_5": 0.0640397619047619,
-        "top_10": 0.137176400913901,
-        "top_20": 0.293489691419691,
-        "make_cut": 1,
-        "dg_id": 23323
-      },
       "Kristoffer Reitan": {
-        "win": 0.00985,
-        "top_5": 0.0576908531746032,
-        "top_10": 0.124286008898509,
-        "top_20": 0.264375948680949,
+        "win": 0.0099333333333333,
+        "top_5": 0.0566662632275132,
+        "top_10": 0.121492334239834,
+        "top_20": 0.259296560569061,
         "make_cut": 1,
         "dg_id": 21407
       },
       "Ryan Gerard": {
-        "win": 0.0092,
-        "top_5": 0.0615138425925926,
-        "top_10": 0.13276408970659,
-        "top_20": 0.285855606014356,
+        "win": 0.0096,
+        "top_5": 0.0633656283068783,
+        "top_10": 0.13735104996855,
+        "top_20": 0.294874922808673,
         "make_cut": 1,
         "dg_id": 29767
       },
       "Keith Mitchell": {
-        "win": 0.0090166666666666,
-        "top_5": 0.0572727645502646,
-        "top_10": 0.123309066859067,
-        "top_20": 0.265216104497354,
+        "win": 0.0091,
+        "top_5": 0.0571621957671958,
+        "top_10": 0.122393364737115,
+        "top_20": 0.26649259032634,
         "make_cut": 1,
         "dg_id": 17365
       },
       "Jake Knapp": {
-        "win": 0.0083666666666666,
-        "top_5": 0.0474428439153439,
-        "top_10": 0.105858905122655,
-        "top_20": 0.23271284003034,
+        "win": 0.0080333333333333,
+        "top_5": 0.0506099284511785,
+        "top_10": 0.111761988520739,
+        "top_20": 0.241571640651016,
         "make_cut": 1,
         "dg_id": 19396
       },
       "Sepp Straka": {
-        "win": 0.0073333333333333,
-        "top_5": 0.0487743452380952,
-        "top_10": 0.110479527417027,
-        "top_20": 0.244506385743886,
+        "win": 0.0079,
+        "top_5": 0.0481525198412698,
+        "top_10": 0.108721646409146,
+        "top_20": 0.242035625531876,
         "make_cut": 1,
         "dg_id": 17511
       },
+      "Alex Smalley": {
+        "win": 0.00735,
+        "top_5": 0.0476275462962963,
+        "top_10": 0.105941296666297,
+        "top_20": 0.240312210867836,
+        "make_cut": 1,
+        "dg_id": 18474
+      },
+      "Akshay Bhatia": {
+        "win": 0.0072333333333333,
+        "top_5": 0.0457853835978836,
+        "top_10": 0.10480608044733,
+        "top_20": 0.240884150802901,
+        "make_cut": 1,
+        "dg_id": 26096
+      },
       "Alex Noren": {
-        "win": 0.0071333333333333,
-        "top_5": 0.0489315211640212,
-        "top_10": 0.111037264309764,
-        "top_20": 0.252371067728568,
+        "win": 0.0072166666666666,
+        "top_5": 0.0487250601250601,
+        "top_10": 0.110838872007622,
+        "top_20": 0.25207475536038,
         "make_cut": 1,
         "dg_id": 10419
       },
       "Jacob Bridgeman": {
-        "win": 0.0070833333333333,
-        "top_5": 0.0510283333333333,
-        "top_10": 0.113432035233285,
-        "top_20": 0.25121284030784,
+        "win": 0.0066666666666666,
+        "top_5": 0.0481016005291005,
+        "top_10": 0.109181104081104,
+        "top_20": 0.245092360972361,
         "make_cut": 1,
         "dg_id": 29433
       },
-      "Akshay Bhatia": {
-        "win": 0.0069833333333333,
-        "top_5": 0.0481569841269841,
-        "top_10": 0.108315863395863,
-        "top_20": 0.247208746993747,
-        "make_cut": 1,
-        "dg_id": 26096
-      },
-      "Rickie Fowler": {
-        "win": 0.00675,
-        "top_5": 0.041036044973545,
-        "top_10": 0.0940143867243867,
-        "top_20": 0.216326107133607,
-        "make_cut": 1,
-        "dg_id": 12965
-      },
       "Corey Conners": {
-        "win": 0.0066833333333333,
-        "top_5": 0.045531626984127,
-        "top_10": 0.104731121933622,
-        "top_20": 0.237831083268583,
+        "win": 0.0063833333333333,
+        "top_5": 0.0440423412698413,
+        "top_10": 0.101008554593555,
+        "top_20": 0.23280854011729,
         "make_cut": 1,
         "dg_id": 17576
       },
-      "Sahith Theegala": {
-        "win": 0.0065166666666666,
-        "top_5": 0.0460289814814815,
-        "top_10": 0.104884626623377,
-        "top_20": 0.236822130693381,
-        "make_cut": 1,
-        "dg_id": 23014
-      },
-      "Alex Smalley": {
-        "win": 0.0064333333333333,
-        "top_5": 0.046095667989418,
-        "top_10": 0.10454318963444,
-        "top_20": 0.237275337856588,
-        "make_cut": 1,
-        "dg_id": 18474
-      },
-      "Ryo Hisatsune": {
-        "win": 0.0061833333333333,
-        "top_5": 0.0415961838624339,
-        "top_10": 0.0952730567580568,
-        "top_20": 0.221272612110112,
-        "make_cut": 1,
-        "dg_id": 22760
-      },
       "Hideki Matsuyama": {
-        "win": 0.0059,
-        "top_5": 0.0416439484126984,
-        "top_10": 0.098229221981722,
-        "top_20": 0.230930426240426,
+        "win": 0.0063333333333333,
+        "top_5": 0.0437765674603175,
+        "top_10": 0.102159121341621,
+        "top_20": 0.237054361148111,
         "make_cut": 1,
         "dg_id": 13562
       },
+      "Rickie Fowler": {
+        "win": 0.00625,
+        "top_5": 0.0406624272486772,
+        "top_10": 0.0946836132848633,
+        "top_20": 0.217437728058978,
+        "make_cut": 1,
+        "dg_id": 12965
+      },
+      "Sahith Theegala": {
+        "win": 0.0062333333333333,
+        "top_5": 0.0420941937229437,
+        "top_10": 0.0975592518130018,
+        "top_20": 0.225656833629334,
+        "make_cut": 1,
+        "dg_id": 23014
+      },
       "Sam Stevens": {
-        "win": 0.00545,
-        "top_5": 0.0388290079365079,
-        "top_10": 0.0929017556517557,
-        "top_20": 0.223133678034928,
+        "win": 0.0057,
+        "top_5": 0.0406052254689755,
+        "top_10": 0.095954880952381,
+        "top_20": 0.224723863127613,
         "make_cut": 1,
         "dg_id": 25569
       },
+      "Ryo Hisatsune": {
+        "win": 0.0056833333333333,
+        "top_5": 0.0398754046416546,
+        "top_10": 0.092313761007511,
+        "top_20": 0.217265629231879,
+        "make_cut": 1,
+        "dg_id": 22760
+      },
       "Andrew Novak": {
-        "win": 0.0053166666666666,
-        "top_5": 0.0364466005291005,
-        "top_10": 0.0849942496392496,
-        "top_20": 0.202979748769749,
+        "win": 0.0056,
+        "top_5": 0.0356930555555556,
+        "top_10": 0.084345401034151,
+        "top_20": 0.199712934149184,
         "make_cut": 1,
         "dg_id": 23475
       },
       "Sungjae Im": {
-        "win": 0.0053,
-        "top_5": 0.0355486838624339,
-        "top_10": 0.0839441504329004,
-        "top_20": 0.201415642274392,
+        "win": 0.0049833333333333,
+        "top_5": 0.0343877645502646,
+        "top_10": 0.0820643784918785,
+        "top_20": 0.195863746114996,
         "make_cut": 1,
         "dg_id": 17488
       },
-      "Daniel Berger": {
-        "win": 0.0044833333333333,
-        "top_5": 0.031970582010582,
-        "top_10": 0.076196731000481,
-        "top_20": 0.187208251655752,
-        "make_cut": 1,
-        "dg_id": 17606
-      },
-      "Ben James": {
-        "win": 0.0042833333333333,
-        "top_5": 0.028758869047619,
-        "top_10": 0.0704514712602213,
-        "top_20": 0.174025126586377,
-        "make_cut": 1,
-        "dg_id": 29827
-      },
       "Nicolai Hojgaard": {
-        "win": 0.0040833333333333,
-        "top_5": 0.0314818650793651,
-        "top_10": 0.0765338588263588,
-        "top_20": 0.185590582658083,
+        "win": 0.0048166666666666,
+        "top_5": 0.0343194973544974,
+        "top_10": 0.0813798252210752,
+        "top_20": 0.193402217481592,
         "make_cut": 1,
         "dg_id": 23602
       },
-      "Nick Taylor": {
+      "Ben James": {
+        "win": 0.0045666666666666,
+        "top_5": 0.0321942526455026,
+        "top_10": 0.075991145983646,
+        "top_20": 0.181158081640582,
+        "make_cut": 1,
+        "dg_id": 29827
+      },
+      "Eric Cole": {
+        "win": 0.0044833333333333,
+        "top_5": 0.0302737301587302,
+        "top_10": 0.0747619949032449,
+        "top_20": 0.181897418322418,
+        "make_cut": 1,
+        "dg_id": 21756
+      },
+      "Daniel Berger": {
+        "win": 0.00425,
+        "top_5": 0.031259788961039,
+        "top_10": 0.0760933344895845,
+        "top_20": 0.185761248889999,
+        "make_cut": 1,
+        "dg_id": 17606
+      },
+      "Tony Finau": {
+        "win": 0.004,
+        "top_5": 0.0287528439153439,
+        "top_10": 0.0695498304473304,
+        "top_20": 0.169463074356199,
+        "make_cut": 1,
+        "dg_id": 11676
+      },
+      "Ryan Fox": {
         "win": 0.0039166666666666,
-        "top_5": 0.0296104563492063,
-        "top_10": 0.0744122095959596,
-        "top_20": 0.189846664724165,
+        "top_5": 0.0311369444444444,
+        "top_10": 0.0771573810911311,
+        "top_20": 0.192302702528953,
+        "make_cut": 1,
+        "dg_id": 11889
+      },
+      "Nick Taylor": {
+        "win": 0.0038833333333333,
+        "top_5": 0.0306580291005291,
+        "top_10": 0.0776573107910608,
+        "top_20": 0.194593233248233,
         "make_cut": 1,
         "dg_id": 13126
       },
       "Michael Kim": {
-        "win": 0.0037833333333333,
-        "top_5": 0.0309001653439153,
-        "top_10": 0.0768859163059163,
-        "top_20": 0.187983593536094,
+        "win": 0.0038,
+        "top_5": 0.0303654365079365,
+        "top_10": 0.0758248967698968,
+        "top_20": 0.189350593526844,
         "make_cut": 1,
         "dg_id": 17543
       },
-      "Ryan Fox": {
-        "win": 0.0035666666666666,
-        "top_5": 0.0281129497354497,
-        "top_10": 0.0704942875180375,
-        "top_20": 0.180861134051134,
-        "make_cut": 1,
-        "dg_id": 11889
-      },
-      "Tony Finau": {
-        "win": 0.00355,
-        "top_5": 0.027185462962963,
-        "top_10": 0.0668655687830688,
-        "top_20": 0.163945100593851,
-        "make_cut": 1,
-        "dg_id": 11676
-      },
-      "Eric Cole": {
-        "win": 0.0035333333333333,
-        "top_5": 0.0267763293650794,
-        "top_10": 0.0674023148148148,
-        "top_20": 0.173585370925371,
-        "make_cut": 1,
-        "dg_id": 21756
-      },
       "Jason Day": {
-        "win": 0.0033666666666666,
-        "top_5": 0.0266061772486772,
-        "top_10": 0.0667510335497836,
-        "top_20": 0.166225276621527,
+        "win": 0.0036833333333333,
+        "top_5": 0.0272255886243386,
+        "top_10": 0.0683326801439301,
+        "top_20": 0.171965824777075,
         "make_cut": 1,
         "dg_id": 9771
       },
       "Harry Hall": {
-        "win": 0.00325,
-        "top_5": 0.0248469841269841,
-        "top_10": 0.0641969666907167,
-        "top_20": 0.167927888269138,
+        "win": 0.00355,
+        "top_5": 0.0277707142857143,
+        "top_10": 0.069162241045991,
+        "top_20": 0.175936321780072,
         "make_cut": 1,
         "dg_id": 27194
       },
       "Taylor Pendrith": {
-        "win": 0.0030166666666666,
-        "top_5": 0.0239829365079365,
-        "top_10": 0.062600747955748,
-        "top_20": 0.161752120703371,
+        "win": 0.0032666666666666,
+        "top_5": 0.0245388888888889,
+        "top_10": 0.0620750544363044,
+        "top_20": 0.158907623973249,
         "make_cut": 1,
         "dg_id": 17780
       },
-      "Mac Meissner": {
-        "win": 0.0027833333333333,
-        "top_5": 0.0230608531746032,
-        "top_10": 0.0585185726310726,
-        "top_20": 0.1533736000111,
-        "make_cut": 1,
-        "dg_id": 28159
-      },
       "Matt Mccarty": {
-        "win": 0.0026,
-        "top_5": 0.0229434126984127,
-        "top_10": 0.0595723875661376,
-        "top_20": 0.155905315887816,
+        "win": 0.00275,
+        "top_5": 0.024434623015873,
+        "top_10": 0.0641733756058756,
+        "top_20": 0.164515456164206,
         "make_cut": 1,
         "dg_id": 28635
       },
-      "Jackson Suber": {
-        "win": 0.00215,
-        "top_5": 0.0164745701058201,
-        "top_10": 0.0442472625060125,
-        "top_20": 0.11991760979761,
-        "make_cut": 1,
-        "dg_id": 29279
-      },
       "Nico Echavarria": {
-        "win": 0.0017666666666666,
-        "top_5": 0.016958167989418,
-        "top_10": 0.0440371693121693,
-        "top_20": 0.122874726847227,
+        "win": 0.0025333333333333,
+        "top_5": 0.0179275529100529,
+        "top_10": 0.0454107732082732,
+        "top_20": 0.124399851676102,
         "make_cut": 1,
         "dg_id": 22833
       },
+      "Jackson Suber": {
+        "win": 0.0022333333333333,
+        "top_5": 0.0183908597883598,
+        "top_10": 0.0472951529026529,
+        "top_20": 0.127020955872831,
+        "make_cut": 1,
+        "dg_id": 29279
+      },
+      "Mac Meissner": {
+        "win": 0.0021333333333333,
+        "top_5": 0.0194703968253968,
+        "top_10": 0.0529083281070781,
+        "top_20": 0.14565109043734,
+        "make_cut": 1,
+        "dg_id": 28159
+      },
       "Denny Mccarthy": {
-        "win": 0.0015166666666666,
-        "top_5": 0.0154404365079365,
-        "top_10": 0.0427675625300625,
-        "top_20": 0.124860698745699,
+        "win": 0.0014,
+        "top_5": 0.013757328042328,
+        "top_10": 0.039642424011174,
+        "top_20": 0.117600314269064,
         "make_cut": 1,
         "dg_id": 19870
       },
       "Brandt Snedeker": {
-        "win": 0.00135,
-        "top_5": 0.0115924603174603,
-        "top_10": 0.0345780469067969,
-        "top_20": 0.105205677054427,
+        "win": 0.0013,
+        "top_5": 0.0123307407407407,
+        "top_10": 0.0362387591575092,
+        "top_20": 0.109146515984016,
         "make_cut": 1,
         "dg_id": 8820
       },
       "Lucas Glover": {
-        "win": 0.0010333333333333,
-        "top_5": 0.010784126984127,
-        "top_10": 0.031581936026936,
-        "top_20": 0.0957858430920931,
+        "win": 0.0012666666666666,
+        "top_5": 0.0120449338624339,
+        "top_10": 0.0345190995115995,
+        "top_20": 0.100393930652681,
         "make_cut": 1,
         "dg_id": 7399
       },
       "Tom Hoge": {
-        "win": 0.00085,
-        "top_5": 0.0086145105820105,
-        "top_10": 0.0259809052521553,
-        "top_20": 0.0780113595201095,
+        "win": 0.0012,
+        "top_5": 0.0094481481481481,
+        "top_10": 0.0269733713508714,
+        "top_20": 0.0820817248029748,
         "make_cut": 1,
         "dg_id": 15575
       },
       "Mark Hubbard": {
-        "win": 0.0007,
-        "top_5": 0.0091173677248677,
-        "top_10": 0.0264232611832612,
-        "top_20": 0.081871973026973,
+        "win": 0.0008166666666666,
+        "top_5": 0.0088889748677248,
+        "top_10": 0.026623194028194,
+        "top_20": 0.0817552365227365,
         "make_cut": 1,
         "dg_id": 16333
       },
       "Jhonattan Vegas": {
-        "win": 0.0005333333333333,
-        "top_5": 0.0076524007936507,
-        "top_10": 0.0212114159451659,
-        "top_20": 0.0673156625319125,
+        "win": 0.00075,
+        "top_5": 0.0078560515873015,
+        "top_10": 0.0220899488936989,
+        "top_20": 0.0680843266918267,
         "make_cut": 1,
         "dg_id": 13508
       },
       "Brian Campbell": {
-        "win": 5e-05,
-        "top_5": 0.0022574603174603,
-        "top_10": 0.0078446037758537,
-        "top_20": 0.0298103346190846,
+        "win": 6.66666666666667e-05,
+        "top_5": 0.0020548412698412,
+        "top_10": 0.0074702212602212,
+        "top_20": 0.0294758668646169,
         "make_cut": 1,
         "dg_id": 18628
       }
     },
-    "last_updated": "2026-06-23T12:08:04.971986-04:00"
+    "last_updated": "2026-06-23T19:12:49.605365-04:00"
   },
   "skill_ratings": {
     "by_player": {
@@ -8704,11 +10072,11 @@
         "player_name": "Daniel Gavins"
       }
     },
-    "last_updated": "2026-06-23T12:08:04.971933-04:00"
+    "last_updated": "2026-06-23T19:12:49.605311-04:00"
   },
   "approach_skill": {
     "by_player": {},
-    "last_updated": "2026-06-23T12:08:04.971970-04:00"
+    "last_updated": "2026-06-23T19:12:49.605345-04:00"
   },
   "course_history": {
     "by_player": {}
@@ -8955,56 +10323,56 @@
       {
         "player": "Si Woo Kim",
         "odds": "+8000",
-        "edge": 0.0249,
-        "note": "DG: 3.7% | Market: 1.2% | Edge: +2.5%"
-      },
-      {
-        "player": "Sam Burns",
-        "odds": "+8000",
-        "edge": 0.016,
-        "note": "DG: 2.8% | Market: 1.2% | Edge: +1.6%"
+        "edge": 0.0215,
+        "note": "DG: 3.4% | Market: 1.2% | Edge: +2.1%"
       },
       {
         "player": "Russell Henley",
         "odds": "+7000",
-        "edge": 0.0133,
-        "note": "DG: 2.7% | Market: 1.4% | Edge: +1.3%"
+        "edge": 0.0145,
+        "note": "DG: 2.9% | Market: 1.4% | Edge: +1.5%"
+      },
+      {
+        "player": "Sam Burns",
+        "odds": "+8000",
+        "edge": 0.0134,
+        "note": "DG: 2.6% | Market: 1.2% | Edge: +1.3%"
       },
       {
         "player": "Aaron Rai",
         "odds": "+13000",
-        "edge": 0.0114,
+        "edge": 0.0111,
         "note": "DG: 1.9% | Market: 0.8% | Edge: +1.1%"
-      },
-      {
-        "player": "Bud Cauley",
-        "odds": "+20000",
-        "edge": 0.0078,
-        "note": "DG: 1.3% | Market: 0.5% | Edge: +0.8%"
       },
       {
         "player": "Patrick Cantlay",
         "odds": "+4500",
-        "edge": 0.0075,
-        "note": "DG: 2.9% | Market: 2.2% | Edge: +0.8%"
+        "edge": 0.0087,
+        "note": "DG: 3.0% | Market: 2.2% | Edge: +0.9%"
       },
       {
-        "player": "Wyndham Clark",
-        "odds": "+8000",
-        "edge": 0.006,
-        "note": "DG: 1.8% | Market: 1.2% | Edge: +0.6%"
+        "player": "Bud Cauley",
+        "odds": "+20000",
+        "edge": 0.0074,
+        "note": "DG: 1.2% | Market: 0.5% | Edge: +0.7%"
+      },
+      {
+        "player": "Min Woo Lee",
+        "odds": "+9000",
+        "edge": 0.0059,
+        "note": "DG: 1.7% | Market: 1.1% | Edge: +0.6%"
       },
       {
         "player": "Keegan Bradley",
         "odds": "+11000",
-        "edge": 0.006,
+        "edge": 0.0059,
         "note": "DG: 1.5% | Market: 0.9% | Edge: +0.6%"
       },
       {
-        "player": "J.T. Poston",
-        "odds": "+15000",
-        "edge": 0.0058,
-        "note": "DG: 1.2% | Market: 0.7% | Edge: +0.6%"
+        "player": "Gary Woodland",
+        "odds": "+14000",
+        "edge": 0.0052,
+        "note": "DG: 1.2% | Market: 0.7% | Edge: +0.5%"
       },
       {
         "player": "Brian Harman",
@@ -9013,33 +10381,33 @@
         "note": "DG: 1.2% | Market: 0.7% | Edge: +0.5%"
       },
       {
-        "player": "Min Woo Lee",
-        "odds": "+9000",
-        "edge": 0.0049,
-        "note": "DG: 1.6% | Market: 1.1% | Edge: +0.5%"
+        "player": "J.T. Poston",
+        "odds": "+15000",
+        "edge": 0.0047,
+        "note": "DG: 1.1% | Market: 0.7% | Edge: +0.5%"
+      },
+      {
+        "player": "Wyndham Clark",
+        "odds": "+8000",
+        "edge": 0.0045,
+        "note": "DG: 1.7% | Market: 1.2% | Edge: +0.4%"
       },
       {
         "player": "Ryo Hisatsune",
         "odds": "+45000",
-        "edge": 0.004,
+        "edge": 0.0035,
         "note": "DG: 0.6% | Market: 0.2% | Edge: +0.4%"
       },
       {
-        "player": "Gary Woodland",
+        "player": "Ryan Gerard",
         "odds": "+14000",
-        "edge": 0.0031,
-        "note": "DG: 1.0% | Market: 0.7% | Edge: +0.3%"
-      },
-      {
-        "player": "Adam Scott",
-        "odds": "+12000",
-        "edge": 0.0026,
-        "note": "DG: 1.1% | Market: 0.8% | Edge: +0.3%"
+        "edge": 0.0025,
+        "note": "DG: 1.0% | Market: 0.7% | Edge: +0.2%"
       },
       {
         "player": "Keith Mitchell",
         "odds": "+15000",
-        "edge": 0.0024,
+        "edge": 0.0025,
         "note": "DG: 0.9% | Market: 0.7% | Edge: +0.2%"
       }
     ],
@@ -9463,7 +10831,8 @@
       "No DG odds returned at 2026-06-22T11:13:07.120538-04:00",
       "No DG odds returned at 2026-06-22T14:09:45.624079-04:00",
       "No DG odds returned at 2026-06-22T20:04:30.426993-04:00",
-      "No DG odds returned at 2026-06-23T12:08:05.069426-04:00"
+      "No DG odds returned at 2026-06-23T12:08:05.069426-04:00",
+      "No DG odds returned at 2026-06-23T19:12:49.737957-04:00"
     ],
     "analysis_uncertainties": [
       "[Claude] > ⚠️ **CRITICAL DATA FLAG — READ BEFORE ANYTHING ELSE**",
@@ -11485,6 +12854,13 @@
     },
     {
       "time": "2026-06-23T12:08:05.070164-04:00",
+      "run_type": "manual",
+      "status": "complete",
+      "field_size": 72,
+      "odds_players": 113
+    },
+    {
+      "time": "2026-06-23T19:12:49.738889-04:00",
       "run_type": "manual",
       "status": "complete",
       "field_size": 72,
