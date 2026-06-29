@@ -24,7 +24,7 @@
       "owgr_rank": 14,
       "player_name": "Aberg, Ludvig",
       "player_num": 52955,
-      "pre_tourn_pageviews": 2097,
+      "pre_tourn_pageviews": 2800,
       "teetimes": [
         {
           "course_code": "",
@@ -41,8 +41,26 @@
           "course_num": 503,
           "round_num": 2,
           "start_hole": 1,
-          "teetime": "2026-06-26 13:10",
+          "teetime": "2026-06-26 13:40",
           "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 3,
+          "start_hole": 1,
+          "teetime": "2026-06-27 09:25",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 4,
+          "start_hole": 1,
+          "teetime": "2026-06-28 09:55",
+          "wave": "early"
         }
       ],
       "tour_rank": "7"
@@ -55,7 +73,7 @@
       "owgr_rank": 50,
       "player_name": "Berger, Daniel",
       "player_num": 40026,
-      "pre_tourn_pageviews": 883,
+      "pre_tourn_pageviews": 1220,
       "teetimes": [
         {
           "course_code": "",
@@ -72,8 +90,26 @@
           "course_num": 503,
           "round_num": 2,
           "start_hole": 1,
-          "teetime": "2026-06-26 08:45",
+          "teetime": "2026-06-26 09:15",
           "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 3,
+          "start_hole": 1,
+          "teetime": "2026-06-27 09:45",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 4,
+          "start_hole": 1,
+          "teetime": "2026-06-28 11:55",
+          "wave": "late"
         }
       ],
       "tour_rank": "51"
@@ -86,7 +122,7 @@
       "owgr_rank": 31,
       "player_name": "Bhatia, Akshay",
       "player_num": 56630,
-      "pre_tourn_pageviews": 1867,
+      "pre_tourn_pageviews": 2574,
       "teetimes": [
         {
           "course_code": "",
@@ -103,8 +139,26 @@
           "course_num": 503,
           "round_num": 2,
           "start_hole": 1,
-          "teetime": "2026-06-26 09:15",
+          "teetime": "2026-06-26 09:45",
           "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 3,
+          "start_hole": 1,
+          "teetime": "2026-06-27 13:50",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 4,
+          "start_hole": 1,
+          "teetime": "2026-06-28 14:45",
+          "wave": "late"
         }
       ],
       "tour_rank": "13"
@@ -117,7 +171,7 @@
       "owgr_rank": 38,
       "player_name": "Bradley, Keegan",
       "player_num": 33141,
-      "pre_tourn_pageviews": 3184,
+      "pre_tourn_pageviews": 3891,
       "teetimes": [
         {
           "course_code": "",
@@ -134,7 +188,25 @@
           "course_num": 503,
           "round_num": 2,
           "start_hole": 1,
-          "teetime": "2026-06-26 10:30",
+          "teetime": "2026-06-26 11:00",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 3,
+          "start_hole": 1,
+          "teetime": "2026-06-27 12:45",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 4,
+          "start_hole": 1,
+          "teetime": "2026-06-28 11:45",
           "wave": "early"
         }
       ],
@@ -148,7 +220,7 @@
       "owgr_rank": 25,
       "player_name": "Bridgeman, Jacob",
       "player_num": 60004,
-      "pre_tourn_pageviews": 1443,
+      "pre_tourn_pageviews": 1974,
       "teetimes": [
         {
           "course_code": "",
@@ -165,7 +237,25 @@
           "course_num": 503,
           "round_num": 2,
           "start_hole": 1,
-          "teetime": "2026-06-26 09:40",
+          "teetime": "2026-06-26 10:10",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 3,
+          "start_hole": 1,
+          "teetime": "2026-06-27 08:40",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 4,
+          "start_hole": 1,
+          "teetime": "2026-06-28 10:10",
           "wave": "early"
         }
       ],
@@ -179,7 +269,7 @@
       "owgr_rank": 15,
       "player_name": "Burns, Sam",
       "player_num": 47504,
-      "pre_tourn_pageviews": 2586,
+      "pre_tourn_pageviews": 3334,
       "teetimes": [
         {
           "course_code": "",
@@ -196,8 +286,26 @@
           "course_num": 503,
           "round_num": 2,
           "start_hole": 1,
-          "teetime": "2026-06-26 10:40",
+          "teetime": "2026-06-26 11:10",
           "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 3,
+          "start_hole": 1,
+          "teetime": "2026-06-27 12:35",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 4,
+          "start_hole": 1,
+          "teetime": "2026-06-28 14:05",
+          "wave": "late"
         }
       ],
       "tour_rank": "10"
@@ -210,7 +318,7 @@
       "owgr_rank": 127,
       "player_name": "Campbell, Brian",
       "player_num": 46443,
-      "pre_tourn_pageviews": 441,
+      "pre_tourn_pageviews": 567,
       "teetimes": [
         {
           "course_code": "",
@@ -227,7 +335,25 @@
           "course_num": 503,
           "round_num": 2,
           "start_hole": 1,
-          "teetime": "2026-06-26 08:55",
+          "teetime": "2026-06-26 09:25",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 3,
+          "start_hole": 1,
+          "teetime": "2026-06-27 13:30",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 4,
+          "start_hole": 1,
+          "teetime": "2026-06-28 11:00",
           "wave": "early"
         }
       ],
@@ -241,7 +367,7 @@
       "owgr_rank": 37,
       "player_name": "Cantlay, Patrick",
       "player_num": 35450,
-      "pre_tourn_pageviews": 2601,
+      "pre_tourn_pageviews": 3545,
       "teetimes": [
         {
           "course_code": "",
@@ -258,7 +384,25 @@
           "course_num": 503,
           "round_num": 2,
           "start_hole": 1,
-          "teetime": "2026-06-26 12:40",
+          "teetime": "2026-06-26 13:10",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 3,
+          "start_hole": 1,
+          "teetime": "2026-06-27 13:10",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 4,
+          "start_hole": 1,
+          "teetime": "2026-06-28 14:45",
           "wave": "late"
         }
       ],
@@ -272,7 +416,7 @@
       "owgr_rank": 40,
       "player_name": "Cauley, Bud",
       "player_num": 34021,
-      "pre_tourn_pageviews": 984,
+      "pre_tourn_pageviews": 1395,
       "teetimes": [
         {
           "course_code": "",
@@ -289,8 +433,26 @@
           "course_num": 503,
           "round_num": 2,
           "start_hole": 1,
-          "teetime": "2026-06-26 10:10",
+          "teetime": "2026-06-26 10:40",
           "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 3,
+          "start_hole": 1,
+          "teetime": "2026-06-27 13:40",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 4,
+          "start_hole": 1,
+          "teetime": "2026-06-28 12:40",
+          "wave": "late"
         }
       ],
       "tour_rank": "31"
@@ -303,7 +465,7 @@
       "owgr_rank": 8,
       "player_name": "Clark, Wyndham",
       "player_num": 51766,
-      "pre_tourn_pageviews": 3437,
+      "pre_tourn_pageviews": 3839,
       "teetimes": [
         {
           "course_code": "",
@@ -320,8 +482,26 @@
           "course_num": 503,
           "round_num": 2,
           "start_hole": 1,
-          "teetime": "2026-06-26 10:55",
+          "teetime": "2026-06-26 11:25",
           "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 3,
+          "start_hole": 1,
+          "teetime": "2026-06-27 12:35",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 4,
+          "start_hole": 1,
+          "teetime": "2026-06-28 14:35",
+          "wave": "late"
         }
       ],
       "tour_rank": "4"
@@ -334,7 +514,7 @@
       "owgr_rank": 66,
       "player_name": "Cole, Eric",
       "player_num": 47591,
-      "pre_tourn_pageviews": 1384,
+      "pre_tourn_pageviews": 1951,
       "teetimes": [
         {
           "course_code": "",
@@ -351,7 +531,25 @@
           "course_num": 503,
           "round_num": 2,
           "start_hole": 1,
-          "teetime": "2026-06-26 11:55",
+          "teetime": "2026-06-26 12:25",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 3,
+          "start_hole": 1,
+          "teetime": "2026-06-27 13:50",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 4,
+          "start_hole": 1,
+          "teetime": "2026-06-28 14:15",
           "wave": "late"
         }
       ],
@@ -365,7 +563,7 @@
       "owgr_rank": 55,
       "player_name": "Conners, Corey",
       "player_num": 39997,
-      "pre_tourn_pageviews": 1373,
+      "pre_tourn_pageviews": 1872,
       "teetimes": [
         {
           "course_code": "",
@@ -382,8 +580,26 @@
           "course_num": 503,
           "round_num": 2,
           "start_hole": 1,
-          "teetime": "2026-06-26 10:20",
+          "teetime": "2026-06-26 10:50",
           "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 3,
+          "start_hole": 1,
+          "teetime": "2026-06-27 12:15",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 4,
+          "start_hole": 1,
+          "teetime": "2026-06-28 12:50",
+          "wave": "late"
         }
       ],
       "tour_rank": "81"
@@ -396,7 +612,7 @@
       "owgr_rank": 47,
       "player_name": "Day, Jason",
       "player_num": 28089,
-      "pre_tourn_pageviews": 624,
+      "pre_tourn_pageviews": 839,
       "teetimes": [
         {
           "course_code": "",
@@ -413,7 +629,25 @@
           "course_num": 503,
           "round_num": 2,
           "start_hole": 1,
-          "teetime": "2026-06-26 08:25",
+          "teetime": "2026-06-26 08:55",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 3,
+          "start_hole": 1,
+          "teetime": "2026-06-27 09:15",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 4,
+          "start_hole": 1,
+          "teetime": "2026-06-28 10:30",
           "wave": "early"
         }
       ],
@@ -427,7 +661,7 @@
       "owgr_rank": 53,
       "player_name": "Echavarria, Nico",
       "player_num": 51349,
-      "pre_tourn_pageviews": 623,
+      "pre_tourn_pageviews": 889,
       "teetimes": [
         {
           "course_code": "",
@@ -444,7 +678,25 @@
           "course_num": 503,
           "round_num": 2,
           "start_hole": 1,
-          "teetime": "2026-06-26 13:00",
+          "teetime": "2026-06-26 13:30",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 3,
+          "start_hole": 1,
+          "teetime": "2026-06-27 11:55",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 4,
+          "start_hole": 1,
+          "teetime": "2026-06-28 12:25",
           "wave": "late"
         }
       ],
@@ -458,7 +710,7 @@
       "owgr_rank": 24,
       "player_name": "English, Harris",
       "player_num": 34099,
-      "pre_tourn_pageviews": 1597,
+      "pre_tourn_pageviews": 2143,
       "teetimes": [
         {
           "course_code": "",
@@ -475,7 +727,25 @@
           "course_num": 503,
           "round_num": 2,
           "start_hole": 1,
-          "teetime": "2026-06-26 10:00",
+          "teetime": "2026-06-26 10:30",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 3,
+          "start_hole": 1,
+          "teetime": "2026-06-27 12:45",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 4,
+          "start_hole": 1,
+          "teetime": "2026-06-28 11:45",
           "wave": "early"
         }
       ],
@@ -489,7 +759,7 @@
       "owgr_rank": 110,
       "player_name": "Finau, Tony",
       "player_num": 29725,
-      "pre_tourn_pageviews": 872,
+      "pre_tourn_pageviews": 1147,
       "teetimes": [
         {
           "course_code": "",
@@ -506,8 +776,26 @@
           "course_num": 503,
           "round_num": 2,
           "start_hole": 1,
-          "teetime": "2026-06-26 12:20",
+          "teetime": "2026-06-26 12:50",
           "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 3,
+          "start_hole": 1,
+          "teetime": "2026-06-27 10:05",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 4,
+          "start_hole": 1,
+          "teetime": "2026-06-28 10:50",
+          "wave": "early"
         }
       ],
       "tour_rank": "75"
@@ -520,7 +808,7 @@
       "owgr_rank": 67,
       "player_name": "Fitzpatrick, Alex",
       "player_num": 55721,
-      "pre_tourn_pageviews": 1938,
+      "pre_tourn_pageviews": 2555,
       "teetimes": [
         {
           "course_code": "",
@@ -537,7 +825,25 @@
           "course_num": 503,
           "round_num": 2,
           "start_hole": 1,
-          "teetime": "2026-06-26 13:25",
+          "teetime": "2026-06-26 13:55",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 3,
+          "start_hole": 1,
+          "teetime": "2026-06-27 10:40",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 4,
+          "start_hole": 1,
+          "teetime": "2026-06-28 13:30",
           "wave": "late"
         }
       ],
@@ -551,7 +857,7 @@
       "owgr_rank": 4,
       "player_name": "Fitzpatrick, Matt",
       "player_num": 40098,
-      "pre_tourn_pageviews": 1736,
+      "pre_tourn_pageviews": 2270,
       "teetimes": [
         {
           "course_code": "",
@@ -568,7 +874,25 @@
           "course_num": 503,
           "round_num": 2,
           "start_hole": 1,
-          "teetime": "2026-06-26 13:55",
+          "teetime": "2026-06-26 14:25",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 3,
+          "start_hole": 1,
+          "teetime": "2026-06-27 13:30",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 4,
+          "start_hole": 1,
+          "teetime": "2026-06-28 14:25",
           "wave": "late"
         }
       ],
@@ -582,7 +906,7 @@
       "owgr_rank": 7,
       "player_name": "Fleetwood, Tommy",
       "player_num": 30911,
-      "pre_tourn_pageviews": 2722,
+      "pre_tourn_pageviews": 3539,
       "teetimes": [
         {
           "course_code": "",
@@ -599,8 +923,26 @@
           "course_num": 503,
           "round_num": 2,
           "start_hole": 1,
-          "teetime": "2026-06-26 10:55",
+          "teetime": "2026-06-26 11:25",
           "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 3,
+          "start_hole": 1,
+          "teetime": "2026-06-27 13:10",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 4,
+          "start_hole": 1,
+          "teetime": "2026-06-28 12:15",
+          "wave": "late"
         }
       ],
       "tour_rank": "11"
@@ -613,7 +955,7 @@
       "owgr_rank": 42,
       "player_name": "Fowler, Rickie",
       "player_num": 32102,
-      "pre_tourn_pageviews": 1115,
+      "pre_tourn_pageviews": 1487,
       "teetimes": [
         {
           "course_code": "",
@@ -630,7 +972,25 @@
           "course_num": 503,
           "round_num": 2,
           "start_hole": 1,
-          "teetime": "2026-06-26 08:25",
+          "teetime": "2026-06-26 08:55",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 3,
+          "start_hole": 1,
+          "teetime": "2026-06-27 11:00",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 4,
+          "start_hole": 1,
+          "teetime": "2026-06-28 11:25",
           "wave": "early"
         }
       ],
@@ -644,7 +1004,7 @@
       "owgr_rank": 54,
       "player_name": "Fox, Ryan",
       "player_num": 29936,
-      "pre_tourn_pageviews": 1017,
+      "pre_tourn_pageviews": 1520,
       "teetimes": [
         {
           "course_code": "",
@@ -661,8 +1021,26 @@
           "course_num": 503,
           "round_num": 2,
           "start_hole": 1,
-          "teetime": "2026-06-26 11:25",
+          "teetime": "2026-06-26 11:55",
           "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 3,
+          "start_hole": 1,
+          "teetime": "2026-06-27 08:00",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 4,
+          "start_hole": 1,
+          "teetime": "2026-06-28 08:55",
+          "wave": "early"
         }
       ],
       "tour_rank": "58"
@@ -675,7 +1053,7 @@
       "owgr_rank": 27,
       "player_name": "Gerard, Ryan",
       "player_num": 59018,
-      "pre_tourn_pageviews": 1596,
+      "pre_tourn_pageviews": 2304,
       "teetimes": [
         {
           "course_code": "",
@@ -692,8 +1070,26 @@
           "course_num": 503,
           "round_num": 2,
           "start_hole": 1,
-          "teetime": "2026-06-26 12:10",
+          "teetime": "2026-06-26 12:40",
           "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 3,
+          "start_hole": 1,
+          "teetime": "2026-06-27 10:15",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 4,
+          "start_hole": 1,
+          "teetime": "2026-06-28 09:45",
+          "wave": "early"
         }
       ],
       "tour_rank": "19"
@@ -706,7 +1102,7 @@
       "owgr_rank": 109,
       "player_name": "Glover, Lucas",
       "player_num": 25900,
-      "pre_tourn_pageviews": 717,
+      "pre_tourn_pageviews": 953,
       "teetimes": [
         {
           "course_code": "",
@@ -723,8 +1119,26 @@
           "course_num": 503,
           "round_num": 2,
           "start_hole": 1,
-          "teetime": "2026-06-26 11:55",
+          "teetime": "2026-06-26 12:25",
           "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 3,
+          "start_hole": 1,
+          "teetime": "2026-06-27 07:50",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 4,
+          "start_hole": 1,
+          "teetime": "2026-06-28 09:05",
+          "wave": "early"
         }
       ],
       "tour_rank": "122"
@@ -737,7 +1151,7 @@
       "owgr_rank": 13,
       "player_name": "Gotterup, Chris",
       "player_num": 59095,
-      "pre_tourn_pageviews": 1608,
+      "pre_tourn_pageviews": 2098,
       "teetimes": [
         {
           "course_code": "",
@@ -754,8 +1168,26 @@
           "course_num": 503,
           "round_num": 2,
           "start_hole": 1,
-          "teetime": "2026-06-26 09:25",
+          "teetime": "2026-06-26 09:55",
           "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 3,
+          "start_hole": 1,
+          "teetime": "2026-06-27 10:30",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 4,
+          "start_hole": 1,
+          "teetime": "2026-06-28 13:40",
+          "wave": "late"
         }
       ],
       "tour_rank": "12"
@@ -768,7 +1200,7 @@
       "owgr_rank": 18,
       "player_name": "Griffin, Ben",
       "player_num": 54591,
-      "pre_tourn_pageviews": 1887,
+      "pre_tourn_pageviews": 2538,
       "teetimes": [
         {
           "course_code": "",
@@ -785,7 +1217,25 @@
           "course_num": 503,
           "round_num": 2,
           "start_hole": 1,
-          "teetime": "2026-06-26 13:10",
+          "teetime": "2026-06-26 13:40",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 3,
+          "start_hole": 1,
+          "teetime": "2026-06-27 13:40",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 4,
+          "start_hole": 1,
+          "teetime": "2026-06-28 14:25",
           "wave": "late"
         }
       ],
@@ -799,7 +1249,7 @@
       "owgr_rank": 70,
       "player_name": "Hall, Harry",
       "player_num": 57975,
-      "pre_tourn_pageviews": 712,
+      "pre_tourn_pageviews": 972,
       "teetimes": [
         {
           "course_code": "",
@@ -816,8 +1266,26 @@
           "course_num": 503,
           "round_num": 2,
           "start_hole": 1,
-          "teetime": "2026-06-26 12:50",
+          "teetime": "2026-06-26 13:20",
           "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 3,
+          "start_hole": 1,
+          "teetime": "2026-06-27 09:25",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 4,
+          "start_hole": 1,
+          "teetime": "2026-06-28 10:30",
+          "wave": "early"
         }
       ],
       "tour_rank": "52"
@@ -830,7 +1298,7 @@
       "owgr_rank": 58,
       "player_name": "Harman, Brian",
       "player_num": 27644,
-      "pre_tourn_pageviews": 2844,
+      "pre_tourn_pageviews": 3852,
       "teetimes": [
         {
           "course_code": "",
@@ -847,7 +1315,25 @@
           "course_num": 503,
           "round_num": 2,
           "start_hole": 1,
-          "teetime": "2026-06-26 14:15",
+          "teetime": "2026-06-26 14:45",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 3,
+          "start_hole": 1,
+          "teetime": "2026-06-27 09:55",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 4,
+          "start_hole": 1,
+          "teetime": "2026-06-28 13:55",
           "wave": "late"
         }
       ],
@@ -861,7 +1347,7 @@
       "owgr_rank": 5,
       "player_name": "Henley, Russell",
       "player_num": 34098,
-      "pre_tourn_pageviews": 2480,
+      "pre_tourn_pageviews": 3338,
       "teetimes": [
         {
           "course_code": "",
@@ -878,7 +1364,25 @@
           "course_num": 503,
           "round_num": 2,
           "start_hole": 1,
-          "teetime": "2026-06-26 13:45",
+          "teetime": "2026-06-26 14:15",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 3,
+          "start_hole": 1,
+          "teetime": "2026-06-27 10:05",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 4,
+          "start_hole": 1,
+          "teetime": "2026-06-28 12:40",
           "wave": "late"
         }
       ],
@@ -892,7 +1396,7 @@
       "owgr_rank": 62,
       "player_name": "Hisatsune, Ryo",
       "player_num": 51287,
-      "pre_tourn_pageviews": 797,
+      "pre_tourn_pageviews": 1090,
       "teetimes": [
         {
           "course_code": "",
@@ -909,8 +1413,26 @@
           "course_num": 503,
           "round_num": 2,
           "start_hole": 1,
-          "teetime": "2026-06-26 09:05",
+          "teetime": "2026-06-26 09:35",
           "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 3,
+          "start_hole": 1,
+          "teetime": "2026-06-27 09:15",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 4,
+          "start_hole": 1,
+          "teetime": "2026-06-28 12:05",
+          "wave": "late"
         }
       ],
       "tour_rank": "40"
@@ -923,7 +1445,7 @@
       "owgr_rank": 112,
       "player_name": "Hoge, Tom",
       "player_num": 35532,
-      "pre_tourn_pageviews": 778,
+      "pre_tourn_pageviews": 1033,
       "teetimes": [
         {
           "course_code": "",
@@ -940,7 +1462,25 @@
           "course_num": 503,
           "round_num": 2,
           "start_hole": 1,
-          "teetime": "2026-06-26 11:35",
+          "teetime": "2026-06-26 12:05",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 3,
+          "start_hole": 1,
+          "teetime": "2026-06-27 09:35",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 4,
+          "start_hole": 1,
+          "teetime": "2026-06-28 11:55",
           "wave": "late"
         }
       ],
@@ -954,7 +1494,7 @@
       "owgr_rank": 35,
       "player_name": "Hojgaard, Nicolai",
       "player_num": 52453,
-      "pre_tourn_pageviews": 613,
+      "pre_tourn_pageviews": 847,
       "teetimes": [
         {
           "course_code": "",
@@ -971,8 +1511,26 @@
           "course_num": 503,
           "round_num": 2,
           "start_hole": 1,
-          "teetime": "2026-06-26 11:45",
+          "teetime": "2026-06-26 12:15",
           "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 3,
+          "start_hole": 1,
+          "teetime": "2026-06-27 09:35",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 4,
+          "start_hole": 1,
+          "teetime": "2026-06-28 11:00",
+          "wave": "early"
         }
       ],
       "tour_rank": "27"
@@ -985,7 +1543,7 @@
       "owgr_rank": 30,
       "player_name": "Hovland, Viktor",
       "player_num": 46717,
-      "pre_tourn_pageviews": 1996,
+      "pre_tourn_pageviews": 2738,
       "teetimes": [
         {
           "course_code": "",
@@ -1002,8 +1560,26 @@
           "course_num": 503,
           "round_num": 2,
           "start_hole": 1,
-          "teetime": "2026-06-26 10:10",
+          "teetime": "2026-06-26 10:40",
           "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 3,
+          "start_hole": 1,
+          "teetime": "2026-06-27 14:00",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 4,
+          "start_hole": 1,
+          "teetime": "2026-06-28 14:55",
+          "wave": "late"
         }
       ],
       "tour_rank": "56"
@@ -1016,7 +1592,7 @@
       "owgr_rank": 122,
       "player_name": "Hubbard, Mark",
       "player_num": 36801,
-      "pre_tourn_pageviews": 439,
+      "pre_tourn_pageviews": 599,
       "teetimes": [
         {
           "course_code": "",
@@ -1033,8 +1609,26 @@
           "course_num": 503,
           "round_num": 2,
           "start_hole": 1,
-          "teetime": "2026-06-26 14:25",
+          "teetime": "2026-06-26 14:55",
           "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 3,
+          "start_hole": 1,
+          "teetime": "2026-06-27 08:30",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 4,
+          "start_hole": 1,
+          "teetime": "2026-06-28 09:05",
+          "wave": "early"
         }
       ],
       "tour_rank": "98"
@@ -1047,7 +1641,7 @@
       "owgr_rank": 79,
       "player_name": "Im, Sungjae",
       "player_num": 39971,
-      "pre_tourn_pageviews": 1100,
+      "pre_tourn_pageviews": 1449,
       "teetimes": [
         {
           "course_code": "",
@@ -1064,8 +1658,26 @@
           "course_num": 503,
           "round_num": 2,
           "start_hole": 1,
-          "teetime": "2026-06-26 09:40",
+          "teetime": "2026-06-26 10:10",
           "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 3,
+          "start_hole": 1,
+          "teetime": "2026-06-27 11:45",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 4,
+          "start_hole": 1,
+          "teetime": "2026-06-28 13:00",
+          "wave": "late"
         }
       ],
       "tour_rank": "60"
@@ -1078,7 +1690,7 @@
       "owgr_rank": null,
       "player_name": "James, Ben",
       "player_num": 57869,
-      "pre_tourn_pageviews": 1067,
+      "pre_tourn_pageviews": 1523,
       "teetimes": [
         {
           "course_code": "",
@@ -1095,8 +1707,26 @@
           "course_num": 503,
           "round_num": 2,
           "start_hole": 1,
-          "teetime": "2026-06-26 12:20",
+          "teetime": "2026-06-26 12:50",
           "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 3,
+          "start_hole": 1,
+          "teetime": "2026-06-27 12:25",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 4,
+          "start_hole": 1,
+          "teetime": "2026-06-28 11:10",
+          "wave": "early"
         }
       ],
       "tour_rank": "172"
@@ -1109,7 +1739,7 @@
       "owgr_rank": 51,
       "player_name": "Kim, Michael",
       "player_num": 39975,
-      "pre_tourn_pageviews": 758,
+      "pre_tourn_pageviews": 982,
       "teetimes": [
         {
           "course_code": "",
@@ -1126,7 +1756,25 @@
           "course_num": 503,
           "round_num": 2,
           "start_hole": 1,
-          "teetime": "2026-06-26 08:35",
+          "teetime": "2026-06-26 09:05",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 3,
+          "start_hole": 1,
+          "teetime": "2026-06-27 11:00",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 4,
+          "start_hole": 1,
+          "teetime": "2026-06-28 11:10",
           "wave": "early"
         }
       ],
@@ -1140,7 +1788,7 @@
       "owgr_rank": 21,
       "player_name": "Kim, Si Woo",
       "player_num": 37455,
-      "pre_tourn_pageviews": 2356,
+      "pre_tourn_pageviews": 2940,
       "teetimes": [
         {
           "course_code": "",
@@ -1157,8 +1805,26 @@
           "course_num": 503,
           "round_num": 2,
           "start_hole": 1,
-          "teetime": "2026-06-26 11:15",
+          "teetime": "2026-06-26 11:45",
           "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 3,
+          "start_hole": 1,
+          "teetime": "2026-06-27 12:05",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 4,
+          "start_hole": 1,
+          "teetime": "2026-06-28 14:05",
+          "wave": "late"
         }
       ],
       "tour_rank": "5"
@@ -1171,7 +1837,7 @@
       "owgr_rank": 33,
       "player_name": "Kitayama, Kurt",
       "player_num": 48117,
-      "pre_tourn_pageviews": 1142,
+      "pre_tourn_pageviews": 1620,
       "teetimes": [
         {
           "course_code": "",
@@ -1188,8 +1854,26 @@
           "course_num": 503,
           "round_num": 2,
           "start_hole": 1,
-          "teetime": "2026-06-26 08:45",
+          "teetime": "2026-06-26 09:15",
           "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 3,
+          "start_hole": 1,
+          "teetime": "2026-06-27 13:00",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 4,
+          "start_hole": 1,
+          "teetime": "2026-06-28 12:15",
+          "wave": "late"
         }
       ],
       "tour_rank": "28"
@@ -1202,7 +1886,7 @@
       "owgr_rank": 44,
       "player_name": "Knapp, Jake",
       "player_num": 47420,
-      "pre_tourn_pageviews": 777,
+      "pre_tourn_pageviews": 1122,
       "teetimes": [
         {
           "course_code": "",
@@ -1219,8 +1903,26 @@
           "course_num": 503,
           "round_num": 2,
           "start_hole": 1,
-          "teetime": "2026-06-26 12:10",
+          "teetime": "2026-06-26 12:40",
           "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 3,
+          "start_hole": 1,
+          "teetime": "2026-06-27 08:10",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 4,
+          "start_hole": 1,
+          "teetime": "2026-06-28 10:40",
+          "wave": "early"
         }
       ],
       "tour_rank": "32"
@@ -1233,7 +1935,7 @@
       "owgr_rank": 39,
       "player_name": "Lee, Min Woo",
       "player_num": 37378,
-      "pre_tourn_pageviews": 1080,
+      "pre_tourn_pageviews": 1496,
       "teetimes": [
         {
           "course_code": "",
@@ -1250,8 +1952,26 @@
           "course_num": 503,
           "round_num": 2,
           "start_hole": 1,
-          "teetime": "2026-06-26 11:45",
+          "teetime": "2026-06-26 12:15",
           "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 3,
+          "start_hole": 1,
+          "teetime": "2026-06-27 08:20",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 4,
+          "start_hole": 1,
+          "teetime": "2026-06-28 09:15",
+          "wave": "early"
         }
       ],
       "tour_rank": "23"
@@ -1264,7 +1984,7 @@
       "owgr_rank": 45,
       "player_name": "Lowry, Shane",
       "player_num": 33204,
-      "pre_tourn_pageviews": 2166,
+      "pre_tourn_pageviews": 2760,
       "teetimes": [
         {
           "course_code": "",
@@ -1281,7 +2001,25 @@
           "course_num": 503,
           "round_num": 2,
           "start_hole": 1,
-          "teetime": "2026-06-26 12:30",
+          "teetime": "2026-06-26 13:00",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 3,
+          "start_hole": 1,
+          "teetime": "2026-06-27 12:05",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 4,
+          "start_hole": 1,
+          "teetime": "2026-06-28 14:35",
           "wave": "late"
         }
       ],
@@ -1295,7 +2033,7 @@
       "owgr_rank": 19,
       "player_name": "MacIntyre, Robert",
       "player_num": 52215,
-      "pre_tourn_pageviews": 1208,
+      "pre_tourn_pageviews": 1615,
       "teetimes": [
         {
           "course_code": "",
@@ -1312,7 +2050,25 @@
           "course_num": 503,
           "round_num": 2,
           "start_hole": 1,
-          "teetime": "2026-06-26 12:40",
+          "teetime": "2026-06-26 13:10",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 3,
+          "start_hole": 1,
+          "teetime": "2026-06-27 12:25",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 4,
+          "start_hole": 1,
+          "teetime": "2026-06-28 13:20",
           "wave": "late"
         }
       ],
@@ -1326,7 +2082,7 @@
       "owgr_rank": 28,
       "player_name": "Matsuyama, Hideki",
       "player_num": 32839,
-      "pre_tourn_pageviews": 1803,
+      "pre_tourn_pageviews": 2420,
       "teetimes": [
         {
           "course_code": "",
@@ -1343,7 +2099,25 @@
           "course_num": 503,
           "round_num": 2,
           "start_hole": 1,
-          "teetime": "2026-06-26 13:00",
+          "teetime": "2026-06-26 13:30",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 3,
+          "start_hole": 1,
+          "teetime": "2026-06-27 11:20",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 4,
+          "start_hole": 1,
+          "teetime": "2026-06-28 13:10",
           "wave": "late"
         }
       ],
@@ -1357,7 +2131,7 @@
       "owgr_rank": 103,
       "player_name": "McCarthy, Denny",
       "player_num": 47993,
-      "pre_tourn_pageviews": 791,
+      "pre_tourn_pageviews": 1140,
       "teetimes": [
         {
           "course_code": "",
@@ -1374,8 +2148,26 @@
           "course_num": 503,
           "round_num": 2,
           "start_hole": 1,
-          "teetime": "2026-06-26 11:15",
+          "teetime": "2026-06-26 11:45",
           "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 3,
+          "start_hole": 1,
+          "teetime": "2026-06-27 10:50",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 4,
+          "start_hole": 1,
+          "teetime": "2026-06-28 12:25",
+          "wave": "late"
         }
       ],
       "tour_rank": "99"
@@ -1388,7 +2180,7 @@
       "owgr_rank": 56,
       "player_name": "McCarty, Matt",
       "player_num": 59141,
-      "pre_tourn_pageviews": 725,
+      "pre_tourn_pageviews": 1035,
       "teetimes": [
         {
           "course_code": "",
@@ -1405,7 +2197,25 @@
           "course_num": 503,
           "round_num": 2,
           "start_hole": 1,
-          "teetime": "2026-06-26 11:25",
+          "teetime": "2026-06-26 11:55",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 3,
+          "start_hole": 1,
+          "teetime": "2026-06-27 08:50",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 4,
+          "start_hole": 1,
+          "teetime": "2026-06-28 12:05",
           "wave": "late"
         }
       ],
@@ -1419,7 +2229,7 @@
       "owgr_rank": 36,
       "player_name": "McNealy, Maverick",
       "player_num": 46442,
-      "pre_tourn_pageviews": 1343,
+      "pre_tourn_pageviews": 1832,
       "teetimes": [
         {
           "course_code": "",
@@ -1436,8 +2246,26 @@
           "course_num": 503,
           "round_num": 2,
           "start_hole": 1,
-          "teetime": "2026-06-26 13:35",
+          "teetime": "2026-06-26 14:05",
           "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 3,
+          "start_hole": 1,
+          "teetime": "2026-06-27 13:00",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 4,
+          "start_hole": 1,
+          "teetime": "2026-06-28 11:35",
+          "wave": "early"
         }
       ],
       "tour_rank": "44"
@@ -1450,7 +2278,7 @@
       "owgr_rank": 90,
       "player_name": "Meissner, Mac",
       "player_num": 59143,
-      "pre_tourn_pageviews": 624,
+      "pre_tourn_pageviews": 836,
       "teetimes": [
         {
           "course_code": "",
@@ -1467,7 +2295,25 @@
           "course_num": 503,
           "round_num": 2,
           "start_hole": 1,
-          "teetime": "2026-06-26 11:05",
+          "teetime": "2026-06-26 11:35",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 3,
+          "start_hole": 1,
+          "teetime": "2026-06-27 10:15",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 4,
+          "start_hole": 1,
+          "teetime": "2026-06-28 11:25",
           "wave": "early"
         }
       ],
@@ -1481,7 +2327,7 @@
       "owgr_rank": 68,
       "player_name": "Mitchell, Keith",
       "player_num": 39546,
-      "pre_tourn_pageviews": 1274,
+      "pre_tourn_pageviews": 1626,
       "teetimes": [
         {
           "course_code": "",
@@ -1498,8 +2344,26 @@
           "course_num": 503,
           "round_num": 2,
           "start_hole": 1,
-          "teetime": "2026-06-26 09:05",
+          "teetime": "2026-06-26 09:35",
           "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 3,
+          "start_hole": 1,
+          "teetime": "2026-06-27 10:50",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 4,
+          "start_hole": 1,
+          "teetime": "2026-06-28 14:15",
+          "wave": "late"
         }
       ],
       "tour_rank": "45"
@@ -1512,7 +2376,7 @@
       "owgr_rank": 9,
       "player_name": "Morikawa, Collin",
       "player_num": 50525,
-      "pre_tourn_pageviews": 3523,
+      "pre_tourn_pageviews": 4467,
       "teetimes": [
         {
           "course_code": "",
@@ -1529,7 +2393,25 @@
           "course_num": 503,
           "round_num": 2,
           "start_hole": 1,
-          "teetime": "2026-06-26 14:05",
+          "teetime": "2026-06-26 14:35",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 3,
+          "start_hole": 1,
+          "teetime": "2026-06-27 10:30",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 4,
+          "start_hole": 1,
+          "teetime": "2026-06-28 13:40",
           "wave": "late"
         }
       ],
@@ -1543,7 +2425,7 @@
       "owgr_rank": 23,
       "player_name": "Noren, Alex",
       "player_num": 27349,
-      "pre_tourn_pageviews": 919,
+      "pre_tourn_pageviews": 1236,
       "teetimes": [
         {
           "course_code": "",
@@ -1560,7 +2442,25 @@
           "course_num": 503,
           "round_num": 2,
           "start_hole": 1,
-          "teetime": "2026-06-26 08:15",
+          "teetime": "2026-06-26 08:45",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 3,
+          "start_hole": 1,
+          "teetime": "2026-06-27 11:10",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 4,
+          "start_hole": 1,
+          "teetime": "2026-06-28 10:20",
           "wave": "early"
         }
       ],
@@ -1574,7 +2474,7 @@
       "owgr_rank": 63,
       "player_name": "Novak, Andrew",
       "player_num": 51997,
-      "pre_tourn_pageviews": 687,
+      "pre_tourn_pageviews": 931,
       "teetimes": [
         {
           "course_code": "",
@@ -1591,7 +2491,25 @@
           "course_num": 503,
           "round_num": 2,
           "start_hole": 1,
-          "teetime": "2026-06-26 09:50",
+          "teetime": "2026-06-26 10:20",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 3,
+          "start_hole": 1,
+          "teetime": "2026-06-27 09:00",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 4,
+          "start_hole": 1,
+          "teetime": "2026-06-28 09:55",
           "wave": "early"
         }
       ],
@@ -1605,7 +2523,7 @@
       "owgr_rank": 93,
       "player_name": "Pendrith, Taylor",
       "player_num": 40250,
-      "pre_tourn_pageviews": 500,
+      "pre_tourn_pageviews": 675,
       "teetimes": [
         {
           "course_code": "",
@@ -1622,7 +2540,25 @@
           "course_num": 503,
           "round_num": 2,
           "start_hole": 1,
-          "teetime": "2026-06-26 08:55",
+          "teetime": "2026-06-26 09:25",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 3,
+          "start_hole": 1,
+          "teetime": "2026-06-27 11:45",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 4,
+          "start_hole": 1,
+          "teetime": "2026-06-28 09:35",
           "wave": "early"
         }
       ],
@@ -1636,7 +2572,7 @@
       "owgr_rank": 32,
       "player_name": "Poston, J.T.",
       "player_num": 49771,
-      "pre_tourn_pageviews": 2134,
+      "pre_tourn_pageviews": 2704,
       "teetimes": [
         {
           "course_code": "",
@@ -1653,7 +2589,25 @@
           "course_num": 503,
           "round_num": 2,
           "start_hole": 1,
-          "teetime": "2026-06-26 09:50",
+          "teetime": "2026-06-26 10:20",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 3,
+          "start_hole": 1,
+          "teetime": "2026-06-27 11:30",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 4,
+          "start_hole": 1,
+          "teetime": "2026-06-28 10:20",
           "wave": "early"
         }
       ],
@@ -1667,7 +2621,7 @@
       "owgr_rank": 16,
       "player_name": "Rai, Aaron",
       "player_num": 46414,
-      "pre_tourn_pageviews": 2236,
+      "pre_tourn_pageviews": 3090,
       "teetimes": [
         {
           "course_code": "",
@@ -1684,7 +2638,25 @@
           "course_num": 503,
           "round_num": 2,
           "start_hole": 1,
-          "teetime": "2026-06-26 13:35",
+          "teetime": "2026-06-26 14:05",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 3,
+          "start_hole": 1,
+          "teetime": "2026-06-27 11:55",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 4,
+          "start_hole": 1,
+          "teetime": "2026-06-28 13:00",
           "wave": "late"
         }
       ],
@@ -1698,7 +2670,7 @@
       "owgr_rank": 26,
       "player_name": "Reitan, Kristoffer",
       "player_num": 49855,
-      "pre_tourn_pageviews": 967,
+      "pre_tourn_pageviews": 1355,
       "teetimes": [
         {
           "course_code": "",
@@ -1715,7 +2687,25 @@
           "course_num": 503,
           "round_num": 2,
           "start_hole": 1,
-          "teetime": "2026-06-26 14:15",
+          "teetime": "2026-06-26 14:45",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 3,
+          "start_hole": 1,
+          "teetime": "2026-06-27 12:15",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 4,
+          "start_hole": 1,
+          "teetime": "2026-06-28 12:50",
           "wave": "late"
         }
       ],
@@ -1729,7 +2719,7 @@
       "owgr_rank": 6,
       "player_name": "Rose, Justin",
       "player_num": 22405,
-      "pre_tourn_pageviews": 1987,
+      "pre_tourn_pageviews": 2588,
       "teetimes": [
         {
           "course_code": "",
@@ -1746,8 +2736,26 @@
           "course_num": 503,
           "round_num": 2,
           "start_hole": 1,
-          "teetime": "2026-06-26 10:20",
+          "teetime": "2026-06-26 10:50",
           "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 3,
+          "start_hole": 1,
+          "teetime": "2026-06-27 13:20",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 4,
+          "start_hole": 1,
+          "teetime": "2026-06-28 13:55",
+          "wave": "late"
         }
       ],
       "tour_rank": "17"
@@ -1760,7 +2768,7 @@
       "owgr_rank": 11,
       "player_name": "Schauffele, Xander",
       "player_num": 48081,
-      "pre_tourn_pageviews": 2303,
+      "pre_tourn_pageviews": 3011,
       "teetimes": [
         {
           "course_code": "",
@@ -1777,8 +2785,26 @@
           "course_num": 503,
           "round_num": 2,
           "start_hole": 1,
-          "teetime": "2026-06-26 14:05",
+          "teetime": "2026-06-26 14:35",
           "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 3,
+          "start_hole": 1,
+          "teetime": "2026-06-27 09:55",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 4,
+          "start_hole": 1,
+          "teetime": "2026-06-28 10:50",
+          "wave": "early"
         }
       ],
       "tour_rank": "14"
@@ -1791,7 +2817,7 @@
       "owgr_rank": 1,
       "player_name": "Scheffler, Scottie",
       "player_num": 46046,
-      "pre_tourn_pageviews": 2949,
+      "pre_tourn_pageviews": 3527,
       "teetimes": [
         {
           "course_code": "",
@@ -1808,8 +2834,26 @@
           "course_num": 503,
           "round_num": 2,
           "start_hole": 1,
-          "teetime": "2026-06-26 10:40",
+          "teetime": "2026-06-26 11:10",
           "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 3,
+          "start_hole": 1,
+          "teetime": "2026-06-27 14:00",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 4,
+          "start_hole": 1,
+          "teetime": "2026-06-28 14:55",
+          "wave": "late"
         }
       ],
       "tour_rank": "1"
@@ -1822,7 +2866,7 @@
       "owgr_rank": 52,
       "player_name": "Scott, Adam",
       "player_num": 24502,
-      "pre_tourn_pageviews": 1147,
+      "pre_tourn_pageviews": 1468,
       "teetimes": [
         {
           "course_code": "",
@@ -1839,7 +2883,25 @@
           "course_num": 503,
           "round_num": 2,
           "start_hole": 1,
-          "teetime": "2026-06-26 09:15",
+          "teetime": "2026-06-26 09:45",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 3,
+          "start_hole": 1,
+          "teetime": "2026-06-27 08:10",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 4,
+          "start_hole": 1,
+          "teetime": "2026-06-28 10:10",
           "wave": "early"
         }
       ],
@@ -1853,7 +2915,7 @@
       "owgr_rank": 43,
       "player_name": "Smalley, Alex",
       "player_num": 46340,
-      "pre_tourn_pageviews": 1196,
+      "pre_tourn_pageviews": 1676,
       "teetimes": [
         {
           "course_code": "",
@@ -1870,7 +2932,25 @@
           "course_num": 503,
           "round_num": 2,
           "start_hole": 1,
-          "teetime": "2026-06-26 08:15",
+          "teetime": "2026-06-26 08:45",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 3,
+          "start_hole": 1,
+          "teetime": "2026-06-27 09:45",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 4,
+          "start_hole": 1,
+          "teetime": "2026-06-28 09:25",
           "wave": "early"
         }
       ],
@@ -1884,7 +2964,7 @@
       "owgr_rank": 121,
       "player_name": "Snedeker, Brandt",
       "player_num": 27649,
-      "pre_tourn_pageviews": 670,
+      "pre_tourn_pageviews": 917,
       "teetimes": [
         {
           "course_code": "",
@@ -1901,8 +2981,26 @@
           "course_num": 503,
           "round_num": 2,
           "start_hole": 1,
-          "teetime": "2026-06-26 12:50",
+          "teetime": "2026-06-26 13:20",
           "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 3,
+          "start_hole": 1,
+          "teetime": "2026-06-27 11:30",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 4,
+          "start_hole": 1,
+          "teetime": "2026-06-28 10:40",
+          "wave": "early"
         }
       ],
       "tour_rank": "72"
@@ -1915,7 +3013,7 @@
       "owgr_rank": 12,
       "player_name": "Spaun, J.J.",
       "player_num": 39324,
-      "pre_tourn_pageviews": 1799,
+      "pre_tourn_pageviews": 2458,
       "teetimes": [
         {
           "course_code": "",
@@ -1932,8 +3030,26 @@
           "course_num": 503,
           "round_num": 2,
           "start_hole": 1,
-          "teetime": "2026-06-26 09:25",
+          "teetime": "2026-06-26 09:55",
           "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 3,
+          "start_hole": 1,
+          "teetime": "2026-06-27 13:20",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 4,
+          "start_hole": 1,
+          "teetime": "2026-06-28 13:10",
+          "wave": "late"
         }
       ],
       "tour_rank": "24"
@@ -1946,7 +3062,7 @@
       "owgr_rank": 49,
       "player_name": "Spieth, Jordan",
       "player_num": 34046,
-      "pre_tourn_pageviews": 1721,
+      "pre_tourn_pageviews": 2212,
       "teetimes": [
         {
           "course_code": "",
@@ -1963,7 +3079,25 @@
           "course_num": 503,
           "round_num": 2,
           "start_hole": 1,
-          "teetime": "2026-06-26 10:30",
+          "teetime": "2026-06-26 11:00",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 3,
+          "start_hole": 1,
+          "teetime": "2026-06-27 08:30",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 4,
+          "start_hole": 1,
+          "teetime": "2026-06-28 08:55",
           "wave": "early"
         }
       ],
@@ -1977,7 +3111,7 @@
       "owgr_rank": 46,
       "player_name": "Stevens, Sam",
       "player_num": 55893,
-      "pre_tourn_pageviews": 714,
+      "pre_tourn_pageviews": 939,
       "teetimes": [
         {
           "course_code": "",
@@ -1994,7 +3128,25 @@
           "course_num": 503,
           "round_num": 2,
           "start_hole": 1,
-          "teetime": "2026-06-26 08:35",
+          "teetime": "2026-06-26 09:05",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 3,
+          "start_hole": 1,
+          "teetime": "2026-06-27 09:00",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 4,
+          "start_hole": 1,
+          "teetime": "2026-06-28 09:25",
           "wave": "early"
         }
       ],
@@ -2008,7 +3160,7 @@
       "owgr_rank": 22,
       "player_name": "Straka, Sepp",
       "player_num": 49960,
-      "pre_tourn_pageviews": 1508,
+      "pre_tourn_pageviews": 2046,
       "teetimes": [
         {
           "course_code": "",
@@ -2025,7 +3177,25 @@
           "course_num": 503,
           "round_num": 2,
           "start_hole": 1,
-          "teetime": "2026-06-26 10:00",
+          "teetime": "2026-06-26 10:30",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 3,
+          "start_hole": 1,
+          "teetime": "2026-06-27 07:50",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 4,
+          "start_hole": 1,
+          "teetime": "2026-06-28 08:45",
           "wave": "early"
         }
       ],
@@ -2039,7 +3209,7 @@
       "owgr_rank": 130,
       "player_name": "Suber, Jackson",
       "player_num": 60019,
-      "pre_tourn_pageviews": 801,
+      "pre_tourn_pageviews": 1157,
       "teetimes": [
         {
           "course_code": "",
@@ -2056,7 +3226,25 @@
           "course_num": 503,
           "round_num": 2,
           "start_hole": 1,
-          "teetime": "2026-06-26 11:35",
+          "teetime": "2026-06-26 12:05",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 3,
+          "start_hole": 1,
+          "teetime": "2026-06-27 10:40",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 4,
+          "start_hole": 1,
+          "teetime": "2026-06-28 13:30",
           "wave": "late"
         }
       ],
@@ -2070,7 +3258,7 @@
       "owgr_rank": 65,
       "player_name": "Taylor, Nick",
       "player_num": 25493,
-      "pre_tourn_pageviews": 839,
+      "pre_tourn_pageviews": 1196,
       "teetimes": [
         {
           "course_code": "",
@@ -2087,8 +3275,26 @@
           "course_num": 503,
           "round_num": 2,
           "start_hole": 1,
-          "teetime": "2026-06-26 13:25",
+          "teetime": "2026-06-26 13:55",
           "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 3,
+          "start_hole": 1,
+          "teetime": "2026-06-27 08:40",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 4,
+          "start_hole": 1,
+          "teetime": "2026-06-28 11:35",
+          "wave": "early"
         }
       ],
       "tour_rank": "59"
@@ -2101,7 +3307,7 @@
       "owgr_rank": 73,
       "player_name": "Theegala, Sahith",
       "player_num": 51634,
-      "pre_tourn_pageviews": 1498,
+      "pre_tourn_pageviews": 2000,
       "teetimes": [
         {
           "course_code": "",
@@ -2118,7 +3324,25 @@
           "course_num": 503,
           "round_num": 2,
           "start_hole": 1,
-          "teetime": "2026-06-26 11:05",
+          "teetime": "2026-06-26 11:35",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 3,
+          "start_hole": 1,
+          "teetime": "2026-06-27 08:20",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 4,
+          "start_hole": 1,
+          "teetime": "2026-06-28 09:35",
           "wave": "early"
         }
       ],
@@ -2132,7 +3356,7 @@
       "owgr_rank": 17,
       "player_name": "Thomas, Justin",
       "player_num": 33448,
-      "pre_tourn_pageviews": 3587,
+      "pre_tourn_pageviews": 4716,
       "teetimes": [
         {
           "course_code": "",
@@ -2149,7 +3373,25 @@
           "course_num": 503,
           "round_num": 2,
           "start_hole": 1,
-          "teetime": "2026-06-26 13:55",
+          "teetime": "2026-06-26 14:25",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 3,
+          "start_hole": 1,
+          "teetime": "2026-06-27 11:20",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 4,
+          "start_hole": 1,
+          "teetime": "2026-06-28 13:20",
           "wave": "late"
         }
       ],
@@ -2163,7 +3405,7 @@
       "owgr_rank": 154,
       "player_name": "Vegas, Jhonattan",
       "player_num": 27064,
-      "pre_tourn_pageviews": 240,
+      "pre_tourn_pageviews": 317,
       "teetimes": [
         {
           "course_code": "",
@@ -2180,8 +3422,26 @@
           "course_num": 503,
           "round_num": 2,
           "start_hole": 1,
-          "teetime": "2026-06-26 14:25",
+          "teetime": "2026-06-26 14:55",
           "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 3,
+          "start_hole": 1,
+          "teetime": "2026-06-27 11:10",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 4,
+          "start_hole": 1,
+          "teetime": "2026-06-28 09:45",
+          "wave": "early"
         }
       ],
       "tour_rank": "127"
@@ -2194,7 +3454,7 @@
       "owgr_rank": 41,
       "player_name": "Woodland, Gary",
       "player_num": 31323,
-      "pre_tourn_pageviews": 1057,
+      "pre_tourn_pageviews": 1539,
       "teetimes": [
         {
           "course_code": "",
@@ -2211,8 +3471,26 @@
           "course_num": 503,
           "round_num": 2,
           "start_hole": 1,
-          "teetime": "2026-06-26 12:30",
+          "teetime": "2026-06-26 13:00",
           "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 3,
+          "start_hole": 1,
+          "teetime": "2026-06-27 08:50",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 4,
+          "start_hole": 1,
+          "teetime": "2026-06-28 08:45",
+          "wave": "early"
         }
       ],
       "tour_rank": "22"
@@ -2225,7 +3503,7 @@
       "owgr_rank": 3,
       "player_name": "Young, Cameron",
       "player_num": 57366,
-      "pre_tourn_pageviews": 1508,
+      "pre_tourn_pageviews": 2001,
       "teetimes": [
         {
           "course_code": "",
@@ -2242,8 +3520,26 @@
           "course_num": 503,
           "round_num": 2,
           "start_hole": 1,
-          "teetime": "2026-06-26 13:45",
+          "teetime": "2026-06-26 14:15",
           "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 3,
+          "start_hole": 1,
+          "teetime": "2026-06-27 08:00",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC River Highlands",
+          "course_num": 503,
+          "round_num": 4,
+          "start_hole": 1,
+          "teetime": "2026-06-28 09:15",
+          "wave": "early"
         }
       ],
       "tour_rank": "3"
@@ -3963,7 +5259,7 @@
         "dg_id": 18628
       }
     },
-    "last_updated": "2026-06-24T17:37:50.385429-04:00"
+    "last_updated": "2026-06-29T04:18:53.305082-04:00"
   },
   "skill_ratings": {
     "by_player": {
@@ -10072,11 +11368,11 @@
         "player_name": "Daniel Gavins"
       }
     },
-    "last_updated": "2026-06-24T17:37:50.385377-04:00"
+    "last_updated": "2026-06-29T04:18:53.305024-04:00"
   },
   "approach_skill": {
     "by_player": {},
-    "last_updated": "2026-06-24T17:37:50.385414-04:00"
+    "last_updated": "2026-06-29T04:18:53.305060-04:00"
   },
   "course_history": {
     "by_player": {}
@@ -10783,7 +12079,8 @@
       "No DG odds returned at 2026-06-23T19:12:49.737957-04:00",
       "No DG odds returned at 2026-06-24T11:31:19.232386-04:00",
       "No DG odds returned at 2026-06-24T13:01:04.402555-04:00",
-      "No DG odds returned at 2026-06-24T17:37:50.463535-04:00"
+      "No DG odds returned at 2026-06-24T17:37:50.463535-04:00",
+      "No DG odds returned at 2026-06-29T04:18:53.390767-04:00"
     ],
     "analysis_uncertainties": [
       "[Claude] > ⚠️ **CRITICAL DATA FLAG — READ BEFORE ANYTHING ELSE**",
@@ -12952,6 +14249,13 @@
     },
     {
       "time": "2026-06-24T17:37:50.464516-04:00",
+      "run_type": "manual",
+      "status": "complete",
+      "field_size": 72,
+      "odds_players": 113
+    },
+    {
+      "time": "2026-06-29T04:18:53.391766-04:00",
       "run_type": "manual",
       "status": "complete",
       "field_size": 72,
