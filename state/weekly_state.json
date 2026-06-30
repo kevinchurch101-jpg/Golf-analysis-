@@ -17,6 +17,18 @@
   },
   "field": [
     {
+      "am": 1,
+      "country": "USA",
+      "dg_id": 30033853,
+      "dg_rank": null,
+      "owgr_rank": null,
+      "player_name": "Adler, Patrick",
+      "player_num": 67601,
+      "pre_tourn_pageviews": 32,
+      "teetimes": [],
+      "tour_rank": null
+    },
+    {
       "am": 0,
       "country": "USA",
       "dg_id": 19846,
@@ -24,7 +36,7 @@
       "owgr_rank": 161,
       "player_name": "Bauchou, Zach",
       "player_num": 48001,
-      "pre_tourn_pageviews": 329,
+      "pre_tourn_pageviews": 685,
       "teetimes": [],
       "tour_rank": "84"
     },
@@ -36,7 +48,7 @@
       "owgr_rank": 47,
       "player_name": "Berger, Daniel",
       "player_num": 40026,
-      "pre_tourn_pageviews": 487,
+      "pre_tourn_pageviews": 882,
       "teetimes": [],
       "tour_rank": "50"
     },
@@ -48,7 +60,7 @@
       "owgr_rank": 100,
       "player_name": "Bezuidenhout, Christiaan",
       "player_num": 45522,
-      "pre_tourn_pageviews": 275,
+      "pre_tourn_pageviews": 536,
       "teetimes": [],
       "tour_rank": "95"
     },
@@ -60,7 +72,7 @@
       "owgr_rank": 187,
       "player_name": "Blair, Zac",
       "player_num": 40058,
-      "pre_tourn_pageviews": 119,
+      "pre_tourn_pageviews": 240,
       "teetimes": [],
       "tour_rank": "160"
     },
@@ -72,7 +84,7 @@
       "owgr_rank": 111,
       "player_name": "Blanchet, Chandler",
       "player_num": 54788,
-      "pre_tourn_pageviews": 116,
+      "pre_tourn_pageviews": 222,
       "teetimes": [],
       "tour_rank": "94"
     },
@@ -84,7 +96,7 @@
       "owgr_rank": 38,
       "player_name": "Bradley, Keegan",
       "player_num": 33141,
-      "pre_tourn_pageviews": 579,
+      "pre_tourn_pageviews": 1080,
       "teetimes": [],
       "tour_rank": "69"
     },
@@ -96,7 +108,7 @@
       "owgr_rank": null,
       "player_name": "Brehm, Ryan",
       "player_num": 28420,
-      "pre_tourn_pageviews": 24,
+      "pre_tourn_pageviews": 50,
       "teetimes": [],
       "tour_rank": "189"
     },
@@ -108,7 +120,7 @@
       "owgr_rank": 60,
       "player_name": "Brennan, Michael",
       "player_num": 61522,
-      "pre_tourn_pageviews": 208,
+      "pre_tourn_pageviews": 467,
       "teetimes": [],
       "tour_rank": "102"
     },
@@ -120,7 +132,7 @@
       "owgr_rank": 27,
       "player_name": "Bridgeman, Jacob",
       "player_num": 60004,
-      "pre_tourn_pageviews": 672,
+      "pre_tourn_pageviews": 1258,
       "teetimes": [],
       "tour_rank": "11"
     },
@@ -132,7 +144,7 @@
       "owgr_rank": 106,
       "player_name": "Brown, Blades",
       "player_num": 66417,
-      "pre_tourn_pageviews": 528,
+      "pre_tourn_pageviews": 973,
       "teetimes": [],
       "tour_rank": null
     },
@@ -144,7 +156,7 @@
       "owgr_rank": null,
       "player_name": "Byrd, Jonathan",
       "player_num": 24925,
-      "pre_tourn_pageviews": 37,
+      "pre_tourn_pageviews": 70,
       "teetimes": [],
       "tour_rank": "205"
     },
@@ -156,7 +168,7 @@
       "owgr_rank": 128,
       "player_name": "Campbell, Brian",
       "player_num": 46443,
-      "pre_tourn_pageviews": 382,
+      "pre_tourn_pageviews": 618,
       "teetimes": [],
       "tour_rank": "147"
     },
@@ -168,7 +180,7 @@
       "owgr_rank": null,
       "player_name": "Campos, Rafael",
       "player_num": 32070,
-      "pre_tourn_pageviews": 32,
+      "pre_tourn_pageviews": 59,
       "teetimes": [],
       "tour_rank": "181"
     },
@@ -180,7 +192,7 @@
       "owgr_rank": 362,
       "player_name": "Champ, Cameron",
       "player_num": 52372,
-      "pre_tourn_pageviews": 68,
+      "pre_tourn_pageviews": 114,
       "teetimes": [],
       "tour_rank": null
     },
@@ -192,7 +204,7 @@
       "owgr_rank": 319,
       "player_name": "Chatfield, Davis",
       "player_num": 59006,
-      "pre_tourn_pageviews": 68,
+      "pre_tourn_pageviews": 106,
       "teetimes": [],
       "tour_rank": "177"
     },
@@ -204,7 +216,7 @@
       "owgr_rank": 270,
       "player_name": "Clanton, Luke",
       "player_num": 66743,
-      "pre_tourn_pageviews": 258,
+      "pre_tourn_pageviews": 511,
       "teetimes": [],
       "tour_rank": "142"
     },
@@ -216,7 +228,7 @@
       "owgr_rank": 69,
       "player_name": "Cole, Eric",
       "player_num": 47591,
-      "pre_tourn_pageviews": 616,
+      "pre_tourn_pageviews": 1162,
       "teetimes": [],
       "tour_rank": "41"
     },
@@ -228,7 +240,7 @@
       "owgr_rank": 59,
       "player_name": "Coody, Pierceson",
       "player_num": 59836,
-      "pre_tourn_pageviews": 289,
+      "pre_tourn_pageviews": 587,
       "teetimes": [],
       "tour_rank": "51"
     },
@@ -240,7 +252,7 @@
       "owgr_rank": 239,
       "player_name": "Crowe, Trace",
       "player_num": 52514,
-      "pre_tourn_pageviews": 37,
+      "pre_tourn_pageviews": 85,
       "teetimes": [],
       "tour_rank": "156"
     },
@@ -252,7 +264,7 @@
       "owgr_rank": 211,
       "player_name": "Dahmen, Joel",
       "player_num": 34076,
-      "pre_tourn_pageviews": 179,
+      "pre_tourn_pageviews": 285,
       "teetimes": [],
       "tour_rank": "115"
     },
@@ -264,7 +276,7 @@
       "owgr_rank": 192,
       "player_name": "Dou, Zecheng",
       "player_num": 37338,
-      "pre_tourn_pageviews": 68,
+      "pre_tourn_pageviews": 143,
       "teetimes": [],
       "tour_rank": "117"
     },
@@ -276,7 +288,7 @@
       "owgr_rank": 168,
       "player_name": "Dumont De Chassart, Adrien",
       "player_num": 50497,
-      "pre_tourn_pageviews": 104,
+      "pre_tourn_pageviews": 213,
       "teetimes": [],
       "tour_rank": "103"
     },
@@ -288,7 +300,7 @@
       "owgr_rank": 485,
       "player_name": "Duncan, Tyler",
       "player_num": 45609,
-      "pre_tourn_pageviews": 66,
+      "pre_tourn_pageviews": 130,
       "teetimes": [],
       "tour_rank": "188"
     },
@@ -300,7 +312,7 @@
       "owgr_rank": 360,
       "player_name": "Dunlap, Nick",
       "player_num": 59866,
-      "pre_tourn_pageviews": 78,
+      "pre_tourn_pageviews": 145,
       "teetimes": [],
       "tour_rank": "171"
     },
@@ -312,7 +324,7 @@
       "owgr_rank": 180,
       "player_name": "Eckroat, Austin",
       "player_num": 57362,
-      "pre_tourn_pageviews": 265,
+      "pre_tourn_pageviews": 523,
       "teetimes": [],
       "tour_rank": "110"
     },
@@ -324,9 +336,21 @@
       "owgr_rank": 186,
       "player_name": "Ewart, A.J.",
       "player_num": 50286,
-      "pre_tourn_pageviews": 232,
+      "pre_tourn_pageviews": 467,
       "teetimes": [],
       "tour_rank": "88"
+    },
+    {
+      "am": 0,
+      "country": "USA",
+      "dg_id": 26656,
+      "dg_rank": null,
+      "owgr_rank": null,
+      "player_name": "Feagles, Michael",
+      "player_num": 57124,
+      "pre_tourn_pageviews": 36,
+      "teetimes": [],
+      "tour_rank": null
     },
     {
       "am": 0,
@@ -336,7 +360,7 @@
       "owgr_rank": 113,
       "player_name": "Finau, Tony",
       "player_num": 29725,
-      "pre_tourn_pageviews": 223,
+      "pre_tourn_pageviews": 471,
       "teetimes": [],
       "tour_rank": "77"
     },
@@ -348,7 +372,7 @@
       "owgr_rank": 207,
       "player_name": "Fishburn, Patrick",
       "player_num": 54576,
-      "pre_tourn_pageviews": 85,
+      "pre_tourn_pageviews": 148,
       "teetimes": [],
       "tour_rank": "157"
     },
@@ -360,7 +384,7 @@
       "owgr_rank": null,
       "player_name": "Fisher, Darin",
       "player_num": 52497,
-      "pre_tourn_pageviews": 33,
+      "pre_tourn_pageviews": 60,
       "teetimes": [],
       "tour_rank": null
     },
@@ -372,7 +396,7 @@
       "owgr_rank": 123,
       "player_name": "Fisk, Steven",
       "player_num": 57123,
-      "pre_tourn_pageviews": 108,
+      "pre_tourn_pageviews": 213,
       "teetimes": [],
       "tour_rank": "96"
     },
@@ -384,7 +408,7 @@
       "owgr_rank": 42,
       "player_name": "Fowler, Rickie",
       "player_num": 32102,
-      "pre_tourn_pageviews": 505,
+      "pre_tourn_pageviews": 877,
       "teetimes": [],
       "tour_rank": "33"
     },
@@ -396,7 +420,7 @@
       "owgr_rank": 412,
       "player_name": "Frittelli, Dylan",
       "player_num": 29970,
-      "pre_tourn_pageviews": 90,
+      "pre_tourn_pageviews": 163,
       "teetimes": [],
       "tour_rank": null
     },
@@ -408,7 +432,7 @@
       "owgr_rank": 240,
       "player_name": "Garnett, Brice",
       "player_num": 29535,
-      "pre_tourn_pageviews": 112,
+      "pre_tourn_pageviews": 223,
       "teetimes": [],
       "tour_rank": "112"
     },
@@ -420,7 +444,7 @@
       "owgr_rank": 174,
       "player_name": "Ghim, Doug",
       "player_num": 52375,
-      "pre_tourn_pageviews": 355,
+      "pre_tourn_pageviews": 749,
       "teetimes": [],
       "tour_rank": "98"
     },
@@ -432,7 +456,7 @@
       "owgr_rank": 115,
       "player_name": "Glover, Lucas",
       "player_num": 25900,
-      "pre_tourn_pageviews": 264,
+      "pre_tourn_pageviews": 519,
       "teetimes": [],
       "tour_rank": "119"
     },
@@ -444,7 +468,7 @@
       "owgr_rank": 433,
       "player_name": "Gomez, Fabian",
       "player_num": 28679,
-      "pre_tourn_pageviews": 48,
+      "pre_tourn_pageviews": 113,
       "teetimes": [],
       "tour_rank": "197"
     },
@@ -456,7 +480,7 @@
       "owgr_rank": 362,
       "player_name": "Goodwin, Noah",
       "player_num": 55165,
-      "pre_tourn_pageviews": 30,
+      "pre_tourn_pageviews": 50,
       "teetimes": [],
       "tour_rank": null
     },
@@ -468,7 +492,7 @@
       "owgr_rank": 14,
       "player_name": "Gotterup, Chris",
       "player_num": 59095,
-      "pre_tourn_pageviews": 856,
+      "pre_tourn_pageviews": 1557,
       "teetimes": [],
       "tour_rank": "12"
     },
@@ -480,7 +504,7 @@
       "owgr_rank": 73,
       "player_name": "Greyserman, Max",
       "player_num": 51977,
-      "pre_tourn_pageviews": 279,
+      "pre_tourn_pageviews": 518,
       "teetimes": [],
       "tour_rank": "87"
     },
@@ -492,7 +516,7 @@
       "owgr_rank": 16,
       "player_name": "Griffin, Ben",
       "player_num": 54591,
-      "pre_tourn_pageviews": 999,
+      "pre_tourn_pageviews": 1914,
       "teetimes": [],
       "tour_rank": "31"
     },
@@ -504,7 +528,7 @@
       "owgr_rank": 222,
       "player_name": "Griffin, Lanto",
       "player_num": 35310,
-      "pre_tourn_pageviews": 64,
+      "pre_tourn_pageviews": 108,
       "teetimes": [],
       "tour_rank": "150"
     },
@@ -516,9 +540,21 @@
       "owgr_rank": 109,
       "player_name": "Grillo, Emiliano",
       "player_num": 31646,
-      "pre_tourn_pageviews": 580,
+      "pre_tourn_pageviews": 1120,
       "teetimes": [],
       "tour_rank": "105"
+    },
+    {
+      "am": 0,
+      "country": "USA",
+      "dg_id": 32683,
+      "dg_rank": null,
+      "owgr_rank": null,
+      "player_name": "Gutschewski, Luke",
+      "player_num": 67202,
+      "pre_tourn_pageviews": 40,
+      "teetimes": [],
+      "tour_rank": null
     },
     {
       "am": 0,
@@ -528,7 +564,7 @@
       "owgr_rank": 262,
       "player_name": "Hadwin, Adam",
       "player_num": 33399,
-      "pre_tourn_pageviews": 75,
+      "pre_tourn_pageviews": 150,
       "teetimes": [],
       "tour_rank": "173"
     },
@@ -540,7 +576,7 @@
       "owgr_rank": null,
       "player_name": "Hardy, Nick",
       "player_num": 47988,
-      "pre_tourn_pageviews": 43,
+      "pre_tourn_pageviews": 78,
       "teetimes": [],
       "tour_rank": "191"
     },
@@ -552,7 +588,7 @@
       "owgr_rank": 104,
       "player_name": "Higgo, Garrick",
       "player_num": 54421,
-      "pre_tourn_pageviews": 106,
+      "pre_tourn_pageviews": 199,
       "teetimes": [],
       "tour_rank": "149"
     },
@@ -564,7 +600,7 @@
       "owgr_rank": 326,
       "player_name": "Higgs, Harry",
       "player_num": 33597,
-      "pre_tourn_pageviews": 89,
+      "pre_tourn_pageviews": 160,
       "teetimes": [],
       "tour_rank": "190"
     },
@@ -576,7 +612,7 @@
       "owgr_rank": 179,
       "player_name": "Highsmith, Joe",
       "player_num": 60067,
-      "pre_tourn_pageviews": 46,
+      "pre_tourn_pageviews": 97,
       "teetimes": [],
       "tour_rank": "161"
     },
@@ -588,7 +624,7 @@
       "owgr_rank": 286,
       "player_name": "Hirata, Kensei",
       "player_num": 49120,
-      "pre_tourn_pageviews": 47,
+      "pre_tourn_pageviews": 114,
       "teetimes": [],
       "tour_rank": "153"
     },
@@ -600,7 +636,7 @@
       "owgr_rank": 64,
       "player_name": "Hisatsune, Ryo",
       "player_num": 51287,
-      "pre_tourn_pageviews": 376,
+      "pre_tourn_pageviews": 755,
       "teetimes": [],
       "tour_rank": "43"
     },
@@ -612,7 +648,7 @@
       "owgr_rank": 155,
       "player_name": "Hodges, Lee",
       "player_num": 54628,
-      "pre_tourn_pageviews": 116,
+      "pre_tourn_pageviews": 225,
       "teetimes": [],
       "tour_rank": "123"
     },
@@ -624,7 +660,7 @@
       "owgr_rank": 92,
       "player_name": "Hoey, Rico",
       "player_num": 51696,
-      "pre_tourn_pageviews": 386,
+      "pre_tourn_pageviews": 622,
       "teetimes": [],
       "tour_rank": "104"
     },
@@ -636,7 +672,7 @@
       "owgr_rank": 110,
       "player_name": "Hoge, Tom",
       "player_num": 35532,
-      "pre_tourn_pageviews": 228,
+      "pre_tourn_pageviews": 410,
       "teetimes": [],
       "tour_rank": "75"
     },
@@ -648,7 +684,7 @@
       "owgr_rank": 112,
       "player_name": "Homa, Max",
       "player_num": 39977,
-      "pre_tourn_pageviews": 478,
+      "pre_tourn_pageviews": 895,
       "teetimes": [],
       "tour_rank": "72"
     },
@@ -660,7 +696,7 @@
       "owgr_rank": 158,
       "player_name": "Hossler, Beau",
       "player_num": 35461,
-      "pre_tourn_pageviews": 107,
+      "pre_tourn_pageviews": 225,
       "teetimes": [],
       "tour_rank": "116"
     },
@@ -672,7 +708,7 @@
       "owgr_rank": null,
       "player_name": "Howell, Mason",
       "player_num": 68607,
-      "pre_tourn_pageviews": 60,
+      "pre_tourn_pageviews": 94,
       "teetimes": [],
       "tour_rank": null
     },
@@ -684,7 +720,7 @@
       "owgr_rank": 127,
       "player_name": "Hubbard, Mark",
       "player_num": 36801,
-      "pre_tourn_pageviews": 187,
+      "pre_tourn_pageviews": 336,
       "teetimes": [],
       "tour_rank": "99"
     },
@@ -696,7 +732,7 @@
       "owgr_rank": 145,
       "player_name": "Hughes, Mackenzie",
       "player_num": 35506,
-      "pre_tourn_pageviews": 108,
+      "pre_tourn_pageviews": 209,
       "teetimes": [],
       "tour_rank": "124"
     },
@@ -708,7 +744,7 @@
       "owgr_rank": 78,
       "player_name": "Im, Sungjae",
       "player_num": 39971,
-      "pre_tourn_pageviews": 362,
+      "pre_tourn_pageviews": 693,
       "teetimes": [],
       "tour_rank": "60"
     },
@@ -720,7 +756,7 @@
       "owgr_rank": 96,
       "player_name": "Jaeger, Stephan",
       "player_num": 36799,
-      "pre_tourn_pageviews": 142,
+      "pre_tourn_pageviews": 377,
       "teetimes": [],
       "tour_rank": "80"
     },
@@ -732,7 +768,7 @@
       "owgr_rank": 430,
       "player_name": "Johnson, Zach",
       "player_num": 24024,
-      "pre_tourn_pageviews": 310,
+      "pre_tourn_pageviews": 458,
       "teetimes": [],
       "tour_rank": "200"
     },
@@ -744,7 +780,7 @@
       "owgr_rank": 154,
       "player_name": "Kanaya, Takumi",
       "player_num": 47917,
-      "pre_tourn_pageviews": 91,
+      "pre_tourn_pageviews": 165,
       "teetimes": [],
       "tour_rank": "131"
     },
@@ -756,7 +792,7 @@
       "owgr_rank": 257,
       "player_name": "Kang, Jeffrey",
       "player_num": 47393,
-      "pre_tourn_pageviews": 27,
+      "pre_tourn_pageviews": 67,
       "teetimes": [],
       "tour_rank": "151"
     },
@@ -768,7 +804,7 @@
       "owgr_rank": 77,
       "player_name": "Keefer, Johnny",
       "player_num": 63454,
-      "pre_tourn_pageviews": 361,
+      "pre_tourn_pageviews": 666,
       "teetimes": [],
       "tour_rank": "83"
     },
@@ -780,7 +816,7 @@
       "owgr_rank": 256,
       "player_name": "Kim, Chan",
       "player_num": 34587,
-      "pre_tourn_pageviews": 73,
+      "pre_tourn_pageviews": 169,
       "teetimes": [],
       "tour_rank": "176"
     },
@@ -792,7 +828,7 @@
       "owgr_rank": 48,
       "player_name": "Kim, Michael",
       "player_num": 39975,
-      "pre_tourn_pageviews": 396,
+      "pre_tourn_pageviews": 748,
       "teetimes": [],
       "tour_rank": "62"
     },
@@ -804,7 +840,7 @@
       "owgr_rank": 66,
       "player_name": "Kim, Tom",
       "player_num": 55182,
-      "pre_tourn_pageviews": 801,
+      "pre_tourn_pageviews": 1516,
       "teetimes": [],
       "tour_rank": "57"
     },
@@ -816,7 +852,7 @@
       "owgr_rank": 384,
       "player_name": "Kizzire, Patton",
       "player_num": 32757,
-      "pre_tourn_pageviews": 63,
+      "pre_tourn_pageviews": 111,
       "teetimes": [],
       "tour_rank": "152"
     },
@@ -828,7 +864,7 @@
       "owgr_rank": 169,
       "player_name": "Kohles, Ben",
       "player_num": 36884,
-      "pre_tourn_pageviews": 402,
+      "pre_tourn_pageviews": 803,
       "teetimes": [],
       "tour_rank": "140"
     },
@@ -840,7 +876,7 @@
       "owgr_rank": 218,
       "player_name": "Koivun, Jackson",
       "player_num": 66701,
-      "pre_tourn_pageviews": 1004,
+      "pre_tourn_pageviews": 1793,
       "teetimes": [],
       "tour_rank": null
     },
@@ -852,7 +888,7 @@
       "owgr_rank": 181,
       "player_name": "Kuchar, Matt",
       "player_num": 23108,
-      "pre_tourn_pageviews": 171,
+      "pre_tourn_pageviews": 326,
       "teetimes": [],
       "tour_rank": "141"
     },
@@ -864,7 +900,7 @@
       "owgr_rank": 477,
       "player_name": "Laird, Martin",
       "player_num": 27936,
-      "pre_tourn_pageviews": 46,
+      "pre_tourn_pageviews": 78,
       "teetimes": [],
       "tour_rank": "204"
     },
@@ -876,7 +912,7 @@
       "owgr_rank": 260,
       "player_name": "Lamprecht, Christo",
       "player_num": 54422,
-      "pre_tourn_pageviews": 34,
+      "pre_tourn_pageviews": 71,
       "teetimes": [],
       "tour_rank": "184"
     },
@@ -888,7 +924,7 @@
       "owgr_rank": 238,
       "player_name": "Lebioda, Hank",
       "player_num": 49766,
-      "pre_tourn_pageviews": 32,
+      "pre_tourn_pageviews": 77,
       "teetimes": [],
       "tour_rank": "130"
     },
@@ -900,7 +936,7 @@
       "owgr_rank": 95,
       "player_name": "Li, Haotong",
       "player_num": 35296,
-      "pre_tourn_pageviews": 158,
+      "pre_tourn_pageviews": 303,
       "teetimes": [],
       "tour_rank": "109"
     },
@@ -912,7 +948,7 @@
       "owgr_rank": null,
       "player_name": "Lindheim, Nicholas",
       "player_num": 37278,
-      "pre_tourn_pageviews": 30,
+      "pre_tourn_pageviews": 69,
       "teetimes": [],
       "tour_rank": null
     },
@@ -924,7 +960,7 @@
       "owgr_rank": 108,
       "player_name": "Lipsky, David",
       "player_num": 36326,
-      "pre_tourn_pageviews": 167,
+      "pre_tourn_pageviews": 304,
       "teetimes": [],
       "tour_rank": "74"
     },
@@ -936,7 +972,7 @@
       "owgr_rank": null,
       "player_name": "List, Luke",
       "player_num": 27129,
-      "pre_tourn_pageviews": 41,
+      "pre_tourn_pageviews": 70,
       "teetimes": [],
       "tour_rank": "192"
     },
@@ -948,7 +984,7 @@
       "owgr_rank": 265,
       "player_name": "Lower, Justin",
       "player_num": 40162,
-      "pre_tourn_pageviews": 47,
+      "pre_tourn_pageviews": 97,
       "teetimes": [],
       "tour_rank": "175"
     },
@@ -960,7 +996,7 @@
       "owgr_rank": null,
       "player_name": "Malnati, Peter",
       "player_num": 34466,
-      "pre_tourn_pageviews": 33,
+      "pre_tourn_pageviews": 77,
       "teetimes": [],
       "tour_rank": "163"
     },
@@ -972,7 +1008,7 @@
       "owgr_rank": 490,
       "player_name": "Martin, Ben",
       "player_num": 33413,
-      "pre_tourn_pageviews": 28,
+      "pre_tourn_pageviews": 50,
       "teetimes": [],
       "tour_rank": "158"
     },
@@ -984,7 +1020,7 @@
       "owgr_rank": 102,
       "player_name": "McCarthy, Denny",
       "player_num": 47993,
-      "pre_tourn_pageviews": 618,
+      "pre_tourn_pageviews": 1136,
       "teetimes": [],
       "tour_rank": "89"
     },
@@ -996,7 +1032,7 @@
       "owgr_rank": 94,
       "player_name": "McGreevy, Max",
       "player_num": 51950,
-      "pre_tourn_pageviews": 182,
+      "pre_tourn_pageviews": 369,
       "teetimes": [],
       "tour_rank": "108"
     },
@@ -1008,7 +1044,7 @@
       "owgr_rank": 89,
       "player_name": "Meissner, Mac",
       "player_num": 59143,
-      "pre_tourn_pageviews": 286,
+      "pre_tourn_pageviews": 591,
       "teetimes": [],
       "tour_rank": "79"
     },
@@ -1020,7 +1056,7 @@
       "owgr_rank": 471,
       "player_name": "Merritt, Troy",
       "player_num": 32640,
-      "pre_tourn_pageviews": 66,
+      "pre_tourn_pageviews": 128,
       "teetimes": [],
       "tour_rank": "196"
     },
@@ -1032,7 +1068,7 @@
       "owgr_rank": 68,
       "player_name": "Mitchell, Keith",
       "player_num": 39546,
-      "pre_tourn_pageviews": 627,
+      "pre_tourn_pageviews": 1294,
       "teetimes": [],
       "tour_rank": "44"
     },
@@ -1044,7 +1080,7 @@
       "owgr_rank": 138,
       "player_name": "Moore, Taylor",
       "player_num": 49947,
-      "pre_tourn_pageviews": 168,
+      "pre_tourn_pageviews": 421,
       "teetimes": [],
       "tour_rank": "81"
     },
@@ -1056,7 +1092,7 @@
       "owgr_rank": 129,
       "player_name": "Mouw, William",
       "player_num": 63121,
-      "pre_tourn_pageviews": 147,
+      "pre_tourn_pageviews": 291,
       "teetimes": [],
       "tour_rank": "107"
     },
@@ -1068,7 +1104,7 @@
       "owgr_rank": 139,
       "player_name": "Nakajima, Keita",
       "player_num": 49228,
-      "pre_tourn_pageviews": 118,
+      "pre_tourn_pageviews": 234,
       "teetimes": [],
       "tour_rank": "144"
     },
@@ -1080,7 +1116,7 @@
       "owgr_rank": 336,
       "player_name": "Noh, S.Y.",
       "player_num": 29289,
-      "pre_tourn_pageviews": 79,
+      "pre_tourn_pageviews": 178,
       "teetimes": [],
       "tour_rank": "172"
     },
@@ -1092,9 +1128,21 @@
       "owgr_rank": 65,
       "player_name": "Novak, Andrew",
       "player_num": 51997,
-      "pre_tourn_pageviews": 459,
+      "pre_tourn_pageviews": 886,
       "teetimes": [],
       "tour_rank": "76"
+    },
+    {
+      "am": 0,
+      "country": "ARG",
+      "dg_id": 16796,
+      "dg_rank": null,
+      "owgr_rank": null,
+      "player_name": "Nunez, Augusto",
+      "player_num": 36724,
+      "pre_tourn_pageviews": 37,
+      "teetimes": [],
+      "tour_rank": null
     },
     {
       "am": 0,
@@ -1104,7 +1152,7 @@
       "owgr_rank": 261,
       "player_name": "Nyholm, Pontus",
       "player_num": 55851,
-      "pre_tourn_pageviews": 48,
+      "pre_tourn_pageviews": 89,
       "teetimes": [],
       "tour_rank": "129"
     },
@@ -1116,7 +1164,7 @@
       "owgr_rank": 134,
       "player_name": "Olesen, Thorbjorn",
       "player_num": 33968,
-      "pre_tourn_pageviews": 96,
+      "pre_tourn_pageviews": 193,
       "teetimes": [],
       "tour_rank": "159"
     },
@@ -1128,7 +1176,7 @@
       "owgr_rank": 304,
       "player_name": "Paul, Jeremy",
       "player_num": 50582,
-      "pre_tourn_pageviews": 35,
+      "pre_tourn_pageviews": 74,
       "teetimes": [],
       "tour_rank": "178"
     },
@@ -1140,7 +1188,7 @@
       "owgr_rank": 269,
       "player_name": "Pavon, Matthieu",
       "player_num": 48153,
-      "pre_tourn_pageviews": 149,
+      "pre_tourn_pageviews": 285,
       "teetimes": [],
       "tour_rank": "100"
     },
@@ -1152,7 +1200,7 @@
       "owgr_rank": 93,
       "player_name": "Pendrith, Taylor",
       "player_num": 40250,
-      "pre_tourn_pageviews": 156,
+      "pre_tourn_pageviews": 320,
       "teetimes": [],
       "tour_rank": "92"
     },
@@ -1164,7 +1212,7 @@
       "owgr_rank": 252,
       "player_name": "Peterson, Paul",
       "player_num": 36824,
-      "pre_tourn_pageviews": 89,
+      "pre_tourn_pageviews": 183,
       "teetimes": [],
       "tour_rank": "145"
     },
@@ -1176,7 +1224,7 @@
       "owgr_rank": 173,
       "player_name": "Phillips, Chandler",
       "player_num": 57900,
-      "pre_tourn_pageviews": 75,
+      "pre_tourn_pageviews": 145,
       "teetimes": [],
       "tour_rank": "114"
     },
@@ -1188,7 +1236,7 @@
       "owgr_rank": 32,
       "player_name": "Poston, J.T.",
       "player_num": 49771,
-      "pre_tourn_pageviews": 575,
+      "pre_tourn_pageviews": 1076,
       "teetimes": [],
       "tour_rank": "23"
     },
@@ -1200,7 +1248,7 @@
       "owgr_rank": 74,
       "player_name": "Potgieter, Aldrich",
       "player_num": 63343,
-      "pre_tourn_pageviews": 398,
+      "pre_tourn_pageviews": 727,
       "teetimes": [],
       "tour_rank": "58"
     },
@@ -1212,7 +1260,7 @@
       "owgr_rank": 198,
       "player_name": "Power, Seamus",
       "player_num": 28252,
-      "pre_tourn_pageviews": 121,
+      "pre_tourn_pageviews": 261,
       "teetimes": [],
       "tour_rank": "113"
     },
@@ -1224,7 +1272,7 @@
       "owgr_rank": 88,
       "player_name": "Putnam, Andrew",
       "player_num": 34256,
-      "pre_tourn_pageviews": 258,
+      "pre_tourn_pageviews": 615,
       "teetimes": [],
       "tour_rank": "65"
     },
@@ -1236,7 +1284,7 @@
       "owgr_rank": 172,
       "player_name": "Ramey, Chad",
       "player_num": 47983,
-      "pre_tourn_pageviews": 74,
+      "pre_tourn_pageviews": 125,
       "teetimes": [],
       "tour_rank": "120"
     },
@@ -1248,7 +1296,7 @@
       "owgr_rank": 167,
       "player_name": "Riley, Davis",
       "player_num": 47995,
-      "pre_tourn_pageviews": 64,
+      "pre_tourn_pageviews": 137,
       "teetimes": [],
       "tour_rank": "136"
     },
@@ -1260,7 +1308,7 @@
       "owgr_rank": 85,
       "player_name": "Rodgers, Patrick",
       "player_num": 36699,
-      "pre_tourn_pageviews": 147,
+      "pre_tourn_pageviews": 279,
       "teetimes": [],
       "tour_rank": "55"
     },
@@ -1272,7 +1320,7 @@
       "owgr_rank": 135,
       "player_name": "Roy, Kevin",
       "player_num": 39335,
-      "pre_tourn_pageviews": 230,
+      "pre_tourn_pageviews": 369,
       "teetimes": [],
       "tour_rank": "90"
     },
@@ -1284,7 +1332,7 @@
       "owgr_rank": null,
       "player_name": "Rozo, Marcelo",
       "player_num": 37076,
-      "pre_tourn_pageviews": 38,
+      "pre_tourn_pageviews": 107,
       "teetimes": [],
       "tour_rank": "195"
     },
@@ -1296,7 +1344,7 @@
       "owgr_rank": null,
       "player_name": "Sargent, Gordon",
       "player_num": 64442,
-      "pre_tourn_pageviews": 53,
+      "pre_tourn_pageviews": 84,
       "teetimes": [],
       "tour_rank": "164"
     },
@@ -1308,7 +1356,7 @@
       "owgr_rank": 171,
       "player_name": "Schenk, Adam",
       "player_num": 47347,
-      "pre_tourn_pageviews": 93,
+      "pre_tourn_pageviews": 155,
       "teetimes": [],
       "tour_rank": "143"
     },
@@ -1320,7 +1368,7 @@
       "owgr_rank": 193,
       "player_name": "Shipley, Neal",
       "player_num": 63807,
-      "pre_tourn_pageviews": 105,
+      "pre_tourn_pageviews": 199,
       "teetimes": [],
       "tour_rank": "179"
     },
@@ -1332,7 +1380,7 @@
       "owgr_rank": 276,
       "player_name": "Silverman, Ben",
       "player_num": 39327,
-      "pre_tourn_pageviews": 52,
+      "pre_tourn_pageviews": 108,
       "teetimes": [],
       "tour_rank": "146"
     },
@@ -1344,7 +1392,7 @@
       "owgr_rank": 476,
       "player_name": "Simpson, Webb",
       "player_num": 29221,
-      "pre_tourn_pageviews": 52,
+      "pre_tourn_pageviews": 93,
       "teetimes": [],
       "tour_rank": "166"
     },
@@ -1356,7 +1404,7 @@
       "owgr_rank": 271,
       "player_name": "Skinns, David",
       "player_num": 27139,
-      "pre_tourn_pageviews": 47,
+      "pre_tourn_pageviews": 95,
       "teetimes": [],
       "tour_rank": "139"
     },
@@ -1368,7 +1416,7 @@
       "owgr_rank": 101,
       "player_name": "Smotherman, Austin",
       "player_num": 50095,
-      "pre_tourn_pageviews": 219,
+      "pre_tourn_pageviews": 409,
       "teetimes": [],
       "tour_rank": "68"
     },
@@ -1380,7 +1428,7 @@
       "owgr_rank": 53,
       "player_name": "Spieth, Jordan",
       "player_num": 34046,
-      "pre_tourn_pageviews": 620,
+      "pre_tourn_pageviews": 1083,
       "teetimes": [],
       "tour_rank": "52"
     },
@@ -1392,7 +1440,7 @@
       "owgr_rank": 287,
       "player_name": "Springer, Hayden",
       "player_num": 50484,
-      "pre_tourn_pageviews": 73,
+      "pre_tourn_pageviews": 144,
       "teetimes": [],
       "tour_rank": "127"
     },
@@ -1404,7 +1452,7 @@
       "owgr_rank": 337,
       "player_name": "Stanger, Jimmy",
       "player_num": 51600,
-      "pre_tourn_pageviews": 98,
+      "pre_tourn_pageviews": 178,
       "teetimes": [],
       "tour_rank": "121"
     },
@@ -1416,7 +1464,7 @@
       "owgr_rank": null,
       "player_name": "Stout, Preston",
       "player_num": 66416,
-      "pre_tourn_pageviews": 93,
+      "pre_tourn_pageviews": 232,
       "teetimes": [],
       "tour_rank": null
     },
@@ -1428,7 +1476,7 @@
       "owgr_rank": null,
       "player_name": "Streb, Robert",
       "player_num": 34431,
-      "pre_tourn_pageviews": 29,
+      "pre_tourn_pageviews": 56,
       "teetimes": [],
       "tour_rank": "207"
     },
@@ -1440,7 +1488,7 @@
       "owgr_rank": 437,
       "player_name": "Streelman, Kevin",
       "player_num": 27214,
-      "pre_tourn_pageviews": 39,
+      "pre_tourn_pageviews": 91,
       "teetimes": [],
       "tour_rank": "154"
     },
@@ -1452,7 +1500,7 @@
       "owgr_rank": 126,
       "player_name": "Suber, Jackson",
       "player_num": 60019,
-      "pre_tourn_pageviews": 576,
+      "pre_tourn_pageviews": 1068,
       "teetimes": [],
       "tour_rank": "85"
     },
@@ -1464,7 +1512,7 @@
       "owgr_rank": 438,
       "player_name": "Svensson, Adam",
       "player_num": 40115,
-      "pre_tourn_pageviews": 79,
+      "pre_tourn_pageviews": 163,
       "teetimes": [],
       "tour_rank": "165"
     },
@@ -1476,7 +1524,7 @@
       "owgr_rank": 148,
       "player_name": "Thompson, Davis",
       "player_num": 58168,
-      "pre_tourn_pageviews": 395,
+      "pre_tourn_pageviews": 783,
       "teetimes": [],
       "tour_rank": "93"
     },
@@ -1488,7 +1536,7 @@
       "owgr_rank": 82,
       "player_name": "Thorbjornsen, Michael",
       "player_num": 57364,
-      "pre_tourn_pageviews": 620,
+      "pre_tourn_pageviews": 1230,
       "teetimes": [],
       "tour_rank": "73"
     },
@@ -1500,7 +1548,7 @@
       "owgr_rank": null,
       "player_name": "Todd, Brendon",
       "player_num": 30927,
-      "pre_tourn_pageviews": 78,
+      "pre_tourn_pageviews": 165,
       "teetimes": [],
       "tour_rank": "209"
     },
@@ -1512,7 +1560,7 @@
       "owgr_rank": 379,
       "player_name": "Tosti, Alejandro",
       "player_num": 38991,
-      "pre_tourn_pageviews": 64,
+      "pre_tourn_pageviews": 138,
       "teetimes": [],
       "tour_rank": "183"
     },
@@ -1524,7 +1572,7 @@
       "owgr_rank": 183,
       "player_name": "Van Rooyen, Erik",
       "player_num": 40006,
-      "pre_tourn_pageviews": 185,
+      "pre_tourn_pageviews": 300,
       "teetimes": [],
       "tour_rank": "137"
     },
@@ -1536,7 +1584,7 @@
       "owgr_rank": 291,
       "player_name": "VanDerLaan, John",
       "player_num": 55573,
-      "pre_tourn_pageviews": 32,
+      "pre_tourn_pageviews": 74,
       "teetimes": [],
       "tour_rank": "169"
     },
@@ -1548,7 +1596,7 @@
       "owgr_rank": 156,
       "player_name": "Vegas, Jhonattan",
       "player_num": 27064,
-      "pre_tourn_pageviews": 73,
+      "pre_tourn_pageviews": 144,
       "teetimes": [],
       "tour_rank": "125"
     },
@@ -1560,7 +1608,7 @@
       "owgr_rank": 311,
       "player_name": "Ventura, Kris",
       "player_num": 35658,
-      "pre_tourn_pageviews": 74,
+      "pre_tourn_pageviews": 129,
       "teetimes": [],
       "tour_rank": "126"
     },
@@ -1572,7 +1620,7 @@
       "owgr_rank": 196,
       "player_name": "Vilips, Karl",
       "player_num": 54304,
-      "pre_tourn_pageviews": 77,
+      "pre_tourn_pageviews": 151,
       "teetimes": [],
       "tour_rank": "122"
     },
@@ -1584,7 +1632,7 @@
       "owgr_rank": 495,
       "player_name": "Villegas, Camilo",
       "player_num": 27770,
-      "pre_tourn_pageviews": 124,
+      "pre_tourn_pageviews": 158,
       "teetimes": [],
       "tour_rank": "186"
     },
@@ -1596,7 +1644,7 @@
       "owgr_rank": null,
       "player_name": "Voois, Ryan",
       "player_num": 68994,
-      "pre_tourn_pageviews": 49,
+      "pre_tourn_pageviews": 103,
       "teetimes": [],
       "tour_rank": null
     },
@@ -1608,7 +1656,7 @@
       "owgr_rank": 254,
       "player_name": "Walker, Danny",
       "player_num": 54607,
-      "pre_tourn_pageviews": 37,
+      "pre_tourn_pageviews": 77,
       "teetimes": [],
       "tour_rank": "148"
     },
@@ -1620,7 +1668,7 @@
       "owgr_rank": 70,
       "player_name": "Wallace, Matt",
       "player_num": 48887,
-      "pre_tourn_pageviews": 294,
+      "pre_tourn_pageviews": 620,
       "teetimes": [],
       "tour_rank": "86"
     },
@@ -1632,7 +1680,7 @@
       "owgr_rank": 166,
       "player_name": "Whaley, Vince",
       "player_num": 51894,
-      "pre_tourn_pageviews": 61,
+      "pre_tourn_pageviews": 128,
       "teetimes": [],
       "tour_rank": "162"
     },
@@ -1644,7 +1692,7 @@
       "owgr_rank": null,
       "player_name": "Wise, Aaron",
       "player_num": 49964,
-      "pre_tourn_pageviews": 39,
+      "pre_tourn_pageviews": 90,
       "teetimes": [],
       "tour_rank": null
     },
@@ -1656,7 +1704,7 @@
       "owgr_rank": 377,
       "player_name": "Wu, Dylan",
       "player_num": 54783,
-      "pre_tourn_pageviews": 52,
+      "pre_tourn_pageviews": 99,
       "teetimes": [],
       "tour_rank": "155"
     },
@@ -1668,7 +1716,7 @@
       "owgr_rank": 99,
       "player_name": "Yellamaraju, Sudarshan",
       "player_num": 60386,
-      "pre_tourn_pageviews": 403,
+      "pre_tourn_pageviews": 747,
       "teetimes": [],
       "tour_rank": "48"
     },
@@ -1680,7 +1728,7 @@
       "owgr_rank": 175,
       "player_name": "Young, Carson",
       "player_num": 52513,
-      "pre_tourn_pageviews": 382,
+      "pre_tourn_pageviews": 774,
       "teetimes": [],
       "tour_rank": "185"
     },
@@ -1692,7 +1740,7 @@
       "owgr_rank": 130,
       "player_name": "Yu, Kevin",
       "player_num": 45242,
-      "pre_tourn_pageviews": 205,
+      "pre_tourn_pageviews": 429,
       "teetimes": [],
       "tour_rank": "128"
     }
@@ -2835,1159 +2883,1159 @@
   "dg_predictions": {
     "by_player": {
       "Ben Griffin": {
-        "win": 0.0533166666666667,
-        "top_5": 0.190880193602694,
-        "top_10": 0.311138211279461,
-        "top_20": 0.478681352443852,
-        "make_cut": 0.811183333333333,
+        "win": 0.0529333333333333,
+        "top_5": 0.191864644244644,
+        "top_10": 0.311734987882488,
+        "top_20": 0.479581942384957,
+        "make_cut": 0.80815,
         "dg_id": 24968
       },
       "Chris Gotterup": {
-        "win": 0.0495833333333333,
-        "top_5": 0.172416845238095,
-        "top_10": 0.277946282166907,
-        "top_20": 0.429920501373626,
-        "make_cut": 0.7698,
+        "win": 0.0491,
+        "top_5": 0.171706842231842,
+        "top_10": 0.27905393023643,
+        "top_20": 0.43189743992119,
+        "make_cut": 0.7717,
         "dg_id": 27774
       },
       "Keith Mitchell": {
-        "win": 0.0354833333333333,
-        "top_5": 0.138696752645503,
-        "top_10": 0.23613805502368,
-        "top_20": 0.38511205247503,
-        "make_cut": 0.748416666666667,
+        "win": 0.0352666666666667,
+        "top_5": 0.138022978595479,
+        "top_10": 0.234089675093425,
+        "top_20": 0.384597969644734,
+        "make_cut": 0.749666666666667,
         "dg_id": 17365
       },
       "Keegan Bradley": {
-        "win": 0.0349666666666667,
-        "top_5": 0.135608108465608,
-        "top_10": 0.231975981703482,
-        "top_20": 0.383694425990676,
-        "make_cut": 0.749716666666667,
+        "win": 0.0338333333333333,
+        "top_5": 0.132411495310245,
+        "top_10": 0.229175106606357,
+        "top_20": 0.379122889356014,
+        "make_cut": 0.7461,
         "dg_id": 13872
       },
       "Jackson Koivun": {
-        "win": 0.0318666666666667,
-        "top_5": 0.127354969336219,
-        "top_10": 0.219132682132682,
-        "top_20": 0.362363975283975,
-        "make_cut": 0.736183333333333,
+        "win": 0.0332333333333333,
+        "top_5": 0.127697241647242,
+        "top_10": 0.22013775002775,
+        "top_20": 0.365106286673566,
+        "make_cut": 0.733683333333333,
         "dg_id": 32319
       },
-      "Jordan Spieth": {
-        "win": 0.0269,
-        "top_5": 0.112733936988937,
-        "top_10": 0.204737286509787,
-        "top_20": 0.348120275756379,
-        "make_cut": 0.726466666666667,
-        "dg_id": 14636
-      },
       "Jacob Bridgeman": {
-        "win": 0.0256333333333333,
-        "top_5": 0.111093413900914,
-        "top_10": 0.200698157930033,
-        "top_20": 0.342748702570578,
-        "make_cut": 0.721933333333333,
+        "win": 0.0273333333333333,
+        "top_5": 0.113870332075332,
+        "top_10": 0.203105304325304,
+        "top_20": 0.344767277352277,
+        "make_cut": 0.725816666666667,
         "dg_id": 29433
       },
+      "Jordan Spieth": {
+        "win": 0.0263666666666667,
+        "top_5": 0.114599888768639,
+        "top_10": 0.201836383061383,
+        "top_20": 0.343410289918415,
+        "make_cut": 0.72985,
+        "dg_id": 14636
+      },
       "J.T. Poston": {
-        "win": 0.0243833333333333,
-        "top_5": 0.106820801467051,
-        "top_10": 0.192874517982018,
-        "top_20": 0.336333890553891,
-        "make_cut": 0.726383333333333,
+        "win": 0.0250833333333333,
+        "top_5": 0.109622546481296,
+        "top_10": 0.197963228900729,
+        "top_20": 0.338652949226699,
+        "make_cut": 0.72665,
         "dg_id": 21554
       },
       "Andrew Novak": {
-        "win": 0.0221166666666667,
-        "top_5": 0.0957545839345839,
-        "top_10": 0.172572855061605,
-        "top_20": 0.300371083384208,
-        "make_cut": 0.692783333333333,
+        "win": 0.0211166666666667,
+        "top_5": 0.0954940163540164,
+        "top_10": 0.174077951677952,
+        "top_20": 0.3055264246633,
+        "make_cut": 0.697416666666667,
         "dg_id": 23475
       },
-      "Ryo Hisatsune": {
-        "win": 0.0215833333333333,
-        "top_5": 0.0967300757575758,
-        "top_10": 0.175187722693973,
-        "top_20": 0.309120113127613,
-        "make_cut": 0.703216666666667,
-        "dg_id": 22760
-      },
-      "Rickie Fowler": {
-        "win": 0.0204833333333333,
-        "top_5": 0.0893740542328042,
-        "top_10": 0.161489299011174,
-        "top_20": 0.288732722115847,
-        "make_cut": 0.6853,
-        "dg_id": 12965
-      },
       "Michael Thorbjornsen": {
-        "win": 0.0196,
-        "top_5": 0.088526323953824,
-        "top_10": 0.162081514157139,
-        "top_20": 0.288960744093869,
-        "make_cut": 0.6822,
+        "win": 0.0203166666666667,
+        "top_5": 0.0882091804954305,
+        "top_10": 0.162206197182447,
+        "top_20": 0.289399700762201,
+        "make_cut": 0.683033333333333,
         "dg_id": 26649
       },
-      "Tom Kim": {
-        "win": 0.0193,
-        "top_5": 0.0893900198412698,
-        "top_10": 0.166731878908129,
-        "top_20": 0.298902970802346,
-        "make_cut": 0.693883333333333,
-        "dg_id": 24766
+      "Rickie Fowler": {
+        "win": 0.0202166666666667,
+        "top_5": 0.0895271302308802,
+        "top_10": 0.165369868557369,
+        "top_20": 0.292732630539395,
+        "make_cut": 0.683933333333333,
+        "dg_id": 12965
+      },
+      "Ryo Hisatsune": {
+        "win": 0.0200166666666667,
+        "top_5": 0.094099794973545,
+        "top_10": 0.172760091390091,
+        "top_20": 0.307410479580333,
+        "make_cut": 0.704416666666667,
+        "dg_id": 22760
       },
       "Eric Cole": {
-        "win": 0.0183666666666667,
-        "top_5": 0.0865394324194324,
-        "top_10": 0.162283473794724,
-        "top_20": 0.293632071308321,
-        "make_cut": 0.69105,
+        "win": 0.0194833333333333,
+        "top_5": 0.0901562754375254,
+        "top_10": 0.165816929274429,
+        "top_20": 0.29517655039405,
+        "make_cut": 0.695016666666667,
         "dg_id": 21756
       },
-      "Pierceson Coody": {
-        "win": 0.0177166666666667,
-        "top_5": 0.0811754046416546,
-        "top_10": 0.152754192242942,
-        "top_20": 0.279822689602065,
-        "make_cut": 0.6817,
-        "dg_id": 28309
+      "Tom Kim": {
+        "win": 0.0192666666666667,
+        "top_5": 0.0875403897953898,
+        "top_10": 0.163881290515041,
+        "top_20": 0.299135191914567,
+        "make_cut": 0.698683333333333,
+        "dg_id": 24766
       },
       "Doug Ghim": {
-        "win": 0.0174833333333333,
-        "top_5": 0.084237126022126,
-        "top_10": 0.159349012654013,
-        "top_20": 0.291671787148037,
-        "make_cut": 0.693383333333333,
+        "win": 0.01865,
+        "top_5": 0.0855783008658009,
+        "top_10": 0.160013338097088,
+        "top_20": 0.290611571669072,
+        "make_cut": 0.692466666666667,
         "dg_id": 24550
       },
-      "Michael Kim": {
-        "win": 0.0171333333333333,
-        "top_5": 0.0785501587301587,
-        "top_10": 0.150637331672957,
-        "top_20": 0.277763592032967,
-        "make_cut": 0.680033333333333,
-        "dg_id": 17543
-      },
-      "Michael Brennan": {
-        "win": 0.0168666666666667,
-        "top_5": 0.0749630297017797,
-        "top_10": 0.14062774040774,
-        "top_20": 0.255772890882266,
-        "make_cut": 0.651583333333333,
-        "dg_id": 29197
+      "Pierceson Coody": {
+        "win": 0.0170333333333333,
+        "top_5": 0.0827185052910053,
+        "top_10": 0.154875923289673,
+        "top_20": 0.280371772913905,
+        "make_cut": 0.677166666666667,
+        "dg_id": 28309
       },
       "Sungjae Im": {
         "win": 0.0162833333333333,
-        "top_5": 0.077623955026455,
-        "top_10": 0.146767813575314,
-        "top_20": 0.269635886335886,
-        "make_cut": 0.6718,
+        "top_5": 0.0767367003367003,
+        "top_10": 0.146629475709476,
+        "top_20": 0.269331913688164,
+        "make_cut": 0.671166666666667,
         "dg_id": 17488
       },
+      "Michael Kim": {
+        "win": 0.01625,
+        "top_5": 0.0801815283790284,
+        "top_10": 0.153039914992415,
+        "top_20": 0.278451601939727,
+        "make_cut": 0.682116666666667,
+        "dg_id": 17543
+      },
       "Mac Meissner": {
-        "win": 0.0161833333333333,
-        "top_5": 0.0821968590668591,
-        "top_10": 0.156706413493913,
-        "top_20": 0.286901819999173,
-        "make_cut": 0.692316666666667,
+        "win": 0.016,
+        "top_5": 0.0797709854497354,
+        "top_10": 0.155046764208014,
+        "top_20": 0.286326127659106,
+        "make_cut": 0.693366666666667,
         "dg_id": 28159
       },
+      "Michael Brennan": {
+        "win": 0.0158666666666667,
+        "top_5": 0.0738186387686388,
+        "top_10": 0.139109986679987,
+        "top_20": 0.254971011462666,
+        "make_cut": 0.655316666666667,
+        "dg_id": 29197
+      },
       "Daniel Berger": {
-        "win": 0.0158166666666667,
-        "top_5": 0.073853630952381,
-        "top_10": 0.140076154771155,
-        "top_20": 0.260156807650411,
-        "make_cut": 0.6664,
+        "win": 0.01555,
+        "top_5": 0.0737768927368927,
+        "top_10": 0.139415924260924,
+        "top_20": 0.25979052951678,
+        "make_cut": 0.663416666666667,
         "dg_id": 17606
       },
-      "Max Greyserman": {
-        "win": 0.01455,
-        "top_5": 0.0684366949254449,
-        "top_10": 0.129647789340289,
-        "top_20": 0.240697985741111,
-        "make_cut": 0.634783333333333,
-        "dg_id": 23465
-      },
       "Matt Wallace": {
-        "win": 0.0142166666666667,
-        "top_5": 0.0725946446608947,
-        "top_10": 0.138959218674844,
-        "top_20": 0.261774519531395,
-        "make_cut": 0.671533333333333,
+        "win": 0.0152666666666667,
+        "top_5": 0.0724400595238095,
+        "top_10": 0.140511087061087,
+        "top_20": 0.265648742504772,
+        "make_cut": 0.67385,
         "dg_id": 20706
       },
-      "Tony Finau": {
-        "win": 0.0132333333333333,
-        "top_5": 0.0656476190476191,
-        "top_10": 0.12747758986384,
-        "top_20": 0.238392487142487,
-        "make_cut": 0.6399,
-        "dg_id": 11676
-      },
-      "Rico Hoey": {
-        "win": 0.0132,
-        "top_5": 0.0637506102693603,
-        "top_10": 0.123512516233766,
-        "top_20": 0.234458214239464,
-        "make_cut": 0.639616666666667,
-        "dg_id": 23504
+      "Max Greyserman": {
+        "win": 0.0146333333333333,
+        "top_5": 0.066901066017316,
+        "top_10": 0.127992011507012,
+        "top_20": 0.240319523915627,
+        "make_cut": 0.638533333333333,
+        "dg_id": 23465
       },
       "Sudarshan Yellamaraju": {
-        "win": 0.0125333333333333,
-        "top_5": 0.0620008068783069,
-        "top_10": 0.121840533979909,
-        "top_20": 0.232405923613424,
-        "make_cut": 0.637783333333333,
+        "win": 0.0135,
+        "top_5": 0.062614126984127,
+        "top_10": 0.122722961760462,
+        "top_20": 0.23260933476246,
+        "make_cut": 0.642816666666667,
         "dg_id": 29925
       },
+      "Tony Finau": {
+        "win": 0.0134166666666667,
+        "top_5": 0.0658020105820106,
+        "top_10": 0.125518517316017,
+        "top_20": 0.238798413968929,
+        "make_cut": 0.642666666666667,
+        "dg_id": 11676
+      },
       "Davis Thompson": {
-        "win": 0.0122166666666667,
-        "top_5": 0.0642984926647427,
-        "top_10": 0.126450341047841,
-        "top_20": 0.240379644059644,
-        "make_cut": 0.648816666666667,
+        "win": 0.0131333333333333,
+        "top_5": 0.0650884457671958,
+        "top_10": 0.125788395400895,
+        "top_20": 0.241348474349724,
+        "make_cut": 0.6503,
         "dg_id": 27364
       },
       "Johnny Keefer": {
-        "win": 0.0122166666666667,
-        "top_5": 0.0595593915343915,
-        "top_10": 0.117099139379139,
-        "top_20": 0.223396151510526,
-        "make_cut": 0.626766666666667,
+        "win": 0.0126,
+        "top_5": 0.0610111309523809,
+        "top_10": 0.118647182215932,
+        "top_20": 0.225813859256212,
+        "make_cut": 0.62945,
         "dg_id": 32457
       },
+      "Rico Hoey": {
+        "win": 0.0123833333333333,
+        "top_5": 0.0634401455026455,
+        "top_10": 0.12373606971732,
+        "top_20": 0.235083989640534,
+        "make_cut": 0.64,
+        "dg_id": 23504
+      },
       "Max Mcgreevy": {
-        "win": 0.0120333333333333,
-        "top_5": 0.0626266468253968,
-        "top_10": 0.124315202343952,
-        "top_20": 0.240991350214328,
-        "make_cut": 0.653483333333333,
+        "win": 0.01205,
+        "top_5": 0.060849987974988,
+        "top_10": 0.123959736975987,
+        "top_20": 0.240844197538573,
+        "make_cut": 0.655166666666667,
         "dg_id": 23505
       },
-      "Ben Kohles": {
-        "win": 0.0117333333333333,
-        "top_5": 0.0618643650793651,
-        "top_10": 0.121836951058201,
-        "top_20": 0.237737136890887,
-        "make_cut": 0.657566666666667,
-        "dg_id": 16395
-      },
       "Denny Mccarthy": {
-        "win": 0.0111166666666667,
-        "top_5": 0.0598802182539683,
-        "top_10": 0.12204276011026,
-        "top_20": 0.239601522551523,
-        "make_cut": 0.661166666666667,
+        "win": 0.0116166666666667,
+        "top_5": 0.0603309662097162,
+        "top_10": 0.123473996512747,
+        "top_20": 0.242958989426967,
+        "make_cut": 0.665366666666667,
         "dg_id": 19870
       },
-      "Taylor Pendrith": {
-        "win": 0.011,
-        "top_5": 0.0553506746031746,
-        "top_10": 0.111076025687276,
-        "top_20": 0.217038080854331,
-        "make_cut": 0.628433333333333,
-        "dg_id": 17780
-      },
       "Jackson Suber": {
-        "win": 0.0108,
-        "top_5": 0.0552768404280904,
-        "top_10": 0.107914696645947,
-        "top_20": 0.208149032980908,
-        "make_cut": 0.614533333333333,
+        "win": 0.01105,
+        "top_5": 0.0546968927368927,
+        "top_10": 0.109278788942539,
+        "top_20": 0.21126156263943,
+        "make_cut": 0.613916666666667,
         "dg_id": 29279
       },
-      "Christiaan Bezuidenhout": {
-        "win": 0.01075,
-        "top_5": 0.0571635004810005,
-        "top_10": 0.116725755725756,
-        "top_20": 0.233103563196063,
-        "make_cut": 0.657466666666667,
-        "dg_id": 18103
+      "Taylor Pendrith": {
+        "win": 0.01095,
+        "top_5": 0.0577335930735931,
+        "top_10": 0.113454859446109,
+        "top_20": 0.220410211085211,
+        "make_cut": 0.630283333333333,
+        "dg_id": 17780
       },
-      "Max Homa": {
-        "win": 0.0105333333333333,
-        "top_5": 0.0531523478835979,
-        "top_10": 0.107319362974988,
-        "top_20": 0.211375900280275,
-        "make_cut": 0.614766666666667,
-        "dg_id": 17538
-      },
-      "Blades Brown": {
-        "win": 0.0099833333333333,
-        "top_5": 0.0509870911495912,
-        "top_10": 0.102909965821216,
-        "top_20": 0.203191950526326,
-        "make_cut": 0.611883333333333,
-        "dg_id": 32152
+      "Ben Kohles": {
+        "win": 0.0106166666666667,
+        "top_5": 0.0590493253968254,
+        "top_10": 0.118574512478262,
+        "top_20": 0.234512574115699,
+        "make_cut": 0.652933333333333,
+        "dg_id": 16395
       },
       "Aldrich Potgieter": {
-        "win": 0.0098833333333333,
-        "top_5": 0.0504900943963444,
-        "top_10": 0.0993614136095386,
-        "top_20": 0.193047440638066,
-        "make_cut": 0.591683333333333,
+        "win": 0.0102333333333333,
+        "top_5": 0.050292401996152,
+        "top_10": 0.0988148538498538,
+        "top_20": 0.190122895114145,
+        "make_cut": 0.58645,
         "dg_id": 27900
       },
-      "Taylor Moore": {
-        "win": 0.0091,
-        "top_5": 0.047585787037037,
-        "top_10": 0.0976658889027639,
-        "top_20": 0.198997446465571,
-        "make_cut": 0.605716666666667,
-        "dg_id": 21944
+      "Max Homa": {
+        "win": 0.0099333333333333,
+        "top_5": 0.0531253385040885,
+        "top_10": 0.106516387455137,
+        "top_20": 0.208505279340757,
+        "make_cut": 0.612883333333333,
+        "dg_id": 17538
       },
-      "Austin Smotherman": {
-        "win": 0.0089666666666666,
-        "top_5": 0.0487550066137566,
-        "top_10": 0.0977671859159359,
-        "top_20": 0.192008460312835,
-        "make_cut": 0.59775,
-        "dg_id": 22985
-      },
-      "William Mouw": {
-        "win": 0.0088166666666666,
-        "top_5": 0.0470439285714286,
-        "top_10": 0.0978793768962519,
-        "top_20": 0.196210591861842,
-        "make_cut": 0.597533333333333,
-        "dg_id": 29770
+      "Christiaan Bezuidenhout": {
+        "win": 0.0094333333333333,
+        "top_5": 0.0578419047619048,
+        "top_10": 0.118652143365893,
+        "top_20": 0.235730067661097,
+        "make_cut": 0.658916666666667,
+        "dg_id": 18103
       },
       "Emiliano Grillo": {
-        "win": 0.00865,
-        "top_5": 0.0476693386243386,
-        "top_10": 0.0990706781644282,
-        "top_20": 0.200092096422096,
-        "make_cut": 0.61555,
+        "win": 0.0090833333333333,
+        "top_5": 0.0486999803437303,
+        "top_10": 0.100427444777445,
+        "top_20": 0.200801054732305,
+        "make_cut": 0.618516666666667,
         "dg_id": 12808
       },
+      "Taylor Moore": {
+        "win": 0.0090666666666666,
+        "top_5": 0.0505990548340548,
+        "top_10": 0.103575401357901,
+        "top_20": 0.202862711917712,
+        "make_cut": 0.609716666666667,
+        "dg_id": 21944
+      },
+      "Blades Brown": {
+        "win": 0.0090333333333333,
+        "top_5": 0.0498872955747956,
+        "top_10": 0.10102622997373,
+        "top_20": 0.20323596452159,
+        "make_cut": 0.6138,
+        "dg_id": 32152
+      },
+      "William Mouw": {
+        "win": 0.0089166666666666,
+        "top_5": 0.0482012115199615,
+        "top_10": 0.100081116522367,
+        "top_20": 0.197326077845085,
+        "make_cut": 0.606816666666667,
+        "dg_id": 29770
+      },
       "Kevin Yu": {
-        "win": 0.0084166666666666,
-        "top_5": 0.0454048761423761,
-        "top_10": 0.094871254995005,
-        "top_20": 0.191759614241967,
-        "make_cut": 0.6022,
+        "win": 0.0087666666666666,
+        "top_5": 0.0460296777296777,
+        "top_10": 0.0938152354589855,
+        "top_20": 0.191462810313325,
+        "make_cut": 0.600133333333333,
         "dg_id": 17881
       },
-      "Haotong Li": {
-        "win": 0.0072666666666666,
-        "top_5": 0.039855370971621,
-        "top_10": 0.0820710442797943,
-        "top_20": 0.16912159040034,
-        "make_cut": 0.570333333333333,
-        "dg_id": 15310
-      },
-      "Steven Fisk": {
-        "win": 0.0070833333333333,
-        "top_5": 0.0399714688552189,
-        "top_10": 0.0829450386650387,
-        "top_20": 0.172581370596996,
-        "make_cut": 0.5766,
-        "dg_id": 26657
+      "Austin Smotherman": {
+        "win": 0.0086166666666666,
+        "top_5": 0.045923679052429,
+        "top_10": 0.0943077198264698,
+        "top_20": 0.189405550765955,
+        "make_cut": 0.595483333333333,
+        "dg_id": 22985
       },
       "Zach Bauchou": {
-        "win": 0.0070666666666666,
-        "top_5": 0.0414420568783069,
-        "top_10": 0.0875007776020276,
-        "top_20": 0.183648717486217,
-        "make_cut": 0.593116666666667,
+        "win": 0.0075833333333333,
+        "top_5": 0.0436407822270322,
+        "top_10": 0.0903752358752359,
+        "top_20": 0.186167641640767,
+        "make_cut": 0.597483333333333,
         "dg_id": 19846
+      },
+      "Haotong Li": {
+        "win": 0.0073333333333333,
+        "top_5": 0.0399271368446368,
+        "top_10": 0.0832196648721649,
+        "top_20": 0.170549071021571,
+        "make_cut": 0.57615,
+        "dg_id": 15310
+      },
+      "Thorbjorn Olesen": {
+        "win": 0.007,
+        "top_5": 0.0377183329170829,
+        "top_10": 0.0804672285122285,
+        "top_20": 0.17204111027861,
+        "make_cut": 0.58685,
+        "dg_id": 13412
       },
       "Andrew Putnam": {
         "win": 0.0069833333333333,
-        "top_5": 0.0453548941798942,
-        "top_10": 0.0988760571835572,
-        "top_20": 0.202538435050788,
-        "make_cut": 0.6321,
+        "top_5": 0.044004696969697,
+        "top_10": 0.0956319931457432,
+        "top_20": 0.200318019295519,
+        "make_cut": 0.63255,
         "dg_id": 14704
       },
       "Beau Hossler": {
-        "win": 0.0068666666666666,
-        "top_5": 0.0381635714285714,
-        "top_10": 0.0795401048026048,
-        "top_20": 0.166228383366361,
-        "make_cut": 0.570733333333333,
+        "win": 0.00665,
+        "top_5": 0.0379990013227513,
+        "top_10": 0.0807468365893366,
+        "top_20": 0.167524617211492,
+        "make_cut": 0.574716666666667,
         "dg_id": 15470
       },
-      "Thorbjorn Olesen": {
-        "win": 0.0068166666666666,
-        "top_5": 0.0390596428571429,
-        "top_10": 0.0833866736504237,
-        "top_20": 0.176825331381581,
-        "make_cut": 0.585,
-        "dg_id": 13412
-      },
       "Preston Stout": {
-        "win": 0.0059666666666666,
-        "top_5": 0.0342811375661376,
-        "top_10": 0.0730653688903689,
-        "top_20": 0.152332239149739,
-        "make_cut": 0.548466666666667,
+        "win": 0.00635,
+        "top_5": 0.0340070238095238,
+        "top_10": 0.0719427561327561,
+        "top_20": 0.150349762390387,
+        "make_cut": 0.550116666666667,
         "dg_id": 32089
+      },
+      "Steven Fisk": {
+        "win": 0.0063333333333333,
+        "top_5": 0.0376106018518519,
+        "top_10": 0.0822032677507678,
+        "top_20": 0.170278087098087,
+        "make_cut": 0.583916666666667,
+        "dg_id": 26657
+      },
+      "Seamus Power": {
+        "win": 0.0056666666666666,
+        "top_5": 0.0349754232804233,
+        "top_10": 0.076146432040182,
+        "top_20": 0.163621591949717,
+        "make_cut": 0.576666666666667,
+        "dg_id": 10104
       },
       "Adrien Dumont De Chassart": {
         "win": 0.0054666666666666,
-        "top_5": 0.0325256487493987,
-        "top_10": 0.0706969303381803,
-        "top_20": 0.149219168275896,
-        "make_cut": 0.552383333333333,
+        "top_5": 0.0305916137566138,
+        "top_10": 0.067863192039442,
+        "top_20": 0.14638822996448,
+        "make_cut": 0.552283333333333,
         "dg_id": 22002
       },
+      "Zac Blair": {
+        "win": 0.00545,
+        "top_5": 0.0328762301587302,
+        "top_10": 0.0732140305065305,
+        "top_20": 0.161629411699412,
+        "make_cut": 0.584833333333333,
+        "dg_id": 17639
+      },
       "Keita Nakajima": {
-        "win": 0.00535,
-        "top_5": 0.0324317478354978,
-        "top_10": 0.0714485108872609,
-        "top_20": 0.149708447385947,
-        "make_cut": 0.5519,
+        "win": 0.0054333333333333,
+        "top_5": 0.0324031631794132,
+        "top_10": 0.0711282106782107,
+        "top_20": 0.15093521043771,
+        "make_cut": 0.553383333333333,
         "dg_id": 21074
       },
       "Patrick Rodgers": {
-        "win": 0.0053166666666666,
-        "top_5": 0.0309894708994709,
-        "top_10": 0.0680467199467199,
-        "top_20": 0.148895671874422,
-        "make_cut": 0.55215,
+        "win": 0.0054,
+        "top_5": 0.0316764363876864,
+        "top_10": 0.0688668161468161,
+        "top_20": 0.148771425888926,
+        "make_cut": 0.5577,
         "dg_id": 16283
       },
       "Carson Young": {
-        "win": 0.0053,
-        "top_5": 0.0309831216931217,
-        "top_10": 0.0672905208680209,
-        "top_20": 0.14682021020646,
-        "make_cut": 0.554383333333333,
+        "win": 0.0053333333333333,
+        "top_5": 0.0315778841991342,
+        "top_10": 0.0680243050468051,
+        "top_20": 0.147262652821035,
+        "make_cut": 0.551833333333333,
         "dg_id": 23656
       },
-      "Seamus Power": {
-        "win": 0.00525,
-        "top_5": 0.0354042797017797,
-        "top_10": 0.0773815665815666,
-        "top_20": 0.164958115911866,
-        "make_cut": 0.57805,
-        "dg_id": 10104
-      },
-      "Lucas Glover": {
-        "win": 0.0052166666666666,
-        "top_5": 0.0296855026455026,
-        "top_10": 0.0645947977485477,
-        "top_20": 0.14408011021386,
-        "make_cut": 0.549066666666667,
-        "dg_id": 7399
-      },
-      "Zac Blair": {
-        "win": 0.0050833333333333,
-        "top_5": 0.0321316798941799,
-        "top_10": 0.0723645684870685,
-        "top_20": 0.161480013713139,
-        "make_cut": 0.5879,
-        "dg_id": 17639
-      },
       "Chan Kim": {
-        "win": 0.005,
-        "top_5": 0.0316769708994709,
-        "top_10": 0.0675973015873016,
-        "top_20": 0.14695426520239,
-        "make_cut": 0.555166666666667,
+        "win": 0.0049333333333333,
+        "top_5": 0.0297594708994709,
+        "top_10": 0.0663205272505273,
+        "top_20": 0.147026297013172,
+        "make_cut": 0.557166666666667,
         "dg_id": 15004
       },
       "Lee Hodges": {
-        "win": 0.0049833333333333,
-        "top_5": 0.0297199007936508,
-        "top_10": 0.0660181862119362,
-        "top_20": 0.143151141543642,
-        "make_cut": 0.550133333333333,
+        "win": 0.0049166666666666,
+        "top_5": 0.0303756415343915,
+        "top_10": 0.0664769905094905,
+        "top_20": 0.144073253241856,
+        "make_cut": 0.5524,
         "dg_id": 25157
       },
+      "Chandler Blanchet": {
+        "win": 0.0048666666666666,
+        "top_5": 0.0286181746031746,
+        "top_10": 0.0626136094923595,
+        "top_20": 0.137378539067142,
+        "make_cut": 0.539283333333333,
+        "dg_id": 24956
+      },
+      "Lucas Glover": {
+        "win": 0.0046166666666666,
+        "top_5": 0.0284516600529101,
+        "top_10": 0.0642908302345802,
+        "top_20": 0.142201353970104,
+        "make_cut": 0.549716666666667,
+        "dg_id": 7399
+      },
       "Garrick Higgo": {
-        "win": 0.0047833333333333,
-        "top_5": 0.0283878054353054,
-        "top_10": 0.0613804503367003,
-        "top_20": 0.132926713670317,
-        "make_cut": 0.528766666666667,
+        "win": 0.00445,
+        "top_5": 0.0280341005291005,
+        "top_10": 0.0602869715007215,
+        "top_20": 0.132545183193713,
+        "make_cut": 0.523,
         "dg_id": 24342
       },
-      "Matthieu Pavon": {
-        "win": 0.00435,
-        "top_5": 0.0258316738816739,
-        "top_10": 0.0579526214526215,
-        "top_20": 0.128178733141858,
-        "make_cut": 0.52585,
-        "dg_id": 19960
-      },
-      "Neal Shipley": {
+      "Stephan Jaeger": {
         "win": 0.0043333333333333,
-        "top_5": 0.0247299549062049,
-        "top_10": 0.0544310776260776,
-        "top_20": 0.120090758963259,
-        "make_cut": 0.508283333333333,
-        "dg_id": 32055
+        "top_5": 0.0243534656084656,
+        "top_10": 0.0517554196729197,
+        "top_20": 0.115888227860103,
+        "make_cut": 0.506033333333333,
+        "dg_id": 16394
       },
-      "Chandler Blanchet": {
-        "win": 0.0042333333333333,
-        "top_5": 0.0278109788359788,
-        "top_10": 0.0627741187053687,
-        "top_20": 0.136848005651756,
-        "make_cut": 0.53365,
-        "dg_id": 24956
+      "Zach Johnson": {
+        "win": 0.0041833333333333,
+        "top_5": 0.0271678577441077,
+        "top_10": 0.0613907588707589,
+        "top_20": 0.137169649147149,
+        "make_cut": 0.552283333333333,
+        "dg_id": 6986
+      },
+      "Zecheng Dou": {
+        "win": 0.0041333333333333,
+        "top_5": 0.0266050198412698,
+        "top_10": 0.0575323736911237,
+        "top_20": 0.126545187635077,
+        "make_cut": 0.520283333333333,
+        "dg_id": 16757
+      },
+      "Matthieu Pavon": {
+        "win": 0.0040833333333333,
+        "top_5": 0.0246729906204906,
+        "top_10": 0.055330082972583,
+        "top_20": 0.126522981971732,
+        "make_cut": 0.529133333333333,
+        "dg_id": 19960
       },
       "Jhonattan Vegas": {
         "win": 0.0040666666666666,
-        "top_5": 0.0244081216931217,
-        "top_10": 0.0543512034724535,
-        "top_20": 0.122171873589374,
-        "make_cut": 0.508383333333333,
+        "top_5": 0.0246266810966811,
+        "top_10": 0.0552951376863877,
+        "top_20": 0.120456186125966,
+        "make_cut": 0.5104,
         "dg_id": 13508
       },
-      "Zach Johnson": {
-        "win": 0.0040333333333333,
-        "top_5": 0.0267328336940837,
-        "top_10": 0.0605955194805195,
-        "top_20": 0.136623895261873,
-        "make_cut": 0.548933333333333,
-        "dg_id": 6986
-      },
-      "A.J. Ewart": {
-        "win": 0.0039,
-        "top_5": 0.0233791666666667,
-        "top_10": 0.0528776046176046,
-        "top_20": 0.119251351565102,
-        "make_cut": 0.516566666666667,
-        "dg_id": 21883
-      },
-      "Zecheng Dou": {
-        "win": 0.0038666666666666,
-        "top_5": 0.0260277777777778,
-        "top_10": 0.0567804295935546,
-        "top_20": 0.125009580350205,
-        "make_cut": 0.520166666666667,
-        "dg_id": 16757
-      },
-      "Kevin Roy": {
-        "win": 0.0037833333333333,
-        "top_5": 0.0223577777777778,
-        "top_10": 0.0501240847809598,
-        "top_20": 0.113702836228314,
-        "make_cut": 0.498316666666667,
-        "dg_id": 18424
-      },
       "Adam Svensson": {
-        "win": 0.0036166666666666,
-        "top_5": 0.0252478174603175,
-        "top_10": 0.0573925061512561,
-        "top_20": 0.129090942414067,
-        "make_cut": 0.5389,
+        "win": 0.004,
+        "top_5": 0.0252136768324268,
+        "top_10": 0.0565779557942058,
+        "top_20": 0.127493162763163,
+        "make_cut": 0.534283333333333,
         "dg_id": 13997
       },
-      "Stephan Jaeger": {
-        "win": 0.0036166666666666,
-        "top_5": 0.0232863161375661,
-        "top_10": 0.0514839451058201,
-        "top_20": 0.117464204374057,
-        "make_cut": 0.498183333333333,
-        "dg_id": 16394
+      "Neal Shipley": {
+        "win": 0.0039333333333333,
+        "top_5": 0.0252883531746032,
+        "top_10": 0.0541365253727754,
+        "top_20": 0.119996038242803,
+        "make_cut": 0.507133333333333,
+        "dg_id": 32055
+      },
+      "A.J. Ewart": {
+        "win": 0.0038333333333333,
+        "top_5": 0.0231701334776335,
+        "top_10": 0.0521037898675399,
+        "top_20": 0.117687993463508,
+        "make_cut": 0.512133333333333,
+        "dg_id": 21883
+      },
+      "Mark Hubbard": {
+        "win": 0.0037333333333333,
+        "top_5": 0.0239763095238095,
+        "top_10": 0.0523996296296296,
+        "top_20": 0.119534886132386,
+        "make_cut": 0.5198,
+        "dg_id": 16333
       },
       "Mackenzie Hughes": {
-        "win": 0.00355,
-        "top_5": 0.0248005826118326,
-        "top_10": 0.0556456016206016,
-        "top_20": 0.125082632149985,
-        "make_cut": 0.5194,
+        "win": 0.0033833333333333,
+        "top_5": 0.023730462962963,
+        "top_10": 0.0547193407518408,
+        "top_20": 0.124481879278129,
+        "make_cut": 0.521516666666667,
         "dg_id": 15556
       },
       "Austin Eckroat": {
-        "win": 0.00345,
-        "top_5": 0.0213103637566138,
-        "top_10": 0.0489463617401117,
-        "top_20": 0.113798161514412,
-        "make_cut": 0.507166666666667,
+        "win": 0.0033666666666666,
+        "top_5": 0.0220942472342472,
+        "top_10": 0.0512878288378288,
+        "top_20": 0.116877138047138,
+        "make_cut": 0.511116666666667,
         "dg_id": 26653
       },
-      "Mark Hubbard": {
-        "win": 0.0032833333333333,
-        "top_5": 0.0220477843915344,
-        "top_10": 0.0508688738576239,
-        "top_20": 0.117818876493876,
-        "make_cut": 0.5144,
-        "dg_id": 16333
-      },
-      "Kris Ventura": {
-        "win": 0.0032666666666666,
-        "top_5": 0.0207579828042328,
-        "top_10": 0.0468778382265882,
-        "top_20": 0.105136994903245,
-        "make_cut": 0.481583333333333,
-        "dg_id": 15651
-      },
       "Chad Ramey": {
-        "win": 0.0031833333333333,
-        "top_5": 0.0216179034391534,
-        "top_10": 0.0492029998242498,
-        "top_20": 0.114403053011803,
-        "make_cut": 0.506783333333333,
+        "win": 0.0033333333333333,
+        "top_5": 0.020503287037037,
+        "top_10": 0.0476877500740001,
+        "top_20": 0.112182021682022,
+        "make_cut": 0.500083333333333,
         "dg_id": 19840
       },
-      "Tom Hoge": {
-        "win": 0.0030666666666666,
-        "top_5": 0.0201272354497355,
-        "top_10": 0.0460540494227994,
-        "top_20": 0.10721653971029,
-        "make_cut": 0.497966666666667,
-        "dg_id": 15575
-      },
-      "Brice Garnett": {
-        "win": 0.0029666666666666,
-        "top_5": 0.0203880026455026,
-        "top_10": 0.0476806655844156,
-        "top_20": 0.10977838036963,
-        "make_cut": 0.502,
-        "dg_id": 11451
-      },
       "Patrick Fishburn": {
-        "win": 0.0027666666666666,
-        "top_5": 0.0206578174603175,
-        "top_10": 0.0476324059274059,
-        "top_20": 0.111574871101121,
-        "make_cut": 0.500483333333333,
+        "win": 0.0033166666666666,
+        "top_5": 0.0208579034391534,
+        "top_10": 0.0471413247400747,
+        "top_20": 0.109902286275816,
+        "make_cut": 0.494833333333333,
         "dg_id": 25094
       },
-      "Takumi Kanaya": {
-        "win": 0.0027666666666666,
-        "top_5": 0.0186443783068783,
-        "top_10": 0.044970796980797,
-        "top_20": 0.10981651535964,
-        "make_cut": 0.507316666666667,
-        "dg_id": 19729
+      "Kevin Roy": {
+        "win": 0.0031666666666666,
+        "top_5": 0.0209679972342472,
+        "top_10": 0.0496822684722685,
+        "top_20": 0.113094624218374,
+        "make_cut": 0.5014,
+        "dg_id": 18424
       },
       "Luke Clanton": {
-        "win": 0.0027333333333333,
-        "top_5": 0.0179316931216931,
-        "top_10": 0.0409158503533504,
-        "top_20": 0.0967045546583047,
-        "make_cut": 0.46945,
+        "win": 0.0029833333333333,
+        "top_5": 0.0188187770562771,
+        "top_10": 0.0434614808802309,
+        "top_20": 0.101123935717061,
+        "make_cut": 0.474516666666667,
         "dg_id": 32330
       },
-      "David Lipsky": {
-        "win": 0.0027,
-        "top_5": 0.0168194841269841,
-        "top_10": 0.0406554902736153,
-        "top_20": 0.0955351084563585,
-        "make_cut": 0.47745,
-        "dg_id": 15980
+      "Brice Garnett": {
+        "win": 0.0027333333333333,
+        "top_5": 0.020135753968254,
+        "top_10": 0.0474297514522515,
+        "top_20": 0.111160470732971,
+        "make_cut": 0.505133333333333,
+        "dg_id": 11451
+      },
+      "Kris Ventura": {
+        "win": 0.0027333333333333,
+        "top_5": 0.0191050661375661,
+        "top_10": 0.0452890287490288,
+        "top_20": 0.106300038063788,
+        "make_cut": 0.489483333333333,
+        "dg_id": 15651
       },
       "Joel Dahmen": {
-        "win": 0.0026666666666666,
-        "top_5": 0.0186765806878307,
-        "top_10": 0.0445694654419654,
-        "top_20": 0.103361882885633,
-        "make_cut": 0.4815,
+        "win": 0.0027,
+        "top_5": 0.0183104505217005,
+        "top_10": 0.0428682256169756,
+        "top_20": 0.100655220312095,
+        "make_cut": 0.484033333333333,
         "dg_id": 14509
       },
-      "Webb Simpson": {
+      "Tom Hoge": {
+        "win": 0.0026833333333333,
+        "top_5": 0.0202303505291005,
+        "top_10": 0.0464724710937211,
+        "top_20": 0.106811096819847,
+        "make_cut": 0.498816666666667,
+        "dg_id": 15575
+      },
+      "Takumi Kanaya": {
         "win": 0.00265,
-        "top_5": 0.0172906349206349,
-        "top_10": 0.0409940271302771,
-        "top_20": 0.0964399158249158,
-        "make_cut": 0.4688,
+        "top_5": 0.0190250992063492,
+        "top_10": 0.0452022456247456,
+        "top_20": 0.108651601407851,
+        "make_cut": 0.511133333333333,
+        "dg_id": 19729
+      },
+      "Webb Simpson": {
+        "win": 0.0026166666666666,
+        "top_5": 0.0179337830687831,
+        "top_10": 0.0412818897306397,
+        "top_20": 0.097010239020239,
+        "make_cut": 0.46995,
         "dg_id": 11049
       },
-      "Adam Hadwin": {
-        "win": 0.0025166666666666,
-        "top_5": 0.0176553505291005,
-        "top_10": 0.0422371612646613,
-        "top_20": 0.0986496416546417,
-        "make_cut": 0.4788,
-        "dg_id": 13965
-      },
       "Matt Kuchar": {
-        "win": 0.0025,
-        "top_5": 0.0176225474987975,
-        "top_10": 0.0430414407814408,
-        "top_20": 0.10709385524198,
-        "make_cut": 0.51025,
+        "win": 0.0026,
+        "top_5": 0.0181517261904762,
+        "top_10": 0.0441678673641174,
+        "top_20": 0.107331638188881,
+        "make_cut": 0.51225,
         "dg_id": 6169
       },
-      "Jimmy Stanger": {
-        "win": 0.0025,
-        "top_5": 0.0156729834054834,
-        "top_10": 0.0363021678321678,
-        "top_20": 0.0864249549062049,
-        "make_cut": 0.447966666666667,
-        "dg_id": 23048
-      },
       "Vince Whaley": {
-        "win": 0.0024333333333333,
-        "top_5": 0.0163265277777778,
-        "top_10": 0.0389156423206423,
-        "top_20": 0.0959313153744404,
-        "make_cut": 0.482816666666667,
+        "win": 0.00255,
+        "top_5": 0.0172810786435786,
+        "top_10": 0.040575248038998,
+        "top_20": 0.0977275098512598,
+        "make_cut": 0.483466666666667,
         "dg_id": 25908
       },
+      "Jimmy Stanger": {
+        "win": 0.0025166666666666,
+        "top_5": 0.0172242989417989,
+        "top_10": 0.0383099322436822,
+        "top_20": 0.0895353704166204,
+        "make_cut": 0.449633333333333,
+        "dg_id": 23048
+      },
+      "Adam Hadwin": {
+        "win": 0.0023833333333333,
+        "top_5": 0.0169444642857143,
+        "top_10": 0.0404750673400673,
+        "top_20": 0.0981517453379953,
+        "make_cut": 0.484516666666667,
+        "dg_id": 13965
+      },
       "Alejandro Tosti": {
-        "win": 0.0019833333333333,
-        "top_5": 0.0128378042328042,
-        "top_10": 0.0296700733525734,
-        "top_20": 0.0690839356476857,
-        "make_cut": 0.401083333333333,
+        "win": 0.00235,
+        "top_5": 0.0131928042328042,
+        "top_10": 0.0296375793650794,
+        "top_20": 0.0691015881572132,
+        "make_cut": 0.400433333333333,
         "dg_id": 17032
       },
       "Lanto Griffin": {
-        "win": 0.0019666666666666,
-        "top_5": 0.0161316143578644,
-        "top_10": 0.0392956607744108,
-        "top_20": 0.0950120901783402,
-        "make_cut": 0.4776,
+        "win": 0.0023333333333333,
+        "top_5": 0.0175596031746032,
+        "top_10": 0.040252977994228,
+        "top_20": 0.0964464483664484,
+        "make_cut": 0.479083333333333,
         "dg_id": 15330
       },
-      "Tyler Duncan": {
-        "win": 0.00195,
-        "top_5": 0.0122686790524291,
-        "top_10": 0.0289237578162578,
-        "top_20": 0.0737471440596441,
-        "make_cut": 0.434516666666667,
-        "dg_id": 18187
-      },
-      "S.Y. Noh": {
-        "win": 0.0019166666666666,
-        "top_5": 0.0139632341269841,
-        "top_10": 0.03513148004773,
-        "top_20": 0.0855126563251563,
-        "make_cut": 0.4652,
-        "dg_id": 11117
-      },
       "Hayden Springer": {
-        "win": 0.0019166666666666,
-        "top_5": 0.0131327062289562,
-        "top_10": 0.0324224617049617,
-        "top_20": 0.0775545430726681,
-        "make_cut": 0.43355,
+        "win": 0.00225,
+        "top_5": 0.0125406084656085,
+        "top_10": 0.0307114646464646,
+        "top_20": 0.0759046278258778,
+        "make_cut": 0.43125,
         "dg_id": 21995
       },
-      "Kensei Hirata": {
-        "win": 0.0018333333333333,
-        "top_5": 0.0124900066137566,
-        "top_10": 0.0306439454064454,
-        "top_20": 0.0759952844840345,
-        "make_cut": 0.44015,
-        "dg_id": 20954
-      },
-      "Fabian Gomez": {
-        "win": 0.0017833333333333,
-        "top_5": 0.0138356613756614,
-        "top_10": 0.0322125861638362,
-        "top_20": 0.0801927608040108,
-        "make_cut": 0.44925,
-        "dg_id": 8571
+      "David Lipsky": {
+        "win": 0.0022166666666666,
+        "top_5": 0.0166454298941799,
+        "top_10": 0.0404401048026048,
+        "top_20": 0.0963819254356754,
+        "make_cut": 0.4783,
+        "dg_id": 15980
       },
       "Erik Van Rooyen": {
-        "win": 0.0017833333333333,
-        "top_5": 0.0125660058922559,
-        "top_10": 0.03073087000962,
-        "top_20": 0.0764923108141858,
-        "make_cut": 0.437533333333333,
+        "win": 0.00205,
+        "top_5": 0.0123132876382876,
+        "top_10": 0.0304841062641063,
+        "top_20": 0.0771713835238835,
+        "make_cut": 0.4406,
         "dg_id": 17550
       },
-      "Trace Crowe": {
-        "win": 0.00175,
-        "top_5": 0.0131660052910053,
-        "top_10": 0.0311579046416546,
-        "top_20": 0.075019564972065,
-        "make_cut": 0.424166666666667,
-        "dg_id": 27780
+      "S.Y. Noh": {
+        "win": 0.0019333333333333,
+        "top_5": 0.0140466865079365,
+        "top_10": 0.0355091139416139,
+        "top_20": 0.0878696936832231,
+        "make_cut": 0.4694,
+        "dg_id": 11117
       },
       "Chandler Phillips": {
-        "win": 0.0015666666666666,
-        "top_5": 0.012571455026455,
-        "top_10": 0.030978947996448,
-        "top_20": 0.0766694297369297,
-        "make_cut": 0.446833333333333,
+        "win": 0.0018333333333333,
+        "top_5": 0.012198167989418,
+        "top_10": 0.0292616814666815,
+        "top_20": 0.0749516253885004,
+        "make_cut": 0.440833333333333,
         "dg_id": 27164
       },
+      "Trace Crowe": {
+        "win": 0.0016666666666666,
+        "top_5": 0.0130924476911977,
+        "top_10": 0.0313488953638954,
+        "top_20": 0.0754587842005489,
+        "make_cut": 0.427733333333333,
+        "dg_id": 27780
+      },
+      "Dylan Frittelli": {
+        "win": 0.0016666666666666,
+        "top_5": 0.0124356150793651,
+        "top_10": 0.0308010273060273,
+        "top_20": 0.0757616277241277,
+        "make_cut": 0.433933333333333,
+        "dg_id": 11955
+      },
       "David Skinns": {
-        "win": 0.0015333333333333,
-        "top_5": 0.0116531944444444,
-        "top_10": 0.0285683982683983,
-        "top_20": 0.0734565070577571,
-        "make_cut": 0.42505,
+        "win": 0.0016166666666666,
+        "top_5": 0.0115869191919192,
+        "top_10": 0.0282152068302068,
+        "top_20": 0.0714850027287527,
+        "make_cut": 0.421333333333333,
         "dg_id": 10873
+      },
+      "Noah Goodwin": {
+        "win": 0.0015666666666666,
+        "top_5": 0.0104194047619048,
+        "top_10": 0.0261696957671958,
+        "top_20": 0.0678467136553534,
+        "make_cut": 0.4213,
+        "dg_id": 24837
+      },
+      "Paul Peterson": {
+        "win": 0.00155,
+        "top_5": 0.010592414021164,
+        "top_10": 0.0266595111832612,
+        "top_20": 0.0711698042698043,
+        "make_cut": 0.442633333333333,
+        "dg_id": 16341
       },
       "Dylan Wu": {
         "win": 0.0015333333333333,
-        "top_5": 0.0118545171957672,
-        "top_10": 0.0295677483164983,
-        "top_20": 0.0754092602998853,
-        "make_cut": 0.44285,
+        "top_5": 0.0120956746031746,
+        "top_10": 0.0303082112794613,
+        "top_20": 0.0778711132848633,
+        "make_cut": 0.449233333333333,
         "dg_id": 25002
-      },
-      "Dylan Frittelli": {
-        "win": 0.0015333333333333,
-        "top_5": 0.0121196705146705,
-        "top_10": 0.0305127092352092,
-        "top_20": 0.0757171122858623,
-        "make_cut": 0.434233333333333,
-        "dg_id": 11955
       },
       "Hank Lebioda": {
         "win": 0.0015166666666666,
-        "top_5": 0.0123552777777778,
-        "top_10": 0.0305123707311207,
-        "top_20": 0.0757387947469197,
-        "make_cut": 0.436383333333333,
+        "top_5": 0.0122980429292929,
+        "top_10": 0.0304087638287638,
+        "top_20": 0.076230444000444,
+        "make_cut": 0.439583333333333,
         "dg_id": 21943
       },
-      "Harry Higgs": {
-        "win": 0.0014833333333333,
-        "top_5": 0.0107534060846561,
-        "top_10": 0.0271196344396344,
-        "top_20": 0.0669256918911698,
-        "make_cut": 0.410683333333333,
-        "dg_id": 14140
+      "Fabian Gomez": {
+        "win": 0.0015166666666666,
+        "top_5": 0.0126532936507937,
+        "top_10": 0.0312770941558442,
+        "top_20": 0.0795551933020683,
+        "make_cut": 0.4511,
+        "dg_id": 8571
       },
-      "John Vanderlaan": {
+      "Tyler Duncan": {
         "win": 0.0014833333333333,
-        "top_5": 0.0099871031746031,
-        "top_10": 0.0247234283309283,
-        "top_20": 0.0619840592509343,
-        "make_cut": 0.3959,
-        "dg_id": 25319
+        "top_5": 0.0118737037037037,
+        "top_10": 0.0294113836626337,
+        "top_20": 0.0736868914554944,
+        "make_cut": 0.4359,
+        "dg_id": 18187
       },
       "Karl Vilips": {
-        "win": 0.0014666666666666,
-        "top_5": 0.0104443716931217,
-        "top_10": 0.0269887518037518,
-        "top_20": 0.0683344353794354,
-        "make_cut": 0.418533333333333,
+        "win": 0.0013166666666666,
+        "top_5": 0.0109196560846561,
+        "top_10": 0.0269816125541126,
+        "top_20": 0.0682332737170237,
+        "make_cut": 0.4163,
         "dg_id": 24304
       },
-      "Ben Silverman": {
-        "win": 0.00125,
-        "top_5": 0.0091001869889369,
-        "top_10": 0.0235370725108225,
-        "top_20": 0.0629744567469567,
-        "make_cut": 0.4071,
-        "dg_id": 17381
+      "John Vanderlaan": {
+        "win": 0.0013,
+        "top_5": 0.0097941612554112,
+        "top_10": 0.0248685731860732,
+        "top_20": 0.0620933012126762,
+        "make_cut": 0.398616666666667,
+        "dg_id": 25319
+      },
+      "Harry Higgs": {
+        "win": 0.0012833333333333,
+        "top_5": 0.0110088967051467,
+        "top_10": 0.0265628896103896,
+        "top_20": 0.0674315905853406,
+        "make_cut": 0.415183333333333,
+        "dg_id": 14140
+      },
+      "Kensei Hirata": {
+        "win": 0.0012666666666666,
+        "top_5": 0.0121014484126984,
+        "top_10": 0.030486676009176,
+        "top_20": 0.0773891101259851,
+        "make_cut": 0.442833333333333,
+        "dg_id": 20954
+      },
+      "Nick Dunlap": {
+        "win": 0.0012166666666666,
+        "top_5": 0.0091407539682539,
+        "top_10": 0.0226432006419506,
+        "top_20": 0.0575904691142191,
+        "make_cut": 0.38955,
+        "dg_id": 28270
+      },
+      "Pontus Nyholm": {
+        "win": 0.0012166666666666,
+        "top_5": 0.0088660119047619,
+        "top_10": 0.0222567803030303,
+        "top_20": 0.0545529780840075,
+        "make_cut": 0.3797,
+        "dg_id": 25475
       },
       "Cameron Champ": {
-        "win": 0.0012333333333333,
-        "top_5": 0.008274828042328,
-        "top_10": 0.0199351891626892,
-        "top_20": 0.050492635003885,
-        "make_cut": 0.3573,
+        "win": 0.0012166666666666,
+        "top_5": 0.0082511497761497,
+        "top_10": 0.0195133308358308,
+        "top_20": 0.0486404062114356,
+        "make_cut": 0.354566666666667,
         "dg_id": 23542
       },
+      "Adam Schenk": {
+        "win": 0.0012,
+        "top_5": 0.0094806547619047,
+        "top_10": 0.0226900757575758,
+        "top_20": 0.057769277019277,
+        "make_cut": 0.3809,
+        "dg_id": 19477
+      },
+      "Jeffrey Kang": {
+        "win": 0.0011833333333333,
+        "top_5": 0.0073465079365079,
+        "top_10": 0.0188267135642136,
+        "top_20": 0.0498700893550894,
+        "make_cut": 0.368316666666667,
+        "dg_id": 21889
+      },
+      "Brian Campbell": {
+        "win": 0.0011666666666666,
+        "top_5": 0.010016369047619,
+        "top_10": 0.0256863687701188,
+        "top_20": 0.0666703629676424,
+        "make_cut": 0.423433333333333,
+        "dg_id": 18628
+      },
       "Kevin Streelman": {
-        "win": 0.0012333333333333,
-        "top_5": 0.0097023412698412,
-        "top_10": 0.0236919766344766,
-        "top_20": 0.060207183973434,
-        "make_cut": 0.395683333333333,
+        "win": 0.0011333333333333,
+        "top_5": 0.0094563107263107,
+        "top_10": 0.0235234235209235,
+        "top_20": 0.0604041096172346,
+        "make_cut": 0.393033333333333,
         "dg_id": 8480
       },
       "Justin Lower": {
-        "win": 0.0012166666666666,
-        "top_5": 0.0086028769841269,
-        "top_10": 0.0215800270562771,
-        "top_20": 0.0556410646760647,
-        "make_cut": 0.391066666666667,
+        "win": 0.0011333333333333,
+        "top_5": 0.0082834126984127,
+        "top_10": 0.021506654040404,
+        "top_20": 0.0551890675528176,
+        "make_cut": 0.3871,
         "dg_id": 17723
       },
-      "Brian Campbell": {
-        "win": 0.0011833333333333,
-        "top_5": 0.0098847023809523,
-        "top_10": 0.026136364977615,
-        "top_20": 0.0674302774540275,
-        "make_cut": 0.4217,
-        "dg_id": 18628
-      },
-      "Pontus Nyholm": {
-        "win": 0.0011666666666666,
-        "top_5": 0.0093700066137566,
-        "top_10": 0.0222029936267436,
-        "top_20": 0.0567072056184556,
-        "make_cut": 0.37965,
-        "dg_id": 25475
-      },
-      "Nick Dunlap": {
-        "win": 0.00115,
-        "top_5": 0.0091838293650793,
-        "top_10": 0.0224486802549303,
-        "top_20": 0.0578565787222037,
-        "make_cut": 0.387366666666667,
-        "dg_id": 28270
-      },
       "Marcelo Rozo": {
-        "win": 0.0011333333333333,
-        "top_5": 0.0079092195767195,
-        "top_10": 0.0198550138287638,
-        "top_20": 0.0537254796823547,
-        "make_cut": 0.384766666666667,
+        "win": 0.0010833333333333,
+        "top_5": 0.0083592592592592,
+        "top_10": 0.020353388047138,
+        "top_20": 0.0542880342329239,
+        "make_cut": 0.386266666666667,
         "dg_id": 16591
       },
-      "Paul Peterson": {
-        "win": 0.0011166666666666,
-        "top_5": 0.0105544841269841,
-        "top_10": 0.02700428002553,
-        "top_20": 0.0713714804408554,
-        "make_cut": 0.439333333333333,
-        "dg_id": 16341
-      },
-      "Adam Schenk": {
-        "win": 0.0010833333333333,
-        "top_5": 0.0086073082010582,
-        "top_10": 0.0219473635161135,
-        "top_20": 0.0564413613469863,
-        "make_cut": 0.379866666666667,
-        "dg_id": 19477
-      },
-      "Noah Goodwin": {
-        "win": 0.0010666666666666,
-        "top_5": 0.0102015873015873,
-        "top_10": 0.0257850987900988,
-        "top_20": 0.0679109835534836,
-        "make_cut": 0.4194,
-        "dg_id": 24837
-      },
-      "Jeffrey Kang": {
-        "win": 0.001,
-        "top_5": 0.007390193001443,
-        "top_10": 0.0182545336145336,
-        "top_20": 0.0483527654058904,
-        "make_cut": 0.3656,
-        "dg_id": 21889
-      },
       "Davis Chatfield": {
-        "win": 0.001,
-        "top_5": 0.0074608465608465,
-        "top_10": 0.0198157041569542,
-        "top_20": 0.0547911114348614,
-        "make_cut": 0.39335,
+        "win": 0.0010666666666666,
+        "top_5": 0.00765889009139,
+        "top_10": 0.020110860990861,
+        "top_20": 0.055288788965664,
+        "make_cut": 0.3971,
         "dg_id": 30620
       },
+      "Ben Silverman": {
+        "win": 0.0010333333333333,
+        "top_5": 0.0091176996151996,
+        "top_10": 0.023078544973545,
+        "top_20": 0.0622226365029306,
+        "make_cut": 0.408433333333333,
+        "dg_id": 17381
+      },
+      "Martin Laird": {
+        "win": 0.0010166666666666,
+        "top_5": 0.0067049338624338,
+        "top_10": 0.0171305977818478,
+        "top_20": 0.0478700326294076,
+        "make_cut": 0.36435,
+        "dg_id": 9586
+      },
       "Joe Highsmith": {
-        "win": 0.0009333333333333,
-        "top_5": 0.0068185648148148,
-        "top_10": 0.0175580432992933,
-        "top_20": 0.0459474859399859,
-        "make_cut": 0.351133333333333,
+        "win": 0.001,
+        "top_5": 0.0070210978835978,
+        "top_10": 0.0172955952380952,
+        "top_20": 0.0454687151043401,
+        "make_cut": 0.356133333333333,
         "dg_id": 28469
       },
       "Danny Walker": {
-        "win": 0.0009166666666666,
-        "top_5": 0.0066142544492544,
-        "top_10": 0.0161217205017205,
-        "top_20": 0.0424900907657158,
-        "make_cut": 0.341333333333333,
+        "win": 0.0008833333333333,
+        "top_5": 0.0065826521164021,
+        "top_10": 0.0159900835275835,
+        "top_20": 0.0412149302086802,
+        "make_cut": 0.345716666666667,
         "dg_id": 25003
       },
-      "Martin Laird": {
-        "win": 0.0009,
-        "top_5": 0.0070790548340548,
-        "top_10": 0.0180236808561809,
-        "top_20": 0.0485663946701447,
-        "make_cut": 0.366733333333333,
-        "dg_id": 9586
-      },
-      "Christo Lamprecht": {
-        "win": 0.0008166666666666,
-        "top_5": 0.0059257936507936,
-        "top_10": 0.0143022482609983,
-        "top_20": 0.0379006487725238,
-        "make_cut": 0.326683333333333,
-        "dg_id": 24343
-      },
-      "Nick Hardy": {
-        "win": 0.0008,
-        "top_5": 0.0065028709716209,
-        "top_10": 0.0169540476190476,
-        "top_20": 0.045358468984719,
-        "make_cut": 0.357766666666667,
-        "dg_id": 19865
-      },
       "Troy Merritt": {
-        "win": 0.0006666666666666,
-        "top_5": 0.0069290806878306,
-        "top_10": 0.0178102603415103,
-        "top_20": 0.0481548783623784,
-        "make_cut": 0.3654,
+        "win": 0.0008333333333333,
+        "top_5": 0.0067024206349206,
+        "top_10": 0.0177819305694306,
+        "top_20": 0.0474898439060939,
+        "make_cut": 0.367316666666667,
         "dg_id": 13367
       },
-      "Camilo Villegas": {
-        "win": 0.0006,
-        "top_5": 0.0046916732804232,
-        "top_10": 0.0126070262145262,
-        "top_20": 0.0362373458485959,
-        "make_cut": 0.323566666666667,
-        "dg_id": 9171
-      },
       "Davis Riley": {
-        "win": 0.0006,
-        "top_5": 0.0046670977633477,
-        "top_10": 0.0116588137325637,
-        "top_20": 0.0331393605237355,
-        "make_cut": 0.303883333333333,
+        "win": 0.0007333333333333,
+        "top_5": 0.0052175595238095,
+        "top_10": 0.0121991348003848,
+        "top_20": 0.0326149786787287,
+        "make_cut": 0.307033333333333,
         "dg_id": 19872
+      },
+      "Luke List": {
+        "win": 0.0006833333333333,
+        "top_5": 0.005717904040404,
+        "top_10": 0.0146996272246272,
+        "top_20": 0.0394812163517311,
+        "make_cut": 0.333483333333333,
+        "dg_id": 7960
+      },
+      "Peter Malnati": {
+        "win": 0.00065,
+        "top_5": 0.0049338888888888,
+        "top_10": 0.0123216077441077,
+        "top_20": 0.0334699608493359,
+        "make_cut": 0.319583333333333,
+        "dg_id": 14926
+      },
+      "Nick Hardy": {
+        "win": 0.0005833333333333,
+        "top_5": 0.0061615343915343,
+        "top_10": 0.0161687177174677,
+        "top_20": 0.0456400538486568,
+        "make_cut": 0.359833333333333,
+        "dg_id": 19865
       },
       "Jeremy Paul": {
         "win": 0.0005666666666666,
-        "top_5": 0.0050874801587301,
-        "top_10": 0.0136862848725349,
-        "top_20": 0.0375695077607578,
-        "make_cut": 0.333516666666667,
+        "top_5": 0.0054700859788359,
+        "top_10": 0.0144022234247234,
+        "top_20": 0.0397995684870685,
+        "make_cut": 0.338633333333333,
         "dg_id": 22087
       },
-      "Luke List": {
-        "win": 0.00055,
-        "top_5": 0.0055749867724867,
-        "top_10": 0.0142949881599882,
-        "top_20": 0.0400454884467384,
-        "make_cut": 0.331416666666667,
-        "dg_id": 7960
+      "Christo Lamprecht": {
+        "win": 0.0005666666666666,
+        "top_5": 0.0056057208994709,
+        "top_10": 0.0141666215728716,
+        "top_20": 0.038532327996078,
+        "make_cut": 0.329233333333333,
+        "dg_id": 24343
       },
-      "Gordon Sargent": {
+      "Mason Howell": {
         "win": 0.0005333333333333,
-        "top_5": 0.0039885515873015,
-        "top_10": 0.0092168656806156,
-        "top_20": 0.0255054634254634,
-        "make_cut": 0.263,
-        "dg_id": 30814
+        "top_5": 0.0030893177655677,
+        "top_10": 0.0083535623173123,
+        "top_20": 0.0251624100899101,
+        "make_cut": 0.27545,
+        "dg_id": 33759
       },
       "Ryan Voois": {
-        "win": 0.0005333333333333,
-        "top_5": 0.0050521428571428,
-        "top_10": 0.0134008495670996,
-        "top_20": 0.0353390155215155,
-        "make_cut": 0.319733333333333,
+        "win": 0.0005166666666666,
+        "top_5": 0.0051194246031746,
+        "top_10": 0.0132587698412698,
+        "top_20": 0.0362693223443223,
+        "make_cut": 0.320366666666667,
         "dg_id": 35545
       },
-      "Peter Malnati": {
-        "win": 0.0005333333333333,
-        "top_5": 0.0048060185185185,
-        "top_10": 0.012418936988937,
-        "top_20": 0.0339555418560198,
-        "make_cut": 0.320933333333333,
-        "dg_id": 14926
+      "Gordon Sargent": {
+        "win": 0.0005166666666666,
+        "top_5": 0.0040687506012506,
+        "top_10": 0.0102821404521405,
+        "top_20": 0.0273571602471602,
+        "make_cut": 0.26885,
+        "dg_id": 30814
       },
-      "Q3 Monday": {
-        "win": 0.0003833333333333,
-        "top_5": 0.0027393386243386,
-        "top_10": 0.0073781487493987,
-        "top_20": 0.0223861265123765,
-        "make_cut": 0.27395,
-        "dg_id": -3
+      "Jonathan Byrd": {
+        "win": 0.0004166666666666,
+        "top_5": 0.0033622023809523,
+        "top_10": 0.0098919053631553,
+        "top_20": 0.0285954868742369,
+        "make_cut": 0.295066666666667,
+        "dg_id": 6931
+      },
+      "Patton Kizzire": {
+        "win": 0.0004166666666666,
+        "top_5": 0.0027268055555555,
+        "top_10": 0.0074808934583934,
+        "top_20": 0.0224695771358271,
+        "make_cut": 0.273716666666667,
+        "dg_id": 13470
+      },
+      "Camilo Villegas": {
+        "win": 0.0004,
+        "top_5": 0.0043979288766788,
+        "top_10": 0.0118426081326081,
+        "top_20": 0.0351133084970585,
+        "make_cut": 0.325683333333333,
+        "dg_id": 9171
+      },
+      "Michael Feagles": {
+        "win": 0.0003666666666666,
+        "top_5": 0.0030304365079365,
+        "top_10": 0.0079210032560032,
+        "top_20": 0.0232629095210345,
+        "make_cut": 0.26525,
+        "dg_id": 26656
       },
       "Nicholas Lindheim": {
-        "win": 0.00035,
-        "top_5": 0.0031389484126984,
-        "top_10": 0.0083721248196248,
-        "top_20": 0.0249218205868206,
-        "make_cut": 0.267416666666667,
+        "win": 0.0003666666666666,
+        "top_5": 0.0029614947089947,
+        "top_10": 0.0079169179894179,
+        "top_20": 0.0233390663965664,
+        "make_cut": 0.271166666666667,
         "dg_id": 16713
       },
       "Aaron Wise": {
-        "win": 0.0003333333333333,
-        "top_5": 0.0023048809523809,
-        "top_10": 0.006658014069264,
-        "top_20": 0.0193554228872979,
-        "make_cut": 0.242783333333333,
+        "win": 0.00035,
+        "top_5": 0.0028215277777777,
+        "top_10": 0.0070436682299182,
+        "top_20": 0.0198638727938728,
+        "make_cut": 0.24695,
         "dg_id": 22051
       },
-      "Jonathan Byrd": {
-        "win": 0.0003333333333333,
-        "top_5": 0.003053869047619,
-        "top_10": 0.0090298427960928,
-        "top_20": 0.0277257217319717,
-        "make_cut": 0.296166666666667,
-        "dg_id": 6931
-      },
-      "Ryan Brehm": {
-        "win": 0.0003166666666666,
-        "top_5": 0.0020398809523809,
-        "top_10": 0.0057703439153439,
-        "top_20": 0.0160137532048561,
-        "make_cut": 0.224816666666667,
-        "dg_id": 10423
-      },
-      "Q4 Monday": {
-        "win": 0.0003166666666666,
-        "top_5": 0.0027338888888888,
-        "top_10": 0.0076342935305435,
-        "top_20": 0.0233925019193769,
-        "make_cut": 0.27185,
-        "dg_id": -4
-      },
-      "Q2 Monday": {
+      "Luke Gutschewski": {
         "win": 0.0003,
-        "top_5": 0.002572123015873,
-        "top_10": 0.0068535696248196,
-        "top_20": 0.0215403100603101,
-        "make_cut": 0.26875,
-        "dg_id": -2
-      },
-      "Q1 Monday": {
-        "win": 0.0002666666666666,
-        "top_5": 0.0024831746031746,
-        "top_10": 0.0070991281866281,
-        "top_20": 0.0218574666537167,
-        "make_cut": 0.271616666666667,
-        "dg_id": -1
-      },
-      "Rafael Campos": {
-        "win": 0.0002166666666666,
-        "top_5": 0.0017379365079365,
-        "top_10": 0.0053907455507455,
-        "top_20": 0.0175255927868428,
-        "make_cut": 0.241083333333333,
-        "dg_id": 12909
-      },
-      "Patton Kizzire": {
-        "win": 0.0002,
-        "top_5": 0.0027088095238095,
-        "top_10": 0.0075930224867724,
-        "top_20": 0.0230796197783698,
-        "make_cut": 0.27035,
-        "dg_id": 13470
-      },
-      "Mason Howell": {
-        "win": 0.0002,
-        "top_5": 0.0033869047619047,
-        "top_10": 0.0091163319550819,
-        "top_20": 0.0246066847041847,
-        "make_cut": 0.272216666666667,
-        "dg_id": 33759
+        "top_5": 0.003244742063492,
+        "top_10": 0.0090729912217412,
+        "top_20": 0.0262884385984386,
+        "make_cut": 0.285566666666667,
+        "dg_id": 32683
       },
       "Ben Martin": {
-        "win": 0.0001833333333333,
-        "top_5": 0.0029989351851851,
-        "top_10": 0.0082456776094276,
-        "top_20": 0.025063012034262,
-        "make_cut": 0.289233333333333,
+        "win": 0.0002666666666666,
+        "top_5": 0.0027360714285714,
+        "top_10": 0.0080690355940355,
+        "top_20": 0.0253251120869871,
+        "make_cut": 0.2897,
         "dg_id": 14007
       },
+      "Ryan Brehm": {
+        "win": 0.00025,
+        "top_5": 0.0019225,
+        "top_10": 0.0051446987734487,
+        "top_20": 0.0156818117204147,
+        "make_cut": 0.222433333333333,
+        "dg_id": 10423
+      },
+      "Augusto Nunez": {
+        "win": 0.00025,
+        "top_5": 0.0030125,
+        "top_10": 0.0082636787749287,
+        "top_20": 0.0241742444592445,
+        "make_cut": 0.278283333333333,
+        "dg_id": 16796
+      },
+      "Rafael Campos": {
+        "win": 0.0002,
+        "top_5": 0.0019075925925925,
+        "top_10": 0.0055249891774891,
+        "top_20": 0.0163365543470691,
+        "make_cut": 0.239983333333333,
+        "dg_id": 12909
+      },
       "Robert Streb": {
-        "win": 0.0001333333333333,
-        "top_5": 0.0012101984126984,
-        "top_10": 0.0034763431938431,
-        "top_20": 0.010422775974026,
-        "make_cut": 0.1894,
+        "win": 6.66666666666667e-05,
+        "top_5": 0.0007879828042328,
+        "top_10": 0.0027344312169312,
+        "top_20": 0.0095643734411013,
+        "make_cut": 0.188916666666667,
         "dg_id": 14852
       },
       "Brendon Todd": {
-        "win": 6.66666666666667e-05,
-        "top_5": 0.0004694444444444,
-        "top_10": 0.0017281613756613,
-        "top_20": 0.0067991598679098,
-        "make_cut": 0.16895,
+        "win": 5e-05,
+        "top_5": 0.0006250925925925,
+        "top_10": 0.0019405224867724,
+        "top_20": 0.0064524979649979,
+        "make_cut": 0.169716666666667,
         "dg_id": 12425
       },
       "Darin Fisher": {
-        "win": 0.0,
-        "top_5": 2.77777777777778e-05,
-        "top_10": 0.0001166666666666,
-        "top_20": 0.0004533465608465,
-        "make_cut": 0.03545,
+        "win": 1.66666666666667e-05,
+        "top_5": 2.5e-05,
+        "top_10": 7.04761904761905e-05,
+        "top_20": 0.0003217526455026,
+        "make_cut": 0.0352666666666667,
         "dg_id": 23709
+      },
+      "Patrick Adler": {
+        "win": 1.66666666666667e-05,
+        "top_5": 9.83333333333334e-05,
+        "top_10": 0.0004386904761904,
+        "top_20": 0.001526687016687,
+        "make_cut": 0.0661166666666667,
+        "dg_id": 30033853
       }
     },
-    "last_updated": "2026-06-29T20:02:46.805180-04:00"
+    "last_updated": "2026-06-30T11:59:24.775098-04:00"
   },
   "skill_ratings": {
     "by_player": {
@@ -10124,11 +10172,11 @@
         "player_name": "Martin Trainer"
       }
     },
-    "last_updated": "2026-06-29T20:02:46.805118-04:00"
+    "last_updated": "2026-06-30T11:59:24.775043-04:00"
   },
   "approach_skill": {
     "by_player": {},
-    "last_updated": "2026-06-29T20:02:46.805158-04:00"
+    "last_updated": "2026-06-30T11:59:24.775072-04:00"
   },
   "course_history": {
     "by_player": {}
@@ -10375,92 +10423,92 @@
       {
         "player": "Ben Griffin",
         "odds": "+5000",
-        "edge": 0.0337,
-        "note": "DG: 5.3% | Market: 2.0% | Edge: +3.4%"
+        "edge": 0.0333,
+        "note": "DG: 5.3% | Market: 2.0% | Edge: +3.3%"
       },
       {
         "player": "Keith Mitchell",
         "odds": "+15000",
-        "edge": 0.0289,
+        "edge": 0.0287,
         "note": "DG: 3.5% | Market: 0.7% | Edge: +2.9%"
       },
       {
         "player": "Keegan Bradley",
         "odds": "+11000",
-        "edge": 0.026,
-        "note": "DG: 3.5% | Market: 0.9% | Edge: +2.6%"
-      },
-      {
-        "player": "Ryo Hisatsune",
-        "odds": "+45000",
-        "edge": 0.0194,
-        "note": "DG: 2.2% | Market: 0.2% | Edge: +1.9%"
+        "edge": 0.0248,
+        "note": "DG: 3.4% | Market: 0.9% | Edge: +2.5%"
       },
       {
         "player": "J.T. Poston",
         "odds": "+15000",
-        "edge": 0.0178,
-        "note": "DG: 2.4% | Market: 0.7% | Edge: +1.8%"
+        "edge": 0.0185,
+        "note": "DG: 2.5% | Market: 0.7% | Edge: +1.8%"
       },
       {
-        "player": "Andrew Novak",
-        "odds": "+18000",
-        "edge": 0.0166,
-        "note": "DG: 2.2% | Market: 0.5% | Edge: +1.7%"
+        "player": "Ryo Hisatsune",
+        "odds": "+45000",
+        "edge": 0.0178,
+        "note": "DG: 2.0% | Market: 0.2% | Edge: +1.8%"
       },
       {
         "player": "Jacob Bridgeman",
         "odds": "+10000",
-        "edge": 0.0157,
-        "note": "DG: 2.6% | Market: 1.0% | Edge: +1.6%"
+        "edge": 0.0174,
+        "note": "DG: 2.7% | Market: 1.0% | Edge: +1.7%"
       },
       {
         "player": "Eric Cole",
         "odds": "+30000",
-        "edge": 0.0151,
-        "note": "DG: 1.8% | Market: 0.3% | Edge: +1.5%"
+        "edge": 0.0162,
+        "note": "DG: 1.9% | Market: 0.3% | Edge: +1.6%"
+      },
+      {
+        "player": "Andrew Novak",
+        "odds": "+18000",
+        "edge": 0.0156,
+        "note": "DG: 2.1% | Market: 0.5% | Edge: +1.6%"
       },
       {
         "player": "Rickie Fowler",
         "odds": "+17000",
-        "edge": 0.0147,
-        "note": "DG: 2.1% | Market: 0.6% | Edge: +1.5%"
+        "edge": 0.0144,
+        "note": "DG: 2.0% | Market: 0.6% | Edge: +1.4%"
       },
       {
         "player": "Matt Wallace",
         "odds": "+40000",
-        "edge": 0.0117,
-        "note": "DG: 1.4% | Market: 0.2% | Edge: +1.2%"
+        "edge": 0.0128,
+        "note": "DG: 1.5% | Market: 0.2% | Edge: +1.3%"
       },
       {
         "player": "Michael Kim",
         "odds": "+15000",
-        "edge": 0.0105,
-        "note": "DG: 1.7% | Market: 0.7% | Edge: +1.1%"
+        "edge": 0.0097,
+        "note": "DG: 1.6% | Market: 0.7% | Edge: +1.0%"
       },
       {
         "player": "Max Greyserman",
         "odds": "+20000",
-        "edge": 0.0095,
-        "note": "DG: 1.5% | Market: 0.5% | Edge: +0.9%"
-      },
-      {
-        "player": "Christiaan Bezuidenhout",
-        "odds": "+36000",
-        "edge": 0.0079,
-        "note": "DG: 1.1% | Market: 0.3% | Edge: +0.8%"
-      },
-      {
-        "player": "Jordan Spieth",
-        "odds": "+5000",
-        "edge": 0.0073,
-        "note": "DG: 2.7% | Market: 2.0% | Edge: +0.7%"
+        "edge": 0.0096,
+        "note": "DG: 1.5% | Market: 0.5% | Edge: +1.0%"
       },
       {
         "player": "Davis Thompson",
         "odds": "+17000",
-        "edge": 0.0064,
-        "note": "DG: 1.2% | Market: 0.6% | Edge: +0.6%"
+        "edge": 0.0073,
+        "note": "DG: 1.3% | Market: 0.6% | Edge: +0.7%"
+      },
+      {
+        "player": "Jordan Spieth",
+        "odds": "+5000",
+        "edge": 0.0068,
+        "note": "DG: 2.6% | Market: 2.0% | Edge: +0.7%"
+      },
+      {
+        "player": "Christiaan Bezuidenhout",
+        "odds": "+36000",
+        "edge": 0.0066,
+        "note": "DG: 0.9% | Market: 0.3% | Edge: +0.7%"
       }
     ],
     "tiers": {
@@ -10839,7 +10887,8 @@
       "No DG odds returned at 2026-06-29T04:18:53.390767-04:00",
       "No DG odds returned at 2026-06-29T09:58:29.129048-04:00",
       "No DG odds returned at 2026-06-29T12:49:55.903024-04:00",
-      "No DG odds returned at 2026-06-29T20:02:46.886629-04:00"
+      "No DG odds returned at 2026-06-29T20:02:46.886629-04:00",
+      "No DG odds returned at 2026-06-30T11:59:24.853977-04:00"
     ],
     "analysis_uncertainties": [
       "[Claude] > ⚠️ **CRITICAL DATA FLAG — READ BEFORE ANYTHING ELSE**",
@@ -13039,6 +13088,13 @@
       "run_type": "manual",
       "status": "complete",
       "field_size": 140,
+      "odds_players": 113
+    },
+    {
+      "time": "2026-06-30T11:59:24.854887-04:00",
+      "run_type": "manual",
+      "status": "complete",
+      "field_size": 144,
       "odds_players": 113
     }
   ]
