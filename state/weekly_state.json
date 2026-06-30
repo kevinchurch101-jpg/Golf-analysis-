@@ -24,8 +24,27 @@
       "owgr_rank": null,
       "player_name": "Adler, Patrick",
       "player_num": 67601,
-      "pre_tourn_pageviews": 32,
-      "teetimes": [],
+      "pre_tourn_pageviews": 47,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-07-02 13:40",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-07-03 08:30",
+          "wave": "early"
+        }
+      ],
       "tour_rank": null
     },
     {
@@ -36,8 +55,27 @@
       "owgr_rank": 161,
       "player_name": "Bauchou, Zach",
       "player_num": 48001,
-      "pre_tourn_pageviews": 685,
-      "teetimes": [],
+      "pre_tourn_pageviews": 823,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-07-02 13:40",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-07-03 08:30",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "84"
     },
     {
@@ -48,8 +86,27 @@
       "owgr_rank": 47,
       "player_name": "Berger, Daniel",
       "player_num": 40026,
-      "pre_tourn_pageviews": 882,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1095,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-07-02 07:13",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-07-03 12:23",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "50"
     },
     {
@@ -60,8 +117,27 @@
       "owgr_rank": 100,
       "player_name": "Bezuidenhout, Christiaan",
       "player_num": 45522,
-      "pre_tourn_pageviews": 536,
-      "teetimes": [],
+      "pre_tourn_pageviews": 653,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-07-02 12:56",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-07-03 07:46",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "95"
     },
     {
@@ -72,8 +148,27 @@
       "owgr_rank": 187,
       "player_name": "Blair, Zac",
       "player_num": 40058,
-      "pre_tourn_pageviews": 240,
-      "teetimes": [],
+      "pre_tourn_pageviews": 355,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-07-02 07:46",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-07-03 12:56",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "160"
     },
     {
@@ -84,8 +179,27 @@
       "owgr_rank": 111,
       "player_name": "Blanchet, Chandler",
       "player_num": 54788,
-      "pre_tourn_pageviews": 222,
-      "teetimes": [],
+      "pre_tourn_pageviews": 279,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-07-02 08:41",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-07-03 13:51",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "94"
     },
     {
@@ -96,8 +210,27 @@
       "owgr_rank": 38,
       "player_name": "Bradley, Keegan",
       "player_num": 33141,
-      "pre_tourn_pageviews": 1080,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1374,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-07-02 12:45",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-07-03 07:35",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "69"
     },
     {
@@ -108,8 +241,27 @@
       "owgr_rank": null,
       "player_name": "Brehm, Ryan",
       "player_num": 28420,
-      "pre_tourn_pageviews": 50,
-      "teetimes": [],
+      "pre_tourn_pageviews": 63,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-07-02 06:40",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-07-03 11:50",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "189"
     },
     {
@@ -120,8 +272,27 @@
       "owgr_rank": 60,
       "player_name": "Brennan, Michael",
       "player_num": 61522,
-      "pre_tourn_pageviews": 467,
-      "teetimes": [],
+      "pre_tourn_pageviews": 600,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-07-02 07:35",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-07-03 12:45",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "102"
     },
     {
@@ -132,8 +303,27 @@
       "owgr_rank": 27,
       "player_name": "Bridgeman, Jacob",
       "player_num": 60004,
-      "pre_tourn_pageviews": 1258,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1562,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-07-02 07:13",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-07-03 12:23",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "11"
     },
     {
@@ -144,8 +334,27 @@
       "owgr_rank": 106,
       "player_name": "Brown, Blades",
       "player_num": 66417,
-      "pre_tourn_pageviews": 973,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1240,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-07-02 08:19",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-07-03 13:29",
+          "wave": "late"
+        }
+      ],
       "tour_rank": null
     },
     {
@@ -156,8 +365,27 @@
       "owgr_rank": null,
       "player_name": "Byrd, Jonathan",
       "player_num": 24925,
-      "pre_tourn_pageviews": 70,
-      "teetimes": [],
+      "pre_tourn_pageviews": 82,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-07-02 12:12",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-07-03 07:02",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "205"
     },
     {
@@ -168,8 +396,27 @@
       "owgr_rank": 128,
       "player_name": "Campbell, Brian",
       "player_num": 46443,
-      "pre_tourn_pageviews": 618,
-      "teetimes": [],
+      "pre_tourn_pageviews": 759,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-07-02 07:24",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-07-03 12:34",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "147"
     },
     {
@@ -180,8 +427,27 @@
       "owgr_rank": null,
       "player_name": "Campos, Rafael",
       "player_num": 32070,
-      "pre_tourn_pageviews": 59,
-      "teetimes": [],
+      "pre_tourn_pageviews": 73,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-07-02 06:40",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-07-03 11:50",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "181"
     },
     {
@@ -192,8 +458,27 @@
       "owgr_rank": 362,
       "player_name": "Champ, Cameron",
       "player_num": 52372,
-      "pre_tourn_pageviews": 114,
-      "teetimes": [],
+      "pre_tourn_pageviews": 138,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-07-02 13:18",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-07-03 08:08",
+          "wave": "early"
+        }
+      ],
       "tour_rank": null
     },
     {
@@ -204,8 +489,27 @@
       "owgr_rank": 319,
       "player_name": "Chatfield, Davis",
       "player_num": 59006,
-      "pre_tourn_pageviews": 106,
-      "teetimes": [],
+      "pre_tourn_pageviews": 122,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-07-02 13:51",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-07-03 08:41",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "177"
     },
     {
@@ -216,8 +520,27 @@
       "owgr_rank": 270,
       "player_name": "Clanton, Luke",
       "player_num": 66743,
-      "pre_tourn_pageviews": 511,
-      "teetimes": [],
+      "pre_tourn_pageviews": 627,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-07-02 13:29",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-07-03 08:19",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "142"
     },
     {
@@ -228,8 +551,27 @@
       "owgr_rank": 69,
       "player_name": "Cole, Eric",
       "player_num": 47591,
-      "pre_tourn_pageviews": 1162,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1488,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-07-02 07:13",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-07-03 12:23",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "41"
     },
     {
@@ -240,8 +582,27 @@
       "owgr_rank": 59,
       "player_name": "Coody, Pierceson",
       "player_num": 59836,
-      "pre_tourn_pageviews": 587,
-      "teetimes": [],
+      "pre_tourn_pageviews": 789,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-07-02 06:40",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-07-03 11:50",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "51"
     },
     {
@@ -252,8 +613,27 @@
       "owgr_rank": 239,
       "player_name": "Crowe, Trace",
       "player_num": 52514,
-      "pre_tourn_pageviews": 85,
-      "teetimes": [],
+      "pre_tourn_pageviews": 104,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-07-02 08:41",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-07-03 13:51",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "156"
     },
     {
@@ -264,8 +644,27 @@
       "owgr_rank": 211,
       "player_name": "Dahmen, Joel",
       "player_num": 34076,
-      "pre_tourn_pageviews": 285,
-      "teetimes": [],
+      "pre_tourn_pageviews": 353,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-07-02 07:57",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-07-03 13:07",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "115"
     },
     {
@@ -276,8 +675,27 @@
       "owgr_rank": 192,
       "player_name": "Dou, Zecheng",
       "player_num": 37338,
-      "pre_tourn_pageviews": 143,
-      "teetimes": [],
+      "pre_tourn_pageviews": 177,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-07-02 13:40",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-07-03 08:30",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "117"
     },
     {
@@ -288,8 +706,27 @@
       "owgr_rank": 168,
       "player_name": "Dumont De Chassart, Adrien",
       "player_num": 50497,
-      "pre_tourn_pageviews": 213,
-      "teetimes": [],
+      "pre_tourn_pageviews": 253,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-07-02 08:41",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-07-03 13:51",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "103"
     },
     {
@@ -300,8 +737,27 @@
       "owgr_rank": 485,
       "player_name": "Duncan, Tyler",
       "player_num": 45609,
-      "pre_tourn_pageviews": 130,
-      "teetimes": [],
+      "pre_tourn_pageviews": 161,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-07-02 06:40",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-07-03 11:50",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "188"
     },
     {
@@ -312,8 +768,27 @@
       "owgr_rank": 360,
       "player_name": "Dunlap, Nick",
       "player_num": 59866,
-      "pre_tourn_pageviews": 145,
-      "teetimes": [],
+      "pre_tourn_pageviews": 193,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-07-02 07:02",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-07-03 12:12",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "171"
     },
     {
@@ -324,8 +799,27 @@
       "owgr_rank": 180,
       "player_name": "Eckroat, Austin",
       "player_num": 57362,
-      "pre_tourn_pageviews": 523,
-      "teetimes": [],
+      "pre_tourn_pageviews": 653,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-07-02 12:01",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-07-03 06:51",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "110"
     },
     {
@@ -336,8 +830,27 @@
       "owgr_rank": 186,
       "player_name": "Ewart, A.J.",
       "player_num": 50286,
-      "pre_tourn_pageviews": 467,
-      "teetimes": [],
+      "pre_tourn_pageviews": 592,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-07-02 08:19",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-07-03 13:29",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "88"
     },
     {
@@ -348,8 +861,27 @@
       "owgr_rank": null,
       "player_name": "Feagles, Michael",
       "player_num": 57124,
-      "pre_tourn_pageviews": 36,
-      "teetimes": [],
+      "pre_tourn_pageviews": 48,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-07-02 08:30",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-07-03 13:40",
+          "wave": "late"
+        }
+      ],
       "tour_rank": null
     },
     {
@@ -360,8 +892,27 @@
       "owgr_rank": 113,
       "player_name": "Finau, Tony",
       "player_num": 29725,
-      "pre_tourn_pageviews": 471,
-      "teetimes": [],
+      "pre_tourn_pageviews": 580,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-07-02 12:23",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-07-03 07:13",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "77"
     },
     {
@@ -372,8 +923,27 @@
       "owgr_rank": 207,
       "player_name": "Fishburn, Patrick",
       "player_num": 54576,
-      "pre_tourn_pageviews": 148,
-      "teetimes": [],
+      "pre_tourn_pageviews": 177,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-07-02 08:19",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-07-03 13:29",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "157"
     },
     {
@@ -384,8 +954,27 @@
       "owgr_rank": null,
       "player_name": "Fisher, Darin",
       "player_num": 52497,
-      "pre_tourn_pageviews": 60,
-      "teetimes": [],
+      "pre_tourn_pageviews": 79,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-07-02 08:41",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-07-03 13:51",
+          "wave": "late"
+        }
+      ],
       "tour_rank": null
     },
     {
@@ -396,8 +985,27 @@
       "owgr_rank": 123,
       "player_name": "Fisk, Steven",
       "player_num": 57123,
-      "pre_tourn_pageviews": 213,
-      "teetimes": [],
+      "pre_tourn_pageviews": 263,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-07-02 12:23",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-07-03 07:13",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "96"
     },
     {
@@ -408,8 +1016,27 @@
       "owgr_rank": 42,
       "player_name": "Fowler, Rickie",
       "player_num": 32102,
-      "pre_tourn_pageviews": 877,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1105,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-07-02 12:34",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-07-03 07:24",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "33"
     },
     {
@@ -420,8 +1047,27 @@
       "owgr_rank": 412,
       "player_name": "Frittelli, Dylan",
       "player_num": 29970,
-      "pre_tourn_pageviews": 163,
-      "teetimes": [],
+      "pre_tourn_pageviews": 199,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-07-02 13:18",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-07-03 08:08",
+          "wave": "early"
+        }
+      ],
       "tour_rank": null
     },
     {
@@ -432,8 +1078,27 @@
       "owgr_rank": 240,
       "player_name": "Garnett, Brice",
       "player_num": 29535,
-      "pre_tourn_pageviews": 223,
-      "teetimes": [],
+      "pre_tourn_pageviews": 273,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-07-02 12:01",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-07-03 06:51",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "112"
     },
     {
@@ -444,8 +1109,27 @@
       "owgr_rank": 174,
       "player_name": "Ghim, Doug",
       "player_num": 52375,
-      "pre_tourn_pageviews": 749,
-      "teetimes": [],
+      "pre_tourn_pageviews": 947,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-07-02 07:57",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-07-03 13:07",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "98"
     },
     {
@@ -456,8 +1140,27 @@
       "owgr_rank": 115,
       "player_name": "Glover, Lucas",
       "player_num": 25900,
-      "pre_tourn_pageviews": 519,
-      "teetimes": [],
+      "pre_tourn_pageviews": 650,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-07-02 07:24",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-07-03 12:34",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "119"
     },
     {
@@ -468,8 +1171,27 @@
       "owgr_rank": 433,
       "player_name": "Gomez, Fabian",
       "player_num": 28679,
-      "pre_tourn_pageviews": 113,
-      "teetimes": [],
+      "pre_tourn_pageviews": 148,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-07-02 06:51",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-07-03 12:01",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "197"
     },
     {
@@ -480,8 +1202,58 @@
       "owgr_rank": 362,
       "player_name": "Goodwin, Noah",
       "player_num": 55165,
-      "pre_tourn_pageviews": 50,
-      "teetimes": [],
+      "pre_tourn_pageviews": 61,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-07-02 13:40",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-07-03 08:30",
+          "wave": "early"
+        }
+      ],
+      "tour_rank": null
+    },
+    {
+      "am": 0,
+      "country": "USA",
+      "dg_id": 26660,
+      "dg_rank": null,
+      "owgr_rank": 457,
+      "player_name": "Gordon, Will",
+      "player_num": 56762,
+      "pre_tourn_pageviews": 18,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-07-02 12:45",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-07-03 07:35",
+          "wave": "early"
+        }
+      ],
       "tour_rank": null
     },
     {
@@ -492,8 +1264,27 @@
       "owgr_rank": 14,
       "player_name": "Gotterup, Chris",
       "player_num": 59095,
-      "pre_tourn_pageviews": 1557,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1934,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-07-02 12:45",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-07-03 07:35",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "12"
     },
     {
@@ -504,8 +1295,27 @@
       "owgr_rank": 73,
       "player_name": "Greyserman, Max",
       "player_num": 51977,
-      "pre_tourn_pageviews": 518,
-      "teetimes": [],
+      "pre_tourn_pageviews": 637,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-07-02 12:01",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-07-03 06:51",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "87"
     },
     {
@@ -516,8 +1326,27 @@
       "owgr_rank": 16,
       "player_name": "Griffin, Ben",
       "player_num": 54591,
-      "pre_tourn_pageviews": 1914,
-      "teetimes": [],
+      "pre_tourn_pageviews": 2433,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-07-02 07:35",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-07-03 12:45",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "31"
     },
     {
@@ -528,8 +1357,27 @@
       "owgr_rank": 222,
       "player_name": "Griffin, Lanto",
       "player_num": 35310,
-      "pre_tourn_pageviews": 108,
-      "teetimes": [],
+      "pre_tourn_pageviews": 127,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-07-02 12:01",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-07-03 06:51",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "150"
     },
     {
@@ -540,8 +1388,27 @@
       "owgr_rank": 109,
       "player_name": "Grillo, Emiliano",
       "player_num": 31646,
-      "pre_tourn_pageviews": 1120,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1382,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-07-02 12:56",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-07-03 07:46",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "105"
     },
     {
@@ -552,8 +1419,27 @@
       "owgr_rank": null,
       "player_name": "Gutschewski, Luke",
       "player_num": 67202,
-      "pre_tourn_pageviews": 40,
-      "teetimes": [],
+      "pre_tourn_pageviews": 56,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-07-02 08:41",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-07-03 13:51",
+          "wave": "late"
+        }
+      ],
       "tour_rank": null
     },
     {
@@ -564,8 +1450,27 @@
       "owgr_rank": 262,
       "player_name": "Hadwin, Adam",
       "player_num": 33399,
-      "pre_tourn_pageviews": 150,
-      "teetimes": [],
+      "pre_tourn_pageviews": 185,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-07-02 13:07",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-07-03 07:57",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "173"
     },
     {
@@ -576,8 +1481,27 @@
       "owgr_rank": null,
       "player_name": "Hardy, Nick",
       "player_num": 47988,
-      "pre_tourn_pageviews": 78,
-      "teetimes": [],
+      "pre_tourn_pageviews": 109,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-07-02 08:08",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-07-03 13:18",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "191"
     },
     {
@@ -588,8 +1512,27 @@
       "owgr_rank": 104,
       "player_name": "Higgo, Garrick",
       "player_num": 54421,
-      "pre_tourn_pageviews": 199,
-      "teetimes": [],
+      "pre_tourn_pageviews": 249,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-07-02 12:23",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-07-03 07:13",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "149"
     },
     {
@@ -600,8 +1543,27 @@
       "owgr_rank": 326,
       "player_name": "Higgs, Harry",
       "player_num": 33597,
-      "pre_tourn_pageviews": 160,
-      "teetimes": [],
+      "pre_tourn_pageviews": 196,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-07-02 12:12",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-07-03 07:02",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "190"
     },
     {
@@ -612,8 +1574,27 @@
       "owgr_rank": 179,
       "player_name": "Highsmith, Joe",
       "player_num": 60067,
-      "pre_tourn_pageviews": 97,
-      "teetimes": [],
+      "pre_tourn_pageviews": 113,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-07-02 12:34",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-07-03 07:24",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "161"
     },
     {
@@ -624,8 +1605,27 @@
       "owgr_rank": 286,
       "player_name": "Hirata, Kensei",
       "player_num": 49120,
-      "pre_tourn_pageviews": 114,
-      "teetimes": [],
+      "pre_tourn_pageviews": 134,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-07-02 13:18",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-07-03 08:08",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "153"
     },
     {
@@ -636,8 +1636,27 @@
       "owgr_rank": 64,
       "player_name": "Hisatsune, Ryo",
       "player_num": 51287,
-      "pre_tourn_pageviews": 755,
-      "teetimes": [],
+      "pre_tourn_pageviews": 983,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-07-02 07:46",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-07-03 12:56",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "43"
     },
     {
@@ -648,8 +1667,27 @@
       "owgr_rank": 155,
       "player_name": "Hodges, Lee",
       "player_num": 54628,
-      "pre_tourn_pageviews": 225,
-      "teetimes": [],
+      "pre_tourn_pageviews": 283,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-07-02 06:51",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-07-03 12:01",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "123"
     },
     {
@@ -660,8 +1698,27 @@
       "owgr_rank": 92,
       "player_name": "Hoey, Rico",
       "player_num": 51696,
-      "pre_tourn_pageviews": 622,
-      "teetimes": [],
+      "pre_tourn_pageviews": 754,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-07-02 07:57",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-07-03 13:07",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "104"
     },
     {
@@ -672,8 +1729,27 @@
       "owgr_rank": 110,
       "player_name": "Hoge, Tom",
       "player_num": 35532,
-      "pre_tourn_pageviews": 410,
-      "teetimes": [],
+      "pre_tourn_pageviews": 505,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-07-02 08:08",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-07-03 13:18",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "75"
     },
     {
@@ -684,8 +1760,27 @@
       "owgr_rank": 112,
       "player_name": "Homa, Max",
       "player_num": 39977,
-      "pre_tourn_pageviews": 895,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1152,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-07-02 07:24",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-07-03 12:34",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "72"
     },
     {
@@ -696,8 +1791,27 @@
       "owgr_rank": 158,
       "player_name": "Hossler, Beau",
       "player_num": 35461,
-      "pre_tourn_pageviews": 225,
-      "teetimes": [],
+      "pre_tourn_pageviews": 291,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-07-02 06:40",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-07-03 11:50",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "116"
     },
     {
@@ -708,8 +1822,27 @@
       "owgr_rank": null,
       "player_name": "Howell, Mason",
       "player_num": 68607,
-      "pre_tourn_pageviews": 94,
-      "teetimes": [],
+      "pre_tourn_pageviews": 112,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-07-02 13:29",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-07-03 08:19",
+          "wave": "early"
+        }
+      ],
       "tour_rank": null
     },
     {
@@ -720,8 +1853,27 @@
       "owgr_rank": 127,
       "player_name": "Hubbard, Mark",
       "player_num": 36801,
-      "pre_tourn_pageviews": 336,
-      "teetimes": [],
+      "pre_tourn_pageviews": 399,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-07-02 06:51",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-07-03 12:01",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "99"
     },
     {
@@ -732,8 +1884,27 @@
       "owgr_rank": 145,
       "player_name": "Hughes, Mackenzie",
       "player_num": 35506,
-      "pre_tourn_pageviews": 209,
-      "teetimes": [],
+      "pre_tourn_pageviews": 259,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-07-02 07:46",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-07-03 12:56",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "124"
     },
     {
@@ -744,8 +1915,27 @@
       "owgr_rank": 78,
       "player_name": "Im, Sungjae",
       "player_num": 39971,
-      "pre_tourn_pageviews": 693,
-      "teetimes": [],
+      "pre_tourn_pageviews": 852,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-07-02 12:23",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-07-03 07:13",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "60"
     },
     {
@@ -756,8 +1946,27 @@
       "owgr_rank": 96,
       "player_name": "Jaeger, Stephan",
       "player_num": 36799,
-      "pre_tourn_pageviews": 377,
-      "teetimes": [],
+      "pre_tourn_pageviews": 437,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-07-02 07:35",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-07-03 12:45",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "80"
     },
     {
@@ -768,8 +1977,27 @@
       "owgr_rank": 430,
       "player_name": "Johnson, Zach",
       "player_num": 24024,
-      "pre_tourn_pageviews": 458,
-      "teetimes": [],
+      "pre_tourn_pageviews": 550,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-07-02 12:34",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-07-03 07:24",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "200"
     },
     {
@@ -780,8 +2008,27 @@
       "owgr_rank": 154,
       "player_name": "Kanaya, Takumi",
       "player_num": 47917,
-      "pre_tourn_pageviews": 165,
-      "teetimes": [],
+      "pre_tourn_pageviews": 190,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-07-02 11:50",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-07-03 06:40",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "131"
     },
     {
@@ -792,8 +2039,27 @@
       "owgr_rank": 257,
       "player_name": "Kang, Jeffrey",
       "player_num": 47393,
-      "pre_tourn_pageviews": 67,
-      "teetimes": [],
+      "pre_tourn_pageviews": 78,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-07-02 08:41",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-07-03 13:51",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "151"
     },
     {
@@ -804,8 +2070,27 @@
       "owgr_rank": 77,
       "player_name": "Keefer, Johnny",
       "player_num": 63454,
-      "pre_tourn_pageviews": 666,
-      "teetimes": [],
+      "pre_tourn_pageviews": 822,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-07-02 08:08",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-07-03 13:18",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "83"
     },
     {
@@ -816,8 +2101,27 @@
       "owgr_rank": 256,
       "player_name": "Kim, Chan",
       "player_num": 34587,
-      "pre_tourn_pageviews": 169,
-      "teetimes": [],
+      "pre_tourn_pageviews": 203,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-07-02 08:19",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-07-03 13:29",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "176"
     },
     {
@@ -828,8 +2132,27 @@
       "owgr_rank": 48,
       "player_name": "Kim, Michael",
       "player_num": 39975,
-      "pre_tourn_pageviews": 748,
-      "teetimes": [],
+      "pre_tourn_pageviews": 919,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-07-02 12:01",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-07-03 06:51",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "62"
     },
     {
@@ -840,8 +2163,27 @@
       "owgr_rank": 66,
       "player_name": "Kim, Tom",
       "player_num": 55182,
-      "pre_tourn_pageviews": 1516,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1947,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-07-02 12:45",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-07-03 07:35",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "57"
     },
     {
@@ -852,8 +2194,27 @@
       "owgr_rank": 384,
       "player_name": "Kizzire, Patton",
       "player_num": 32757,
-      "pre_tourn_pageviews": 111,
-      "teetimes": [],
+      "pre_tourn_pageviews": 119,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-07-02 12:01",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-07-03 06:51",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "152"
     },
     {
@@ -864,8 +2225,27 @@
       "owgr_rank": 169,
       "player_name": "Kohles, Ben",
       "player_num": 36884,
-      "pre_tourn_pageviews": 803,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1031,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-07-02 08:08",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-07-03 13:18",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "140"
     },
     {
@@ -876,8 +2256,27 @@
       "owgr_rank": 218,
       "player_name": "Koivun, Jackson",
       "player_num": 66701,
-      "pre_tourn_pageviews": 1793,
-      "teetimes": [],
+      "pre_tourn_pageviews": 2291,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-07-02 07:35",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-07-03 12:45",
+          "wave": "late"
+        }
+      ],
       "tour_rank": null
     },
     {
@@ -888,8 +2287,27 @@
       "owgr_rank": 181,
       "player_name": "Kuchar, Matt",
       "player_num": 23108,
-      "pre_tourn_pageviews": 326,
-      "teetimes": [],
+      "pre_tourn_pageviews": 410,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-07-02 12:45",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-07-03 07:35",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "141"
     },
     {
@@ -900,8 +2318,27 @@
       "owgr_rank": 477,
       "player_name": "Laird, Martin",
       "player_num": 27936,
-      "pre_tourn_pageviews": 78,
-      "teetimes": [],
+      "pre_tourn_pageviews": 91,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-07-02 13:18",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-07-03 08:08",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "204"
     },
     {
@@ -912,8 +2349,27 @@
       "owgr_rank": 260,
       "player_name": "Lamprecht, Christo",
       "player_num": 54422,
-      "pre_tourn_pageviews": 71,
-      "teetimes": [],
+      "pre_tourn_pageviews": 89,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-07-02 08:19",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-07-03 13:29",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "184"
     },
     {
@@ -924,8 +2380,27 @@
       "owgr_rank": 238,
       "player_name": "Lebioda, Hank",
       "player_num": 49766,
-      "pre_tourn_pageviews": 77,
-      "teetimes": [],
+      "pre_tourn_pageviews": 91,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-07-02 12:12",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-07-03 07:02",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "130"
     },
     {
@@ -936,8 +2411,27 @@
       "owgr_rank": 95,
       "player_name": "Li, Haotong",
       "player_num": 35296,
-      "pre_tourn_pageviews": 303,
-      "teetimes": [],
+      "pre_tourn_pageviews": 380,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-07-02 08:30",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-07-03 13:40",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "109"
     },
     {
@@ -948,8 +2442,27 @@
       "owgr_rank": null,
       "player_name": "Lindheim, Nicholas",
       "player_num": 37278,
-      "pre_tourn_pageviews": 69,
-      "teetimes": [],
+      "pre_tourn_pageviews": 82,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-07-02 13:40",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-07-03 08:30",
+          "wave": "early"
+        }
+      ],
       "tour_rank": null
     },
     {
@@ -960,8 +2473,27 @@
       "owgr_rank": 108,
       "player_name": "Lipsky, David",
       "player_num": 36326,
-      "pre_tourn_pageviews": 304,
-      "teetimes": [],
+      "pre_tourn_pageviews": 371,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-07-02 07:02",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-07-03 12:12",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "74"
     },
     {
@@ -972,8 +2504,27 @@
       "owgr_rank": null,
       "player_name": "List, Luke",
       "player_num": 27129,
-      "pre_tourn_pageviews": 70,
-      "teetimes": [],
+      "pre_tourn_pageviews": 96,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-07-02 06:40",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-07-03 11:50",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "192"
     },
     {
@@ -984,8 +2535,27 @@
       "owgr_rank": 265,
       "player_name": "Lower, Justin",
       "player_num": 40162,
-      "pre_tourn_pageviews": 97,
-      "teetimes": [],
+      "pre_tourn_pageviews": 124,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-07-02 13:07",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-07-03 07:57",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "175"
     },
     {
@@ -996,8 +2566,27 @@
       "owgr_rank": null,
       "player_name": "Malnati, Peter",
       "player_num": 34466,
-      "pre_tourn_pageviews": 77,
-      "teetimes": [],
+      "pre_tourn_pageviews": 87,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-07-02 13:07",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-07-03 07:57",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "163"
     },
     {
@@ -1008,8 +2597,27 @@
       "owgr_rank": 490,
       "player_name": "Martin, Ben",
       "player_num": 33413,
-      "pre_tourn_pageviews": 50,
-      "teetimes": [],
+      "pre_tourn_pageviews": 65,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-07-02 12:56",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-07-03 07:46",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "158"
     },
     {
@@ -1020,8 +2628,27 @@
       "owgr_rank": 102,
       "player_name": "McCarthy, Denny",
       "player_num": 47993,
-      "pre_tourn_pageviews": 1136,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1439,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-07-02 11:50",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-07-03 06:40",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "89"
     },
     {
@@ -1032,8 +2659,27 @@
       "owgr_rank": 94,
       "player_name": "McGreevy, Max",
       "player_num": 51950,
-      "pre_tourn_pageviews": 369,
-      "teetimes": [],
+      "pre_tourn_pageviews": 503,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-07-02 08:08",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-07-03 13:18",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "108"
     },
     {
@@ -1044,8 +2690,27 @@
       "owgr_rank": 89,
       "player_name": "Meissner, Mac",
       "player_num": 59143,
-      "pre_tourn_pageviews": 591,
-      "teetimes": [],
+      "pre_tourn_pageviews": 748,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-07-02 13:07",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-07-03 07:57",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "79"
     },
     {
@@ -1056,8 +2721,27 @@
       "owgr_rank": 471,
       "player_name": "Merritt, Troy",
       "player_num": 32640,
-      "pre_tourn_pageviews": 128,
-      "teetimes": [],
+      "pre_tourn_pageviews": 160,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-07-02 06:51",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-07-03 12:01",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "196"
     },
     {
@@ -1068,8 +2752,27 @@
       "owgr_rank": 68,
       "player_name": "Mitchell, Keith",
       "player_num": 39546,
-      "pre_tourn_pageviews": 1294,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1672,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-07-02 12:34",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-07-03 07:24",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "44"
     },
     {
@@ -1080,8 +2783,27 @@
       "owgr_rank": 138,
       "player_name": "Moore, Taylor",
       "player_num": 49947,
-      "pre_tourn_pageviews": 421,
-      "teetimes": [],
+      "pre_tourn_pageviews": 509,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-07-02 12:12",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-07-03 07:02",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "81"
     },
     {
@@ -1092,8 +2814,27 @@
       "owgr_rank": 129,
       "player_name": "Mouw, William",
       "player_num": 63121,
-      "pre_tourn_pageviews": 291,
-      "teetimes": [],
+      "pre_tourn_pageviews": 362,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-07-02 07:13",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-07-03 12:23",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "107"
     },
     {
@@ -1104,8 +2845,27 @@
       "owgr_rank": 139,
       "player_name": "Nakajima, Keita",
       "player_num": 49228,
-      "pre_tourn_pageviews": 234,
-      "teetimes": [],
+      "pre_tourn_pageviews": 278,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-07-02 13:51",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-07-03 08:41",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "144"
     },
     {
@@ -1116,8 +2876,27 @@
       "owgr_rank": 336,
       "player_name": "Noh, S.Y.",
       "player_num": 29289,
-      "pre_tourn_pageviews": 178,
-      "teetimes": [],
+      "pre_tourn_pageviews": 211,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-07-02 07:02",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-07-03 12:12",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "172"
     },
     {
@@ -1128,8 +2907,27 @@
       "owgr_rank": 65,
       "player_name": "Novak, Andrew",
       "player_num": 51997,
-      "pre_tourn_pageviews": 886,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1126,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-07-02 12:23",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-07-03 07:13",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "76"
     },
     {
@@ -1140,8 +2938,27 @@
       "owgr_rank": null,
       "player_name": "Nunez, Augusto",
       "player_num": 36724,
-      "pre_tourn_pageviews": 37,
-      "teetimes": [],
+      "pre_tourn_pageviews": 59,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-07-02 13:51",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-07-03 08:41",
+          "wave": "early"
+        }
+      ],
       "tour_rank": null
     },
     {
@@ -1152,8 +2969,27 @@
       "owgr_rank": 261,
       "player_name": "Nyholm, Pontus",
       "player_num": 55851,
-      "pre_tourn_pageviews": 89,
-      "teetimes": [],
+      "pre_tourn_pageviews": 107,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-07-02 13:18",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-07-03 08:08",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "129"
     },
     {
@@ -1164,8 +3000,27 @@
       "owgr_rank": 134,
       "player_name": "Olesen, Thorbjorn",
       "player_num": 33968,
-      "pre_tourn_pageviews": 193,
-      "teetimes": [],
+      "pre_tourn_pageviews": 243,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-07-02 12:56",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-07-03 07:46",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "159"
     },
     {
@@ -1176,8 +3031,27 @@
       "owgr_rank": 304,
       "player_name": "Paul, Jeremy",
       "player_num": 50582,
-      "pre_tourn_pageviews": 74,
-      "teetimes": [],
+      "pre_tourn_pageviews": 91,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-07-02 13:29",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-07-03 08:19",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "178"
     },
     {
@@ -1188,8 +3062,27 @@
       "owgr_rank": 269,
       "player_name": "Pavon, Matthieu",
       "player_num": 48153,
-      "pre_tourn_pageviews": 285,
-      "teetimes": [],
+      "pre_tourn_pageviews": 338,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-07-02 06:51",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-07-03 12:01",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "100"
     },
     {
@@ -1200,8 +3093,27 @@
       "owgr_rank": 93,
       "player_name": "Pendrith, Taylor",
       "player_num": 40250,
-      "pre_tourn_pageviews": 320,
-      "teetimes": [],
+      "pre_tourn_pageviews": 413,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-07-02 07:24",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-07-03 12:34",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "92"
     },
     {
@@ -1212,8 +3124,27 @@
       "owgr_rank": 252,
       "player_name": "Peterson, Paul",
       "player_num": 36824,
-      "pre_tourn_pageviews": 183,
-      "teetimes": [],
+      "pre_tourn_pageviews": 236,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-07-02 13:29",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-07-03 08:19",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "145"
     },
     {
@@ -1224,8 +3155,27 @@
       "owgr_rank": 173,
       "player_name": "Phillips, Chandler",
       "player_num": 57900,
-      "pre_tourn_pageviews": 145,
-      "teetimes": [],
+      "pre_tourn_pageviews": 169,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-07-02 13:07",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-07-03 07:57",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "114"
     },
     {
@@ -1236,8 +3186,27 @@
       "owgr_rank": 32,
       "player_name": "Poston, J.T.",
       "player_num": 49771,
-      "pre_tourn_pageviews": 1076,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1347,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-07-02 07:13",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-07-03 12:23",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "23"
     },
     {
@@ -1248,8 +3217,27 @@
       "owgr_rank": 74,
       "player_name": "Potgieter, Aldrich",
       "player_num": 63343,
-      "pre_tourn_pageviews": 727,
-      "teetimes": [],
+      "pre_tourn_pageviews": 950,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-07-02 12:23",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-07-03 07:13",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "58"
     },
     {
@@ -1260,8 +3248,27 @@
       "owgr_rank": 198,
       "player_name": "Power, Seamus",
       "player_num": 28252,
-      "pre_tourn_pageviews": 261,
-      "teetimes": [],
+      "pre_tourn_pageviews": 335,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-07-02 07:46",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-07-03 12:56",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "113"
     },
     {
@@ -1272,8 +3279,27 @@
       "owgr_rank": 88,
       "player_name": "Putnam, Andrew",
       "player_num": 34256,
-      "pre_tourn_pageviews": 615,
-      "teetimes": [],
+      "pre_tourn_pageviews": 737,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-07-02 07:02",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-07-03 12:12",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "65"
     },
     {
@@ -1284,8 +3310,27 @@
       "owgr_rank": 172,
       "player_name": "Ramey, Chad",
       "player_num": 47983,
-      "pre_tourn_pageviews": 125,
-      "teetimes": [],
+      "pre_tourn_pageviews": 154,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-07-02 12:56",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-07-03 07:46",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "120"
     },
     {
@@ -1296,8 +3341,27 @@
       "owgr_rank": 167,
       "player_name": "Riley, Davis",
       "player_num": 47995,
-      "pre_tourn_pageviews": 137,
-      "teetimes": [],
+      "pre_tourn_pageviews": 178,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-07-02 07:13",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-07-03 12:23",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "136"
     },
     {
@@ -1308,8 +3372,27 @@
       "owgr_rank": 85,
       "player_name": "Rodgers, Patrick",
       "player_num": 36699,
-      "pre_tourn_pageviews": 279,
-      "teetimes": [],
+      "pre_tourn_pageviews": 355,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-07-02 11:50",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-07-03 06:40",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "55"
     },
     {
@@ -1320,8 +3403,27 @@
       "owgr_rank": 135,
       "player_name": "Roy, Kevin",
       "player_num": 39335,
-      "pre_tourn_pageviews": 369,
-      "teetimes": [],
+      "pre_tourn_pageviews": 437,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-07-02 07:46",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-07-03 12:56",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "90"
     },
     {
@@ -1332,8 +3434,27 @@
       "owgr_rank": null,
       "player_name": "Rozo, Marcelo",
       "player_num": 37076,
-      "pre_tourn_pageviews": 107,
-      "teetimes": [],
+      "pre_tourn_pageviews": 140,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-07-02 08:30",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-07-03 13:40",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "195"
     },
     {
@@ -1344,8 +3465,27 @@
       "owgr_rank": null,
       "player_name": "Sargent, Gordon",
       "player_num": 64442,
-      "pre_tourn_pageviews": 84,
-      "teetimes": [],
+      "pre_tourn_pageviews": 105,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-07-02 13:51",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-07-03 08:41",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "164"
     },
     {
@@ -1356,8 +3496,27 @@
       "owgr_rank": 171,
       "player_name": "Schenk, Adam",
       "player_num": 47347,
-      "pre_tourn_pageviews": 155,
-      "teetimes": [],
+      "pre_tourn_pageviews": 189,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-07-02 12:34",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-07-03 07:24",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "143"
     },
     {
@@ -1368,8 +3527,27 @@
       "owgr_rank": 193,
       "player_name": "Shipley, Neal",
       "player_num": 63807,
-      "pre_tourn_pageviews": 199,
-      "teetimes": [],
+      "pre_tourn_pageviews": 244,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-07-02 08:30",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-07-03 13:40",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "179"
     },
     {
@@ -1380,8 +3558,27 @@
       "owgr_rank": 276,
       "player_name": "Silverman, Ben",
       "player_num": 39327,
-      "pre_tourn_pageviews": 108,
-      "teetimes": [],
+      "pre_tourn_pageviews": 149,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-07-02 11:50",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-07-03 06:40",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "146"
     },
     {
@@ -1392,8 +3589,27 @@
       "owgr_rank": 476,
       "player_name": "Simpson, Webb",
       "player_num": 29221,
-      "pre_tourn_pageviews": 93,
-      "teetimes": [],
+      "pre_tourn_pageviews": 133,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-07-02 07:24",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-07-03 12:34",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "166"
     },
     {
@@ -1404,8 +3620,27 @@
       "owgr_rank": 271,
       "player_name": "Skinns, David",
       "player_num": 27139,
-      "pre_tourn_pageviews": 95,
-      "teetimes": [],
+      "pre_tourn_pageviews": 122,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-07-02 13:29",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-07-03 08:19",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "139"
     },
     {
@@ -1416,8 +3651,27 @@
       "owgr_rank": 101,
       "player_name": "Smotherman, Austin",
       "player_num": 50095,
-      "pre_tourn_pageviews": 409,
-      "teetimes": [],
+      "pre_tourn_pageviews": 522,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-07-02 07:02",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-07-03 12:12",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "68"
     },
     {
@@ -1428,8 +3682,27 @@
       "owgr_rank": 53,
       "player_name": "Spieth, Jordan",
       "player_num": 34046,
-      "pre_tourn_pageviews": 1083,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1394,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-07-02 07:35",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-07-03 12:45",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "52"
     },
     {
@@ -1440,8 +3713,27 @@
       "owgr_rank": 287,
       "player_name": "Springer, Hayden",
       "player_num": 50484,
-      "pre_tourn_pageviews": 144,
-      "teetimes": [],
+      "pre_tourn_pageviews": 182,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-07-02 08:30",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-07-03 13:40",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "127"
     },
     {
@@ -1452,8 +3744,27 @@
       "owgr_rank": 337,
       "player_name": "Stanger, Jimmy",
       "player_num": 51600,
-      "pre_tourn_pageviews": 178,
-      "teetimes": [],
+      "pre_tourn_pageviews": 204,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-07-02 13:40",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-07-03 08:30",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "121"
     },
     {
@@ -1464,8 +3775,27 @@
       "owgr_rank": null,
       "player_name": "Stout, Preston",
       "player_num": 66416,
-      "pre_tourn_pageviews": 232,
-      "teetimes": [],
+      "pre_tourn_pageviews": 287,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-07-02 08:19",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-07-03 13:29",
+          "wave": "late"
+        }
+      ],
       "tour_rank": null
     },
     {
@@ -1476,8 +3806,27 @@
       "owgr_rank": null,
       "player_name": "Streb, Robert",
       "player_num": 34431,
-      "pre_tourn_pageviews": 56,
-      "teetimes": [],
+      "pre_tourn_pageviews": 71,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-07-02 07:02",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-07-03 12:12",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "207"
     },
     {
@@ -1488,8 +3837,27 @@
       "owgr_rank": 437,
       "player_name": "Streelman, Kevin",
       "player_num": 27214,
-      "pre_tourn_pageviews": 91,
-      "teetimes": [],
+      "pre_tourn_pageviews": 127,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-07-02 08:08",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-07-03 13:18",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "154"
     },
     {
@@ -1500,8 +3868,27 @@
       "owgr_rank": 126,
       "player_name": "Suber, Jackson",
       "player_num": 60019,
-      "pre_tourn_pageviews": 1068,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1292,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-07-02 13:29",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-07-03 08:19",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "85"
     },
     {
@@ -1512,8 +3899,27 @@
       "owgr_rank": 438,
       "player_name": "Svensson, Adam",
       "player_num": 40115,
-      "pre_tourn_pageviews": 163,
-      "teetimes": [],
+      "pre_tourn_pageviews": 214,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-07-02 11:50",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-07-03 06:40",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "165"
     },
     {
@@ -1524,8 +3930,27 @@
       "owgr_rank": 148,
       "player_name": "Thompson, Davis",
       "player_num": 58168,
-      "pre_tourn_pageviews": 783,
-      "teetimes": [],
+      "pre_tourn_pageviews": 992,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-07-02 07:24",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-07-03 12:34",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "93"
     },
     {
@@ -1536,8 +3961,27 @@
       "owgr_rank": 82,
       "player_name": "Thorbjornsen, Michael",
       "player_num": 57364,
-      "pre_tourn_pageviews": 1230,
-      "teetimes": [],
+      "pre_tourn_pageviews": 1496,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-07-02 12:56",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-07-03 07:46",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "73"
     },
     {
@@ -1548,8 +3992,27 @@
       "owgr_rank": null,
       "player_name": "Todd, Brendon",
       "player_num": 30927,
-      "pre_tourn_pageviews": 165,
-      "teetimes": [],
+      "pre_tourn_pageviews": 205,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-07-02 06:51",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-07-03 12:01",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "209"
     },
     {
@@ -1560,8 +4023,27 @@
       "owgr_rank": 379,
       "player_name": "Tosti, Alejandro",
       "player_num": 38991,
-      "pre_tourn_pageviews": 138,
-      "teetimes": [],
+      "pre_tourn_pageviews": 162,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-07-02 13:51",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-07-03 08:41",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "183"
     },
     {
@@ -1572,8 +4054,27 @@
       "owgr_rank": 183,
       "player_name": "Van Rooyen, Erik",
       "player_num": 40006,
-      "pre_tourn_pageviews": 300,
-      "teetimes": [],
+      "pre_tourn_pageviews": 349,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-07-02 07:57",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-07-03 13:07",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "137"
     },
     {
@@ -1584,21 +4085,28 @@
       "owgr_rank": 291,
       "player_name": "VanDerLaan, John",
       "player_num": 55573,
-      "pre_tourn_pageviews": 74,
-      "teetimes": [],
+      "pre_tourn_pageviews": 92,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-07-02 13:18",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-07-03 08:08",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "169"
-    },
-    {
-      "am": 0,
-      "country": "VEN",
-      "dg_id": 13508,
-      "dg_rank": 222,
-      "owgr_rank": 156,
-      "player_name": "Vegas, Jhonattan",
-      "player_num": 27064,
-      "pre_tourn_pageviews": 144,
-      "teetimes": [],
-      "tour_rank": "125"
     },
     {
       "am": 0,
@@ -1608,8 +4116,27 @@
       "owgr_rank": 311,
       "player_name": "Ventura, Kris",
       "player_num": 35658,
-      "pre_tourn_pageviews": 129,
-      "teetimes": [],
+      "pre_tourn_pageviews": 158,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-07-02 08:30",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-07-03 13:40",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "126"
     },
     {
@@ -1620,8 +4147,27 @@
       "owgr_rank": 196,
       "player_name": "Vilips, Karl",
       "player_num": 54304,
-      "pre_tourn_pageviews": 151,
-      "teetimes": [],
+      "pre_tourn_pageviews": 190,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-07-02 12:45",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-07-03 07:35",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "122"
     },
     {
@@ -1632,8 +4178,27 @@
       "owgr_rank": 495,
       "player_name": "Villegas, Camilo",
       "player_num": 27770,
-      "pre_tourn_pageviews": 158,
-      "teetimes": [],
+      "pre_tourn_pageviews": 188,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-07-02 07:57",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-07-03 13:07",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "186"
     },
     {
@@ -1644,8 +4209,27 @@
       "owgr_rank": null,
       "player_name": "Voois, Ryan",
       "player_num": 68994,
-      "pre_tourn_pageviews": 103,
-      "teetimes": [],
+      "pre_tourn_pageviews": 123,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-07-02 13:51",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-07-03 08:41",
+          "wave": "early"
+        }
+      ],
       "tour_rank": null
     },
     {
@@ -1656,8 +4240,27 @@
       "owgr_rank": 254,
       "player_name": "Walker, Danny",
       "player_num": 54607,
-      "pre_tourn_pageviews": 77,
-      "teetimes": [],
+      "pre_tourn_pageviews": 91,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-07-02 13:07",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-07-03 07:57",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "148"
     },
     {
@@ -1668,8 +4271,27 @@
       "owgr_rank": 70,
       "player_name": "Wallace, Matt",
       "player_num": 48887,
-      "pre_tourn_pageviews": 620,
-      "teetimes": [],
+      "pre_tourn_pageviews": 762,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-07-02 07:46",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-07-03 12:56",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "86"
     },
     {
@@ -1680,8 +4302,27 @@
       "owgr_rank": 166,
       "player_name": "Whaley, Vince",
       "player_num": 51894,
-      "pre_tourn_pageviews": 128,
-      "teetimes": [],
+      "pre_tourn_pageviews": 162,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-07-02 07:57",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-07-03 13:07",
+          "wave": "late"
+        }
+      ],
       "tour_rank": "162"
     },
     {
@@ -1692,8 +4333,27 @@
       "owgr_rank": null,
       "player_name": "Wise, Aaron",
       "player_num": 49964,
-      "pre_tourn_pageviews": 90,
-      "teetimes": [],
+      "pre_tourn_pageviews": 109,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-07-02 07:35",
+          "wave": "early"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-07-03 12:45",
+          "wave": "late"
+        }
+      ],
       "tour_rank": null
     },
     {
@@ -1704,8 +4364,27 @@
       "owgr_rank": 377,
       "player_name": "Wu, Dylan",
       "player_num": 54783,
-      "pre_tourn_pageviews": 99,
-      "teetimes": [],
+      "pre_tourn_pageviews": 124,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-07-02 11:50",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-07-03 06:40",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "155"
     },
     {
@@ -1716,8 +4395,27 @@
       "owgr_rank": 99,
       "player_name": "Yellamaraju, Sudarshan",
       "player_num": 60386,
-      "pre_tourn_pageviews": 747,
-      "teetimes": [],
+      "pre_tourn_pageviews": 921,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-07-02 12:12",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-07-03 07:02",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "48"
     },
     {
@@ -1728,8 +4426,27 @@
       "owgr_rank": 175,
       "player_name": "Young, Carson",
       "player_num": 52513,
-      "pre_tourn_pageviews": 774,
-      "teetimes": [],
+      "pre_tourn_pageviews": 997,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 1,
+          "teetime": "2026-07-02 12:12",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 10,
+          "teetime": "2026-07-03 07:02",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "185"
     },
     {
@@ -1740,8 +4457,27 @@
       "owgr_rank": 130,
       "player_name": "Yu, Kevin",
       "player_num": 45242,
-      "pre_tourn_pageviews": 429,
-      "teetimes": [],
+      "pre_tourn_pageviews": 574,
+      "teetimes": [
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 1,
+          "start_hole": 10,
+          "teetime": "2026-07-02 12:34",
+          "wave": "late"
+        },
+        {
+          "course_code": "",
+          "course_name": "TPC Deere Run",
+          "course_num": 669,
+          "round_num": 2,
+          "start_hole": 1,
+          "teetime": "2026-07-03 07:24",
+          "wave": "early"
+        }
+      ],
       "tour_rank": "128"
     }
   ],
@@ -2883,1159 +5619,1159 @@
   "dg_predictions": {
     "by_player": {
       "Ben Griffin": {
-        "win": 0.0529333333333333,
-        "top_5": 0.191864644244644,
-        "top_10": 0.311734987882488,
-        "top_20": 0.479581942384957,
-        "make_cut": 0.80815,
+        "win": 0.0517,
+        "top_5": 0.190409603174603,
+        "top_10": 0.312480395900396,
+        "top_20": 0.479481911075036,
+        "make_cut": 0.810466666666667,
         "dg_id": 24968
       },
       "Chris Gotterup": {
-        "win": 0.0491,
-        "top_5": 0.171706842231842,
-        "top_10": 0.27905393023643,
-        "top_20": 0.43189743992119,
-        "make_cut": 0.7717,
+        "win": 0.0494333333333333,
+        "top_5": 0.17225208994709,
+        "top_10": 0.279001047378547,
+        "top_20": 0.429963309583935,
+        "make_cut": 0.772633333333333,
         "dg_id": 27774
       },
       "Keith Mitchell": {
-        "win": 0.0352666666666667,
-        "top_5": 0.138022978595479,
-        "top_10": 0.234089675093425,
-        "top_20": 0.384597969644734,
-        "make_cut": 0.749666666666667,
+        "win": 0.0356333333333333,
+        "top_5": 0.13744086038961,
+        "top_10": 0.234874714405964,
+        "top_20": 0.385149767574473,
+        "make_cut": 0.751366666666667,
         "dg_id": 17365
       },
       "Keegan Bradley": {
-        "win": 0.0338333333333333,
-        "top_5": 0.132411495310245,
-        "top_10": 0.229175106606357,
-        "top_20": 0.379122889356014,
-        "make_cut": 0.7461,
+        "win": 0.0349166666666667,
+        "top_5": 0.137197724867725,
+        "top_10": 0.234861775631776,
+        "top_20": 0.384560538096163,
+        "make_cut": 0.750016666666667,
         "dg_id": 13872
       },
       "Jackson Koivun": {
-        "win": 0.0332333333333333,
-        "top_5": 0.127697241647242,
-        "top_10": 0.22013775002775,
-        "top_20": 0.365106286673566,
-        "make_cut": 0.733683333333333,
+        "win": 0.0317666666666667,
+        "top_5": 0.127105085978836,
+        "top_10": 0.220760267140267,
+        "top_20": 0.366535103785104,
+        "make_cut": 0.73475,
         "dg_id": 32319
       },
       "Jacob Bridgeman": {
-        "win": 0.0273333333333333,
-        "top_5": 0.113870332075332,
-        "top_10": 0.203105304325304,
-        "top_20": 0.344767277352277,
-        "make_cut": 0.725816666666667,
+        "win": 0.0273166666666667,
+        "top_5": 0.114023367003367,
+        "top_10": 0.204154792568543,
+        "top_20": 0.35003122016872,
+        "make_cut": 0.732233333333333,
         "dg_id": 29433
       },
       "Jordan Spieth": {
-        "win": 0.0263666666666667,
-        "top_5": 0.114599888768639,
-        "top_10": 0.201836383061383,
-        "top_20": 0.343410289918415,
-        "make_cut": 0.72985,
+        "win": 0.0262166666666667,
+        "top_5": 0.11508010040885,
+        "top_10": 0.202972934056684,
+        "top_20": 0.346378895572021,
+        "make_cut": 0.7286,
         "dg_id": 14636
       },
       "J.T. Poston": {
-        "win": 0.0250833333333333,
-        "top_5": 0.109622546481296,
-        "top_10": 0.197963228900729,
-        "top_20": 0.338652949226699,
-        "make_cut": 0.72665,
+        "win": 0.02545,
+        "top_5": 0.109946653439153,
+        "top_10": 0.195990934852185,
+        "top_20": 0.338425043081918,
+        "make_cut": 0.72555,
         "dg_id": 21554
       },
       "Andrew Novak": {
-        "win": 0.0211166666666667,
-        "top_5": 0.0954940163540164,
-        "top_10": 0.174077951677952,
-        "top_20": 0.3055264246633,
-        "make_cut": 0.697416666666667,
+        "win": 0.02165,
+        "top_5": 0.09679541005291,
+        "top_10": 0.175548178349428,
+        "top_20": 0.30631535434881,
+        "make_cut": 0.702583333333333,
         "dg_id": 23475
       },
-      "Michael Thorbjornsen": {
-        "win": 0.0203166666666667,
-        "top_5": 0.0882091804954305,
-        "top_10": 0.162206197182447,
-        "top_20": 0.289399700762201,
-        "make_cut": 0.683033333333333,
-        "dg_id": 26649
-      },
-      "Rickie Fowler": {
-        "win": 0.0202166666666667,
-        "top_5": 0.0895271302308802,
-        "top_10": 0.165369868557369,
-        "top_20": 0.292732630539395,
-        "make_cut": 0.683933333333333,
-        "dg_id": 12965
-      },
-      "Ryo Hisatsune": {
-        "win": 0.0200166666666667,
-        "top_5": 0.094099794973545,
-        "top_10": 0.172760091390091,
-        "top_20": 0.307410479580333,
-        "make_cut": 0.704416666666667,
-        "dg_id": 22760
-      },
-      "Eric Cole": {
-        "win": 0.0194833333333333,
-        "top_5": 0.0901562754375254,
-        "top_10": 0.165816929274429,
-        "top_20": 0.29517655039405,
-        "make_cut": 0.695016666666667,
-        "dg_id": 21756
-      },
       "Tom Kim": {
-        "win": 0.0192666666666667,
-        "top_5": 0.0875403897953898,
-        "top_10": 0.163881290515041,
-        "top_20": 0.299135191914567,
-        "make_cut": 0.698683333333333,
+        "win": 0.0205333333333333,
+        "top_5": 0.0898860588023088,
+        "top_10": 0.16792479978355,
+        "top_20": 0.30151991032116,
+        "make_cut": 0.699183333333333,
         "dg_id": 24766
       },
-      "Doug Ghim": {
-        "win": 0.01865,
-        "top_5": 0.0855783008658009,
-        "top_10": 0.160013338097088,
-        "top_20": 0.290611571669072,
-        "make_cut": 0.692466666666667,
-        "dg_id": 24550
+      "Ryo Hisatsune": {
+        "win": 0.0204666666666667,
+        "top_5": 0.0919276262626263,
+        "top_10": 0.171706996521997,
+        "top_20": 0.3074929249223,
+        "make_cut": 0.702783333333333,
+        "dg_id": 22760
+      },
+      "Rickie Fowler": {
+        "win": 0.0204,
+        "top_5": 0.0891400992063492,
+        "top_10": 0.16517140993266,
+        "top_20": 0.294445368705369,
+        "make_cut": 0.6867,
+        "dg_id": 12965
+      },
+      "Michael Thorbjornsen": {
+        "win": 0.0194,
+        "top_5": 0.0887925529100529,
+        "top_10": 0.165293331252081,
+        "top_20": 0.293443086936212,
+        "make_cut": 0.68455,
+        "dg_id": 26649
+      },
+      "Eric Cole": {
+        "win": 0.0181333333333333,
+        "top_5": 0.0866669913419913,
+        "top_10": 0.16189525978651,
+        "top_20": 0.294690035681911,
+        "make_cut": 0.693816666666667,
+        "dg_id": 21756
       },
       "Pierceson Coody": {
-        "win": 0.0170333333333333,
-        "top_5": 0.0827185052910053,
-        "top_10": 0.154875923289673,
-        "top_20": 0.280371772913905,
-        "make_cut": 0.677166666666667,
+        "win": 0.0178833333333333,
+        "top_5": 0.0838252783790284,
+        "top_10": 0.158163157536908,
+        "top_20": 0.285363289095164,
+        "make_cut": 0.688266666666667,
         "dg_id": 28309
       },
-      "Sungjae Im": {
-        "win": 0.0162833333333333,
-        "top_5": 0.0767367003367003,
-        "top_10": 0.146629475709476,
-        "top_20": 0.269331913688164,
-        "make_cut": 0.671166666666667,
-        "dg_id": 17488
-      },
-      "Michael Kim": {
-        "win": 0.01625,
-        "top_5": 0.0801815283790284,
-        "top_10": 0.153039914992415,
-        "top_20": 0.278451601939727,
-        "make_cut": 0.682116666666667,
-        "dg_id": 17543
-      },
       "Mac Meissner": {
-        "win": 0.016,
-        "top_5": 0.0797709854497354,
-        "top_10": 0.155046764208014,
-        "top_20": 0.286326127659106,
-        "make_cut": 0.693366666666667,
+        "win": 0.0169833333333333,
+        "top_5": 0.0828169907407407,
+        "top_10": 0.156863212620713,
+        "top_20": 0.286362736962112,
+        "make_cut": 0.69225,
         "dg_id": 28159
       },
+      "Doug Ghim": {
+        "win": 0.0168833333333333,
+        "top_5": 0.0835131355218855,
+        "top_10": 0.159589088689089,
+        "top_20": 0.290988936923643,
+        "make_cut": 0.697116666666667,
+        "dg_id": 24550
+      },
+      "Michael Kim": {
+        "win": 0.0166333333333333,
+        "top_5": 0.0803271500721501,
+        "top_10": 0.152232359492359,
+        "top_20": 0.280643156426906,
+        "make_cut": 0.689633333333333,
+        "dg_id": 17543
+      },
+      "Sungjae Im": {
+        "win": 0.0161,
+        "top_5": 0.0793499074074074,
+        "top_10": 0.149447414021164,
+        "top_20": 0.273256041181041,
+        "make_cut": 0.675783333333333,
+        "dg_id": 17488
+      },
       "Michael Brennan": {
-        "win": 0.0158666666666667,
-        "top_5": 0.0738186387686388,
-        "top_10": 0.139109986679987,
-        "top_20": 0.254971011462666,
-        "make_cut": 0.655316666666667,
+        "win": 0.0155333333333333,
+        "top_5": 0.0735320502645503,
+        "top_10": 0.139300887445887,
+        "top_20": 0.257336895234395,
+        "make_cut": 0.653933333333333,
         "dg_id": 29197
       },
-      "Daniel Berger": {
-        "win": 0.01555,
-        "top_5": 0.0737768927368927,
-        "top_10": 0.139415924260924,
-        "top_20": 0.25979052951678,
-        "make_cut": 0.663416666666667,
-        "dg_id": 17606
-      },
-      "Matt Wallace": {
-        "win": 0.0152666666666667,
-        "top_5": 0.0724400595238095,
-        "top_10": 0.140511087061087,
-        "top_20": 0.265648742504772,
-        "make_cut": 0.67385,
-        "dg_id": 20706
-      },
       "Max Greyserman": {
-        "win": 0.0146333333333333,
-        "top_5": 0.066901066017316,
-        "top_10": 0.127992011507012,
-        "top_20": 0.240319523915627,
-        "make_cut": 0.638533333333333,
+        "win": 0.0153166666666667,
+        "top_5": 0.0698742394179894,
+        "top_10": 0.132434142616643,
+        "top_20": 0.245842775881526,
+        "make_cut": 0.648866666666667,
         "dg_id": 23465
       },
-      "Sudarshan Yellamaraju": {
-        "win": 0.0135,
-        "top_5": 0.062614126984127,
-        "top_10": 0.122722961760462,
-        "top_20": 0.23260933476246,
-        "make_cut": 0.642816666666667,
-        "dg_id": 29925
+      "Daniel Berger": {
+        "win": 0.0152166666666667,
+        "top_5": 0.0733189748677249,
+        "top_10": 0.140000722101972,
+        "top_20": 0.260026269771895,
+        "make_cut": 0.669683333333333,
+        "dg_id": 17606
       },
       "Tony Finau": {
-        "win": 0.0134166666666667,
-        "top_5": 0.0658020105820106,
-        "top_10": 0.125518517316017,
-        "top_20": 0.238798413968929,
-        "make_cut": 0.642666666666667,
+        "win": 0.0148,
+        "top_5": 0.067440364959115,
+        "top_10": 0.128728686267436,
+        "top_20": 0.241546962597588,
+        "make_cut": 0.645166666666667,
         "dg_id": 11676
       },
+      "Matt Wallace": {
+        "win": 0.0146,
+        "top_5": 0.0713534277296777,
+        "top_10": 0.139882676767677,
+        "top_20": 0.261443935416435,
+        "make_cut": 0.676666666666667,
+        "dg_id": 20706
+      },
       "Davis Thompson": {
-        "win": 0.0131333333333333,
-        "top_5": 0.0650884457671958,
-        "top_10": 0.125788395400895,
-        "top_20": 0.241348474349724,
-        "make_cut": 0.6503,
+        "win": 0.01295,
+        "top_5": 0.0665164886964887,
+        "top_10": 0.12879668960669,
+        "top_20": 0.241938417970918,
+        "make_cut": 0.651,
         "dg_id": 27364
       },
+      "Sudarshan Yellamaraju": {
+        "win": 0.0128333333333333,
+        "top_5": 0.0655482341269841,
+        "top_10": 0.126475948958449,
+        "top_20": 0.239308383514634,
+        "make_cut": 0.649416666666667,
+        "dg_id": 29925
+      },
       "Johnny Keefer": {
-        "win": 0.0126,
-        "top_5": 0.0610111309523809,
-        "top_10": 0.118647182215932,
-        "top_20": 0.225813859256212,
-        "make_cut": 0.62945,
+        "win": 0.0125,
+        "top_5": 0.0609059457671958,
+        "top_10": 0.117030499037999,
+        "top_20": 0.224788804436304,
+        "make_cut": 0.629583333333333,
         "dg_id": 32457
       },
       "Rico Hoey": {
-        "win": 0.0123833333333333,
-        "top_5": 0.0634401455026455,
-        "top_10": 0.12373606971732,
-        "top_20": 0.235083989640534,
-        "make_cut": 0.64,
+        "win": 0.0124,
+        "top_5": 0.0611242791005291,
+        "top_10": 0.120480505050505,
+        "top_20": 0.232081541610622,
+        "make_cut": 0.639766666666667,
         "dg_id": 23504
       },
       "Max Mcgreevy": {
-        "win": 0.01205,
-        "top_5": 0.060849987974988,
-        "top_10": 0.123959736975987,
-        "top_20": 0.240844197538573,
-        "make_cut": 0.655166666666667,
+        "win": 0.0116333333333333,
+        "top_5": 0.0605834656084656,
+        "top_10": 0.121578783207533,
+        "top_20": 0.238131665649166,
+        "make_cut": 0.651183333333333,
         "dg_id": 23505
       },
-      "Denny Mccarthy": {
-        "win": 0.0116166666666667,
-        "top_5": 0.0603309662097162,
-        "top_10": 0.123473996512747,
-        "top_20": 0.242958989426967,
-        "make_cut": 0.665366666666667,
-        "dg_id": 19870
-      },
-      "Jackson Suber": {
-        "win": 0.01105,
-        "top_5": 0.0546968927368927,
-        "top_10": 0.109278788942539,
-        "top_20": 0.21126156263943,
-        "make_cut": 0.613916666666667,
-        "dg_id": 29279
-      },
-      "Taylor Pendrith": {
-        "win": 0.01095,
-        "top_5": 0.0577335930735931,
-        "top_10": 0.113454859446109,
-        "top_20": 0.220410211085211,
-        "make_cut": 0.630283333333333,
-        "dg_id": 17780
-      },
-      "Ben Kohles": {
-        "win": 0.0106166666666667,
-        "top_5": 0.0590493253968254,
-        "top_10": 0.118574512478262,
-        "top_20": 0.234512574115699,
-        "make_cut": 0.652933333333333,
-        "dg_id": 16395
-      },
       "Aldrich Potgieter": {
-        "win": 0.0102333333333333,
-        "top_5": 0.050292401996152,
-        "top_10": 0.0988148538498538,
-        "top_20": 0.190122895114145,
-        "make_cut": 0.58645,
+        "win": 0.0116166666666667,
+        "top_5": 0.0524776455026455,
+        "top_10": 0.102237781524032,
+        "top_20": 0.195235352471602,
+        "make_cut": 0.591966666666667,
         "dg_id": 27900
       },
+      "Denny Mccarthy": {
+        "win": 0.0115,
+        "top_5": 0.0622646891534392,
+        "top_10": 0.126629866383616,
+        "top_20": 0.249595661402867,
+        "make_cut": 0.671416666666667,
+        "dg_id": 19870
+      },
+      "Taylor Pendrith": {
+        "win": 0.0109333333333333,
+        "top_5": 0.0548123286435786,
+        "top_10": 0.109840404410404,
+        "top_20": 0.216572449656825,
+        "make_cut": 0.6317,
+        "dg_id": 17780
+      },
       "Max Homa": {
-        "win": 0.0099333333333333,
-        "top_5": 0.0531253385040885,
-        "top_10": 0.106516387455137,
-        "top_20": 0.208505279340757,
-        "make_cut": 0.612883333333333,
+        "win": 0.0108333333333333,
+        "top_5": 0.0530746164021164,
+        "top_10": 0.106568790885041,
+        "top_20": 0.207408333541459,
+        "make_cut": 0.618916666666667,
         "dg_id": 17538
       },
-      "Christiaan Bezuidenhout": {
-        "win": 0.0094333333333333,
-        "top_5": 0.0578419047619048,
-        "top_10": 0.118652143365893,
-        "top_20": 0.235730067661097,
-        "make_cut": 0.658916666666667,
-        "dg_id": 18103
-      },
-      "Emiliano Grillo": {
-        "win": 0.0090833333333333,
-        "top_5": 0.0486999803437303,
-        "top_10": 0.100427444777445,
-        "top_20": 0.200801054732305,
-        "make_cut": 0.618516666666667,
-        "dg_id": 12808
+      "Ben Kohles": {
+        "win": 0.0105333333333333,
+        "top_5": 0.0579305363155363,
+        "top_10": 0.117409098864099,
+        "top_20": 0.234059717319717,
+        "make_cut": 0.655333333333333,
+        "dg_id": 16395
       },
       "Taylor Moore": {
-        "win": 0.0090666666666666,
-        "top_5": 0.0505990548340548,
-        "top_10": 0.103575401357901,
-        "top_20": 0.202862711917712,
-        "make_cut": 0.609716666666667,
+        "win": 0.0100833333333333,
+        "top_5": 0.0519011507936508,
+        "top_10": 0.10345753968254,
+        "top_20": 0.205442141982473,
+        "make_cut": 0.6148,
         "dg_id": 21944
       },
+      "Jackson Suber": {
+        "win": 0.0100833333333333,
+        "top_5": 0.051968921957672,
+        "top_10": 0.104981722767973,
+        "top_20": 0.204964616170866,
+        "make_cut": 0.612883333333333,
+        "dg_id": 29279
+      },
+      "Christiaan Bezuidenhout": {
+        "win": 0.0096166666666666,
+        "top_5": 0.0579025072150072,
+        "top_10": 0.117208297535798,
+        "top_20": 0.235735727559478,
+        "make_cut": 0.658383333333333,
+        "dg_id": 18103
+      },
       "Blades Brown": {
-        "win": 0.0090333333333333,
-        "top_5": 0.0498872955747956,
-        "top_10": 0.10102622997373,
-        "top_20": 0.20323596452159,
-        "make_cut": 0.6138,
+        "win": 0.0093166666666666,
+        "top_5": 0.0494179497354497,
+        "top_10": 0.0998051823176823,
+        "top_20": 0.200182445679321,
+        "make_cut": 0.6108,
         "dg_id": 32152
       },
       "William Mouw": {
-        "win": 0.0089166666666666,
-        "top_5": 0.0482012115199615,
-        "top_10": 0.100081116522367,
-        "top_20": 0.197326077845085,
-        "make_cut": 0.606816666666667,
+        "win": 0.0091833333333333,
+        "top_5": 0.0506003042328042,
+        "top_10": 0.101786619306619,
+        "top_20": 0.198759370536871,
+        "make_cut": 0.608766666666667,
         "dg_id": 29770
       },
-      "Kevin Yu": {
-        "win": 0.0087666666666666,
-        "top_5": 0.0460296777296777,
-        "top_10": 0.0938152354589855,
-        "top_20": 0.191462810313325,
-        "make_cut": 0.600133333333333,
-        "dg_id": 17881
-      },
       "Austin Smotherman": {
-        "win": 0.0086166666666666,
-        "top_5": 0.045923679052429,
-        "top_10": 0.0943077198264698,
-        "top_20": 0.189405550765955,
-        "make_cut": 0.595483333333333,
+        "win": 0.00875,
+        "top_5": 0.0476203511303511,
+        "top_10": 0.0959042919117919,
+        "top_20": 0.192667287666038,
+        "make_cut": 0.6009,
         "dg_id": 22985
       },
+      "Kevin Yu": {
+        "win": 0.00875,
+        "top_5": 0.0484934325396825,
+        "top_10": 0.0977541241628742,
+        "top_20": 0.194301597106597,
+        "make_cut": 0.605533333333333,
+        "dg_id": 17881
+      },
+      "Emiliano Grillo": {
+        "win": 0.0086333333333333,
+        "top_5": 0.0482710185185185,
+        "top_10": 0.0991874175824176,
+        "top_20": 0.201072663031413,
+        "make_cut": 0.618233333333333,
+        "dg_id": 12808
+      },
+      "Steven Fisk": {
+        "win": 0.0076833333333333,
+        "top_5": 0.0401195238095238,
+        "top_10": 0.0836729113941614,
+        "top_20": 0.17485347037222,
+        "make_cut": 0.58515,
+        "dg_id": 26657
+      },
+      "Beau Hossler": {
+        "win": 0.00755,
+        "top_5": 0.0404467003367003,
+        "top_10": 0.0849022546435046,
+        "top_20": 0.173841972425722,
+        "make_cut": 0.582716666666667,
+        "dg_id": 15470
+      },
       "Zach Bauchou": {
-        "win": 0.0075833333333333,
-        "top_5": 0.0436407822270322,
-        "top_10": 0.0903752358752359,
-        "top_20": 0.186167641640767,
-        "make_cut": 0.597483333333333,
+        "win": 0.0074333333333333,
+        "top_5": 0.0415187830687831,
+        "top_10": 0.0875154594479595,
+        "top_20": 0.180320701381951,
+        "make_cut": 0.592666666666667,
         "dg_id": 19846
       },
+      "Andrew Putnam": {
+        "win": 0.0072,
+        "top_5": 0.045596130952381,
+        "top_10": 0.0984485064935065,
+        "top_20": 0.206042243219743,
+        "make_cut": 0.639216666666667,
+        "dg_id": 14704
+      },
       "Haotong Li": {
-        "win": 0.0073333333333333,
-        "top_5": 0.0399271368446368,
-        "top_10": 0.0832196648721649,
-        "top_20": 0.170549071021571,
-        "make_cut": 0.57615,
+        "win": 0.0070166666666666,
+        "top_5": 0.0376183333333333,
+        "top_10": 0.0791373724886225,
+        "top_20": 0.162593451340326,
+        "make_cut": 0.567966666666667,
         "dg_id": 15310
       },
       "Thorbjorn Olesen": {
-        "win": 0.007,
-        "top_5": 0.0377183329170829,
-        "top_10": 0.0804672285122285,
-        "top_20": 0.17204111027861,
-        "make_cut": 0.58685,
+        "win": 0.0063833333333333,
+        "top_5": 0.0376507208994709,
+        "top_10": 0.0819962487974988,
+        "top_20": 0.171574818376068,
+        "make_cut": 0.586666666666667,
         "dg_id": 13412
       },
-      "Andrew Putnam": {
-        "win": 0.0069833333333333,
-        "top_5": 0.044004696969697,
-        "top_10": 0.0956319931457432,
-        "top_20": 0.200318019295519,
-        "make_cut": 0.63255,
-        "dg_id": 14704
-      },
-      "Beau Hossler": {
-        "win": 0.00665,
-        "top_5": 0.0379990013227513,
-        "top_10": 0.0807468365893366,
-        "top_20": 0.167524617211492,
-        "make_cut": 0.574716666666667,
-        "dg_id": 15470
-      },
       "Preston Stout": {
-        "win": 0.00635,
-        "top_5": 0.0340070238095238,
-        "top_10": 0.0719427561327561,
-        "top_20": 0.150349762390387,
-        "make_cut": 0.550116666666667,
+        "win": 0.0063,
+        "top_5": 0.0356566931216931,
+        "top_10": 0.0741316285566286,
+        "top_20": 0.155453698338698,
+        "make_cut": 0.5484,
         "dg_id": 32089
       },
-      "Steven Fisk": {
-        "win": 0.0063333333333333,
-        "top_5": 0.0376106018518519,
-        "top_10": 0.0822032677507678,
-        "top_20": 0.170278087098087,
-        "make_cut": 0.583916666666667,
-        "dg_id": 26657
-      },
       "Seamus Power": {
-        "win": 0.0056666666666666,
-        "top_5": 0.0349754232804233,
-        "top_10": 0.076146432040182,
-        "top_20": 0.163621591949717,
-        "make_cut": 0.576666666666667,
+        "win": 0.0058333333333333,
+        "top_5": 0.0340048677248677,
+        "top_10": 0.0747920866633367,
+        "top_20": 0.164110703393828,
+        "make_cut": 0.575733333333333,
         "dg_id": 10104
       },
-      "Adrien Dumont De Chassart": {
-        "win": 0.0054666666666666,
-        "top_5": 0.0305916137566138,
-        "top_10": 0.067863192039442,
-        "top_20": 0.14638822996448,
-        "make_cut": 0.552283333333333,
-        "dg_id": 22002
-      },
       "Zac Blair": {
-        "win": 0.00545,
-        "top_5": 0.0328762301587302,
-        "top_10": 0.0732140305065305,
-        "top_20": 0.161629411699412,
-        "make_cut": 0.584833333333333,
+        "win": 0.0057,
+        "top_5": 0.0323302855940356,
+        "top_10": 0.0712772554297554,
+        "top_20": 0.161038330654912,
+        "make_cut": 0.583283333333333,
         "dg_id": 17639
       },
+      "Garrick Higgo": {
+        "win": 0.0054,
+        "top_5": 0.0282060582010582,
+        "top_10": 0.0612534479409479,
+        "top_20": 0.1340958002183,
+        "make_cut": 0.527983333333333,
+        "dg_id": 24342
+      },
       "Keita Nakajima": {
-        "win": 0.0054333333333333,
-        "top_5": 0.0324031631794132,
-        "top_10": 0.0711282106782107,
-        "top_20": 0.15093521043771,
-        "make_cut": 0.553383333333333,
+        "win": 0.0053833333333333,
+        "top_5": 0.0314143055555556,
+        "top_10": 0.0675567273467274,
+        "top_20": 0.146671139763015,
+        "make_cut": 0.550216666666667,
         "dg_id": 21074
       },
-      "Patrick Rodgers": {
-        "win": 0.0054,
-        "top_5": 0.0316764363876864,
-        "top_10": 0.0688668161468161,
-        "top_20": 0.148771425888926,
-        "make_cut": 0.5577,
-        "dg_id": 16283
+      "Adrien Dumont De Chassart": {
+        "win": 0.0053,
+        "top_5": 0.0308732341269841,
+        "top_10": 0.0687702725052725,
+        "top_20": 0.14940907543845,
+        "make_cut": 0.547783333333333,
+        "dg_id": 22002
       },
       "Carson Young": {
-        "win": 0.0053333333333333,
-        "top_5": 0.0315778841991342,
-        "top_10": 0.0680243050468051,
-        "top_20": 0.147262652821035,
-        "make_cut": 0.551833333333333,
+        "win": 0.0051666666666666,
+        "top_5": 0.0315386117123617,
+        "top_10": 0.0687964064639065,
+        "top_20": 0.149161618265993,
+        "make_cut": 0.559316666666667,
         "dg_id": 23656
       },
-      "Chan Kim": {
-        "win": 0.0049333333333333,
-        "top_5": 0.0297594708994709,
-        "top_10": 0.0663205272505273,
-        "top_20": 0.147026297013172,
-        "make_cut": 0.557166666666667,
-        "dg_id": 15004
+      "Patrick Rodgers": {
+        "win": 0.00515,
+        "top_5": 0.0332299669312169,
+        "top_10": 0.0712434854497355,
+        "top_20": 0.15157226433697,
+        "make_cut": 0.562733333333333,
+        "dg_id": 16283
       },
       "Lee Hodges": {
-        "win": 0.0049166666666666,
-        "top_5": 0.0303756415343915,
-        "top_10": 0.0664769905094905,
-        "top_20": 0.144073253241856,
-        "make_cut": 0.5524,
+        "win": 0.0050166666666666,
+        "top_5": 0.0300370045695046,
+        "top_10": 0.0660501586839087,
+        "top_20": 0.145889532782033,
+        "make_cut": 0.556783333333333,
         "dg_id": 25157
       },
       "Chandler Blanchet": {
-        "win": 0.0048666666666666,
-        "top_5": 0.0286181746031746,
-        "top_10": 0.0626136094923595,
-        "top_20": 0.137378539067142,
-        "make_cut": 0.539283333333333,
+        "win": 0.005,
+        "top_5": 0.0283643253968254,
+        "top_10": 0.0612989616402116,
+        "top_20": 0.135891703412328,
+        "make_cut": 0.532366666666667,
         "dg_id": 24956
       },
+      "Chan Kim": {
+        "win": 0.0046833333333333,
+        "top_5": 0.0309328703703704,
+        "top_10": 0.0672760996873497,
+        "top_20": 0.147407507191882,
+        "make_cut": 0.5519,
+        "dg_id": 15004
+      },
       "Lucas Glover": {
-        "win": 0.0046166666666666,
-        "top_5": 0.0284516600529101,
-        "top_10": 0.0642908302345802,
-        "top_20": 0.142201353970104,
-        "make_cut": 0.549716666666667,
+        "win": 0.0045666666666666,
+        "top_5": 0.0287644444444444,
+        "top_10": 0.0639680297017797,
+        "top_20": 0.142119806767307,
+        "make_cut": 0.551366666666667,
         "dg_id": 7399
       },
-      "Garrick Higgo": {
-        "win": 0.00445,
-        "top_5": 0.0280341005291005,
-        "top_10": 0.0602869715007215,
-        "top_20": 0.132545183193713,
-        "make_cut": 0.523,
-        "dg_id": 24342
-      },
-      "Stephan Jaeger": {
-        "win": 0.0043333333333333,
-        "top_5": 0.0243534656084656,
-        "top_10": 0.0517554196729197,
-        "top_20": 0.115888227860103,
-        "make_cut": 0.506033333333333,
-        "dg_id": 16394
-      },
-      "Zach Johnson": {
-        "win": 0.0041833333333333,
-        "top_5": 0.0271678577441077,
-        "top_10": 0.0613907588707589,
-        "top_20": 0.137169649147149,
-        "make_cut": 0.552283333333333,
-        "dg_id": 6986
-      },
       "Zecheng Dou": {
-        "win": 0.0041333333333333,
-        "top_5": 0.0266050198412698,
-        "top_10": 0.0575323736911237,
-        "top_20": 0.126545187635077,
-        "make_cut": 0.520283333333333,
+        "win": 0.0042333333333333,
+        "top_5": 0.0261145304232804,
+        "top_10": 0.0573669903244903,
+        "top_20": 0.126438969155844,
+        "make_cut": 0.517416666666667,
         "dg_id": 16757
       },
-      "Matthieu Pavon": {
-        "win": 0.0040833333333333,
-        "top_5": 0.0246729906204906,
-        "top_10": 0.055330082972583,
-        "top_20": 0.126522981971732,
-        "make_cut": 0.529133333333333,
-        "dg_id": 19960
-      },
-      "Jhonattan Vegas": {
-        "win": 0.0040666666666666,
-        "top_5": 0.0246266810966811,
-        "top_10": 0.0552951376863877,
-        "top_20": 0.120456186125966,
-        "make_cut": 0.5104,
-        "dg_id": 13508
-      },
-      "Adam Svensson": {
-        "win": 0.004,
-        "top_5": 0.0252136768324268,
-        "top_10": 0.0565779557942058,
-        "top_20": 0.127493162763163,
-        "make_cut": 0.534283333333333,
-        "dg_id": 13997
-      },
       "Neal Shipley": {
-        "win": 0.0039333333333333,
-        "top_5": 0.0252883531746032,
-        "top_10": 0.0541365253727754,
-        "top_20": 0.119996038242803,
-        "make_cut": 0.507133333333333,
+        "win": 0.0041833333333333,
+        "top_5": 0.0240754034391534,
+        "top_10": 0.0533374402449402,
+        "top_20": 0.118609870777371,
+        "make_cut": 0.503883333333333,
         "dg_id": 32055
       },
-      "A.J. Ewart": {
-        "win": 0.0038333333333333,
-        "top_5": 0.0231701334776335,
-        "top_10": 0.0521037898675399,
-        "top_20": 0.117687993463508,
-        "make_cut": 0.512133333333333,
-        "dg_id": 21883
+      "Matthieu Pavon": {
+        "win": 0.0041666666666666,
+        "top_5": 0.0257268716931217,
+        "top_10": 0.0570053994153994,
+        "top_20": 0.12952166502479,
+        "make_cut": 0.526766666666667,
+        "dg_id": 19960
+      },
+      "Zach Johnson": {
+        "win": 0.0040333333333333,
+        "top_5": 0.026410205026455,
+        "top_10": 0.0602931022218522,
+        "top_20": 0.140221233812484,
+        "make_cut": 0.557283333333333,
+        "dg_id": 6986
+      },
+      "Stephan Jaeger": {
+        "win": 0.0039666666666666,
+        "top_5": 0.0244530357142857,
+        "top_10": 0.0532305934343434,
+        "top_20": 0.117993112979069,
+        "make_cut": 0.503383333333333,
+        "dg_id": 16394
+      },
+      "Adam Svensson": {
+        "win": 0.0038666666666666,
+        "top_5": 0.0253543386243386,
+        "top_10": 0.0591506842231842,
+        "top_20": 0.132907918747919,
+        "make_cut": 0.543666666666667,
+        "dg_id": 13997
+      },
+      "Patrick Fishburn": {
+        "win": 0.00355,
+        "top_5": 0.0210669775132275,
+        "top_10": 0.0476634428534429,
+        "top_20": 0.108219828574204,
+        "make_cut": 0.49455,
+        "dg_id": 25094
       },
       "Mark Hubbard": {
-        "win": 0.0037333333333333,
-        "top_5": 0.0239763095238095,
-        "top_10": 0.0523996296296296,
-        "top_20": 0.119534886132386,
-        "make_cut": 0.5198,
+        "win": 0.0035333333333333,
+        "top_5": 0.0222866732804233,
+        "top_10": 0.0518631246993747,
+        "top_20": 0.120809456746957,
+        "make_cut": 0.517183333333333,
         "dg_id": 16333
       },
+      "A.J. Ewart": {
+        "win": 0.0034166666666666,
+        "top_5": 0.0225025661375661,
+        "top_10": 0.052408973017723,
+        "top_20": 0.11919782023532,
+        "make_cut": 0.515233333333333,
+        "dg_id": 21883
+      },
       "Mackenzie Hughes": {
-        "win": 0.0033833333333333,
-        "top_5": 0.023730462962963,
-        "top_10": 0.0547193407518408,
-        "top_20": 0.124481879278129,
-        "make_cut": 0.521516666666667,
+        "win": 0.0032833333333333,
+        "top_5": 0.0242942923280423,
+        "top_10": 0.0544565926665927,
+        "top_20": 0.123999371091871,
+        "make_cut": 0.518866666666667,
         "dg_id": 15556
       },
       "Austin Eckroat": {
-        "win": 0.0033666666666666,
-        "top_5": 0.0220942472342472,
-        "top_10": 0.0512878288378288,
-        "top_20": 0.116877138047138,
-        "make_cut": 0.511116666666667,
+        "win": 0.00325,
+        "top_5": 0.0233973743386243,
+        "top_10": 0.0524531000481,
+        "top_20": 0.119109600468975,
+        "make_cut": 0.52455,
         "dg_id": 26653
       },
-      "Chad Ramey": {
-        "win": 0.0033333333333333,
-        "top_5": 0.020503287037037,
-        "top_10": 0.0476877500740001,
-        "top_20": 0.112182021682022,
-        "make_cut": 0.500083333333333,
-        "dg_id": 19840
-      },
-      "Patrick Fishburn": {
-        "win": 0.0033166666666666,
-        "top_5": 0.0208579034391534,
-        "top_10": 0.0471413247400747,
-        "top_20": 0.109902286275816,
-        "make_cut": 0.494833333333333,
-        "dg_id": 25094
+      "Takumi Kanaya": {
+        "win": 0.0032166666666666,
+        "top_5": 0.0213934523809524,
+        "top_10": 0.0485672927535428,
+        "top_20": 0.11449307044807,
+        "make_cut": 0.520966666666667,
+        "dg_id": 19729
       },
       "Kevin Roy": {
-        "win": 0.0031666666666666,
-        "top_5": 0.0209679972342472,
-        "top_10": 0.0496822684722685,
-        "top_20": 0.113094624218374,
-        "make_cut": 0.5014,
+        "win": 0.0032,
+        "top_5": 0.0217970568783069,
+        "top_10": 0.0497037765937766,
+        "top_20": 0.11213607008732,
+        "make_cut": 0.500916666666667,
         "dg_id": 18424
       },
-      "Luke Clanton": {
-        "win": 0.0029833333333333,
-        "top_5": 0.0188187770562771,
-        "top_10": 0.0434614808802309,
-        "top_20": 0.101123935717061,
-        "make_cut": 0.474516666666667,
-        "dg_id": 32330
+      "Chad Ramey": {
+        "win": 0.0031166666666666,
+        "top_5": 0.0206849146224146,
+        "top_10": 0.0485906866281866,
+        "top_20": 0.111475999162874,
+        "make_cut": 0.507966666666667,
+        "dg_id": 19840
       },
       "Brice Garnett": {
-        "win": 0.0027333333333333,
-        "top_5": 0.020135753968254,
-        "top_10": 0.0474297514522515,
-        "top_20": 0.111160470732971,
-        "make_cut": 0.505133333333333,
+        "win": 0.0031,
+        "top_5": 0.0212063227513228,
+        "top_10": 0.0484523364598365,
+        "top_20": 0.114865010776261,
+        "make_cut": 0.5129,
         "dg_id": 11451
       },
-      "Kris Ventura": {
-        "win": 0.0027333333333333,
-        "top_5": 0.0191050661375661,
-        "top_10": 0.0452890287490288,
-        "top_20": 0.106300038063788,
-        "make_cut": 0.489483333333333,
-        "dg_id": 15651
-      },
       "Joel Dahmen": {
-        "win": 0.0027,
-        "top_5": 0.0183104505217005,
-        "top_10": 0.0428682256169756,
-        "top_20": 0.100655220312095,
-        "make_cut": 0.484033333333333,
+        "win": 0.0029833333333333,
+        "top_5": 0.0190839484126984,
+        "top_10": 0.0440796278258778,
+        "top_20": 0.101642520720021,
+        "make_cut": 0.482783333333333,
         "dg_id": 14509
       },
       "Tom Hoge": {
-        "win": 0.0026833333333333,
-        "top_5": 0.0202303505291005,
-        "top_10": 0.0464724710937211,
-        "top_20": 0.106811096819847,
-        "make_cut": 0.498816666666667,
+        "win": 0.0028333333333333,
+        "top_5": 0.0201450198412698,
+        "top_10": 0.0469876057738558,
+        "top_20": 0.108898059232434,
+        "make_cut": 0.4981,
         "dg_id": 15575
       },
-      "Takumi Kanaya": {
-        "win": 0.00265,
-        "top_5": 0.0190250992063492,
-        "top_10": 0.0452022456247456,
-        "top_20": 0.108651601407851,
-        "make_cut": 0.511133333333333,
-        "dg_id": 19729
+      "Luke Clanton": {
+        "win": 0.0028,
+        "top_5": 0.018539908008658,
+        "top_10": 0.0419524585137085,
+        "top_20": 0.0966349961612462,
+        "make_cut": 0.4688,
+        "dg_id": 32330
+      },
+      "Kris Ventura": {
+        "win": 0.00275,
+        "top_5": 0.0189391600529101,
+        "top_10": 0.044618464960965,
+        "top_20": 0.104303127381877,
+        "make_cut": 0.482916666666667,
+        "dg_id": 15651
       },
       "Webb Simpson": {
-        "win": 0.0026166666666666,
-        "top_5": 0.0179337830687831,
-        "top_10": 0.0412818897306397,
-        "top_20": 0.097010239020239,
-        "make_cut": 0.46995,
+        "win": 0.0027166666666666,
+        "top_5": 0.0181419384319384,
+        "top_10": 0.0420227753727754,
+        "top_20": 0.098002346981722,
+        "make_cut": 0.47305,
         "dg_id": 11049
       },
+      "Adam Hadwin": {
+        "win": 0.00265,
+        "top_5": 0.018005667989418,
+        "top_10": 0.0425102599252599,
+        "top_20": 0.0994872564010064,
+        "make_cut": 0.483316666666667,
+        "dg_id": 13965
+      },
+      "Lanto Griffin": {
+        "win": 0.0026166666666666,
+        "top_5": 0.0173207275132275,
+        "top_10": 0.0410379585229585,
+        "top_20": 0.0980290272227772,
+        "make_cut": 0.48775,
+        "dg_id": 15330
+      },
+      "David Lipsky": {
+        "win": 0.0024333333333333,
+        "top_5": 0.0173770634920635,
+        "top_10": 0.0414375006012506,
+        "top_20": 0.0964987072649573,
+        "make_cut": 0.485883333333333,
+        "dg_id": 15980
+      },
+      "Jimmy Stanger": {
+        "win": 0.0024166666666666,
+        "top_5": 0.0153139880952381,
+        "top_10": 0.0367272835497836,
+        "top_20": 0.0869807966148775,
+        "make_cut": 0.444216666666667,
+        "dg_id": 23048
+      },
       "Matt Kuchar": {
-        "win": 0.0026,
-        "top_5": 0.0181517261904762,
-        "top_10": 0.0441678673641174,
-        "top_20": 0.107331638188881,
-        "make_cut": 0.51225,
+        "win": 0.0023666666666666,
+        "top_5": 0.0187670177970178,
+        "top_10": 0.0437861084748585,
+        "top_20": 0.105834140285096,
+        "make_cut": 0.512733333333333,
         "dg_id": 6169
       },
       "Vince Whaley": {
-        "win": 0.00255,
-        "top_5": 0.0172810786435786,
-        "top_10": 0.040575248038998,
-        "top_20": 0.0977275098512598,
-        "make_cut": 0.483466666666667,
+        "win": 0.0023333333333333,
+        "top_5": 0.0156080363155363,
+        "top_10": 0.0385630547230547,
+        "top_20": 0.0941297244422244,
+        "make_cut": 0.480083333333333,
         "dg_id": 25908
       },
-      "Jimmy Stanger": {
-        "win": 0.0025166666666666,
-        "top_5": 0.0172242989417989,
-        "top_10": 0.0383099322436822,
-        "top_20": 0.0895353704166204,
-        "make_cut": 0.449633333333333,
-        "dg_id": 23048
-      },
-      "Adam Hadwin": {
-        "win": 0.0023833333333333,
-        "top_5": 0.0169444642857143,
-        "top_10": 0.0404750673400673,
-        "top_20": 0.0981517453379953,
-        "make_cut": 0.484516666666667,
-        "dg_id": 13965
-      },
-      "Alejandro Tosti": {
-        "win": 0.00235,
-        "top_5": 0.0131928042328042,
-        "top_10": 0.0296375793650794,
-        "top_20": 0.0691015881572132,
-        "make_cut": 0.400433333333333,
-        "dg_id": 17032
-      },
-      "Lanto Griffin": {
-        "win": 0.0023333333333333,
-        "top_5": 0.0175596031746032,
-        "top_10": 0.040252977994228,
-        "top_20": 0.0964464483664484,
-        "make_cut": 0.479083333333333,
-        "dg_id": 15330
+      "Fabian Gomez": {
+        "win": 0.0021333333333333,
+        "top_5": 0.0133450264550265,
+        "top_10": 0.0329998569023569,
+        "top_20": 0.0836983583314833,
+        "make_cut": 0.462316666666667,
+        "dg_id": 8571
       },
       "Hayden Springer": {
-        "win": 0.00225,
-        "top_5": 0.0125406084656085,
-        "top_10": 0.0307114646464646,
-        "top_20": 0.0759046278258778,
-        "make_cut": 0.43125,
+        "win": 0.0019833333333333,
+        "top_5": 0.0133103902116402,
+        "top_10": 0.0328842143504644,
+        "top_20": 0.0794006273818774,
+        "make_cut": 0.434333333333333,
         "dg_id": 21995
       },
-      "David Lipsky": {
-        "win": 0.0022166666666666,
-        "top_5": 0.0166454298941799,
-        "top_10": 0.0404401048026048,
-        "top_20": 0.0963819254356754,
-        "make_cut": 0.4783,
-        "dg_id": 15980
-      },
-      "Erik Van Rooyen": {
-        "win": 0.00205,
-        "top_5": 0.0123132876382876,
-        "top_10": 0.0304841062641063,
-        "top_20": 0.0771713835238835,
-        "make_cut": 0.4406,
-        "dg_id": 17550
-      },
       "S.Y. Noh": {
-        "win": 0.0019333333333333,
-        "top_5": 0.0140466865079365,
-        "top_10": 0.0355091139416139,
-        "top_20": 0.0878696936832231,
-        "make_cut": 0.4694,
+        "win": 0.0019833333333333,
+        "top_5": 0.0144692328042328,
+        "top_10": 0.0352042578255078,
+        "top_20": 0.0868578372362931,
+        "make_cut": 0.46945,
         "dg_id": 11117
       },
-      "Chandler Phillips": {
-        "win": 0.0018333333333333,
-        "top_5": 0.012198167989418,
-        "top_10": 0.0292616814666815,
-        "top_20": 0.0749516253885004,
-        "make_cut": 0.440833333333333,
-        "dg_id": 27164
-      },
-      "Trace Crowe": {
-        "win": 0.0016666666666666,
-        "top_5": 0.0130924476911977,
-        "top_10": 0.0313488953638954,
-        "top_20": 0.0754587842005489,
-        "make_cut": 0.427733333333333,
-        "dg_id": 27780
-      },
       "Dylan Frittelli": {
-        "win": 0.0016666666666666,
-        "top_5": 0.0124356150793651,
-        "top_10": 0.0308010273060273,
-        "top_20": 0.0757616277241277,
-        "make_cut": 0.433933333333333,
+        "win": 0.0019333333333333,
+        "top_5": 0.0130045905483405,
+        "top_10": 0.0312887279387279,
+        "top_20": 0.0773645377307877,
+        "make_cut": 0.432566666666667,
         "dg_id": 11955
       },
-      "David Skinns": {
-        "win": 0.0016166666666666,
-        "top_5": 0.0115869191919192,
-        "top_10": 0.0282152068302068,
-        "top_20": 0.0714850027287527,
-        "make_cut": 0.421333333333333,
-        "dg_id": 10873
+      "Erik Van Rooyen": {
+        "win": 0.00185,
+        "top_5": 0.0123828841991342,
+        "top_10": 0.0305710040885041,
+        "top_20": 0.0767694635919636,
+        "make_cut": 0.437316666666667,
+        "dg_id": 17550
       },
-      "Noah Goodwin": {
-        "win": 0.0015666666666666,
-        "top_5": 0.0104194047619048,
-        "top_10": 0.0261696957671958,
-        "top_20": 0.0678467136553534,
-        "make_cut": 0.4213,
-        "dg_id": 24837
-      },
-      "Paul Peterson": {
-        "win": 0.00155,
-        "top_5": 0.010592414021164,
-        "top_10": 0.0266595111832612,
-        "top_20": 0.0711698042698043,
-        "make_cut": 0.442633333333333,
-        "dg_id": 16341
+      "Trace Crowe": {
+        "win": 0.0017833333333333,
+        "top_5": 0.0131463756613757,
+        "top_10": 0.0303404955692456,
+        "top_20": 0.0739462082362082,
+        "make_cut": 0.422566666666667,
+        "dg_id": 27780
       },
       "Dylan Wu": {
-        "win": 0.0015333333333333,
-        "top_5": 0.0120956746031746,
-        "top_10": 0.0303082112794613,
-        "top_20": 0.0778711132848633,
-        "make_cut": 0.449233333333333,
+        "win": 0.00175,
+        "top_5": 0.0125024013949014,
+        "top_10": 0.0306994161856662,
+        "top_20": 0.0791262784478593,
+        "make_cut": 0.456,
         "dg_id": 25002
       },
       "Hank Lebioda": {
-        "win": 0.0015166666666666,
-        "top_5": 0.0122980429292929,
-        "top_10": 0.0304087638287638,
-        "top_20": 0.076230444000444,
-        "make_cut": 0.439583333333333,
+        "win": 0.0017333333333333,
+        "top_5": 0.0124647023809524,
+        "top_10": 0.0318049044011544,
+        "top_20": 0.0790723871498872,
+        "make_cut": 0.445733333333333,
         "dg_id": 21943
       },
-      "Fabian Gomez": {
-        "win": 0.0015166666666666,
-        "top_5": 0.0126532936507937,
-        "top_10": 0.0312770941558442,
-        "top_20": 0.0795551933020683,
-        "make_cut": 0.4511,
-        "dg_id": 8571
-      },
-      "Tyler Duncan": {
-        "win": 0.0014833333333333,
-        "top_5": 0.0118737037037037,
-        "top_10": 0.0294113836626337,
-        "top_20": 0.0736868914554944,
-        "make_cut": 0.4359,
-        "dg_id": 18187
+      "Alejandro Tosti": {
+        "win": 0.0017333333333333,
+        "top_5": 0.0128351124338624,
+        "top_10": 0.028407601010101,
+        "top_20": 0.0664783147870648,
+        "make_cut": 0.395766666666667,
+        "dg_id": 17032
       },
       "Karl Vilips": {
-        "win": 0.0013166666666666,
-        "top_5": 0.0109196560846561,
-        "top_10": 0.0269816125541126,
-        "top_20": 0.0682332737170237,
-        "make_cut": 0.4163,
+        "win": 0.00155,
+        "top_5": 0.011194623015873,
+        "top_10": 0.0276240864228364,
+        "top_20": 0.0690436908461908,
+        "make_cut": 0.418533333333333,
         "dg_id": 24304
       },
-      "John Vanderlaan": {
-        "win": 0.0013,
-        "top_5": 0.0097941612554112,
-        "top_10": 0.0248685731860732,
-        "top_20": 0.0620933012126762,
-        "make_cut": 0.398616666666667,
-        "dg_id": 25319
-      },
-      "Harry Higgs": {
-        "win": 0.0012833333333333,
-        "top_5": 0.0110088967051467,
-        "top_10": 0.0265628896103896,
-        "top_20": 0.0674315905853406,
-        "make_cut": 0.415183333333333,
-        "dg_id": 14140
-      },
-      "Kensei Hirata": {
-        "win": 0.0012666666666666,
-        "top_5": 0.0121014484126984,
-        "top_10": 0.030486676009176,
-        "top_20": 0.0773891101259851,
-        "make_cut": 0.442833333333333,
-        "dg_id": 20954
-      },
       "Nick Dunlap": {
-        "win": 0.0012166666666666,
-        "top_5": 0.0091407539682539,
-        "top_10": 0.0226432006419506,
-        "top_20": 0.0575904691142191,
-        "make_cut": 0.38955,
+        "win": 0.0015166666666666,
+        "top_5": 0.0098277645502645,
+        "top_10": 0.0239012944925445,
+        "top_20": 0.0594361247086247,
+        "make_cut": 0.3916,
         "dg_id": 28270
       },
+      "Harry Higgs": {
+        "win": 0.0015,
+        "top_5": 0.0100398677248677,
+        "top_10": 0.0258994095719096,
+        "top_20": 0.0660788936526436,
+        "make_cut": 0.415516666666667,
+        "dg_id": 14140
+      },
+      "Tyler Duncan": {
+        "win": 0.0015,
+        "top_5": 0.0120495568783069,
+        "top_10": 0.0304273593073593,
+        "top_20": 0.0769656194731195,
+        "make_cut": 0.444633333333333,
+        "dg_id": 18187
+      },
+      "Chandler Phillips": {
+        "win": 0.0014666666666666,
+        "top_5": 0.0121193650793651,
+        "top_10": 0.030368479020979,
+        "top_20": 0.0766834675972176,
+        "make_cut": 0.4446,
+        "dg_id": 27164
+      },
+      "Kensei Hirata": {
+        "win": 0.0014333333333333,
+        "top_5": 0.0124330886243386,
+        "top_10": 0.0297461014911015,
+        "top_20": 0.0766799746549747,
+        "make_cut": 0.435833333333333,
+        "dg_id": 20954
+      },
       "Pontus Nyholm": {
-        "win": 0.0012166666666666,
-        "top_5": 0.0088660119047619,
-        "top_10": 0.0222567803030303,
-        "top_20": 0.0545529780840075,
-        "make_cut": 0.3797,
+        "win": 0.0014333333333333,
+        "top_5": 0.0088753769841269,
+        "top_10": 0.0213157756132756,
+        "top_20": 0.0553896514174823,
+        "make_cut": 0.3806,
         "dg_id": 25475
       },
-      "Cameron Champ": {
-        "win": 0.0012166666666666,
-        "top_5": 0.0082511497761497,
-        "top_10": 0.0195133308358308,
-        "top_20": 0.0486404062114356,
-        "make_cut": 0.354566666666667,
-        "dg_id": 23542
+      "David Skinns": {
+        "win": 0.0014,
+        "top_5": 0.0111863756613757,
+        "top_10": 0.0268944757094757,
+        "top_20": 0.0685320369214119,
+        "make_cut": 0.415783333333333,
+        "dg_id": 10873
       },
-      "Adam Schenk": {
-        "win": 0.0012,
-        "top_5": 0.0094806547619047,
-        "top_10": 0.0226900757575758,
-        "top_20": 0.057769277019277,
-        "make_cut": 0.3809,
-        "dg_id": 19477
-      },
-      "Jeffrey Kang": {
-        "win": 0.0011833333333333,
-        "top_5": 0.0073465079365079,
-        "top_10": 0.0188267135642136,
-        "top_20": 0.0498700893550894,
-        "make_cut": 0.368316666666667,
-        "dg_id": 21889
-      },
-      "Brian Campbell": {
-        "win": 0.0011666666666666,
-        "top_5": 0.010016369047619,
-        "top_10": 0.0256863687701188,
-        "top_20": 0.0666703629676424,
-        "make_cut": 0.423433333333333,
-        "dg_id": 18628
+      "John Vanderlaan": {
+        "win": 0.0014,
+        "top_5": 0.0095298412698412,
+        "top_10": 0.0243855943130943,
+        "top_20": 0.062720664035039,
+        "make_cut": 0.3913,
+        "dg_id": 25319
       },
       "Kevin Streelman": {
-        "win": 0.0011333333333333,
-        "top_5": 0.0094563107263107,
-        "top_10": 0.0235234235209235,
-        "top_20": 0.0604041096172346,
-        "make_cut": 0.393033333333333,
+        "win": 0.0012833333333333,
+        "top_5": 0.0095941534391534,
+        "top_10": 0.0238432182632183,
+        "top_20": 0.0608291332510082,
+        "make_cut": 0.39215,
         "dg_id": 8480
       },
+      "Noah Goodwin": {
+        "win": 0.00115,
+        "top_5": 0.0099355224867724,
+        "top_10": 0.0251074494949495,
+        "top_20": 0.0653823716329966,
+        "make_cut": 0.4178,
+        "dg_id": 24837
+      },
+      "Adam Schenk": {
+        "win": 0.00115,
+        "top_5": 0.009253115079365,
+        "top_10": 0.023308253968254,
+        "top_20": 0.0587950890775891,
+        "make_cut": 0.3826,
+        "dg_id": 19477
+      },
+      "Brian Campbell": {
+        "win": 0.0011166666666666,
+        "top_5": 0.0097315674603174,
+        "top_10": 0.0254096331908832,
+        "top_20": 0.0664988970520221,
+        "make_cut": 0.42845,
+        "dg_id": 18628
+      },
       "Justin Lower": {
-        "win": 0.0011333333333333,
-        "top_5": 0.0082834126984127,
-        "top_10": 0.021506654040404,
-        "top_20": 0.0551890675528176,
-        "make_cut": 0.3871,
+        "win": 0.0011,
+        "top_5": 0.0083434523809523,
+        "top_10": 0.021345291005291,
+        "top_20": 0.055173894022644,
+        "make_cut": 0.391683333333333,
         "dg_id": 17723
       },
       "Marcelo Rozo": {
-        "win": 0.0010833333333333,
-        "top_5": 0.0083592592592592,
-        "top_10": 0.020353388047138,
-        "top_20": 0.0542880342329239,
-        "make_cut": 0.386266666666667,
+        "win": 0.0010666666666666,
+        "top_5": 0.0073203571428571,
+        "top_10": 0.0193177298164798,
+        "top_20": 0.0524796969465719,
+        "make_cut": 0.381016666666667,
         "dg_id": 16591
       },
-      "Davis Chatfield": {
-        "win": 0.0010666666666666,
-        "top_5": 0.00765889009139,
-        "top_10": 0.020110860990861,
-        "top_20": 0.055288788965664,
-        "make_cut": 0.3971,
-        "dg_id": 30620
-      },
       "Ben Silverman": {
-        "win": 0.0010333333333333,
-        "top_5": 0.0091176996151996,
-        "top_10": 0.023078544973545,
-        "top_20": 0.0622226365029306,
-        "make_cut": 0.408433333333333,
+        "win": 0.00105,
+        "top_5": 0.0090558796296296,
+        "top_10": 0.0237869478206978,
+        "top_20": 0.064798927970178,
+        "make_cut": 0.417233333333333,
         "dg_id": 17381
+      },
+      "Cameron Champ": {
+        "win": 0.0010333333333333,
+        "top_5": 0.0076037037037037,
+        "top_10": 0.0187577286602287,
+        "top_20": 0.0490626641645392,
+        "make_cut": 0.3586,
+        "dg_id": 23542
       },
       "Martin Laird": {
         "win": 0.0010166666666666,
-        "top_5": 0.0067049338624338,
-        "top_10": 0.0171305977818478,
-        "top_20": 0.0478700326294076,
-        "make_cut": 0.36435,
+        "top_5": 0.0066419246031746,
+        "top_10": 0.0174896669071669,
+        "top_20": 0.0477310418747919,
+        "make_cut": 0.367166666666667,
         "dg_id": 9586
       },
-      "Joe Highsmith": {
-        "win": 0.001,
-        "top_5": 0.0070210978835978,
-        "top_10": 0.0172955952380952,
-        "top_20": 0.0454687151043401,
-        "make_cut": 0.356133333333333,
-        "dg_id": 28469
-      },
       "Danny Walker": {
-        "win": 0.0008833333333333,
-        "top_5": 0.0065826521164021,
-        "top_10": 0.0159900835275835,
-        "top_20": 0.0412149302086802,
-        "make_cut": 0.345716666666667,
+        "win": 0.0009833333333333,
+        "top_5": 0.0064687169312169,
+        "top_10": 0.0166653613516114,
+        "top_20": 0.042790819042069,
+        "make_cut": 0.339166666666667,
         "dg_id": 25003
       },
-      "Troy Merritt": {
-        "win": 0.0008333333333333,
-        "top_5": 0.0067024206349206,
-        "top_10": 0.0177819305694306,
-        "top_20": 0.0474898439060939,
-        "make_cut": 0.367316666666667,
-        "dg_id": 13367
+      "Paul Peterson": {
+        "win": 0.0009,
+        "top_5": 0.0095438029100529,
+        "top_10": 0.0261418951418951,
+        "top_20": 0.0696654411329411,
+        "make_cut": 0.436433333333333,
+        "dg_id": 16341
       },
-      "Davis Riley": {
-        "win": 0.0007333333333333,
-        "top_5": 0.0052175595238095,
-        "top_10": 0.0121991348003848,
-        "top_20": 0.0326149786787287,
-        "make_cut": 0.307033333333333,
-        "dg_id": 19872
+      "Jeffrey Kang": {
+        "win": 0.0008833333333333,
+        "top_5": 0.0072489285714285,
+        "top_10": 0.0182372542735043,
+        "top_20": 0.0492638573463573,
+        "make_cut": 0.365383333333333,
+        "dg_id": 21889
       },
-      "Luke List": {
-        "win": 0.0006833333333333,
-        "top_5": 0.005717904040404,
-        "top_10": 0.0146996272246272,
-        "top_20": 0.0394812163517311,
-        "make_cut": 0.333483333333333,
-        "dg_id": 7960
-      },
-      "Peter Malnati": {
-        "win": 0.00065,
-        "top_5": 0.0049338888888888,
-        "top_10": 0.0123216077441077,
-        "top_20": 0.0334699608493359,
-        "make_cut": 0.319583333333333,
-        "dg_id": 14926
-      },
-      "Nick Hardy": {
-        "win": 0.0005833333333333,
-        "top_5": 0.0061615343915343,
-        "top_10": 0.0161687177174677,
-        "top_20": 0.0456400538486568,
-        "make_cut": 0.359833333333333,
-        "dg_id": 19865
+      "Joe Highsmith": {
+        "win": 0.0008666666666666,
+        "top_5": 0.0066240211640211,
+        "top_10": 0.0178226436988937,
+        "top_20": 0.0459090545565546,
+        "make_cut": 0.357766666666667,
+        "dg_id": 28469
       },
       "Jeremy Paul": {
-        "win": 0.0005666666666666,
-        "top_5": 0.0054700859788359,
-        "top_10": 0.0144022234247234,
-        "top_20": 0.0397995684870685,
-        "make_cut": 0.338633333333333,
+        "win": 0.00085,
+        "top_5": 0.0053626984126984,
+        "top_10": 0.0136668650793651,
+        "top_20": 0.0375403289303289,
+        "make_cut": 0.332783333333333,
         "dg_id": 22087
       },
+      "Troy Merritt": {
+        "win": 0.0007833333333333,
+        "top_5": 0.0064801587301587,
+        "top_10": 0.0179765355940356,
+        "top_20": 0.0483207391682392,
+        "make_cut": 0.370183333333333,
+        "dg_id": 13367
+      },
+      "Davis Chatfield": {
+        "win": 0.0007166666666666,
+        "top_5": 0.0070487169312169,
+        "top_10": 0.0188783170995671,
+        "top_20": 0.0517452479464979,
+        "make_cut": 0.386233333333333,
+        "dg_id": 30620
+      },
+      "Nick Hardy": {
+        "win": 0.0007166666666666,
+        "top_5": 0.0060932208994709,
+        "top_10": 0.0159357246457246,
+        "top_20": 0.0441110732091982,
+        "make_cut": 0.355416666666667,
+        "dg_id": 19865
+      },
       "Christo Lamprecht": {
-        "win": 0.0005666666666666,
-        "top_5": 0.0056057208994709,
-        "top_10": 0.0141666215728716,
-        "top_20": 0.038532327996078,
-        "make_cut": 0.329233333333333,
+        "win": 0.0006666666666666,
+        "top_5": 0.0052829166666666,
+        "top_10": 0.0147050294612795,
+        "top_20": 0.0383185553798054,
+        "make_cut": 0.323516666666667,
         "dg_id": 24343
       },
       "Mason Howell": {
-        "win": 0.0005333333333333,
-        "top_5": 0.0030893177655677,
-        "top_10": 0.0083535623173123,
-        "top_20": 0.0251624100899101,
-        "make_cut": 0.27545,
+        "win": 0.00065,
+        "top_5": 0.003709246031746,
+        "top_10": 0.0090789826839826,
+        "top_20": 0.0254571782153032,
+        "make_cut": 0.271383333333333,
         "dg_id": 33759
       },
+      "Luke List": {
+        "win": 0.00065,
+        "top_5": 0.0062207804232804,
+        "top_10": 0.0155526787564288,
+        "top_20": 0.0403489741739742,
+        "make_cut": 0.3367,
+        "dg_id": 7960
+      },
+      "Will Gordon": {
+        "win": 0.0006333333333333,
+        "top_5": 0.0050697685185185,
+        "top_10": 0.0129506379268879,
+        "top_20": 0.0355989076201576,
+        "make_cut": 0.322366666666667,
+        "dg_id": 26660
+      },
       "Ryan Voois": {
-        "win": 0.0005166666666666,
-        "top_5": 0.0051194246031746,
-        "top_10": 0.0132587698412698,
-        "top_20": 0.0362693223443223,
-        "make_cut": 0.320366666666667,
+        "win": 0.0006,
+        "top_5": 0.0049470965608465,
+        "top_10": 0.0127888642376142,
+        "top_20": 0.0351683732974542,
+        "make_cut": 0.316083333333333,
         "dg_id": 35545
       },
-      "Gordon Sargent": {
-        "win": 0.0005166666666666,
-        "top_5": 0.0040687506012506,
-        "top_10": 0.0102821404521405,
-        "top_20": 0.0273571602471602,
-        "make_cut": 0.26885,
-        "dg_id": 30814
-      },
-      "Jonathan Byrd": {
-        "win": 0.0004166666666666,
-        "top_5": 0.0033622023809523,
-        "top_10": 0.0098919053631553,
-        "top_20": 0.0285954868742369,
-        "make_cut": 0.295066666666667,
-        "dg_id": 6931
-      },
-      "Patton Kizzire": {
-        "win": 0.0004166666666666,
-        "top_5": 0.0027268055555555,
-        "top_10": 0.0074808934583934,
-        "top_20": 0.0224695771358271,
-        "make_cut": 0.273716666666667,
-        "dg_id": 13470
+      "Peter Malnati": {
+        "win": 0.00055,
+        "top_5": 0.0046310515873015,
+        "top_10": 0.0124346464646465,
+        "top_20": 0.0345642692492692,
+        "make_cut": 0.319216666666667,
+        "dg_id": 14926
       },
       "Camilo Villegas": {
-        "win": 0.0004,
-        "top_5": 0.0043979288766788,
-        "top_10": 0.0118426081326081,
-        "top_20": 0.0351133084970585,
-        "make_cut": 0.325683333333333,
+        "win": 0.0005166666666666,
+        "top_5": 0.0048478306878306,
+        "top_10": 0.0127479250841751,
+        "top_20": 0.0346758587939838,
+        "make_cut": 0.32165,
         "dg_id": 9171
       },
+      "Gordon Sargent": {
+        "win": 0.0004833333333333,
+        "top_5": 0.0042194841269841,
+        "top_10": 0.0105108201058201,
+        "top_20": 0.0272816472416472,
+        "make_cut": 0.266366666666667,
+        "dg_id": 30814
+      },
+      "Davis Riley": {
+        "win": 0.0004666666666666,
+        "top_5": 0.0043938095238095,
+        "top_10": 0.0116541127391127,
+        "top_20": 0.0325948491323491,
+        "make_cut": 0.306616666666667,
+        "dg_id": 19872
+      },
+      "Patton Kizzire": {
+        "win": 0.0004,
+        "top_5": 0.0030461706349206,
+        "top_10": 0.0079092809042809,
+        "top_20": 0.0230048852073852,
+        "make_cut": 0.274683333333333,
+        "dg_id": 13470
+      },
       "Michael Feagles": {
-        "win": 0.0003666666666666,
-        "top_5": 0.0030304365079365,
-        "top_10": 0.0079210032560032,
-        "top_20": 0.0232629095210345,
-        "make_cut": 0.26525,
+        "win": 0.0003833333333333,
+        "top_5": 0.0029451322751322,
+        "top_10": 0.0075084962722462,
+        "top_20": 0.0220323468660969,
+        "make_cut": 0.262583333333333,
         "dg_id": 26656
       },
-      "Nicholas Lindheim": {
-        "win": 0.0003666666666666,
-        "top_5": 0.0029614947089947,
-        "top_10": 0.0079169179894179,
-        "top_20": 0.0233390663965664,
-        "make_cut": 0.271166666666667,
-        "dg_id": 16713
+      "Augusto Nunez": {
+        "win": 0.0003833333333333,
+        "top_5": 0.0029651785714285,
+        "top_10": 0.0080505867743367,
+        "top_20": 0.0231970063501314,
+        "make_cut": 0.2725,
+        "dg_id": 16796
       },
-      "Aaron Wise": {
-        "win": 0.00035,
-        "top_5": 0.0028215277777777,
-        "top_10": 0.0070436682299182,
-        "top_20": 0.0198638727938728,
-        "make_cut": 0.24695,
-        "dg_id": 22051
+      "Nicholas Lindheim": {
+        "win": 0.0003,
+        "top_5": 0.0028657407407407,
+        "top_10": 0.0081695707070707,
+        "top_20": 0.0225571762768822,
+        "make_cut": 0.265066666666667,
+        "dg_id": 16713
       },
       "Luke Gutschewski": {
         "win": 0.0003,
-        "top_5": 0.003244742063492,
-        "top_10": 0.0090729912217412,
-        "top_20": 0.0262884385984386,
-        "make_cut": 0.285566666666667,
+        "top_5": 0.0032674801587301,
+        "top_10": 0.0088191193528693,
+        "top_20": 0.0265046123783624,
+        "make_cut": 0.279316666666667,
         "dg_id": 32683
       },
-      "Ben Martin": {
-        "win": 0.0002666666666666,
-        "top_5": 0.0027360714285714,
-        "top_10": 0.0080690355940355,
-        "top_20": 0.0253251120869871,
-        "make_cut": 0.2897,
-        "dg_id": 14007
-      },
-      "Ryan Brehm": {
-        "win": 0.00025,
-        "top_5": 0.0019225,
-        "top_10": 0.0051446987734487,
-        "top_20": 0.0156818117204147,
-        "make_cut": 0.222433333333333,
-        "dg_id": 10423
-      },
-      "Augusto Nunez": {
-        "win": 0.00025,
-        "top_5": 0.0030125,
-        "top_10": 0.0082636787749287,
-        "top_20": 0.0241742444592445,
-        "make_cut": 0.278283333333333,
-        "dg_id": 16796
+      "Jonathan Byrd": {
+        "win": 0.0002833333333333,
+        "top_5": 0.0032591865079365,
+        "top_10": 0.0097335281385281,
+        "top_20": 0.0287157862970363,
+        "make_cut": 0.302866666666667,
+        "dg_id": 6931
       },
       "Rafael Campos": {
-        "win": 0.0002,
-        "top_5": 0.0019075925925925,
-        "top_10": 0.0055249891774891,
-        "top_20": 0.0163365543470691,
-        "make_cut": 0.239983333333333,
+        "win": 0.0002333333333333,
+        "top_5": 0.0019130621693121,
+        "top_10": 0.0058347015484515,
+        "top_20": 0.0179192717467717,
+        "make_cut": 0.247933333333333,
         "dg_id": 12909
       },
+      "Ben Martin": {
+        "win": 0.0002333333333333,
+        "top_5": 0.0030628306878306,
+        "top_10": 0.0084416534391534,
+        "top_20": 0.0259439497076997,
+        "make_cut": 0.290966666666667,
+        "dg_id": 14007
+      },
+      "Aaron Wise": {
+        "win": 0.0002333333333333,
+        "top_5": 0.0023857142857142,
+        "top_10": 0.0067962367724867,
+        "top_20": 0.020169146158852,
+        "make_cut": 0.244716666666667,
+        "dg_id": 22051
+      },
+      "Ryan Brehm": {
+        "win": 0.0002,
+        "top_5": 0.0020044444444444,
+        "top_10": 0.0053179741554741,
+        "top_20": 0.0161676963314463,
+        "make_cut": 0.2301,
+        "dg_id": 10423
+      },
       "Robert Streb": {
-        "win": 6.66666666666667e-05,
-        "top_5": 0.0007879828042328,
-        "top_10": 0.0027344312169312,
-        "top_20": 0.0095643734411013,
-        "make_cut": 0.188916666666667,
+        "win": 0.0001333333333333,
+        "top_5": 0.0013155952380952,
+        "top_10": 0.0032973094035594,
+        "top_20": 0.0106592657805158,
+        "make_cut": 0.190516666666667,
         "dg_id": 14852
       },
       "Brendon Todd": {
         "win": 5e-05,
-        "top_5": 0.0006250925925925,
-        "top_10": 0.0019405224867724,
-        "top_20": 0.0064524979649979,
-        "make_cut": 0.169716666666667,
+        "top_5": 0.0005697817460317,
+        "top_10": 0.001763373015873,
+        "top_20": 0.0068401058201058,
+        "make_cut": 0.174816666666667,
         "dg_id": 12425
       },
       "Darin Fisher": {
-        "win": 1.66666666666667e-05,
-        "top_5": 2.5e-05,
-        "top_10": 7.04761904761905e-05,
-        "top_20": 0.0003217526455026,
-        "make_cut": 0.0352666666666667,
+        "win": 0.0,
+        "top_5": 5.13888888888889e-05,
+        "top_10": 0.0001277777777777,
+        "top_20": 0.0003514484126984,
+        "make_cut": 0.0361166666666667,
         "dg_id": 23709
       },
       "Patrick Adler": {
-        "win": 1.66666666666667e-05,
-        "top_5": 9.83333333333334e-05,
-        "top_10": 0.0004386904761904,
-        "top_20": 0.001526687016687,
-        "make_cut": 0.0661166666666667,
+        "win": 0.0,
+        "top_5": 0.0002208333333333,
+        "top_10": 0.0005864285714285,
+        "top_20": 0.0016090909090909,
+        "make_cut": 0.0648,
         "dg_id": 30033853
       }
     },
-    "last_updated": "2026-06-30T11:59:24.775098-04:00"
+    "last_updated": "2026-06-30T19:18:25.889090-04:00"
   },
   "skill_ratings": {
     "by_player": {
@@ -10172,11 +12908,11 @@
         "player_name": "Martin Trainer"
       }
     },
-    "last_updated": "2026-06-30T11:59:24.775043-04:00"
+    "last_updated": "2026-06-30T19:18:25.889026-04:00"
   },
   "approach_skill": {
     "by_player": {},
-    "last_updated": "2026-06-30T11:59:24.775072-04:00"
+    "last_updated": "2026-06-30T19:18:25.889062-04:00"
   },
   "course_history": {
     "by_player": {}
@@ -10423,32 +13159,32 @@
       {
         "player": "Ben Griffin",
         "odds": "+5000",
-        "edge": 0.0333,
-        "note": "DG: 5.3% | Market: 2.0% | Edge: +3.3%"
+        "edge": 0.0321,
+        "note": "DG: 5.2% | Market: 2.0% | Edge: +3.2%"
       },
       {
         "player": "Keith Mitchell",
         "odds": "+15000",
-        "edge": 0.0287,
-        "note": "DG: 3.5% | Market: 0.7% | Edge: +2.9%"
+        "edge": 0.029,
+        "note": "DG: 3.6% | Market: 0.7% | Edge: +2.9%"
       },
       {
         "player": "Keegan Bradley",
         "odds": "+11000",
-        "edge": 0.0248,
-        "note": "DG: 3.4% | Market: 0.9% | Edge: +2.5%"
+        "edge": 0.0259,
+        "note": "DG: 3.5% | Market: 0.9% | Edge: +2.6%"
       },
       {
         "player": "J.T. Poston",
         "odds": "+15000",
-        "edge": 0.0185,
-        "note": "DG: 2.5% | Market: 0.7% | Edge: +1.8%"
+        "edge": 0.0188,
+        "note": "DG: 2.5% | Market: 0.7% | Edge: +1.9%"
       },
       {
         "player": "Ryo Hisatsune",
         "odds": "+45000",
-        "edge": 0.0178,
-        "note": "DG: 2.0% | Market: 0.2% | Edge: +1.8%"
+        "edge": 0.0183,
+        "note": "DG: 2.1% | Market: 0.2% | Edge: +1.8%"
       },
       {
         "player": "Jacob Bridgeman",
@@ -10457,58 +13193,58 @@
         "note": "DG: 2.7% | Market: 1.0% | Edge: +1.7%"
       },
       {
-        "player": "Eric Cole",
-        "odds": "+30000",
-        "edge": 0.0162,
-        "note": "DG: 1.9% | Market: 0.3% | Edge: +1.6%"
-      },
-      {
         "player": "Andrew Novak",
         "odds": "+18000",
-        "edge": 0.0156,
-        "note": "DG: 2.1% | Market: 0.5% | Edge: +1.6%"
+        "edge": 0.0161,
+        "note": "DG: 2.2% | Market: 0.5% | Edge: +1.6%"
+      },
+      {
+        "player": "Eric Cole",
+        "odds": "+30000",
+        "edge": 0.0148,
+        "note": "DG: 1.8% | Market: 0.3% | Edge: +1.5%"
       },
       {
         "player": "Rickie Fowler",
         "odds": "+17000",
-        "edge": 0.0144,
-        "note": "DG: 2.0% | Market: 0.6% | Edge: +1.4%"
+        "edge": 0.0146,
+        "note": "DG: 2.0% | Market: 0.6% | Edge: +1.5%"
       },
       {
         "player": "Matt Wallace",
         "odds": "+40000",
-        "edge": 0.0128,
-        "note": "DG: 1.5% | Market: 0.2% | Edge: +1.3%"
-      },
-      {
-        "player": "Michael Kim",
-        "odds": "+15000",
-        "edge": 0.0097,
-        "note": "DG: 1.6% | Market: 0.7% | Edge: +1.0%"
+        "edge": 0.0121,
+        "note": "DG: 1.5% | Market: 0.2% | Edge: +1.2%"
       },
       {
         "player": "Max Greyserman",
         "odds": "+20000",
-        "edge": 0.0096,
+        "edge": 0.0103,
         "note": "DG: 1.5% | Market: 0.5% | Edge: +1.0%"
+      },
+      {
+        "player": "Michael Kim",
+        "odds": "+15000",
+        "edge": 0.01,
+        "note": "DG: 1.7% | Market: 0.7% | Edge: +1.0%"
       },
       {
         "player": "Davis Thompson",
         "odds": "+17000",
-        "edge": 0.0073,
+        "edge": 0.0072,
         "note": "DG: 1.3% | Market: 0.6% | Edge: +0.7%"
-      },
-      {
-        "player": "Jordan Spieth",
-        "odds": "+5000",
-        "edge": 0.0068,
-        "note": "DG: 2.6% | Market: 2.0% | Edge: +0.7%"
       },
       {
         "player": "Christiaan Bezuidenhout",
         "odds": "+36000",
+        "edge": 0.0068,
+        "note": "DG: 1.0% | Market: 0.3% | Edge: +0.7%"
+      },
+      {
+        "player": "Jordan Spieth",
+        "odds": "+5000",
         "edge": 0.0066,
-        "note": "DG: 0.9% | Market: 0.3% | Edge: +0.7%"
+        "note": "DG: 2.6% | Market: 2.0% | Edge: +0.7%"
       }
     ],
     "tiers": {
@@ -10888,7 +13624,8 @@
       "No DG odds returned at 2026-06-29T09:58:29.129048-04:00",
       "No DG odds returned at 2026-06-29T12:49:55.903024-04:00",
       "No DG odds returned at 2026-06-29T20:02:46.886629-04:00",
-      "No DG odds returned at 2026-06-30T11:59:24.853977-04:00"
+      "No DG odds returned at 2026-06-30T11:59:24.853977-04:00",
+      "No DG odds returned at 2026-06-30T19:18:25.999907-04:00"
     ],
     "analysis_uncertainties": [
       "[Claude] > ⚠️ **CRITICAL DATA FLAG — READ BEFORE ANYTHING ELSE**",
@@ -13092,6 +15829,13 @@
     },
     {
       "time": "2026-06-30T11:59:24.854887-04:00",
+      "run_type": "manual",
+      "status": "complete",
+      "field_size": 144,
+      "odds_players": 113
+    },
+    {
+      "time": "2026-06-30T19:18:26.000812-04:00",
       "run_type": "manual",
       "status": "complete",
       "field_size": 144,
